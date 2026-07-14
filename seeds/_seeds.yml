@@ -1,0 +1,497 @@
+version: 2
+
+seeds:
+  - name: ad_farmers
+    description: >
+      Farmers extracted from AD, AgDigital's port of data from a legacy system
+      restructured into a modern schema. Full snapshot; source columns are
+      preserved as-is. See context/source_data_dictionary.md.
+    config:
+      column_types:
+        farmer_id: varchar
+        farmer_name: varchar
+        status: varchar
+        is_test: boolean
+        country_code: varchar
+        enterprise_id: varchar
+        created_at: timestamp
+        updated_at: timestamp
+    columns:
+      - name: farmer_id
+        description: AD native primary key for the farmer.
+        data_tests:
+          - unique
+          - not_null
+      - name: farmer_name
+        description: Farmer name.
+      - name: status
+        description: "Record status. Values observed: active, inactive, archived."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [active, inactive, archived]
+      - name: is_test
+        description: "`true` if the record was created for testing purposes during the port."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [true, false]
+              quote: false
+      - name: country_code
+        description: Country, ISO 3166-1 alpha-3 code.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [USA, CAN]
+      - name: enterprise_id
+        description: Enterprise ID of the farmer.
+        data_tests:
+          - unique
+      - name: created_at
+        description: Timestamp the record was created in AD.
+      - name: updated_at
+        description: Timestamp the record was last updated.
+
+  - name: ad_farms
+    description: >
+      Farms extracted from AD, AgDigital's port of data from a legacy system
+      restructured into a modern schema. Full snapshot; source columns are
+      preserved as-is. See context/source_data_dictionary.md.
+    config:
+      column_types:
+        farm_id: varchar
+        farmer_id: varchar
+        farm_name: varchar
+        status: varchar
+        is_test: boolean
+        country_code: varchar
+        enterprise_id: varchar
+        created_at: timestamp
+        updated_at: timestamp
+    columns:
+      - name: farm_id
+        description: AD native primary key for the farm.
+        data_tests:
+          - unique
+          - not_null
+      - name: farmer_id
+        description: Farmer that the farm belongs to. References ad_farmers.farmer_id.
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('ad_farmers')
+              field: farmer_id
+      - name: farm_name
+        description: Farm name.
+      - name: status
+        description: "Record status. Values observed: active, inactive, archived."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [active, inactive, archived]
+      - name: is_test
+        description: "`true` if the record was created for testing purposes during the port."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [true, false]
+              quote: false
+      - name: country_code
+        description: Country, ISO 3166-1 alpha-3 code.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [USA, CAN]
+      - name: enterprise_id
+        description: Enterprise ID of the farm.
+        data_tests:
+          - unique
+      - name: created_at
+        description: Timestamp the record was created in AD.
+      - name: updated_at
+        description: Timestamp the record was last updated.
+
+  - name: ad_fields
+    description: >
+      Fields extracted from AD, AgDigital's port of data from a legacy system
+      restructured into a modern schema. Full snapshot; source columns are
+      preserved as-is. Fields carry no country_code (country is a property of
+      the farm). See context/source_data_dictionary.md.
+    config:
+      column_types:
+        field_id: varchar
+        farm_id: varchar
+        field_name: varchar
+        status: varchar
+        is_test: boolean
+        area_ha: double
+        enterprise_id: varchar
+        created_at: timestamp
+        updated_at: timestamp
+    columns:
+      - name: field_id
+        description: AD native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: farm_id
+        description: Farm that the field belongs to. References ad_farms.farm_id.
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('ad_farms')
+              field: farm_id
+      - name: field_name
+        description: Field name.
+      - name: status
+        description: "Record status. Values observed: active, inactive, archived."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [active, inactive, archived]
+      - name: is_test
+        description: "`true` if the record was created for testing purposes during the port."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [true, false]
+              quote: false
+      - name: area_ha
+        description: Field area in hectares.
+      - name: enterprise_id
+        description: Enterprise ID of the field.
+        data_tests:
+          - unique
+      - name: created_at
+        description: Timestamp the record was created in AD.
+      - name: updated_at
+        description: Timestamp the record was last updated.
+
+  - name: bst_growers
+    description: >
+      Growers (BST's term for farmers) from BST, AgTel's primary
+      consultant-facing system. Full snapshot; legacy source columns preserved
+      as-is. See context/source_data_dictionary.md.
+    config:
+      column_types:
+        grower_id: integer
+        grower_nm: varchar
+        stat_cd: varchar
+        country: varchar
+        state_prov: varchar
+        entrpr_guid: varchar
+        crt_dt: date
+        upd_dt: date
+    columns:
+      - name: grower_id
+        description: BST native primary key for the grower.
+        data_tests:
+          - unique
+          - not_null
+      - name: grower_nm
+        description: Grower name.
+      - name: stat_cd
+        description: "Record status code. Values observed: A, I, P."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [A, I, P]
+      - name: country
+        description: Country, stored as full name.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["United States", "Canada", "Australia"]
+      - name: state_prov
+        description: State or province.
+      - name: entrpr_guid
+        description: Enterprise ID of the grower. Populated when the record has been through enterprise assignment.
+        data_tests:
+          - unique
+      - name: crt_dt
+        description: Date the record was created in BST.
+      - name: upd_dt
+        description: Date the record was last updated.
+
+  - name: bst_farms
+    description: >
+      Farms from BST, AgTel's primary consultant-facing system. Full snapshot;
+      legacy source columns preserved as-is. See context/source_data_dictionary.md.
+    config:
+      column_types:
+        farm_id: integer
+        grower_id: integer
+        farm_nm: varchar
+        stat_cd: varchar
+        country: varchar
+        state_prov: varchar
+        entrpr_guid: varchar
+        crt_dt: date
+        upd_dt: date
+    columns:
+      - name: farm_id
+        description: BST native primary key for the farm.
+        data_tests:
+          - unique
+          - not_null
+      - name: grower_id
+        description: BST grower that the farm belongs to. References bst_growers.grower_id.
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('bst_growers')
+              field: grower_id
+      - name: farm_nm
+        description: Farm name.
+      - name: stat_cd
+        description: "Record status code. Values observed: A, I, P."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [A, I, P]
+      - name: country
+        description: Country, stored as full name.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["United States", "Canada", "Australia"]
+      - name: state_prov
+        description: State or province.
+      - name: entrpr_guid
+        description: Enterprise ID of the farm.
+        data_tests:
+          - unique
+      - name: crt_dt
+        description: Date the record was created in BST.
+      - name: upd_dt
+        description: Date the record was last updated.
+
+  - name: bst_fields
+    description: >
+      Fields from BST, AgTel's primary consultant-facing system. Full snapshot;
+      legacy source columns preserved as-is. See context/source_data_dictionary.md.
+    config:
+      column_types:
+        field_id: integer
+        farm_id: integer
+        field_nm: varchar
+        stat_cd: varchar
+        field_use_cd: varchar
+        acres: double
+        country: varchar
+        entrpr_guid: varchar
+        crt_dt: date
+        upd_dt: date
+    columns:
+      - name: field_id
+        description: BST native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: farm_id
+        description: BST farm that the field belongs to. References bst_farms.farm_id.
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('bst_farms')
+              field: farm_id
+      - name: field_nm
+        description: Field name as entered by the consultant or grower.
+      - name: stat_cd
+        description: "Record status code. Values observed: A, I, P."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [A, I, P]
+      - name: field_use_cd
+        description: "Field use code. Values observed: PROD, TRIAL."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [PROD, TRIAL]
+      - name: acres
+        description: Field area in acres.
+      - name: country
+        description: Country, stored as full name.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["United States", "Canada", "Australia"]
+      - name: entrpr_guid
+        description: Enterprise ID of the field.
+        data_tests:
+          - unique
+      - name: crt_dt
+        description: Date the record was created in BST.
+      - name: upd_dt
+        description: Date the record was last updated.
+
+  - name: ZAGT_PARTNER
+    description: >
+      Business partners (SAP's model for farmers) from SAP, AgTel's ERP. Custom
+      ZAGT_ master-data table; SAP column names preserved as-is. Weekly full
+      snapshot. See context/source_data_dictionary.md.
+    config:
+      column_types:
+        PARTNER_ID: varchar
+        NAME1: varchar
+        PARTNER_TYPE: varchar
+        LAND1: varchar
+        REGIO: varchar
+        ZZSTAT: varchar
+        LOEVM: varchar
+        ZZEID: varchar
+        ERDAT: date
+    columns:
+      - name: PARTNER_ID
+        description: SAP native key for the business partner.
+        data_tests:
+          - unique
+          - not_null
+      - name: NAME1
+        description: Partner name.
+      - name: PARTNER_TYPE
+        description: "Partner type code. Values observed: C, P."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [C, P]
+      - name: LAND1
+        description: Country, ISO 3166-1 alpha-2 code.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [US, CA, BR]
+      - name: REGIO
+        description: Region code (state/province) within the country.
+      - name: ZZSTAT
+        description: "Partner lifecycle status code. Values observed: 01, 02, 03."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["01", "02", "03"]
+      - name: LOEVM
+        description: Deletion flag. X if the record is flagged for deletion, blank otherwise.
+        data_tests:
+          - accepted_values:
+              values: ["X"]
+      - name: ZZEID
+        description: Enterprise ID of the partner.
+        data_tests:
+          - unique
+      - name: ERDAT
+        description: Date the record was created in SAP.
+
+  - name: ZAGT_FARM
+    description: >
+      Farms from SAP, AgTel's ERP. Custom ZAGT_ master-data table; SAP column
+      names preserved as-is. Weekly full snapshot. See
+      context/source_data_dictionary.md.
+    config:
+      column_types:
+        FARM_ID: varchar
+        PARTNER_ID: varchar
+        FARM_DESC: varchar
+        LAND1: varchar
+        REGIO: varchar
+        ZZSTAT: varchar
+        LOEVM: varchar
+        ZZEID: varchar
+        ERDAT: date
+    columns:
+      - name: FARM_ID
+        description: SAP native key for the farm.
+        data_tests:
+          - unique
+          - not_null
+      - name: PARTNER_ID
+        description: Business partner that the farm belongs to. References ZAGT_PARTNER.PARTNER_ID.
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('ZAGT_PARTNER')
+              field: PARTNER_ID
+      - name: FARM_DESC
+        description: Farm description.
+      - name: LAND1
+        description: Country, ISO 3166-1 alpha-2 code.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [US, CA, BR]
+      - name: REGIO
+        description: Region code within the country.
+      - name: ZZSTAT
+        description: "Farm lifecycle status code. Values observed: 01, 02, 03."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["01", "02", "03"]
+      - name: LOEVM
+        description: Deletion flag. X if the record is flagged for deletion, blank otherwise.
+        data_tests:
+          - accepted_values:
+              values: ["X"]
+      - name: ZZEID
+        description: Enterprise ID of the farm.
+        data_tests:
+          - unique
+      - name: ERDAT
+        description: Date the record was created in SAP.
+
+  - name: ZAGT_PLOT
+    description: >
+      Plots (SAP's term for fields) from SAP, AgTel's ERP. Custom ZAGT_
+      master-data table; SAP column names preserved as-is. Weekly full snapshot.
+      See context/source_data_dictionary.md.
+    config:
+      column_types:
+        PLOT_ID: varchar
+        FARM_ID: varchar
+        PLOT_DESC: varchar
+        AREA_HA: double
+        LAND1: varchar
+        ZZSTAT: varchar
+        LOEVM: varchar
+        ZZEID: varchar
+        ERDAT: date
+    columns:
+      - name: PLOT_ID
+        description: SAP native key for the plot.
+        data_tests:
+          - unique
+          - not_null
+      - name: FARM_ID
+        description: Farm that the plot belongs to. References ZAGT_FARM.FARM_ID.
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('ZAGT_FARM')
+              field: FARM_ID
+      - name: PLOT_DESC
+        description: Plot description.
+      - name: AREA_HA
+        description: Plot area in hectares.
+      - name: LAND1
+        description: Country, ISO 3166-1 alpha-2 code.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [US, CA, BR]
+      - name: ZZSTAT
+        description: "Plot lifecycle status code. Values observed: 01, 02, 03."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["01", "02", "03"]
+      - name: LOEVM
+        description: Deletion flag. X if the record is flagged for deletion, blank otherwise.
+        data_tests:
+          - accepted_values:
+              values: ["X"]
+      - name: ZZEID
+        description: Enterprise ID of the plot.
+        data_tests:
+          - unique
+      - name: ERDAT
+        description: Date the record was created in SAP.

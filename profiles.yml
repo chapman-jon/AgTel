@@ -1,0 +1,9 @@
+agtel:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      # Relative to the project root (where you invoke dbt), so the database
+      # file lives at the top of this repo.
+      path: agtel.duckdb
+      threads: 4

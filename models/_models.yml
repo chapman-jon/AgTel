@@ -1,0 +1,322 @@
+version: 2
+
+models:
+  - name: ad_active_farmers
+    description: >
+      AD farmers filtered to is_test = false and status = active.
+    columns:
+      - name: farmer_id
+        description: AD native primary key for the farmer.
+        data_tests:
+          - unique
+          - not_null
+      - name: is_test
+        description: "`true` if the record was created for testing purposes during the port."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [false]
+              quote: false
+      - name: status
+        description: "Record status."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [active]
+
+  - name: ad_active_farms
+    description: >
+      AD farms filtered to is_test = false and status = active.
+    columns:
+      - name: farm_id
+        description: AD native primary key for the farm.
+        data_tests:
+          - unique
+          - not_null
+      - name: is_test
+        description: "`true` if the record was created for testing purposes during the port."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [false]
+              quote: false
+      - name: status
+        description: "Record status."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [active]
+
+  - name: ad_active_fields
+    description: >
+      AD fields filtered to is_test = false and status = active.
+    columns:
+      - name: field_id
+        description: AD native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: is_test
+        description: "`true` if the record was created for testing purposes during the port."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [false]
+              quote: false
+      - name: status
+        description: "Record status."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [active]
+
+  - name: bst_active_growers
+    description: >
+      BST growers filtered to stat_cd = 'A' (active) in the United States and
+      Canada (excludes BST-only Australia). BST has no test-record flag.
+    columns:
+      - name: grower_id
+        description: BST native primary key for the grower.
+        data_tests:
+          - unique
+          - not_null
+      - name: stat_cd
+        description: "Record status code."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [A]
+      - name: country
+        description: Country, stored as full name.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["United States", "Canada"]
+
+  - name: bst_active_farms
+    description: >
+      BST farms filtered to stat_cd = 'A' (active) in the United States and
+      Canada (excludes BST-only Australia).
+    columns:
+      - name: farm_id
+        description: BST native primary key for the farm.
+        data_tests:
+          - unique
+          - not_null
+      - name: stat_cd
+        description: "Record status code."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [A]
+      - name: country
+        description: Country, stored as full name.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["United States", "Canada"]
+
+  - name: bst_active_fields
+    description: >
+      BST fields filtered to stat_cd = 'A' (active), field_use_cd = 'PROD'
+      (production fields, excluding trial plots), in the United States and
+      Canada (excludes BST-only Australia).
+    columns:
+      - name: field_id
+        description: BST native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: stat_cd
+        description: "Record status code."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [A]
+      - name: field_use_cd
+        description: "Field use code."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [PROD]
+      - name: country
+        description: Country, stored as full name.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["United States", "Canada"]
+
+  - name: sap_active_partners
+    description: >
+      SAP partners filtered to ZZSTAT = '02' (active), not flagged for deletion
+      (LOEVM <> 'X'), PARTNER_TYPE = 'C' (customers, excluding prospects), in the
+      US and Canada (excludes SAP-only Brazil).
+    columns:
+      - name: PARTNER_ID
+        description: SAP native key for the business partner.
+        data_tests:
+          - unique
+          - not_null
+      - name: ZZSTAT
+        description: "Partner lifecycle status code."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["02"]
+      - name: PARTNER_TYPE
+        description: "Partner type code."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [C]
+      - name: LAND1
+        description: Country, ISO 3166-1 alpha-2 code.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [US, CA]
+      - name: LOEVM
+        description: Deletion flag; always null here since LOEVM = 'X' rows are excluded.
+        data_tests:
+          - is_null
+
+  - name: sap_active_farms
+    description: >
+      SAP farms filtered to ZZSTAT = '02' (active), not flagged for deletion
+      (LOEVM <> 'X'), in the US and Canada (excludes SAP-only Brazil).
+    columns:
+      - name: FARM_ID
+        description: SAP native key for the farm.
+        data_tests:
+          - unique
+          - not_null
+      - name: ZZSTAT
+        description: "Farm lifecycle status code."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["02"]
+      - name: LAND1
+        description: Country, ISO 3166-1 alpha-2 code.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [US, CA]
+      - name: LOEVM
+        description: Deletion flag; always null here since LOEVM = 'X' rows are excluded.
+        data_tests:
+          - is_null
+
+  - name: sap_active_plots
+    description: >
+      SAP plots filtered to ZZSTAT = '02' (active), not flagged for deletion
+      (LOEVM <> 'X'), in the US and Canada (excludes SAP-only Brazil).
+    columns:
+      - name: PLOT_ID
+        description: SAP native key for the plot.
+        data_tests:
+          - unique
+          - not_null
+      - name: ZZSTAT
+        description: "Plot lifecycle status code."
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ["02"]
+      - name: LAND1
+        description: Country, ISO 3166-1 alpha-2 code.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [US, CA]
+      - name: LOEVM
+        description: Deletion flag; always null here since LOEVM = 'X' rows are excluded.
+        data_tests:
+          - is_null
+
+  - name: ad_joined_fields
+    description: >
+      Active AD fields joined up the hierarchy to their active farm and active
+      farmer (inner joins). One row per active field whose farm and farmer are
+      also active. Carries only the source-system ID and enterprise ID at each
+      level.
+    columns:
+      - name: field_id
+        description: AD native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: field_enterprise_id
+        description: Enterprise ID of the field.
+        data_tests:
+          - unique
+      - name: farm_id
+        description: AD native primary key for the field's farm.
+        data_tests:
+          - not_null
+      - name: farm_enterprise_id
+        description: Enterprise ID of the farm.
+      - name: farmer_id
+        description: AD native primary key for the farm's farmer.
+        data_tests:
+          - not_null
+      - name: farmer_enterprise_id
+        description: Enterprise ID of the farmer.
+
+  - name: bst_joined_fields
+    description: >
+      Active BST fields joined up the hierarchy to their active farm and active
+      grower (inner joins). One row per active field whose farm and grower are
+      also active. Carries only the source-system ID and enterprise ID at each
+      level.
+    columns:
+      - name: field_id
+        description: BST native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: field_enterprise_id
+        description: Enterprise ID of the field.
+        data_tests:
+          - unique
+      - name: farm_id
+        description: BST native primary key for the field's farm.
+        data_tests:
+          - not_null
+      - name: farm_enterprise_id
+        description: Enterprise ID of the farm.
+      - name: grower_id
+        description: BST native primary key for the farm's grower.
+        data_tests:
+          - not_null
+      - name: grower_enterprise_id
+        description: Enterprise ID of the grower.
+
+  - name: sap_joined_plots
+    description: >
+      Active SAP plots joined up the hierarchy to their active farm and active
+      partner (inner joins). One row per active plot whose farm and partner are
+      also active. Carries only the source-system ID and enterprise ID at each
+      level.
+    columns:
+      - name: plot_id
+        description: SAP native key for the plot.
+        data_tests:
+          - unique
+          - not_null
+      - name: plot_enterprise_id
+        description: Enterprise ID of the plot.
+        data_tests:
+          - unique
+      - name: farm_id
+        description: SAP native key for the plot's farm.
+        data_tests:
+          - not_null
+      - name: farm_enterprise_id
+        description: Enterprise ID of the farm.
+      - name: partner_id
+        description: SAP native key for the farm's partner.
+        data_tests:
+          - not_null
+      - name: partner_enterprise_id
+        description: Enterprise ID of the partner.
