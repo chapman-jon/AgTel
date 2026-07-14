@@ -320,3 +320,405 @@ models:
           - not_null
       - name: partner_enterprise_id
         description: Enterprise ID of the partner.
+
+  - name: ad_null_fields
+    description: >
+      Rows from ad_joined_fields where at least one enterprise ID (field, farm,
+      or farmer) is null — i.e. active AD fields that could not be fully matched
+      across systems because an enterprise ID has not yet been assigned at some
+      level of the hierarchy.
+    data_tests:
+      - at_least_one_null:
+          columns: [field_enterprise_id, farm_enterprise_id, farmer_enterprise_id]
+    columns:
+      - name: field_id
+        description: AD native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: field_enterprise_id
+        description: Enterprise ID of the field; may be null.
+      - name: farm_id
+        description: AD native primary key for the field's farm.
+        data_tests:
+          - not_null
+      - name: farm_enterprise_id
+        description: Enterprise ID of the farm; may be null.
+      - name: farmer_id
+        description: AD native primary key for the farm's farmer.
+        data_tests:
+          - not_null
+      - name: farmer_enterprise_id
+        description: Enterprise ID of the farmer; may be null.
+
+  - name: bst_null_fields
+    description: >
+      Rows from bst_joined_fields where at least one enterprise ID (field, farm,
+      or grower) is null — i.e. active BST fields that could not be fully matched
+      across systems because an enterprise ID has not yet been assigned at some
+      level of the hierarchy.
+    data_tests:
+      - at_least_one_null:
+          columns: [field_enterprise_id, farm_enterprise_id, grower_enterprise_id]
+    columns:
+      - name: field_id
+        description: BST native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: field_enterprise_id
+        description: Enterprise ID of the field; may be null.
+      - name: farm_id
+        description: BST native primary key for the field's farm.
+        data_tests:
+          - not_null
+      - name: farm_enterprise_id
+        description: Enterprise ID of the farm; may be null.
+      - name: grower_id
+        description: BST native primary key for the farm's grower.
+        data_tests:
+          - not_null
+      - name: grower_enterprise_id
+        description: Enterprise ID of the grower; may be null.
+
+  - name: sap_null_plots
+    description: >
+      Rows from sap_joined_plots where at least one enterprise ID (plot, farm,
+      or partner) is null — i.e. active SAP plots that could not be fully matched
+      across systems because an enterprise ID has not yet been assigned at some
+      level of the hierarchy.
+    data_tests:
+      - at_least_one_null:
+          columns: [plot_enterprise_id, farm_enterprise_id, partner_enterprise_id]
+    columns:
+      - name: plot_id
+        description: SAP native key for the plot.
+        data_tests:
+          - unique
+          - not_null
+      - name: plot_enterprise_id
+        description: Enterprise ID of the plot; may be null.
+      - name: farm_id
+        description: SAP native key for the plot's farm.
+        data_tests:
+          - not_null
+      - name: farm_enterprise_id
+        description: Enterprise ID of the farm; may be null.
+      - name: partner_id
+        description: SAP native key for the farm's partner.
+        data_tests:
+          - not_null
+      - name: partner_enterprise_id
+        description: Enterprise ID of the partner; may be null.
+
+  - name: ad_non_null_fields
+    description: >
+      Rows from ad_joined_fields where every enterprise ID (field, farm, and
+      farmer) is populated — i.e. active AD fields that are fully matchable
+      across systems because an enterprise ID has been assigned at every level
+      of the hierarchy. Complement of ad_null_fields.
+    columns:
+      - name: field_id
+        description: AD native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: field_enterprise_id
+        description: Enterprise ID of the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: farm_id
+        description: AD native primary key for the field's farm.
+        data_tests:
+          - not_null
+      - name: farm_enterprise_id
+        description: Enterprise ID of the farm.
+        data_tests:
+          - not_null
+      - name: farmer_id
+        description: AD native primary key for the farm's farmer.
+        data_tests:
+          - not_null
+      - name: farmer_enterprise_id
+        description: Enterprise ID of the farmer.
+        data_tests:
+          - not_null
+
+  - name: bst_non_null_fields
+    description: >
+      Rows from bst_joined_fields where every enterprise ID (field, farm, and
+      grower) is populated — i.e. active BST fields that are fully matchable
+      across systems because an enterprise ID has been assigned at every level
+      of the hierarchy. Complement of bst_null_fields.
+    columns:
+      - name: field_id
+        description: BST native primary key for the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: field_enterprise_id
+        description: Enterprise ID of the field.
+        data_tests:
+          - unique
+          - not_null
+      - name: farm_id
+        description: BST native primary key for the field's farm.
+        data_tests:
+          - not_null
+      - name: farm_enterprise_id
+        description: Enterprise ID of the farm.
+        data_tests:
+          - not_null
+      - name: grower_id
+        description: BST native primary key for the farm's grower.
+        data_tests:
+          - not_null
+      - name: grower_enterprise_id
+        description: Enterprise ID of the grower.
+        data_tests:
+          - not_null
+
+  - name: sap_non_null_plots
+    description: >
+      Rows from sap_joined_plots where every enterprise ID (plot, farm, and
+      partner) is populated — i.e. active SAP plots that are fully matchable
+      across systems because an enterprise ID has been assigned at every level
+      of the hierarchy. Complement of sap_null_plots.
+    columns:
+      - name: plot_id
+        description: SAP native key for the plot.
+        data_tests:
+          - unique
+          - not_null
+      - name: plot_enterprise_id
+        description: Enterprise ID of the plot.
+        data_tests:
+          - unique
+          - not_null
+      - name: farm_id
+        description: SAP native key for the plot's farm.
+        data_tests:
+          - not_null
+      - name: farm_enterprise_id
+        description: Enterprise ID of the farm.
+        data_tests:
+          - not_null
+      - name: partner_id
+        description: SAP native key for the farm's partner.
+        data_tests:
+          - not_null
+      - name: partner_enterprise_id
+        description: Enterprise ID of the partner.
+        data_tests:
+          - not_null
+
+  - name: unioned_eids
+    description: >
+      Enterprise IDs for every fully-matched field hierarchy across all three
+      sources (AD, BST, SAP), stacked into a common (farmer, farm, field) shape
+      and de-duplicated. The top level is farmer (AD) / grower (BST) / partner
+      (SAP) and the leaf is field (AD, BST) / plot (SAP); all map to the same
+      real-world entities via their shared enterprise IDs. Sourced from the
+      non_null models, so every EID is populated. Rows that are identical across
+      sources (the cross-system overlap) collapse to one, so there are no
+      duplicate rows.
+    data_tests:
+      - unique_combination:
+          columns: [farmer_eid, farm_eid, field_eid]
+    columns:
+      - name: farmer_eid
+        description: >
+          Enterprise ID of the farmer-level entity (farmer in AD, grower in BST,
+          partner in SAP).
+        data_tests:
+          - not_null
+      - name: farm_eid
+        description: Enterprise ID of the farm.
+        data_tests:
+          - not_null
+      - name: field_eid
+        description: >
+          Enterprise ID of the field-level entity (field in AD and BST, plot in
+          SAP).
+        data_tests:
+          - not_null
+
+  - name: non_null_joined
+    description: >
+      The universe of fully-matched field-hierarchy enterprise IDs
+      (unioned_eids) left-joined back to each source's non_null model to record,
+      per (farmer, farm, field) EID triple, which of the three systems contain
+      that exact triple. One row per distinct triple; in_ad / in_bst / in_sap
+      flag membership. The join key is the full triple, so a source is flagged
+      present only when it ties the same field to the same farm and farmer.
+      Feeds the downstream field-parity (Venn) table.
+    data_tests:
+      - unique_combination:
+          columns: [farmer_eid, farm_eid, field_eid]
+    columns:
+      - name: farmer_eid
+        description: >
+          Enterprise ID of the farmer-level entity (farmer in AD, grower in BST,
+          partner in SAP).
+        data_tests:
+          - not_null
+      - name: farm_eid
+        description: Enterprise ID of the farm.
+        data_tests:
+          - not_null
+      - name: field_eid
+        description: >
+          Enterprise ID of the field-level entity (field in AD and BST, plot in
+          SAP).
+        data_tests:
+          - not_null
+      - name: in_ad
+        description: True when this exact EID triple exists in the AD non_null model.
+        data_tests:
+          - not_null
+      - name: in_bst
+        description: True when this exact EID triple exists in the BST non_null model.
+        data_tests:
+          - not_null
+      - name: in_sap
+        description: True when this exact EID triple exists in the SAP non_null model.
+        data_tests:
+          - not_null
+
+  - name: non_null_parity
+    description: >
+      Field-parity table aggregating non_null_joined to one row per Venn region:
+      each distinct combination of which systems contain a fully-matched
+      (farmer, farm, field) EID triple. bst / sap / ad are 1/0 membership flags
+      and count is the number of triples in that region. The all-zero region
+      never appears because every triple belongs to at least one source, so the
+      counts sum to the full non_null_joined population. Feeds the parity Venn
+      diagram and overall parity metric.
+    data_tests:
+      - unique_combination:
+          columns: [bst, sap, ad]
+    columns:
+      - name: bst
+        description: 1 if the triple exists in BST, else 0.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
+              quote: false
+      - name: sap
+        description: 1 if the triple exists in SAP, else 0.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
+              quote: false
+      - name: ad
+        description: 1 if the triple exists in AD, else 0.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
+              quote: false
+      - name: count
+        description: Number of distinct EID triples in this region.
+        data_tests:
+          - not_null
+
+  - name: all_comb
+    description: >
+      non_null_parity with every non-empty membership combination guaranteed
+      present. A region with no fully-matched triples is absent from
+      non_null_parity; this model backfills those combinations with a count of 0
+      so all 2^3 - 1 = 7 non-empty (bst, sap, ad) combinations always appear. The
+      all-zero combination is intentionally excluded. Downstream of
+      non_null_parity, upstream of field_parity.
+    data_tests:
+      - unique_combination:
+          columns: [bst, sap, ad]
+    columns:
+      - name: bst
+        description: 1 if the triple exists in BST, else 0.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
+              quote: false
+      - name: sap
+        description: 1 if the triple exists in SAP, else 0.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
+              quote: false
+      - name: ad
+        description: 1 if the triple exists in AD, else 0.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
+              quote: false
+      - name: count
+        description: >
+          Number of distinct fully-matched EID triples in this region; 0 for a
+          backfilled combination.
+        data_tests:
+          - not_null
+
+  - name: field_parity
+    description: >
+      The final field-parity table. Starts from all_comb (Venn regions for
+      fully-matched EID triples, with every non-empty combination guaranteed
+      present) and folds in each source's null-EID records via scalar subqueries:
+      a record with a null enterprise ID cannot be matched to any other system,
+      so it is added to its own source's single-source region (ad_null_fields ->
+      AD-only, bst_null_fields -> BST-only, sap_null_plots -> SAP-only).
+      Multi-source regions are unchanged. bst / sap / ad are 1/0 membership flags
+      and count is the number of fields in that region; the counts sum to every
+      field across all three systems. Feeds the parity Venn diagram and the
+      overall parity metric.
+    data_tests:
+      - unique_combination:
+          columns: [bst, sap, ad]
+    columns:
+      - name: bst
+        description: 1 if the field belongs to the BST set, else 0.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
+              quote: false
+      - name: sap
+        description: 1 if the field belongs to the SAP set, else 0.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
+              quote: false
+      - name: ad
+        description: 1 if the field belongs to the AD set, else 0.
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1]
+              quote: false
+      - name: count
+        description: >
+          Number of fields in this region, including unmatched null-EID records
+          in the single-source regions.
+        data_tests:
+          - not_null
+
+  - name: overall_field_parity
+    description: >
+      Single-number "Overall Field Parity" metric: the count of fields present
+      in all three systems (the 1,1,1 region of field_parity) divided by the
+      total count of fields across all regions. One row, one column. 1.0 is
+      perfect parity (every field exists in all three systems); values near 0
+      mean little cross-system overlap. Intended as the headline number for
+      tracking parity progress over time.
+    columns:
+      - name: overall_field_parity
+        description: Fraction of all fields that exist in all three systems, in [0, 1].
+        data_tests:
+          - not_null
