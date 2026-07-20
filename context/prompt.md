@@ -37,7 +37,7 @@ Enterprise ID's are also not always stored consistently in the 3 systems. If you
 
 The parity table should have a row with the count for each combinatorial possibility - e.g. a row for BST=1, SAP=0, AD=0, a row for BST=0, SAP=1, AD=0, a row for BST=0, SAP=0, AD=1, a row for BST=1, SAP=1, AD=0, and so on. The only combinatorial "possibility" that should not have a row is BST=0, SAP=0, and AD=0, since this is not actually possible (you will never "find" a row that is not in any of the 3 systems).
 
-Following the rules for the parity measurement, each row in a field table should contribute to the count of exactly one row in the parity table.
+Following the rules for the parity measurement, every in-scope field record should be accounted for in exactly one row of the parity table.
 
 This table is going to live in Snowflake, our enterprise warehouse, and we will use dbt, our enterprise pipeline tool. However, it is not necessary to do our development in Snowflake - instead we can do our development in DuckDB. You will need to install DuckDB and dbt with pip, then develop the solution locally. Use the csv's I provided as dbt seeds for your source data. Once you've developed the solution, I will deploy the solution to a production schema in Snowflake (this is a simple config change). This is where the data can be queried and the data will feed into a Venn diagram dashboard in our BI tool. You don't have to worry about building the dashboard, I just mention this aspect as context.
 
