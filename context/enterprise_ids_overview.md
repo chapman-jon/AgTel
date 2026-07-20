@@ -38,10 +38,10 @@ The same physical field, as it appears in three of our systems:
 | System | Native primary key | Enterprise ID |
 |---|---|---|
 | BST | 118203 | `8f4c2a1e-7d3b-4e9a-b6f0-2c5d8e91a374` |
-| SAP | 0004512378 | `8f4c2a1e-7d3b-4e9a-b6f0-2c5d8e91a374` |
+| SAP | 0004512378 | `8F4C2A1E-7D3B-4E9A-B6F0-2C5D8E91A374` |
 | AD | ad-fld-000871 | `8f4c2a1e-7d3b-4e9a-b6f0-2c5d8e91a374` |
 
-Three different native keys, three different formats, one Enterprise ID. Any process that needs to reconcile data across systems can join on the Enterprise ID rather than attempting fragile matching on names, addresses, or other attributes.
+Three different native keys, three different formats, one Enterprise ID. (GUIDs are hexadecimal and not case-sensitive; each system stores the value per its own display conventions, as you can see in the SAP row above.) Any process that needs to reconcile data across systems can join on the Enterprise ID rather than attempting fragile matching on names, addresses, or other attributes.
 
 ## Current state and known limitations
 
@@ -51,6 +51,7 @@ Please read this section carefully — it is the most common source of confusion
 
 - A record may have a **populated** Enterprise ID, meaning the record has been through the assignment process and linked to an enterprise entity.
 - A record may have a **null / missing** Enterprise ID, meaning the record has not yet been through assignment, or could not be confidently linked at the time it was processed.
+- A small number of records carry the **all-zeros GUID** (`00000000-0000-0000-0000-000000000000`). This is a placeholder written by an early version of the backfill tooling where it should have left the column empty. It does not identify any entity — treat it exactly like a missing Enterprise ID. We are cleaning these up as assignment reaches those records, but until then they remain in several systems' extracts.
 
 A missing Enterprise ID does **not** mean the entity doesn't exist in other systems. It only means we have not yet established the link. Likewise, teams consuming data should never invent, guess, or manually populate Enterprise IDs — assignment is owned centrally by Enterprise Data Management, and ad-hoc values would undermine the guarantee that a given EID means the same entity everywhere.
 

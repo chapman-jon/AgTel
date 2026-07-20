@@ -44,9 +44,10 @@ seeds:
           - accepted_values:
               values: [USA, CAN]
       - name: enterprise_id
-        description: Enterprise ID of the farmer.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the farmer. Raw value; may carry the all-zeros
+          placeholder GUID, so uniqueness is tested on the conformed EID in
+          ad_clean_farmers rather than here.
       - name: created_at
         description: Timestamp the record was created in AD.
       - name: updated_at
@@ -103,9 +104,10 @@ seeds:
           - accepted_values:
               values: [USA, CAN]
       - name: enterprise_id
-        description: Enterprise ID of the farm.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the farm. Raw value; may carry the all-zeros
+          placeholder GUID, so uniqueness is tested on the conformed EID in
+          ad_clean_farms rather than here.
       - name: created_at
         description: Timestamp the record was created in AD.
       - name: updated_at
@@ -159,9 +161,10 @@ seeds:
       - name: area_ha
         description: Field area in hectares.
       - name: enterprise_id
-        description: Enterprise ID of the field.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the field. Raw value; may carry the all-zeros
+          placeholder GUID, so uniqueness is tested on the conformed EID in
+          ad_clean_fields rather than here.
       - name: created_at
         description: Timestamp the record was created in AD.
       - name: updated_at
@@ -205,9 +208,11 @@ seeds:
       - name: state_prov
         description: State or province.
       - name: entrpr_guid
-        description: Enterprise ID of the grower. Populated when the record has been through enterprise assignment.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the grower. Populated when the record has been through
+          enterprise assignment. Raw value; may carry the all-zeros placeholder
+          GUID, so uniqueness is tested on the conformed EID in bst_clean_growers
+          rather than here.
       - name: crt_dt
         description: Date the record was created in BST.
       - name: upd_dt
@@ -258,9 +263,10 @@ seeds:
       - name: state_prov
         description: State or province.
       - name: entrpr_guid
-        description: Enterprise ID of the farm.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the farm. Raw value; may carry the all-zeros
+          placeholder GUID, so uniqueness is tested on the conformed EID in
+          bst_clean_farms rather than here.
       - name: crt_dt
         description: Date the record was created in BST.
       - name: upd_dt
@@ -298,11 +304,14 @@ seeds:
       - name: field_nm
         description: Field name as entered by the consultant or grower.
       - name: stat_cd
-        description: "Record status code. Values observed: A, I, P."
+        description: >
+          Record status code. Values observed: A, I, P, and D. D is an additional
+          status present in the extract that was not previously documented; it is
+          treated as inactive, so bst_active_fields keeps only stat_cd = 'A'.
         data_tests:
           - not_null
           - accepted_values:
-              values: [A, I, P]
+              values: [A, I, P, D]
       - name: field_use_cd
         description: "Field use code. Values observed: PROD, TRIAL."
         data_tests:
@@ -318,9 +327,10 @@ seeds:
           - accepted_values:
               values: ["United States", "Canada", "Australia"]
       - name: entrpr_guid
-        description: Enterprise ID of the field.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the field. Raw value; may carry the all-zeros
+          placeholder GUID, so uniqueness is tested on the conformed EID in
+          bst_clean_fields rather than here.
       - name: crt_dt
         description: Date the record was created in BST.
       - name: upd_dt
@@ -376,9 +386,10 @@ seeds:
           - accepted_values:
               values: ["X"]
       - name: ZZEID
-        description: Enterprise ID of the partner.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the partner. Raw value (SAP stores GUIDs uppercase);
+          may carry the all-zeros placeholder GUID, so uniqueness is tested on the
+          conformed EID in sap_clean_partners rather than here.
       - name: ERDAT
         description: Date the record was created in SAP.
 
@@ -433,9 +444,10 @@ seeds:
           - accepted_values:
               values: ["X"]
       - name: ZZEID
-        description: Enterprise ID of the farm.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the farm. Raw value (SAP stores GUIDs uppercase); may
+          carry the all-zeros placeholder GUID, so uniqueness is tested on the
+          conformed EID in sap_clean_farms rather than here.
       - name: ERDAT
         description: Date the record was created in SAP.
 
@@ -490,8 +502,9 @@ seeds:
           - accepted_values:
               values: ["X"]
       - name: ZZEID
-        description: Enterprise ID of the plot.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the plot. Raw value (SAP stores GUIDs uppercase); may
+          carry the all-zeros placeholder GUID, so uniqueness is tested on the
+          conformed EID in sap_clean_plots rather than here.
       - name: ERDAT
         description: Date the record was created in SAP.

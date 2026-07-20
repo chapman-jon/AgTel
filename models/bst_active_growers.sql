@@ -1,6 +1,6 @@
 with growers as (
 
-    select * from {{ ref('bst_growers') }}
+    select * from {{ ref('bst_clean_growers') }}
 
 )
 

@@ -33,7 +33,11 @@ A: SAP follows the corporate standard (metric). BST predates that standard. Conv
 
 **Q: What is ZZEID?**
 
-A: The Enterprise ID of the record, populated by the central Enterprise Data Management assignment process. See the EDM team's Enterprise IDs overview page for details — the short version is that it's a cross-system GUID identifying the real-world entity, and it is null on records that haven't been through assignment yet. The SAP team does not maintain this column manually.
+A: The Enterprise ID of the record, populated by the central Enterprise Data Management assignment process. See the EDM team's Enterprise IDs overview page for details — the short version is that it's a cross-system GUID identifying the real-world entity, and it is null on records that haven't been through assignment yet. The SAP team does not maintain this column manually. (Per SAP character-field convention the value is stored uppercase, like everything else in the ZAGT tables.)
+
+**Q: I found two plots with the same ZZEID. Which one is wrong?**
+
+A: Probably neither. When a farm is reorganized or a plot is re-surveyed, the field team's process is to create a new plot record rather than edit the old one in place (the old record often has open document flows against it, so it stays active until year-end closing archives it). Both records describe the same physical plot of land, and EDM's assignment process links both to the same enterprise entity — which is exactly what ZZEID is supposed to mean. So a duplicated ZZEID is not a data error; it's two active records for one real-world plot. Reporting that counts physical plots should count distinct ZZEIDs, not rows — the reporting team was bitten by this in the acreage summary last year.
 
 **Q: Can I get an extract refreshed?**
 

@@ -1,6 +1,6 @@
 with plots as (
 
-    select * from {{ ref('ZAGT_PLOT') }}
+    select * from {{ ref('sap_clean_plots') }}
 
 )
 

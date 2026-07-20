@@ -1,6 +1,6 @@
 with fields as (
 
-    select * from {{ ref('bst_fields') }}
+    select * from {{ ref('bst_clean_fields') }}
 
 )
 

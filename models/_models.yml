@@ -1,6 +1,118 @@
 version: 2
 
 models:
+  # ---------------------------------------------------------------------------
+  # Clean (staging) layer: 1:1 with each seed, passing every column through
+  # unchanged except the enterprise ID, which is conformed to a single
+  # representation — case-folded to lowercase (GUIDs are case-insensitive; SAP
+  # stores uppercase, BST/AD lowercase) and with the all-zeros placeholder GUID
+  # normalized to null (it means "unassigned"). Enterprise-ID uniqueness is tested
+  # here, on the conformed value, rather than on the raw seed.
+  # ---------------------------------------------------------------------------
+  - name: ad_clean_farmers
+    description: >
+      ad_farmers with the enterprise ID conformed (lowercased; all-zeros
+      placeholder GUID normalized to null). All other columns pass through.
+    columns:
+      - name: enterprise_id
+        description: Conformed enterprise ID of the farmer; null when unassigned.
+        data_tests:
+          - unique
+          - is_lowercase
+
+  - name: ad_clean_farms
+    description: >
+      ad_farms with the enterprise ID conformed (lowercased; all-zeros
+      placeholder GUID normalized to null). All other columns pass through.
+    columns:
+      - name: enterprise_id
+        description: Conformed enterprise ID of the farm; null when unassigned.
+        data_tests:
+          - unique
+          - is_lowercase
+
+  - name: ad_clean_fields
+    description: >
+      ad_fields with the enterprise ID conformed (lowercased; all-zeros
+      placeholder GUID normalized to null). All other columns pass through.
+    columns:
+      - name: enterprise_id
+        description: Conformed enterprise ID of the field; null when unassigned.
+        data_tests:
+          - unique
+          - is_lowercase
+
+  - name: bst_clean_growers
+    description: >
+      bst_growers with the enterprise ID conformed (lowercased; all-zeros
+      placeholder GUID normalized to null). All other columns pass through.
+    columns:
+      - name: entrpr_guid
+        description: Conformed enterprise ID of the grower; null when unassigned.
+        data_tests:
+          - unique
+          - is_lowercase
+
+  - name: bst_clean_farms
+    description: >
+      bst_farms with the enterprise ID conformed (lowercased; all-zeros
+      placeholder GUID normalized to null). All other columns pass through.
+    columns:
+      - name: entrpr_guid
+        description: Conformed enterprise ID of the farm; null when unassigned.
+        data_tests:
+          - unique
+          - is_lowercase
+
+  - name: bst_clean_fields
+    description: >
+      bst_fields with the enterprise ID conformed (lowercased; all-zeros
+      placeholder GUID normalized to null). All other columns pass through.
+    columns:
+      - name: entrpr_guid
+        description: Conformed enterprise ID of the field; null when unassigned.
+        data_tests:
+          - unique
+          - is_lowercase
+
+  - name: sap_clean_partners
+    description: >
+      ZAGT_PARTNER with the enterprise ID conformed (lowercased from SAP's
+      uppercase; all-zeros placeholder GUID normalized to null). All other columns
+      pass through.
+    columns:
+      - name: ZZEID
+        description: Conformed enterprise ID of the partner; null when unassigned.
+        data_tests:
+          - unique
+          - is_lowercase
+
+  - name: sap_clean_farms
+    description: >
+      ZAGT_FARM with the enterprise ID conformed (lowercased from SAP's uppercase;
+      all-zeros placeholder GUID normalized to null). All other columns pass
+      through.
+    columns:
+      - name: ZZEID
+        description: Conformed enterprise ID of the farm; null when unassigned.
+        data_tests:
+          - unique
+          - is_lowercase
+
+  - name: sap_clean_plots
+    description: >
+      ZAGT_PLOT with the enterprise ID conformed (lowercased from SAP's uppercase;
+      all-zeros placeholder GUID normalized to null). All other columns pass
+      through.
+    columns:
+      - name: ZZEID
+        description: >
+          Conformed enterprise ID of the plot; null when unassigned. Not unique at
+          this grain — SAP re-keys plots, so several plot records can share one plot
+          EID; uniqueness holds only after de-duplication in sap_non_null_plots.
+        data_tests:
+          - is_lowercase
+
   - name: ad_active_farmers
     description: >
       AD farmers filtered to is_test = false and status = active.
@@ -305,9 +417,10 @@ models:
           - unique
           - not_null
       - name: plot_enterprise_id
-        description: Enterprise ID of the plot.
-        data_tests:
-          - unique
+        description: >
+          Enterprise ID of the plot. Not unique here — SAP re-keys plots, so
+          several plot records can share one plot EID; uniqueness is asserted after
+          de-duplication in sap_non_null_plots.
       - name: farm_id
         description: SAP native key for the plot's farm.
         data_tests:
@@ -324,9 +437,11 @@ models:
   - name: ad_null_fields
     description: >
       Rows from ad_joined_fields where at least one enterprise ID (field, farm,
-      or farmer) is null — i.e. active AD fields that could not be fully matched
-      across systems because an enterprise ID has not yet been assigned at some
-      level of the hierarchy.
+      or farmer) is null. Enterprise IDs are conformed upstream in ad_clean_*,
+      where the all-zeros placeholder GUID is normalized to null, so both
+      genuinely-missing and placeholder EIDs land here. I.e. active AD fields that
+      could not be fully matched across systems because an enterprise ID has not
+      yet been assigned at some level of the hierarchy.
     data_tests:
       - at_least_one_null:
           columns: [field_enterprise_id, farm_enterprise_id, farmer_enterprise_id]
@@ -354,9 +469,11 @@ models:
   - name: bst_null_fields
     description: >
       Rows from bst_joined_fields where at least one enterprise ID (field, farm,
-      or grower) is null — i.e. active BST fields that could not be fully matched
-      across systems because an enterprise ID has not yet been assigned at some
-      level of the hierarchy.
+      or grower) is null. Enterprise IDs are conformed upstream in bst_clean_*,
+      where the all-zeros placeholder GUID is normalized to null, so both
+      genuinely-missing and placeholder EIDs land here. I.e. active BST fields that
+      could not be fully matched across systems because an enterprise ID has not
+      yet been assigned at some level of the hierarchy.
     data_tests:
       - at_least_one_null:
           columns: [field_enterprise_id, farm_enterprise_id, grower_enterprise_id]
@@ -384,9 +501,11 @@ models:
   - name: sap_null_plots
     description: >
       Rows from sap_joined_plots where at least one enterprise ID (plot, farm,
-      or partner) is null — i.e. active SAP plots that could not be fully matched
-      across systems because an enterprise ID has not yet been assigned at some
-      level of the hierarchy.
+      or partner) is null. Enterprise IDs are conformed upstream in sap_clean_*,
+      where the all-zeros placeholder GUID is normalized to null, so both
+      genuinely-missing and placeholder EIDs land here. I.e. active SAP plots that
+      could not be fully matched across systems because an enterprise ID has not
+      yet been assigned at some level of the hierarchy.
     data_tests:
       - at_least_one_null:
           columns: [plot_enterprise_id, farm_enterprise_id, partner_enterprise_id]
@@ -414,9 +533,11 @@ models:
   - name: ad_non_null_fields
     description: >
       Rows from ad_joined_fields where every enterprise ID (field, farm, and
-      farmer) is populated — i.e. active AD fields that are fully matchable
-      across systems because an enterprise ID has been assigned at every level
-      of the hierarchy. Complement of ad_null_fields.
+      farmer) is populated. Enterprise IDs are conformed upstream in ad_clean_*,
+      where the all-zeros placeholder GUID is normalized to null, so placeholder
+      EIDs are excluded here just like genuine nulls. I.e. active AD fields that
+      are fully matchable across systems because an enterprise ID has been assigned
+      at every level of the hierarchy. Complement of ad_null_fields.
     columns:
       - name: field_id
         description: AD native primary key for the field.
@@ -448,9 +569,11 @@ models:
   - name: bst_non_null_fields
     description: >
       Rows from bst_joined_fields where every enterprise ID (field, farm, and
-      grower) is populated — i.e. active BST fields that are fully matchable
-      across systems because an enterprise ID has been assigned at every level
-      of the hierarchy. Complement of bst_null_fields.
+      grower) is populated. Enterprise IDs are conformed upstream in bst_clean_*,
+      where the all-zeros placeholder GUID is normalized to null, so placeholder
+      EIDs are excluded here just like genuine nulls. I.e. active BST fields that
+      are fully matchable across systems because an enterprise ID has been assigned
+      at every level of the hierarchy. Complement of bst_null_fields.
     columns:
       - name: field_id
         description: BST native primary key for the field.
@@ -482,19 +605,30 @@ models:
   - name: sap_non_null_plots
     description: >
       Rows from sap_joined_plots where every enterprise ID (plot, farm, and
-      partner) is populated — i.e. active SAP plots that are fully matchable
-      across systems because an enterprise ID has been assigned at every level
-      of the hierarchy. Complement of sap_null_plots.
+      partner) is populated, de-duplicated to one row per distinct (plot, farm,
+      partner) EID triple. Enterprise IDs are conformed upstream in sap_clean_*,
+      where the all-zeros placeholder GUID is normalized to null, so placeholder
+      EIDs are excluded here just like genuine nulls. SAP re-keys plots — the same
+      physical field re-surveyed under a new PLOT_ID but sharing the same EID
+      triple — so those rows collapse to a single field (lowest PLOT_ID kept) and
+      parity counts each field once. I.e. the distinct, fully-matchable SAP fields.
+      Complement of sap_null_plots, which keeps every unassigned-EID plot as its own
+      row (an unmatched record can't be de-duplicated).
+    data_tests:
+      - unique_combination:
+          columns: [plot_enterprise_id, farm_enterprise_id, partner_enterprise_id]
     columns:
       - name: plot_id
-        description: SAP native key for the plot.
+        description: >
+          SAP native key of the representative plot kept for this field (the lowest
+          PLOT_ID of the collapsed re-keyed rows). No longer the model's grain — the
+          EID triple is — so it is not tested for uniqueness here.
         data_tests:
-          - unique
           - not_null
+          - unique
       - name: plot_enterprise_id
         description: Enterprise ID of the plot.
         data_tests:
-          - unique
           - not_null
       - name: farm_id
         description: SAP native key for the plot's farm.

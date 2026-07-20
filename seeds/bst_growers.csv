@@ -1,421 +1,436 @@
 grower_id,grower_nm,stat_cd,country,state_prov,entrpr_guid,crt_dt,upd_dt
-20030,Pemberton Agri Partners,A,Canada,Saskatchewan,137d5b1c-51da-40eb-b588-17d3b8c0a56c,2010-12-03,2013-06-06
-20084,Girard Family Farms Inc,A,Canada,Ontario,0ca39d52-8de4-410f-9ab5-d9cece39b01d,2019-09-23,2025-03-30
-20331,Okafor Farming Co,A,Australia,New South Wales,b4a92e46-7d54-440a-a26f-7a5c1cf941c5,2017-08-01,
-20034,Novak Acres Ltd,A,United States,Missouri,7e11818b-806a-4a37-8376-0aed2ae12b5b,2015-05-29,2020-08-31
-20243,McAllister Ag Enterprises,A,United States,Nebraska,d7647986-08bd-4216-adc6-b9d99cafbe84,2014-08-06,2021-10-24
-20193,Prescott Farms LLC,A,United States,Missouri,6853fab9-6421-4ff4-9bfe-8ead378f0a44,2021-07-23,2023-06-29
-20404,Quandt T. Farming Co,P,Canada,Manitoba,953c2826-fd13-4574-9e1d-3ed6f07f9eee,2020-05-19,2025-04-07
-20294,Quandt Land & Cattle,A,United States,Wisconsin,98c2942f-85fa-46a9-ad99-1b0bbd42165d,2019-04-17,2022-05-10
-20228,Underhill Ag Enterprises,A,United States,Nebraska,32e9d3f3-4eb7-43f9-a7e4-bbe08ff39c13,2018-08-12,2025-04-09
-20246,Holloway Farms,A,Canada,Saskatchewan,66bd80b3-df56-48db-8af0-1467d74fe80b,2014-07-07,2015-06-30
-20418,Okafor G. Farming Co,A,Canada,Ontario,95712f0a-e5f8-433c-a915-354b74225471,2020-09-03,2023-03-31
-20315,Oberlin Acres Ltd,A,Australia,Queensland,daa3f315-3912-4991-b382-39e141159f5a,2020-10-29,2026-01-04
-20152,Kowalski Farms,A,United States,North Dakota,3adb8733-088b-47cc-b4ac-08f5856cc5bd,2020-07-07,2024-01-07
-20265,Okafor Farms,A,United States,South Dakota,c521759d-f8cf-4aa3-85c3-1f0b66ba8f93,2009-10-14,2011-02-13
-20230,Thompson Agri Partners,A,United States,Ohio,b9abc0d1-82bf-4bbf-9683-f89d7a9575a4,2022-10-20,2025-05-18
-20334,Marsh Ag Enterprises,A,Australia,New South Wales,2d9f8508-572b-4477-9795-2202140da42b,2011-02-12,2014-12-16
-20311,Kerrigan Ag Enterprises,A,Australia,Queensland,00f3e69e-9076-49e0-b68b-d8a1ae879af6,2018-08-27,2023-10-30
-20104,Novak Farms LLC,A,United States,South Dakota,d3346837-a77c-4ccc-9154-374f35d41d75,2019-11-16,2021-08-05
-20370,Drummond D. Acres Ltd,I,United States,South Dakota,dfaeacb6-73fa-415b-848c-d81011bc127f,2021-02-23,
-20233,Yancey Grain Co,A,United States,Iowa,78ec8c34-9d28-47e6-99ef-bdb7458ecaee,2010-09-27,
-20414,Pemberton N. Family Farms Inc,A,United States,Illinois,957e0929-b4a3-4c79-b867-a1cf4acdb798,2022-02-19,2024-09-06
-20197,Reyes Agri Partners,A,United States,Wisconsin,9d0b8efb-5f4b-4137-a202-20bfbc17e8d2,2019-04-21,2025-04-27
-20341,Lindqvist Family Farms Inc,A,Australia,Victoria,4c119e1e-adaf-47fe-a34c-3aa627284c8e,2018-12-29,
-20037,Novak Agri Partners,A,United States,Wisconsin,93ce9c3c-3d85-4b0c-9722-f8dabb37bb3e,2013-04-15,2017-01-22
-20142,Thompson Land & Cattle,A,Canada,Alberta,46cc344d-61ec-4a2f-958b-2a0b3a32fa21,2011-04-30,
-20238,Baxter Grain Co,A,United States,Minnesota,fc0ef2a8-0113-44e9-aa8f-4deedc2a0758,2010-07-26,2012-11-28
-20055,Bergstrom Land & Cattle,A,United States,Minnesota,0f1f7ade-c119-4e72-8445-b7f31ae0b07a,2015-02-25,2021-04-16
-20167,Tollefson Land & Cattle,A,United States,Illinois,ba06ab61-7484-44bf-a843-12c52391e128,2012-03-03,
-20366,Girard Grain Co,A,United States,Ohio,6f21f60d-e80e-4671-8532-d32ab6c93507,2014-12-24,
-20226,Oberlin Agri Partners,A,United States,Illinois,b05564ef-6a84-451e-af65-1042a5d7ab0e,2010-07-19,
-20241,Brenner Farming Co,A,United States,Kansas,c114af95-ec19-4454-ad96-6d964f3c0ade,2020-05-05,2022-07-05
-20107,Dietrich & Sons,A,United States,Minnesota,6a9491a6-8f86-4e5d-8dcd-1cca45fc5a79,2011-06-22,2023-08-28
-20082,Okafor Family Farms Inc,A,United States,North Dakota,40bf2940-700a-4c00-ad24-e0e1a72253e1,2021-04-08,2024-04-07
-20380,Drummond K. & Sons,I,United States,Indiana,0d9559f7-50c0-4f6e-be07-a60a80f58505,2010-06-16,2021-07-15
-20178,Yancey Land & Cattle,A,Canada,Ontario,8fcfe029-ef42-41e8-8b33-9a3c7c9a025c,2020-05-28,2020-09-10
-20214,Reyes Farming Co,A,Canada,Saskatchewan,4e52310c-370d-4d8d-9f95-b75e3f76e218,2018-05-30,2025-06-11
-20410,Castellano G. Agri Partners,A,United States,Iowa,c56dceca-cc70-4e0a-97cc-04d593f98a8b,2015-04-04,2021-10-08
-20118,Ivanov Farms LLC,A,United States,Missouri,3337082c-a77e-40f8-b3a1-52bc49559daf,2009-06-19,2021-06-30
-20481,Hartley Family Farms Inc,A,United States,Iowa,c91b6a02-42fd-4e77-a8b3-91d0f2e6c554,2014-03-19,2025-11-02
-20054,Rasmussen & Sons,A,United States,Iowa,0871d49e-dc52-444a-a4c1-b73f849fd147,2020-05-02,2022-06-18
-20268,Prescott Acres Ltd,A,United States,Nebraska,96f34085-9205-4e64-8860-db965d0ea303,2022-06-25,2023-11-26
-20146,Tollefson Acres Ltd,A,United States,Minnesota,5c6810fe-e75c-4e54-be8c-9cc34f8efb52,2022-06-01,2025-12-08
-20295,Ashworth Ag Enterprises,A,United States,Ohio,c049a98a-e717-4c35-bbe5-d1987496834a,2019-06-27,2020-08-08
-20218,Rasmussen Ag Enterprises,A,United States,Ohio,642bfb33-6e27-4f0e-b855-cb7039f4a308,2017-01-05,2018-11-13
-20140,Albrecht Land & Cattle,A,United States,South Dakota,ba2e606e-8c09-4a55-a2f7-b07d980f7166,2013-04-21,2016-09-01
-20413,Jablonski A. Ag Enterprises,A,United States,South Dakota,cc7fda28-8387-40d3-bcd5-4a4daa9d87b2,2019-03-17,
-20270,Quandt Farms LLC,A,United States,Illinois,c007fe13-a60e-4f43-9de7-2b3b8d2366dc,2020-08-25,2024-06-07
-20216,Hartley Family Farms Inc,A,United States,Missouri,50762963-0523-4203-a1b8-b217107b07a2,2018-05-13,2019-11-12
-20222,Whitaker Acres Ltd,A,United States,Iowa,0d88cc5b-9a6d-4e7a-8f04-e212a02b3234,2021-08-26,2023-02-10
-20291,Holloway Farming Co,A,United States,Kansas,f951a4b0-2b97-4856-9d5c-051c67fb47c1,2014-04-05,2014-11-27
-20259,Merriweather Acres Ltd,A,Canada,Alberta,008f3fe2-5025-40a0-be99-88dbad58438c,2022-08-24,2023-06-08
-20061,Yoder Acres Ltd,A,United States,Wisconsin,17c179c1-2f73-4922-be92-2bb87159ca7b,2013-01-10,2013-05-18
-20071,Ivanov Farming Co,A,Canada,Manitoba,77484e50-c0de-4559-abbf-102c0b7e29a7,2019-12-27,2026-02-23
-20110,Kowalski Acres Ltd,A,Canada,Manitoba,a5a1e05f-133e-4711-83ab-eff0f6f21cf9,2011-04-19,2016-11-22
-20403,Crenshaw S. Agri Partners,I,United States,Illinois,7ccf6e35-f432-40dc-87cb-675eefc3f33f,2016-02-18,2017-11-06
-20122,Kerrigan Farms LLC,A,United States,Minnesota,f04a1496-38fa-461e-97b3-ecad230c28bf,2017-08-24,2018-12-27
-20345,McAllister Grain Co,A,United States,Nebraska,6879eb14-0a31-49f4-9c92-4ba5fc4b861a,2009-01-22,
-20287,Novak Farms,A,United States,Minnesota,3089baad-584b-4c31-9746-b91b3ab9675a,2010-11-23,2012-09-25
-20223,Vandermeer Farms LLC,A,United States,Wisconsin,cd303904-5227-4dcc-823f-dc4be0f59576,2017-09-27,
-20035,Xiong Grain Co,A,United States,Ohio,5b082dfb-eb23-427a-bdf9-90741fd5fc42,2021-12-01,2022-01-27
-20070,Merriweather Family Farms Inc,A,United States,Iowa,7fca4430-5873-4185-9967-5c9ca50fd5a4,2021-04-30,
-20058,Rasmussen Farming Co,A,United States,Indiana,e317af08-6332-43fd-9625-6181a22f08fa,2020-08-31,2026-06-06
-20029,Okafor Grain Co,A,United States,Minnesota,3156d52d-1787-48dd-8ab7-9149ae96a845,2019-09-14,2020-08-17
-20008,Drummond Land & Cattle,A,United States,Indiana,32559dae-f276-454f-a1d3-199a384b9402,2022-04-04,2023-08-22
-20181,Girard Agri Partners,A,Canada,Saskatchewan,e52bdc8d-50a8-44c4-bcf8-ac0f2d8cad0a,2011-11-13,
-20324,Pemberton Grain Co,A,Australia,Western Australia,7d3471f3-6cc6-4932-b885-073a8bfc8158,2021-03-06,2021-06-09
-20373,Whitaker M. Land & Cattle,I,United States,Kansas,50534553-2643-4cc6-88de-c9371b9f4a60,2022-02-22,2026-06-08
-20133,Underhill Farms LLC,A,United States,North Dakota,d18d0e36-41d8-4590-8c82-cb0dbd8d3573,2014-03-13,
-20101,Prescott Land & Cattle,A,United States,Minnesota,4e5796e1-01c2-45bc-917c-61d56374d38e,2014-06-06,2024-04-03
-20171,Oberlin Ag Enterprises,A,Canada,Manitoba,f84ea536-4e6a-4b9f-a310-7ebfe2ee1526,2010-06-18,
-20149,Kowalski Ag Enterprises,A,Canada,Alberta,edda462c-1d87-4264-8f11-efc1e8a77980,2019-01-07,2022-03-29
-20381,Xiong B. Grain Co,I,United States,Kansas,f8896cb5-3355-4d1d-adb9-92dc201ec370,2011-08-04,
-20288,Brenner Ag Enterprises,A,United States,Nebraska,d1f9d9f5-89bf-4070-add5-16edd1f315af,2011-03-22,2016-09-07
-20038,Drummond Ag Enterprises,A,United States,Nebraska,2c1c6086-ffa8-47be-b5b2-60cd31cbdc32,2009-09-20,2025-06-20
-20080,McAllister & Sons,A,United States,Missouri,8108850c-9506-43b5-92d0-ecbbb03938e3,2016-02-09,2021-06-27
-20409,Okafor R. Farms,I,United States,Nebraska,a4a4e3c9-bff6-41d3-9803-688f77404980,2011-03-05,2019-12-02
-20026,Yoder Ag Enterprises,A,Canada,Alberta,42ffd3c7-e025-4722-9dde-b463c704cde7,2021-10-31,2023-11-08
-20353,Nordin Family Farms Inc,A,United States,South Dakota,747720ed-8195-49e8-924c-a5459de20e07,2017-12-15,2024-06-22
-20094,Falkner Land & Cattle,A,Canada,Saskatchewan,9afb4008-ea4d-45df-b0f9-eab889ceab6c,2021-02-11,2023-08-24
-20240,Yancey Ag Enterprises,A,United States,Wisconsin,db65d0dd-21be-45f3-a650-dd320094a5fb,2014-10-28,2022-04-26
-20244,Oberlin & Sons,A,United States,Kansas,31f4ec85-9d61-41ca-9d4e-c996046eab50,2011-07-11,
-20332,Albrecht Farms LLC,A,Australia,Queensland,0bd60aea-319a-48f5-93c0-77d1b50747ca,2021-04-24,2022-12-03
-20148,Ashworth Farms LLC,A,United States,North Dakota,9425e50e-f71e-4f4d-b0cc-80aa8dbeaa2e,2010-01-29,2018-03-22
-20346,McAllister Land & Cattle,A,United States,South Dakota,93bc8255-d513-4e27-8678-a6598dc9ade9,2018-03-04,2023-05-30
-20282,Baxter Family Farms Inc,A,Canada,Manitoba,d4bfac67-9f4d-4146-8dad-3e046a2f2db6,2013-04-03,2020-07-31
-20041,Reyes & Sons,A,United States,North Dakota,2a5a522c-1a4c-4586-8ad1-7bed759fd17c,2013-04-30,2014-10-23
-20354,Nordin Land & Cattle,A,United States,Indiana,063c5285-6051-4573-90c6-deefdcc04fcc,2016-02-01,
-20210,Winters Farms LLC,A,Canada,Saskatchewan,66c88d43-3186-4433-a3f7-3d2da309e389,2020-12-13,2025-05-03
-20186,Winters Ag Enterprises,A,United States,Nebraska,21c21b2f-5c58-4e4d-850e-a6db37fa6639,2019-09-24,2023-03-22
-20124,Eastman Farms LLC,A,United States,Missouri,50d1a460-2db4-4afe-9bf8-e683c16637a6,2015-05-24,2025-03-03
-20256,Nordin Agri Partners,A,Canada,Alberta,97dba5c6-0260-4d68-bba3-3f375da3cfe3,2019-07-02,2021-04-05
-20125,Delacroix Farms LLC,A,United States,Kansas,55ad0aed-de74-4cf9-9d3b-6f193900a056,2014-03-01,
-20162,Merriweather Farms LLC,A,Canada,Alberta,075bedcf-176f-4859-8df2-16150f302a34,2018-07-27,2020-09-11
-20185,Xiong Farms LLC,A,United States,North Dakota,cb0b757a-ec01-47c8-ae24-4cce54b23745,2013-08-23,2020-12-24
-20013,Ivanov Family Farms Inc,A,United States,Nebraska,94a10fad-9815-4ae3-a980-6d8f6c0b0715,2014-12-19,2019-06-01
-20221,Reyes Acres Ltd,A,Canada,Saskatchewan,e983ba1d-d3aa-41e9-8457-f75cd633a007,2014-04-17,2020-06-30
-20020,Crenshaw Ag Enterprises,A,United States,Wisconsin,ba4a0ea9-4e12-4b3f-b765-6ee6e144fe36,2009-05-30,2026-06-15
-20385,Boudreau S. Agri Partners,I,Canada,Alberta,7c87ab13-0481-4a84-b62b-5996a9e29aaf,2015-07-25,
-20204,Jablonski Agri Partners,A,United States,Iowa,6b538c02-cb1c-4329-93db-cda0bf9a3b80,2017-09-03,2021-11-09
-20187,Baxter Farms,A,United States,Iowa,3c11f3ba-f857-4700-8d89-80998aa01991,2016-02-07,2020-01-14
-20388,Falkner R. Ag Enterprises,I,United States,Illinois,ef7d7e3c-61cd-4590-9bf9-bd0d1f19860e,2022-03-10,2022-09-30
-20376,Brenner P. Land & Cattle,I,United States,Indiana,e6a03735-73bf-4d9a-8d20-048b2a0354ee,2018-05-26,2022-12-13
-20006,Whitaker Farms LLC,A,United States,Wisconsin,f0e4a50d-00f8-4d1c-baba-835f7df678ed,2010-12-08,
-20057,Xiong Agri Partners,A,United States,Minnesota,0bdd65d6-9f8a-4338-b2bf-740be3f9033e,2019-11-25,2021-08-20
-20377,Iverson F. Ag Enterprises,I,United States,Iowa,49303c2d-d8b0-4dc3-a132-42f9fd52a3e2,2015-08-23,2020-09-15
-20015,Falkner Family Farms Inc,A,United States,North Dakota,ffc46616-328f-40cd-979b-21564d880404,2016-12-05,2021-01-20
-20293,Hartley Land & Cattle,A,Canada,Alberta,82536881-f130-4920-8832-ba426f4de18e,2020-09-06,
-20032,Castellano Family Farms Inc,A,Canada,Saskatchewan,c7936fbd-6ab8-42a2-9cf4-f3dadfd51a38,2013-04-11,2021-11-19
-20326,Underhill Farms,A,Australia,Victoria,82ce2efa-a5de-4232-9e4d-1f2f6f0a002f,2020-02-10,2024-06-13
-20365,Steiner Farms LLC,A,United States,Minnesota,bd7597cc-98fb-4344-a250-8c66b73534ae,2017-04-18,2024-07-16
-20271,Girard & Sons,A,United States,Wisconsin,fb1ab61b-5571-44ba-9d44-4b98148cb9dc,2012-04-15,2020-05-09
-20260,Underhill Land & Cattle,A,Canada,Manitoba,feba0c4c-c143-4c86-b007-1a9cc5d82c2b,2022-12-24,
-20415,Brenner G. & Sons,A,United States,Ohio,88aacebc-de2b-4d47-b04d-0d95a55faf06,2014-05-15,2017-03-14
-20151,Crenshaw Agri Partners,A,United States,Ohio,7f3d6620-8e73-43b5-8b0d-1a19e637d1eb,2012-10-10,2020-05-14
-20069,Vandermeer Land & Cattle,A,United States,Indiana,951d007a-9451-4568-b42c-114c0673be6d,2018-06-11,2024-06-12
-20052,Steiner Land & Cattle,A,Canada,Manitoba,c5cbc3a5-ba1e-4edd-999b-cb7b92cd06d3,2020-12-10,2024-05-30
-20139,Drummond Grain Co,A,United States,Kansas,de508df9-58ae-4269-a6e2-9f2b556a596d,2017-01-11,2022-01-30
-20183,Brenner Farms,A,United States,Indiana,1eb83bd0-8879-44ac-90fb-a77d410fa9c0,2013-10-03,2021-02-18
-20340,Albrecht Farming Co,A,Australia,Victoria,1842481c-d5fb-4c20-a0dd-1fbce4349e26,2016-10-30,2019-09-08
-20242,Ivanov & Sons,A,United States,Missouri,be2d3aea-a6ad-482f-a69c-878f7f7dd20b,2012-03-06,2019-10-05
-20163,Iverson Farms LLC,A,United States,South Dakota,e329e316-df25-4d21-bf5a-8efbd46d534d,2011-08-23,2024-01-26
-20012,Boudreau Family Farms Inc,A,United States,Minnesota,2d3f9fbf-84d0-4003-8e9a-8a52b00cd50e,2021-12-01,2024-10-07
-20412,Nordin B. Farms,A,United States,Wisconsin,eb7454d0-80b9-46b3-8133-2ad02506d11b,2021-04-17,2022-08-09
-20028,Thompson & Sons,A,United States,Indiana,37adb71b-0f3e-4938-b5d3-5266ed0d55eb,2019-04-30,2022-05-31
-20325,Steiner Family Farms Inc,A,Australia,Victoria,1f5e920c-811d-429d-aea6-e59534424802,2015-07-23,2020-11-03
-20114,Ziegler & Sons,A,United States,North Dakota,6cc7353c-3616-47d8-9267-f66800647ebb,2010-11-11,2014-12-22
-20160,Hummel Agri Partners,A,United States,Missouri,8f7a466f-c027-461e-9f5c-7a45317d0da7,2014-06-28,
-20074,Novak Ag Enterprises,A,United States,Nebraska,24c5f1e2-797d-48e4-900e-3daa3a314970,2013-09-12,
-20091,Ashworth Farming Co,A,Canada,Manitoba,4f6f956c-6a13-45a6-b25f-9bd5ee32a81e,2017-06-05,2022-07-01
-20105,Reyes Farms LLC,A,United States,Kansas,1210863e-e666-40d9-bc19-6d22512e4ee4,2016-08-06,
-20253,Albrecht & Sons,A,United States,North Dakota,13d3fe64-e6bb-4ef9-a557-8984d47cff7a,2022-04-12,2026-06-10
-20266,Lockhart Grain Co,A,Canada,Ontario,0141b2c1-7b61-4fb4-bc0f-7472504d2f1c,2012-05-21,2019-05-19
-20302,Prescott Agri Partners,A,Canada,Saskatchewan,c1efacb2-8c80-4f11-a386-5aa6501d86ec,2012-10-21,2019-04-15
-20239,Lockhart Farms,A,United States,Ohio,f641a204-5786-4925-9ed3-3c69135baa9e,2009-02-27,2018-05-13
-20097,Nordin Farms,A,United States,South Dakota,f169fa01-d317-4a98-867d-576575eb9d49,2009-03-26,2023-09-21
-20108,Dietrich Family Farms Inc,A,United States,Wisconsin,703161fa-80af-4e5e-8d49-402f5b080844,2020-10-13,2021-01-29
-20121,Bergstrom Farming Co,A,Canada,Ontario,8fb2153c-428d-422e-bed6-18eb073cb1be,2020-10-25,2025-12-27
-20147,Marsh Grain Co,A,United States,Illinois,b719b80a-bd49-4ee5-ac11-423abdac34f6,2017-11-15,2021-08-16
-20144,Thompson Acres Ltd,A,United States,Indiana,d81cc23e-46f6-4c93-97df-25307e376517,2021-05-04,2025-08-24
-20022,Yancey Farms LLC,A,Canada,Ontario,fa94841d-09f6-4ea7-8dc4-5855ac837875,2012-12-26,
-20411,Winters T. Farming Co,A,United States,South Dakota,536cf58c-16bc-4eac-966f-e7c203b5e635,2020-09-20,2020-10-21
-20219,Girard Ag Enterprises,A,United States,Wisconsin,f87e9622-4c11-4233-8797-9c8a5c85abc5,2015-11-05,2023-09-26
-20255,Ferreira Acres Ltd,A,Canada,Manitoba,151897bd-6cbc-46f1-b1a2-8205ed166195,2017-03-19,2022-06-07
-20199,Boudreau & Sons,A,United States,Nebraska,6700e599-a95d-4d4b-9982-d710d2e8760a,2016-06-06,
-20060,Vandermeer Agri Partners,A,Canada,Manitoba,141525f7-38ce-4724-9617-064209f6a460,2017-01-24,2022-02-25
-20224,Delacroix Grain Co,A,Canada,Alberta,4cc549e0-b175-4896-a2bd-2e441dc0894a,2017-01-21,
-20191,Albrecht Ag Enterprises,A,Canada,Manitoba,0e398646-c694-4348-b22e-a605e3ae2ac0,2017-11-19,
-20049,Vandermeer Farming Co,A,United States,North Dakota,82a05339-7c59-4e62-8df4-8cff8e911973,2022-03-18,2025-09-11
-20310,Castellano Grain Co,A,Australia,Western Australia,612e8640-3a07-4dea-a45f-6a283c5a4d0a,2016-08-02,2022-08-19
-20003,Marsh Family Farms Inc,A,Canada,Manitoba,6416c67d-e250-4709-a771-d80a4e376d12,2011-02-24,2025-06-21
-20227,Tollefson Farming Co,A,United States,Illinois,42fe8332-b248-4553-8859-1f15314e3657,2020-02-28,2021-06-15
-20089,Dietrich Land & Cattle,A,United States,Indiana,b1fe3935-4ecd-4822-912a-d0f00611b0e4,2012-11-03,2018-05-28
-20322,Ferreira Grain Co,A,Australia,Western Australia,ac1034e5-55ac-46a7-a29f-cbaace9a7d63,2021-12-31,
-20100,Delacroix Agri Partners,A,United States,Illinois,54d0a098-dbef-4d3b-86f2-3ceca4cf66d3,2015-08-26,2024-11-14
-20115,Delacroix & Sons,A,Canada,Alberta,6c662fa7-7522-4fbc-a199-16f5032602b3,2013-06-02,2017-12-12
-20196,Steiner Farms,A,Canada,Alberta,9de704b0-ddaa-4494-a660-5fad9ffd7c8d,2017-02-12,2025-09-26
-20138,Pemberton & Sons,A,United States,Illinois,2f3d00e6-5d46-4398-aa4a-26824b6c5180,2012-02-25,2021-07-06
-20401,Kowalski T. Ag Enterprises,P,Canada,Manitoba,d7518b62-7772-4656-bed3-b93d87015b44,2019-11-08,2023-08-22
-20136,Nordin Ag Enterprises,A,Canada,Saskatchewan,695f3b9f-b9f8-42f3-bd12-1e508026d8af,2016-08-09,2025-07-16
-20408,Eastman H. Farming Co,I,United States,Illinois,0066feb8-0539-4749-a764-ae9be538103b,2009-06-27,2020-03-22
-20131,Albrecht Farms,A,United States,Nebraska,ec90e3d3-e912-439d-a3c8-7ecf78fbefc5,2015-01-27,
-20234,Oberlin Family Farms Inc,A,United States,Illinois,ab3da8b2-5ada-4b96-8c88-f1471bab026b,2010-04-29,2019-03-30
-20280,Falkner Acres Ltd,A,United States,Wisconsin,bec96ff5-3570-4721-9369-ba1222519984,2017-07-04,2025-01-28
-20400,Baxter R. Farming Co,I,United States,North Dakota,33beecbf-26d7-4633-9856-29ed98fa422e,2019-06-16,2023-12-31
-20165,Steiner Ag Enterprises,A,United States,South Dakota,ea21817b-b489-4303-ad0b-87867ae40dc4,2019-04-11,2026-02-12
-20343,Pemberton Farms,A,Australia,Western Australia,bf412b01-78e0-4834-b072-930271ff43b6,2011-03-23,2023-05-05
-20206,Castellano Agri Partners,A,United States,Minnesota,212767ad-ea88-4deb-9374-a7d5a9f9a88c,2012-10-25,2023-01-29
-20237,Lockhart & Sons,A,United States,Illinois,fde17282-2834-4d71-a42e-353e2c34b5da,2015-05-28,2015-07-05
-20309,Kerrigan Farms,A,Australia,New South Wales,881e3ea1-010f-47f5-ac00-c328513d59f2,2009-06-01,2025-09-20
-20209,Bergstrom Farms LLC,A,United States,Nebraska,30b0ef2d-80b6-432b-9a21-c2a3658d2210,2021-08-17,2025-06-27
-20304,Iverson Farming Co,A,Australia,Queensland,55e94eef-3727-42b2-ae05-db06c3cfb98b,2019-02-13,2021-09-23
-20103,Ivanov Farms,A,Canada,Saskatchewan,e89d32f4-c537-44d7-89f5-4f7fd50dbc7d,2012-03-04,2012-08-20
-20247,Holloway & Sons,A,United States,Iowa,c92747d4-8b6d-44d3-89e7-cee93cd89685,2013-08-14,2021-11-02
-20357,Whitaker Agri Partners,A,United States,Iowa,1acbf799-0315-4353-b0bc-b39787cebbc9,2019-03-04,2021-10-10
-20320,Eastman Agri Partners,A,Australia,Victoria,8b82e09b-4dd4-4a60-8f4c-a52af98214d7,2018-09-12,
-20169,Ivanov Land & Cattle,A,United States,Missouri,e4d212e9-5024-4f4d-98bf-6a2fb7143065,2010-02-08,2021-06-10
-20215,Pemberton Ag Enterprises,A,United States,Wisconsin,bb04b5fa-567a-4fb3-8ea3-0037f6cfa087,2020-06-06,2023-09-27
-20402,Ashworth R. Grain Co,I,Canada,Manitoba,29e14b55-6ea9-4315-82a6-3dee4bf85548,2017-07-27,2018-12-31
-20299,Hartley Ag Enterprises,A,Canada,Ontario,1560807d-7980-4694-b648-8b5179911f46,2021-05-18,2022-02-12
-20329,Thompson Family Farms Inc,A,Australia,Queensland,d7098d62-7dd3-4e96-9401-20e1a08ad00f,2019-02-08,2024-07-25
-20274,Dietrich Farming Co,A,Canada,Saskatchewan,1a2920b8-8de6-4282-86c6-99d82e560729,2011-12-12,
-20406,Vandermeer T. Ag Enterprises,I,Canada,Ontario,3ebdb590-6798-4ad3-bafd-2182761dcb00,2016-09-19,2024-03-23
-20177,Ziegler Farms LLC,A,United States,Indiana,c6e91245-452f-4f49-8ae3-e25dc4c8b3bd,2014-09-26,
-20251,Holloway Grain Co,A,United States,Missouri,d9d4df44-8de0-4320-8410-83b0ff361477,2019-04-22,2025-06-19
-20137,Drummond Family Farms Inc,A,United States,Iowa,483e6b85-f78a-4fcf-9210-04a0eb02e433,2021-03-21,
-20232,Crenshaw Acres Ltd,A,United States,Nebraska,3c6188ec-2534-4111-8757-f9603be8158a,2018-05-12,2023-02-18
-20301,Underhill Agri Partners,A,United States,Missouri,cd820f02-611d-48cd-9bdc-b5498f476494,2014-07-08,
-20338,Reyes Farms,A,Australia,Victoria,c729034a-2e3e-4635-8fb3-319d53981c58,2013-08-21,2019-01-14
-20297,Dietrich Farms,A,United States,Ohio,ece3bd64-88df-4de1-ac46-250b482559bd,2018-05-10,2021-03-14
-20019,Lindqvist Land & Cattle,A,Canada,Alberta,a568d17c-4f4b-4d44-a0ed-0ce583808c3a,2020-12-31,
-20249,Ziegler Grain Co,A,United States,North Dakota,e8c42174-bb80-4967-a18d-90d4b2feec66,2016-01-06,2026-03-02
-20195,Underhill Acres Ltd,A,Canada,Saskatchewan,94ccdd13-8985-4dbd-a220-1b28ff002b8e,2013-01-05,2013-09-10
-20384,Girard L. Farming Co,I,United States,Illinois,e0acba39-71a3-47ce-b69d-7fe4b9cd18a4,2021-05-20,2021-11-24
-20267,Kerrigan Agri Partners,A,United States,Minnesota,ee0508f3-069f-4f2c-b6b6-3cf18cb5a699,2019-11-24,2021-07-14
-20053,Winters Agri Partners,A,United States,South Dakota,d18693e3-527a-495c-b52d-6a123fdfdb10,2010-07-20,2018-04-22
-20321,Merriweather Ag Enterprises,A,Australia,Western Australia,94bd4891-eae7-42b4-afc5-3728e92f10bc,2012-02-01,2019-03-20
-20351,Girard Acres Ltd,A,United States,Illinois,6efb84cc-82bd-47e2-8044-78f3b5120fa5,2016-06-10,
-20312,Boudreau Ag Enterprises,A,Australia,Western Australia,e80de667-199c-46c1-99a7-4e1e5f79793d,2011-04-20,2015-08-25
-20043,Holloway Farms LLC,A,United States,Missouri,f46ba0c7-ad9f-49e2-8049-ed5875e010ed,2018-09-08,2021-09-27
-20361,Dietrich Agri Partners,A,Canada,Saskatchewan,18fc15fb-dae1-4ea0-bba8-50d20d94712d,2021-08-04,
-20184,Callahan Family Farms Inc,A,United States,South Dakota,3a03d042-9387-4922-a0f4-7bf0197e1b6b,2009-10-21,2019-10-27
-20252,Bergstrom Agri Partners,A,Canada,Alberta,ec1faf05-bf00-410d-a8e0-fd961e4b01a2,2015-10-18,2023-11-19
-20319,Iverson & Sons,A,Australia,Victoria,1e3779b6-b65e-482b-90ff-fdce0fcbf0cd,2017-06-28,
-20379,Iverson M. Farms,P,United States,Nebraska,a49e527b-5757-4206-a2e7-b35c79cdb46e,2017-05-26,2018-04-17
-20368,Iverson M. Land & Cattle,I,United States,North Dakota,417738b5-210a-4eb3-9933-e1a265585bac,2011-02-23,2022-10-15
 20098,Yoder Agri Partners,A,United States,Nebraska,7ecdec21-304b-45d1-870b-62387c977f57,2015-01-15,
-20279,Falkner Farms LLC,A,Canada,Manitoba,1c858e05-1a45-4d97-9c2f-5b91f5e3fe98,2015-06-22,2023-01-13
-20205,Nordin Acres Ltd,A,United States,South Dakota,f8697429-cbd8-4073-bfc3-211ebe2a639a,2019-10-06,2023-04-22
-20033,Albrecht Agri Partners,A,Canada,Saskatchewan,0ea79d69-5813-402e-b8fa-812e17245feb,2011-05-07,
-20344,Ferreira Farming Co,A,Australia,Queensland,7ac7e413-58b0-4b6f-97cf-5a18c58ce5f0,2010-11-26,2020-05-12
-20316,Callahan Land & Cattle,A,Australia,Queensland,e38338ea-95d1-4f9d-94bc-064279e52320,2021-09-03,2025-11-01
-20363,Prescott Grain Co,A,United States,North Dakota,7b93cbea-49a1-4a3d-82c0-5b73a52d1add,2018-01-25,2023-04-10
-20083,Baxter Farms LLC,A,United States,Nebraska,75c8df5e-9659-4055-a87c-d6fa03550b26,2011-03-29,
-20314,Merriweather Farming Co,A,Australia,Queensland,39bda168-cdc1-40a4-ae8a-3c8ff889ff0a,2014-03-13,2017-12-20
-20417,Underhill C. Family Farms Inc,A,United States,Minnesota,39208c0c-18e5-42db-9751-d3647e5f74bc,2019-07-22,2025-06-10
-20392,Winters A. Land & Cattle,I,United States,Missouri,da6bc6d3-8136-4b84-97d3-cd95ae4005f7,2019-03-19,2022-07-19
-20281,Okafor Farms LLC,A,Canada,Ontario,c4b4f1f3-9c67-450b-97f8-170666391e87,2011-07-07,
-20356,Drummond Agri Partners,A,United States,North Dakota,c54e92a7-bbfa-42f0-83fc-6facc599f671,2016-07-19,2025-05-29
-20009,Ashworth Family Farms Inc,A,United States,Indiana,c26ce5ed-28d3-44a6-bc0e-b9c2bcdc407d,2009-08-22,2025-05-18
-20300,Castellano Ag Enterprises,A,Canada,Ontario,b05150da-1d9e-4f44-a037-09a687e7f2c6,2009-07-12,2010-04-15
-20213,Lockhart Family Farms Inc,A,United States,Illinois,c95507d7-c1dc-4103-b3ee-f11e17468b33,2011-01-07,2012-02-09
-20407,Okafor M. Grain Co,I,United States,Minnesota,baf5833a-5eb9-4d0d-bb43-855a02024837,2012-03-30,2020-01-14
-20004,Holloway Acres Ltd,A,United States,Missouri,14e4fa29-646e-4926-b894-738c2bdd7568,2013-06-03,2016-05-18
-20283,Tollefson Agri Partners,A,United States,Kansas,1789c317-5e9e-428c-8464-47b472f53239,2019-08-02,2025-08-02
-20202,Falkner Grain Co,A,United States,Wisconsin,46c374d8-df4d-4c8f-b316-07241a484b8e,2015-02-17,
-20258,Okafor Ag Enterprises,A,United States,South Dakota,6e4ca23f-75a3-47cc-b6d3-c494a89710ef,2009-01-26,2012-01-27
-20002,Duval Ag Enterprises,A,Canada,Ontario,7d23012c-89b3-4bdc-aea0-5cb25fecfa91,2013-11-09,2016-04-25
-20141,Lockhart Farming Co,A,Canada,Ontario,cf634edd-bb1f-4f29-8de0-bee56f0403f2,2010-08-13,2019-05-13
-20352,Boudreau Acres Ltd,A,United States,Illinois,0e18df86-d668-472b-8396-7d0bce8d8fa3,2022-11-05,
-20102,Kowalski Grain Co,A,United States,Illinois,3a349731-8543-466b-9817-05bc144f9e7c,2015-02-22,2017-09-27
-20393,Ashworth T. Farms,P,United States,Iowa,fcec3259-cfdc-483f-979d-6fd31c8887ad,2020-10-29,2021-01-13
-20050,Yancey Farms,A,United States,South Dakota,c13911ec-a216-4afc-a8ac-5c20db61e10e,2010-01-02,2012-05-22
-20212,Boudreau Land & Cattle,A,Canada,Ontario,898a60ee-6e63-42e7-85df-e41186bb37d9,2013-07-06,2022-06-05
-20168,Ivanov Grain Co,A,Canada,Saskatchewan,6d37bcdc-8799-4707-bb5f-9beffd805b6b,2020-06-23,2021-02-09
-20264,Pemberton Family Farms Inc,A,United States,South Dakota,78d5ea70-a853-4bfe-a867-8667e88e8786,2010-10-01,2020-04-22
-20130,Merriweather Land & Cattle,A,United States,Minnesota,8ba66318-312b-4cd3-bc4c-5c2a4fbef6f2,2015-11-09,2022-01-02
-20236,Jablonski Family Farms Inc,A,United States,Indiana,546501dc-4221-4935-b3ad-ecb9507ef347,2012-03-16,2022-03-14
-20039,Winters Acres Ltd,A,Canada,Manitoba,d33f4c6c-3a65-48ed-aa28-4c511733409f,2019-08-20,2024-11-10
-20399,Marsh P. & Sons,I,United States,Iowa,d689a657-7c15-4ba5-a7ce-da814fdc6033,2014-03-10,2019-07-30
-20180,Castellano Farms LLC,A,United States,Missouri,af03a1b6-a435-4725-9451-deb26dc4c11b,2014-12-19,
-20337,Novak Land & Cattle,A,Australia,Victoria,a522031b-502b-49cb-9f30-7cdf25085fde,2013-01-27,2016-06-28
-20305,Ziegler Family Farms Inc,A,Australia,Queensland,382fc5d5-3bfb-4511-8f6b-67dd4579a4c6,2019-01-01,
-20036,Lockhart Agri Partners,A,United States,Minnesota,e0955cc4-f635-463a-8cc8-d96bc3be75b5,2016-07-08,2016-08-26
-20349,Hartley Grain Co,A,United States,South Dakota,dd86e366-64d6-46d9-87f3-aaba22172600,2011-09-23,
-20111,Xiong Farming Co,A,United States,Illinois,b8b6cb7d-f681-422e-8c84-e4ae13fd9112,2020-08-26,2026-03-12
-20179,Iverson Acres Ltd,A,United States,Indiana,fecd21ed-f945-4235-a2dd-663356cdfe15,2022-06-12,2026-04-11
-20339,Hummel Family Farms Inc,A,Australia,New South Wales,2e9eb4cf-a6f1-4269-aaa2-8af5ebda0d63,2014-04-06,2022-06-25
-20106,Callahan & Sons,A,United States,Ohio,19b65698-ea51-465e-a564-91dd48c5418c,2017-03-19,
-20296,Delacroix Farms,A,United States,Illinois,9ebf2045-986d-4a58-9b80-e46affa21f1a,2010-02-28,2023-03-10
-20245,Thompson Farms LLC,A,United States,Kansas,0a48f092-7b09-4362-ad38-ed7d5cd741bb,2015-07-01,2017-03-25
-20042,Jablonski Land & Cattle,A,United States,South Dakota,17dbf661-0202-4cfe-9e77-dbd7539c2c89,2015-02-26,2026-06-24
-20157,Thompson Ag Enterprises,A,United States,Kansas,30d19c27-4047-49a2-b528-16dfcf3f49ff,2017-02-25,2018-03-08
-20194,Rasmussen Land & Cattle,A,United States,Wisconsin,0952bedf-23c5-4d36-9306-32950ccabf47,2009-12-28,
-20323,Lindqvist Ag Enterprises,A,Australia,Western Australia,87ebff7e-82d3-49f6-8c27-512f7bc642c7,2018-10-23,2023-04-20
-20290,Hummel Land & Cattle,A,United States,Indiana,16d43fdb-9000-4c64-ad81-cc399c09f11a,2018-01-20,
-20119,Drummond Farms,A,United States,Ohio,ed3d4763-d5bb-4744-b411-fde2eccb1a00,2014-04-29,2017-10-26
-20397,Xiong T. Farms LLC,I,United States,South Dakota,0c80dc8f-7ff3-464c-8940-61af5c09a10c,2020-05-11,2025-05-25
-20016,Xiong & Sons,A,Canada,Manitoba,f1994e39-8ec9-45e1-a6c4-d8fa6caeee45,2015-03-17,
-20369,Iverson K. Farms,I,United States,Illinois,7e248434-f524-4375-ad7c-0f626e097e51,2018-01-09,
-20079,Girard Land & Cattle,A,United States,South Dakota,8226af76-20e3-4d73-8b87-242ffb8f41af,2017-03-30,2024-10-21
-20176,Iverson Grain Co,A,United States,Indiana,6cf44e42-5760-4a4a-a877-12333ea1203c,2013-03-07,2026-05-02
-20018,Whitaker & Sons,A,United States,Indiana,c19e8d69-82c4-4440-93f2-4fbeb75f2e7c,2013-08-31,
-20159,Hummel Ag Enterprises,A,United States,North Dakota,371e729a-0bba-4d6f-95b2-03b05c141536,2020-10-07,
-20017,Pemberton Acres Ltd,A,United States,Iowa,a5006798-db03-4431-84e5-e0b441de2e11,2009-06-27,2021-12-20
-20276,Ashworth Farms,A,United States,Indiana,86a333ad-3d9b-4aca-a87d-4c970b1851d6,2012-11-13,2014-08-03
-20292,Marsh Farming Co,A,United States,North Dakota,c551ae00-0f12-4b13-b0aa-a72179e8a672,2022-07-20,2024-08-26
-20229,Jablonski Acres Ltd,A,United States,Iowa,ed39ab80-fe66-4c64-bf27-aec6c34e6de7,2011-08-01,2015-03-12
-20235,Merriweather & Sons,A,United States,Illinois,54ea0aa5-59d0-4cae-996b-a6ffcf1c385b,2021-04-29,
-20189,Dietrich Farms LLC,A,United States,Minnesota,aece98ba-c483-4efa-a02a-e647fcb3cd58,2015-10-25,2019-06-18
-20073,Winters Land & Cattle,A,Canada,Ontario,6a49506e-bee1-4c50-846d-624101fbf956,2009-10-09,2013-01-17
-20085,Rasmussen Grain Co,A,United States,North Dakota,5af99691-9240-415f-862a-440bfdd27e37,2011-02-21,
-20145,Whitaker Farming Co,A,United States,Wisconsin,5f1e0e2e-9d4e-4aaa-84ef-ee6303ec61d9,2016-03-25,2025-05-16
-20289,Ivanov Acres Ltd,A,Canada,Alberta,b0ca972f-2770-42a0-abc0-c4eea7fbc26a,2011-08-05,2025-11-13
-20261,Callahan Grain Co,A,United States,North Dakota,9c925a18-97b5-4970-82ed-4d619c2c7bee,2010-10-25,2016-04-04
-20072,Yoder Farms,A,United States,South Dakota,e87f452b-88f8-4471-a89c-282ad50521ea,2014-08-02,
-20093,Merriweather Agri Partners,A,United States,Illinois,e37e79c6-5bcb-4926-8b2a-5eb1c52d6483,2019-07-26,
-20150,Xiong Acres Ltd,A,United States,Nebraska,193b3f79-c71f-4cd8-a8d8-746529309df5,2020-04-18,2023-08-18
-20372,Hartley R. Family Farms Inc,I,Canada,Alberta,fa463100-6cb4-4f20-93c7-bfe0816d9473,2009-01-18,2021-05-08
-20198,Quandt & Sons,A,United States,Kansas,65684b01-dc0b-4029-a605-54364d935759,2017-08-10,2022-10-14
-20383,Xiong R. & Sons,I,Canada,Manitoba,369b0247-e57c-4349-b671-0d761f64f11b,2010-09-20,2010-11-24
-20248,Rasmussen Family Farms Inc,A,United States,North Dakota,7f080072-11aa-4e82-8e76-e76d3071d146,2019-04-15,2025-02-15
-20092,Ferreira Family Farms Inc,A,United States,Kansas,fec1d074-f5a9-4a27-a79f-cf2db8951654,2010-07-01,2024-02-08
-20027,Rasmussen Farms LLC,A,United States,South Dakota,9056148e-64e4-47e1-8ba7-50b1bfb09536,2017-01-06,2018-08-23
-20355,Yancey Acres Ltd,A,United States,Missouri,ad3c0ec9-9f39-4936-a933-971e678fe074,2018-01-06,2026-02-22
-20298,Marsh Farms,A,United States,Ohio,5732e5b5-3c6c-4bea-8b53-4606042cd873,2015-07-04,2021-03-06
-20303,Drummond Farms LLC,A,Australia,New South Wales,da7e26a4-79ab-4489-8486-ce2bb6ce6b48,2010-09-09,2025-02-15
-20025,Hummel Farming Co,A,Canada,Saskatchewan,748442ef-64da-41b2-b7bb-d984a6ff026b,2018-03-09,2025-12-12
-20391,Yancey J. Acres Ltd,I,United States,Iowa,4d6334a4-7678-4f84-9b2a-4ff084424110,2020-05-18,
-20126,Baxter Acres Ltd,A,United States,Ohio,776f5b98-d8df-4692-8dcd-8e250c0bf8bb,2019-06-20,2022-06-04
-20208,Boudreau Farms,A,United States,South Dakota,cd4d3da0-1c10-461a-a9e9-03c583f90f1d,2021-04-22,2022-04-08
-20059,Novak Grain Co,A,Canada,Alberta,ef4da80d-c02f-45b9-a653-71fc77ce0708,2015-06-18,2023-02-23
+20131,Albrecht Farms,A,United States,Nebraska,ec90e3d3-e912-439d-a3c8-7ecf78fbefc5,2015-01-27,
+20288,Brenner Ag Enterprises,A,United States,Nebraska,d1f9d9f5-89bf-4070-add5-16edd1f315af,2011-03-22,2016-09-07
+20424,Rasmussen C. Farms,A,United States,Minnesota,b435c983-7356-4621-8f5f-b8a8e4189503,2017-05-12,2025-05-21
 20359,Oberlin Farms,A,United States,Ohio,4c59eb59-611c-461c-b4ac-f726413b650a,2020-12-14,
-20007,Ashworth Agri Partners,A,United States,Kansas,02ac515d-bb03-4ac5-9557-d43d5829e588,2021-02-06,2023-08-12
-20211,Reyes Land & Cattle,A,United States,Ohio,db211cc8-6542-470a-9778-12cdbb02b0fc,2012-08-31,2026-05-19
-20342,Drummond Acres Ltd,A,Australia,Queensland,b4a88690-ced8-4d28-bf95-e0b9b574ed94,2012-06-02,2015-02-07
-20062,Marsh Acres Ltd,A,United States,North Dakota,9a0a127c-e3af-4e80-8572-30d3899170ba,2014-07-21,2024-08-29
-20389,Reyes D. Farming Co,I,United States,Illinois,628c199a-36b9-43ff-b576-85a4131a3102,2022-03-17,2025-12-28
-20158,Whitaker Farms,A,United States,Wisconsin,404d3a63-3840-421c-a9fc-e2c88f3bb2ff,2009-09-18,2012-10-15
-20378,Hartley C. & Sons,I,United States,Nebraska,33fe5b5b-b9e1-412e-b64e-efa41f4b0aa6,2013-01-09,2025-08-04
-20175,Dietrich Ag Enterprises,A,United States,North Dakota,c3277215-be2a-4f26-af78-d3d02f369fff,2021-12-11,2022-01-20
-20161,Rasmussen Farms,A,United States,Wisconsin,9d33915e-1d87-41e5-9edb-edafdf0a60f9,2015-12-04,2016-07-01
-20308,Callahan Agri Partners,A,Australia,Queensland,02b87bf0-d17f-40dd-bc92-ba05321d0fd4,2014-01-22,
-20273,Quandt Family Farms Inc,A,United States,Ohio,3f9ced16-e31d-4da8-868f-fbb3f2d752b5,2021-06-27,2024-03-25
-20128,Holloway Land & Cattle,A,United States,Minnesota,0aa5b745-76c2-41e5-9149-677364971840,2022-06-29,2025-08-05
-20113,Duval Farms LLC,A,Canada,Saskatchewan,fe9c2d6a-8460-48bf-b060-42de50b5e6b1,2020-07-19,2021-01-20
-20044,Winters Farms,A,United States,Wisconsin,19e13f3d-43a8-4d63-89cf-27d6335c0fbd,2016-10-26,2019-07-21
-20011,Marsh & Sons,A,Canada,Alberta,10b76db3-6833-4a55-8a8b-9beae16ec917,2010-09-07,2020-08-30
-20172,McAllister Farms,A,United States,Iowa,8feacae7-e36c-4477-bb78-7721d211e4e4,2022-01-16,
-20132,Eastman Land & Cattle,A,United States,Nebraska,367a9749-0334-45b8-b21b-030053766469,2019-05-06,2022-12-16
-20333,Ferreira Ag Enterprises,A,Australia,Queensland,0e8c681d-c1ac-4c43-9ac4-5b5de7bab930,2015-11-08,
-20360,Quandt Farming Co,A,Canada,Saskatchewan,af3501c4-03b1-45b2-b39a-375bda6468dc,2016-08-14,2018-02-03
-20335,Kerrigan Land & Cattle,A,Australia,Victoria,7b8c704c-d255-4b5b-9eed-87c413effaf0,2018-12-10,2024-07-17
-20155,Brenner Acres Ltd,A,United States,Minnesota,9b29a003-e7ba-445d-9be0-e722db22fd82,2014-09-19,2024-03-30
-20078,Whitaker Grain Co,A,United States,Minnesota,1148f20e-26ad-4d4c-9417-40948c882de1,2020-07-13,
-20021,Nordin Farms LLC,A,United States,Missouri,24c74ffe-359b-47d4-8871-6b42141d2b41,2022-10-12,2026-06-10
-20405,Prescott T. Agri Partners,I,United States,Wisconsin,7c5db763-c0e8-4e9d-849d-b9e7cfc1b958,2009-01-03,
-20127,Drummond Farming Co,A,Canada,Manitoba,3048e989-d12c-4a76-845a-b9b95d21d423,2011-01-25,2018-09-19
-20051,Kerrigan & Sons,A,Canada,Ontario,ca54a051-7edc-4181-9daf-d34c97736791,2009-06-05,2013-04-26
-20112,Reyes Ag Enterprises,A,United States,North Dakota,1dcffb45-689c-4bc2-a0b5-e908b385f7d5,2021-10-19,2023-08-12
-20056,Iverson Agri Partners,A,Canada,Saskatchewan,a3292632-5784-4fea-aba0-e6ad4804f7ab,2020-10-18,2023-05-03
-20065,Xiong Farms,A,United States,Ohio,e996193a-f1f3-4f8f-9234-13afdd8ff6d4,2022-10-22,2023-05-10
-20129,Oberlin Farming Co,A,United States,Kansas,0dcb11ae-9e69-4fb7-9732-b3dcf1f5d235,2021-12-30,
-20081,Hartley Farms LLC,A,United States,Wisconsin,ad09e104-b745-4e4f-aadb-99c228f33db4,2022-03-20,2025-03-25
-20090,Lockhart Farms LLC,A,United States,Iowa,199b5cfa-87c8-4cf8-be2c-3cf94f02ab6c,2017-07-29,
-20225,Hummel Farms LLC,A,Canada,Alberta,147d4883-36e3-492b-be6d-bc1373f9ee0b,2021-01-01,
-20116,Yoder Farms LLC,A,United States,Minnesota,396ffa3a-f07f-4b12-8680-b25091c25555,2013-12-20,2015-02-16
-20217,Castellano & Sons,A,United States,Iowa,26ece562-1437-4b5b-9765-d4dabc59cd48,2014-06-15,2016-08-06
-20067,Okafor Acres Ltd,A,United States,Illinois,b011e9a4-f5e3-44f2-b561-e36520b2b529,2017-05-06,2025-08-28
-20387,Reyes E. Farms LLC,I,United States,Nebraska,86ef7c06-1b39-4714-bde8-3ad7e848c46b,2010-09-30,2016-09-18
-20188,Falkner Farms,A,Canada,Manitoba,e36ce98b-6ae8-4b9e-b334-97c0a039a2c2,2013-05-17,2015-08-28
-20203,Quandt Ag Enterprises,A,United States,Wisconsin,57b2cdf8-1807-4256-b228-68515c242a78,2020-01-25,2025-09-07
-20286,Hartley Farming Co,A,United States,South Dakota,e02b5cc2-93cd-4744-bb54-f8889599ef5f,2019-01-31,2026-05-18
-20123,Duval Acres Ltd,A,Canada,Saskatchewan,8d52f2a8-eda7-4e3a-9296-bb43bc9f461c,2012-01-12,2020-05-06
-20005,Eastman Family Farms Inc,A,Canada,Alberta,93320d9a-4f6c-4f4f-8d9b-530b68b90bbb,2011-10-17,
-20156,Underhill Farming Co,A,United States,Minnesota,6e6773f7-dd21-4079-a426-4016317f9e0a,2017-06-25,
-20088,Lindqvist Farms LLC,A,United States,Nebraska,8c0047a4-6fec-4db1-ba10-e3fc2b7076e6,2009-01-08,2011-01-14
-20386,Nordin M. Family Farms Inc,P,Canada,Alberta,85f47ceb-6a42-4312-915e-934cc5a16718,2013-10-10,
-20347,Eastman Farms,A,United States,Iowa,ec1997f1-a66b-4afa-915b-df3e0ecb78b7,2017-12-04,2019-02-06
-20143,Hartley Acres Ltd,A,Canada,Saskatchewan,8546aaba-5a77-4dbc-8da8-5f87e5fe989f,2010-11-04,2017-07-29
-20063,Brenner & Sons,A,United States,North Dakota,bb0837db-d196-4755-b6b8-38dc14c80bcb,2014-02-09,2025-10-11
-20086,Dietrich Acres Ltd,A,Canada,Saskatchewan,f1a743f2-3ddb-4bd5-a4e6-9f7a99bc96f6,2015-09-16,2020-03-22
-20395,Steiner K. Grain Co,I,United States,Wisconsin,b0bb56ab-a138-4d80-8834-4612ea7b3857,2022-02-01,2022-10-30
-20099,Oberlin Land & Cattle,A,United States,Indiana,99461fcd-5a85-493a-9065-4321092922a0,2015-03-21,2025-10-06
-20285,Eastman Ag Enterprises,A,United States,Kansas,acff2061-0660-4e89-b278-4f5141bead84,2010-01-01,2017-08-11
-20207,Duval Grain Co,A,Canada,Alberta,0956bdd8-20d4-460f-ba16-4ab4c9c1a8e6,2014-05-15,2016-08-31
-20117,Prescott & Sons,A,United States,Ohio,8bb44fd0-a7e3-432e-a4b3-1b55ab8849c3,2020-09-12,
-20362,Pemberton Land & Cattle,A,Canada,Manitoba,b319bcee-a84e-4ab4-a80b-2da20419cf03,2016-12-04,2018-06-02
-20277,Marsh Farms LLC,A,United States,Minnesota,3f55bb8c-4473-434b-8f41-736f35be5b99,2014-03-28,2022-12-08
-20048,Jablonski & Sons,A,Canada,Alberta,6e52550d-9a44-4cea-bcea-fa46760d566f,2010-03-13,2026-06-02
-20348,Yancey Family Farms Inc,A,United States,Illinois,b5a3ac25-b7ee-4624-96e7-8dceab654e8b,2022-05-24,2025-08-22
-20192,Lindqvist Farms,A,Canada,Saskatchewan,d1829889-5bfa-4d37-a2b8-e4b8e6c3540e,2017-12-16,2023-07-30
-20068,Crenshaw Farming Co,A,United States,Nebraska,81e9bfd3-4bdf-4467-9bd4-caa0447308cd,2009-12-16,2014-11-21
-20120,Delacroix Land & Cattle,A,United States,Indiana,c7e70e57-63af-4328-a9f4-8f968f119d8f,2015-10-01,2021-02-20
-20269,Reyes Grain Co,A,United States,Iowa,cedfe019-e607-468a-b806-6112f5b34eb7,2014-12-29,2023-06-23
-20134,Thompson Farming Co,A,United States,Missouri,fe937538-4c17-4864-a9e5-f41e32bd41d9,2020-12-11,2023-10-20
-20262,Underhill & Sons,A,United States,Ohio,d52fa0fb-e738-4db1-9310-b9b6fcf54e34,2016-11-08,2025-12-07
-20046,Quandt Agri Partners,A,United States,North Dakota,dab1723f-e51c-4b05-be67-7b4f0aa2e3c9,2017-08-20,2020-07-04
-20096,Ziegler Farms,A,United States,Missouri,4c781d07-fce1-4442-9144-25a7299c74fe,2018-06-08,
-20190,Okafor Land & Cattle,A,United States,South Dakota,58471859-dba2-4a2c-a1f4-a30830e866c0,2022-04-24,
-20109,Rasmussen Acres Ltd,A,United States,Ohio,ec4eb309-fcb1-459d-89e1-35eef92310de,2012-03-26,2013-10-12
-20336,Ivanov Agri Partners,A,Australia,Western Australia,50112aa2-e16c-4e25-b1f4-4d3a7e0f0e08,2015-06-08,2021-12-29
-20364,Bergstrom Grain Co,A,United States,Indiana,8a82c30d-1068-4148-9ed0-dd3a8a0a8882,2010-08-30,2019-02-04
-20201,Vandermeer Ag Enterprises,A,United States,Iowa,d089ac33-303a-4031-95a8-5c20f6e166d2,2017-03-14,
-20272,Crenshaw Family Farms Inc,A,United States,Ohio,c9cbfa98-ac9f-4ed0-8beb-5e2bdcdffa4d,2021-06-01,2023-02-26
-20064,Brenner Land & Cattle,A,United States,Ohio,2c93594b-7541-4881-9bdb-232b7bc19f41,2019-11-26,2020-06-18
-20001,Ziegler Acres Ltd,A,United States,North Dakota,e2f0124e-da24-4053-b18a-7e58a302dace,2021-04-17,2026-06-03
-20200,Kowalski Land & Cattle,A,United States,Kansas,d1e94e3b-d18b-4257-af97-158f0a562131,2021-08-27,
-20014,Oberlin Grain Co,A,United States,Iowa,e2dfac12-7717-49fa-9891-f12eab9bea5f,2011-01-27,2014-03-29
-20095,Dietrich Grain Co,A,United States,Wisconsin,19c3b869-8421-46c9-b981-4e8c17c25aa3,2014-06-15,
-20010,Steiner & Sons,A,United States,Minnesota,e1725e6c-db20-415f-bdfe-5a27503136db,2014-05-02,2015-01-29
-20416,Jablonski L. Farms LLC,A,United States,Iowa,874892c8-65de-47f1-9249-e46b427d2acb,2016-03-03,
-20154,Iverson Ag Enterprises,A,United States,Wisconsin,e0d11bce-06a0-4e17-86ac-90cbe34562c3,2014-04-21,2016-12-24
-20419,Whitaker B. Farms LLC,A,United States,Wisconsin,dcbf9920-b405-41b5-94b3-6121f84795f6,2019-01-26,2022-01-20
-20173,Okafor & Sons,A,United States,Kansas,8ac4eea3-f5ba-44ca-9ee6-97c58a7e6a8b,2020-09-25,2024-03-20
-20330,Yoder Family Farms Inc,A,Australia,New South Wales,139e5fa7-6d11-4055-91c6-64f18390bee3,2017-11-12,2021-03-11
-20390,Tollefson F. & Sons,I,United States,South Dakota,80cfd87d-6b36-4665-ac9b-27b5c56ca527,2021-11-24,2025-11-04
-20075,Duval Agri Partners,A,United States,North Dakota,f4cc99ea-4da9-4040-a63f-cea6482a8095,2020-07-27,
-20396,Oberlin M. Ag Enterprises,P,United States,Illinois,183ebf43-58c6-4ab9-bb15-c38179de8195,2019-11-28,2020-09-12
-20047,Vandermeer Family Farms Inc,A,United States,Indiana,ef160448-bc46-4f53-aa19-34dc1bd08716,2022-03-31,2023-04-27
-20024,Okafor Agri Partners,A,United States,Missouri,4bdea64c-4643-4ac1-a154-7fba5e4eff7c,2022-05-24,
-20087,Jablonski Grain Co,A,United States,Wisconsin,53588a8b-3e5c-47a7-a53f-9a3868a596ae,2020-04-10,2022-11-15
-20164,Bergstrom Farms,A,United States,Kansas,c2747bdb-c4a7-4e3a-8d60-edd057662950,2021-01-16,2022-10-08
-20275,Baxter Farming Co,A,Canada,Manitoba,96612f6d-e21a-4501-9a41-b40a634766dd,2017-02-03,2025-01-07
-20375,Winters B. & Sons,P,United States,Ohio,7a171081-91bc-4f89-9f7d-684783019e3b,2022-12-09,
-20166,Girard Farms,A,United States,Illinois,53dc5777-5d05-4c1d-ae5a-102516382bd7,2013-04-24,2018-10-29
-20317,Yoder & Sons,A,Australia,Western Australia,458d11e8-26c2-4450-bc5b-d768fad5ffb4,2012-02-13,
-20307,Callahan Farming Co,A,Australia,Western Australia,229c5a7d-931a-4a81-9729-81ef45a7482a,2018-07-01,2019-04-09
-20371,Albrecht F. Agri Partners,I,United States,South Dakota,749729dd-73b1-4b01-ace4-1e29c73de4e7,2012-11-06,2024-08-03
-20045,Quandt Grain Co,A,Canada,Ontario,2a6c187a-6912-4d82-ae7e-3162e5620534,2020-05-19,2020-11-26
-20174,Kerrigan Farming Co,A,United States,Illinois,81ec0c23-1d2b-4fe3-9e2a-8f36f0586293,2013-01-13,2019-05-14
-20250,Bergstrom Acres Ltd,A,Canada,Ontario,a8c8498e-e6f5-4474-8846-d3a784af154d,2020-06-10,2025-03-21
-20231,Ferreira Agri Partners,A,United States,North Dakota,78c74163-22c5-49c8-8bfc-0dddbd47dc74,2013-09-12,2022-11-11
-20367,Thompson K. Grain Co,P,United States,Wisconsin,70897c29-8e9b-408d-9349-9018f4935c17,2009-06-04,2020-02-21
-20135,Ashworth Acres Ltd,A,Canada,Ontario,bbca98b0-c7af-4fbc-9d66-f2559201d690,2015-08-10,2016-08-04
-20318,Pemberton Farming Co,A,Australia,Western Australia,7d93e46c-9a4d-42ae-9eff-530845fc888c,2022-09-03,2024-08-01
-20153,Steiner Acres Ltd,A,United States,Iowa,8b99667d-4acd-41b8-8c81-4532898253ae,2014-02-18,2025-04-22
-20278,Hummel Farms,A,United States,Indiana,ca4ffcb8-b36e-4349-942a-b4d027b1cb0f,2012-06-22,2017-06-22
-20040,Whitaker Land & Cattle,A,United States,Nebraska,7301dde0-c0f7-4adc-bd25-7cf84f202dc1,2013-06-15,2014-01-15
-20220,McAllister Acres Ltd,A,Canada,Saskatchewan,e3e51018-54d7-4c61-ab85-257482d8d916,2009-11-15,2015-07-05
-20306,Eastman & Sons,A,Australia,Western Australia,4987fee4-421d-4a27-848f-c7aa75221669,2012-08-31,2015-01-19
-20327,Yoder Farming Co,A,Australia,Queensland,44b319e9-9068-4713-b6ae-829d678aaa31,2010-12-25,2022-08-14
-20031,Whitaker Family Farms Inc,A,Canada,Alberta,b61d6ed4-f0ca-4c59-b9e3-6e32907c5acb,2019-12-01,
-20077,Kowalski Family Farms Inc,A,Canada,Ontario,d1aa1ade-84a8-4942-bb95-258c10ba3f8e,2020-10-17,
-20313,Hummel Acres Ltd,A,Australia,Victoria,4d76abe4-0f6c-468c-ad36-989ade33c319,2018-11-09,2021-03-30
-20170,Eastman Farming Co,A,United States,Indiana,01cac262-afc9-4f00-ad42-f886073e302c,2018-10-10,
-20374,Bergstrom J. & Sons,I,United States,North Dakota,60ad8db3-8271-4672-8e36-9566f2451e56,2016-12-13,
-20350,Oberlin Farms LLC,A,United States,Iowa,08618c8d-6eea-4f19-a779-987a312056c1,2010-03-19,2026-02-17
-20263,Nordin Farming Co,A,United States,Wisconsin,0f5c1017-c244-47a7-ba8a-b3f16552ea8b,2010-07-07,2011-06-06
-20023,Kowalski Farming Co,A,United States,Missouri,544ba1f2-f269-4d84-9ce6-dac9cb4e7900,2020-07-30,2024-08-20
+20118,Ivanov Farms LLC,A,United States,Missouri,3337082c-a77e-40f8-b3a1-52bc49559daf,2009-06-19,2021-06-30
+20191,Albrecht Ag Enterprises,A,Canada,Manitoba,0e398646-c694-4348-b22e-a605e3ae2ac0,2017-11-19,
+20004,Holloway Acres Ltd,A,United States,Missouri,14e4fa29-646e-4926-b894-738c2bdd7568,2013-06-03,2016-05-18
 20394,Okafor B. Agri Partners,I,United States,South Dakota,69245c7c-350a-4aad-8eef-cefaeaa3492a,2017-06-16,2019-06-05
-20358,Duval Family Farms Inc,A,United States,Indiana,2d90e583-c3dc-43ee-8226-ee47e8f1d439,2020-11-17,2025-10-26
-20284,Hummel Grain Co,A,United States,Ohio,61eeba53-7680-4019-997f-4f1380ecc5e6,2012-06-16,
-20328,Albrecht Acres Ltd,A,Australia,Victoria,c134fe51-2e52-4aab-9187-760a197a6326,2012-03-31,2024-11-12
-20182,Xiong Ag Enterprises,A,United States,Indiana,1f72abee-293a-409d-a32e-bd0296254078,2017-06-02,2025-12-03
-20076,Boudreau Grain Co,A,Canada,Ontario,79d33d61-6bb1-40bd-8c06-b4b26607b8a1,2016-07-25,2019-06-22
+20179,Iverson Acres Ltd,A,United States,Indiana,fecd21ed-f945-4235-a2dd-663356cdfe15,2022-06-12,2026-04-11
+20297,Dietrich Farms,A,United States,Ohio,ece3bd64-88df-4de1-ac46-250b482559bd,2018-05-10,2021-03-14
+20363,Prescott Grain Co,A,United States,North Dakota,7b93cbea-49a1-4a3d-82c0-5b73a52d1add,2018-01-25,2023-04-10
+20239,Lockhart Farms,A,United States,Ohio,f641a204-5786-4925-9ed3-3c69135baa9e,2009-02-27,2018-05-13
+20021,Nordin Farms LLC,A,United States,Missouri,24c74ffe-359b-47d4-8871-6b42141d2b41,2022-10-12,2026-06-10
 20382,Quandt F. Farming Co,I,Canada,Alberta,61a1945f-d3bd-4119-91eb-e9876333116c,2015-06-28,
-20254,Baxter Land & Cattle,A,United States,Illinois,1ef32b7b-bb98-4d9c-846b-a46462f6a912,2018-08-30,2021-04-09
+20238,Baxter Grain Co,A,United States,Minnesota,fc0ef2a8-0113-44e9-aa8f-4deedc2a0758,2010-07-26,2012-11-28
+20122,Kerrigan Farms LLC,A,United States,Minnesota,f04a1496-38fa-461e-97b3-ecad230c28bf,2017-08-24,2018-12-27
+20100,Delacroix Agri Partners,A,United States,Illinois,54d0a098-dbef-4d3b-86f2-3ceca4cf66d3,2015-08-26,2024-11-14
+20373,Whitaker M. Land & Cattle,I,United States,Kansas,50534553-2643-4cc6-88de-c9371b9f4a60,2022-02-22,2026-06-08
+20129,Oberlin Farming Co,A,United States,Kansas,0dcb11ae-9e69-4fb7-9732-b3dcf1f5d235,2021-12-30,
+20076,Boudreau Grain Co,A,Canada,Ontario,79d33d61-6bb1-40bd-8c06-b4b26607b8a1,2016-07-25,2019-06-22
 20257,Baxter Agri Partners,A,United States,Missouri,d746bf56-9129-4c2f-9be3-79104c0ede78,2018-01-08,
-20066,Ziegler Farming Co,A,United States,Minnesota,28552231-aa3e-4f95-aace-f12f2dce033d,2016-03-11,2019-02-12
+20094,Falkner Land & Cattle,A,Canada,Saskatchewan,9afb4008-ea4d-45df-b0f9-eab889ceab6c,2021-02-11,2023-08-24
+20065,Xiong Farms,A,United States,Ohio,e996193a-f1f3-4f8f-9234-13afdd8ff6d4,2022-10-22,2023-05-10
+20043,Holloway Farms LLC,A,United States,Missouri,f46ba0c7-ad9f-49e2-8049-ed5875e010ed,2018-09-08,2021-09-27
+20249,Ziegler Grain Co,A,United States,North Dakota,e8c42174-bb80-4967-a18d-90d4b2feec66,2016-01-06,2026-03-02
+20206,Castellano Agri Partners,A,United States,Minnesota,212767ad-ea88-4deb-9374-a7d5a9f9a88c,2012-10-25,2023-01-29
+20089,Dietrich Land & Cattle,A,United States,Indiana,b1fe3935-4ecd-4822-912a-d0f00611b0e4,2012-11-03,2018-05-28
+20183,Brenner Farms,A,United States,Indiana,1eb83bd0-8879-44ac-90fb-a77d410fa9c0,2013-10-03,2021-02-18
+20181,Girard Agri Partners,A,Canada,Saskatchewan,e52bdc8d-50a8-44c4-bcf8-ac0f2d8cad0a,2011-11-13,
+20086,Dietrich Acres Ltd,A,Canada,Saskatchewan,f1a743f2-3ddb-4bd5-a4e6-9f7a99bc96f6,2015-09-16,2020-03-22
+20097,Nordin Farms,A,United States,South Dakota,f169fa01-d317-4a98-867d-576575eb9d49,2009-03-26,2023-09-21
+20212,Boudreau Land & Cattle,A,Canada,Ontario,898a60ee-6e63-42e7-85df-e41186bb37d9,2013-07-06,2022-06-05
+20134,Thompson Farming Co,A,United States,Missouri,fe937538-4c17-4864-a9e5-f41e32bd41d9,2020-12-11,2023-10-20
+20333,Ferreira Ag Enterprises,A,Australia,Queensland,0e8c681d-c1ac-4c43-9ac4-5b5de7bab930,2015-11-08,
+20420,Girard E. Family Farms Inc,A,Canada,Manitoba,569d1f0f-1551-448c-8067-a172bdc2a3d6,2018-12-11,2024-12-19
+20321,Merriweather Ag Enterprises,A,Australia,Western Australia,94bd4891-eae7-42b4-afc5-3728e92f10bc,2012-02-01,2019-03-20
+20274,Dietrich Farming Co,A,Canada,Saskatchewan,1a2920b8-8de6-4282-86c6-99d82e560729,2011-12-12,
+20254,Baxter Land & Cattle,A,United States,Illinois,1ef32b7b-bb98-4d9c-846b-a46462f6a912,2018-08-30,2021-04-09
+20226,Oberlin Agri Partners,A,United States,Illinois,b05564ef-6a84-451e-af65-1042a5d7ab0e,2010-07-19,
+20275,Baxter Farming Co,A,Canada,Manitoba,96612f6d-e21a-4501-9a41-b40a634766dd,2017-02-03,2025-01-07
+20113,Duval Farms LLC,A,Canada,Saskatchewan,fe9c2d6a-8460-48bf-b060-42de50b5e6b1,2020-07-19,2021-01-20
+20302,Prescott Agri Partners,A,Canada,Saskatchewan,c1efacb2-8c80-4f11-a386-5aa6501d86ec,2012-10-21,2019-04-15
+20137,Drummond Family Farms Inc,A,United States,Iowa,483e6b85-f78a-4fcf-9210-04a0eb02e433,2021-03-21,
+20144,Thompson Acres Ltd,A,United States,Indiana,d81cc23e-46f6-4c93-97df-25307e376517,2021-05-04,2025-08-24
+20370,Drummond D. Acres Ltd,I,United States,South Dakota,dfaeacb6-73fa-415b-848c-d81011bc127f,2021-02-23,
+20328,Albrecht Acres Ltd,A,Australia,Victoria,c134fe51-2e52-4aab-9187-760a197a6326,2012-03-31,2024-11-12
+20180,Castellano Farms LLC,A,United States,Missouri,af03a1b6-a435-4725-9451-deb26dc4c11b,2014-12-19,
+20220,McAllister Acres Ltd,A,Canada,Saskatchewan,e3e51018-54d7-4c61-ab85-257482d8d916,2009-11-15,2015-07-05
+20327,Yoder Farming Co,A,Australia,Queensland,44b319e9-9068-4713-b6ae-829d678aaa31,2010-12-25,2022-08-14
+20399,Marsh P. & Sons,I,United States,Iowa,d689a657-7c15-4ba5-a7ce-da814fdc6033,2014-03-10,2019-07-30
+20266,Lockhart Grain Co,A,Canada,Ontario,0141b2c1-7b61-4fb4-bc0f-7472504d2f1c,2012-05-21,2019-05-19
+20392,Winters A. Land & Cattle,I,United States,Missouri,da6bc6d3-8136-4b84-97d3-cd95ae4005f7,2019-03-19,2022-07-19
+20305,Ziegler Family Farms Inc,A,Australia,Queensland,382fc5d5-3bfb-4511-8f6b-67dd4579a4c6,2019-01-01,
+20231,Ferreira Agri Partners,A,United States,North Dakota,78c74163-22c5-49c8-8bfc-0dddbd47dc74,2013-09-12,2022-11-11
+20215,Pemberton Ag Enterprises,A,United States,Wisconsin,bb04b5fa-567a-4fb3-8ea3-0037f6cfa087,2020-06-06,2023-09-27
+20264,Pemberton Family Farms Inc,A,United States,South Dakota,78d5ea70-a853-4bfe-a867-8667e88e8786,2010-10-01,2020-04-22
+20384,Girard L. Farming Co,I,United States,Illinois,e0acba39-71a3-47ce-b69d-7fe4b9cd18a4,2021-05-20,2021-11-24
+20401,Kowalski T. Ag Enterprises,P,Canada,Manitoba,d7518b62-7772-4656-bed3-b93d87015b44,2019-11-08,2023-08-22
+20069,Vandermeer Land & Cattle,A,United States,Indiana,951d007a-9451-4568-b42c-114c0673be6d,2018-06-11,2024-06-12
+20011,Marsh & Sons,A,Canada,Alberta,10b76db3-6833-4a55-8a8b-9beae16ec917,2010-09-07,2020-08-30
+20055,Bergstrom Land & Cattle,A,United States,Minnesota,0f1f7ade-c119-4e72-8445-b7f31ae0b07a,2015-02-25,2021-04-16
+20237,Lockhart & Sons,A,United States,Illinois,fde17282-2834-4d71-a42e-353e2c34b5da,2015-05-28,2015-07-05
+20342,Drummond Acres Ltd,A,Australia,Queensland,b4a88690-ced8-4d28-bf95-e0b9b574ed94,2012-06-02,2015-02-07
+20192,Lindqvist Farms,A,Canada,Saskatchewan,d1829889-5bfa-4d37-a2b8-e4b8e6c3540e,2017-12-16,2023-07-30
+20008,Drummond Land & Cattle,A,United States,Indiana,32559dae-f276-454f-a1d3-199a384b9402,2022-04-04,2023-08-22
+20105,Reyes Farms LLC,A,United States,Kansas,1210863e-e666-40d9-bc19-6d22512e4ee4,2016-08-06,
+20310,Castellano Grain Co,A,Australia,Western Australia,612e8640-3a07-4dea-a45f-6a283c5a4d0a,2016-08-02,2022-08-19
+20481,Hartley Family Farms Inc,A,United States,Iowa,c91b6a02-42fd-4e77-a8b3-91d0f2e6c554,2014-03-19,2025-11-02
+20229,Jablonski Acres Ltd,A,United States,Iowa,ed39ab80-fe66-4c64-bf27-aec6c34e6de7,2011-08-01,2015-03-12
+20132,Eastman Land & Cattle,A,United States,Nebraska,367a9749-0334-45b8-b21b-030053766469,2019-05-06,2022-12-16
+20189,Dietrich Farms LLC,A,United States,Minnesota,aece98ba-c483-4efa-a02a-e647fcb3cd58,2015-10-25,2019-06-18
+20245,Thompson Farms LLC,A,United States,Kansas,0a48f092-7b09-4362-ad38-ed7d5cd741bb,2015-07-01,2017-03-25
+20050,Yancey Farms,A,United States,South Dakota,c13911ec-a216-4afc-a8ac-5c20db61e10e,2010-01-02,2012-05-22
+20291,Holloway Farming Co,A,United States,Kansas,f951a4b0-2b97-4856-9d5c-051c67fb47c1,2014-04-05,2014-11-27
+20421,Nordin N. Farming Co,A,United States,Nebraska,e52466cd-3177-437b-91bf-50a42ea35c29,2014-07-29,2014-10-22
+20242,Ivanov & Sons,A,United States,Missouri,be2d3aea-a6ad-482f-a69c-878f7f7dd20b,2012-03-06,2019-10-05
+20410,Castellano G. Agri Partners,A,United States,Iowa,c56dceca-cc70-4e0a-97cc-04d593f98a8b,2015-04-04,2021-10-08
+20378,Hartley C. & Sons,I,United States,Nebraska,33fe5b5b-b9e1-412e-b64e-efa41f4b0aa6,2013-01-09,2025-08-04
+20148,Ashworth Farms LLC,A,United States,North Dakota,9425e50e-f71e-4f4d-b0cc-80aa8dbeaa2e,2010-01-29,2018-03-22
+20140,Albrecht Land & Cattle,A,United States,South Dakota,ba2e606e-8c09-4a55-a2f7-b07d980f7166,2013-04-21,2016-09-01
+20058,Rasmussen Farming Co,A,United States,Indiana,e317af08-6332-43fd-9625-6181a22f08fa,2020-08-31,2026-06-06
+20360,Quandt Farming Co,A,Canada,Saskatchewan,af3501c4-03b1-45b2-b39a-375bda6468dc,2016-08-14,2018-02-03
+20334,Marsh Ag Enterprises,A,Australia,New South Wales,2d9f8508-572b-4477-9795-2202140da42b,2011-02-12,2014-12-16
+20124,Eastman Farms LLC,A,United States,Missouri,50d1a460-2db4-4afe-9bf8-e683c16637a6,2015-05-24,2025-03-03
+20052,Steiner Land & Cattle,A,Canada,Manitoba,c5cbc3a5-ba1e-4edd-999b-cb7b92cd06d3,2020-12-10,2024-05-30
+20204,Jablonski Agri Partners,A,United States,Iowa,6b538c02-cb1c-4329-93db-cda0bf9a3b80,2017-09-03,2021-11-09
+20016,Xiong & Sons,A,Canada,Manitoba,f1994e39-8ec9-45e1-a6c4-d8fa6caeee45,2015-03-17,
+20279,Falkner Farms LLC,A,Canada,Manitoba,1c858e05-1a45-4d97-9c2f-5b91f5e3fe98,2015-06-22,2023-01-13
+20385,Boudreau S. Agri Partners,I,Canada,Alberta,7c87ab13-0481-4a84-b62b-5996a9e29aaf,2015-07-25,
+20313,Hummel Acres Ltd,A,Australia,Victoria,4d76abe4-0f6c-468c-ad36-989ade33c319,2018-11-09,2021-03-30
+20224,Delacroix Grain Co,A,Canada,Alberta,4cc549e0-b175-4896-a2bd-2e441dc0894a,2017-01-21,
+20187,Baxter Farms,A,United States,Iowa,3c11f3ba-f857-4700-8d89-80998aa01991,2016-02-07,2020-01-14
+20362,Pemberton Land & Cattle,A,Canada,Manitoba,b319bcee-a84e-4ab4-a80b-2da20419cf03,2016-12-04,2018-06-02
+20356,Drummond Agri Partners,A,United States,North Dakota,c54e92a7-bbfa-42f0-83fc-6facc599f671,2016-07-19,2025-05-29
+20258,Okafor Ag Enterprises,A,United States,South Dakota,6e4ca23f-75a3-47cc-b6d3-c494a89710ef,2009-01-26,2012-01-27
+20053,Winters Agri Partners,A,United States,South Dakota,d18693e3-527a-495c-b52d-6a123fdfdb10,2010-07-20,2018-04-22
+20336,Ivanov Agri Partners,A,Australia,Western Australia,50112aa2-e16c-4e25-b1f4-4d3a7e0f0e08,2015-06-08,2021-12-29
+20185,Xiong Farms LLC,A,United States,North Dakota,cb0b757a-ec01-47c8-ae24-4cce54b23745,2013-08-23,2020-12-24
+20045,Quandt Grain Co,A,Canada,Ontario,2a6c187a-6912-4d82-ae7e-3162e5620534,2020-05-19,2020-11-26
+20073,Winters Land & Cattle,A,Canada,Ontario,6a49506e-bee1-4c50-846d-624101fbf956,2009-10-09,2013-01-17
+20143,Hartley Acres Ltd,A,Canada,Saskatchewan,8546aaba-5a77-4dbc-8da8-5f87e5fe989f,2010-11-04,2017-07-29
+20247,Holloway & Sons,A,United States,Iowa,c92747d4-8b6d-44d3-89e7-cee93cd89685,2013-08-14,2021-11-02
+20335,Kerrigan Land & Cattle,A,Australia,Victoria,7b8c704c-d255-4b5b-9eed-87c413effaf0,2018-12-10,2024-07-17
+20267,Kerrigan Agri Partners,A,United States,Minnesota,ee0508f3-069f-4f2c-b6b6-3cf18cb5a699,2019-11-24,2021-07-14
+20082,Okafor Family Farms Inc,A,United States,North Dakota,40bf2940-700a-4c00-ad24-e0e1a72253e1,2021-04-08,2024-04-07
 20398,Thompson F. Grain Co,I,United States,Illinois,5633766a-348c-4d78-985a-aaa1c3833215,2016-04-12,2019-11-17
+20059,Novak Grain Co,A,Canada,Alberta,ef4da80d-c02f-45b9-a653-71fc77ce0708,2015-06-18,2023-02-23
+20155,Brenner Acres Ltd,A,United States,Minnesota,9b29a003-e7ba-445d-9be0-e722db22fd82,2014-09-19,2024-03-30
+20087,Jablonski Grain Co,A,United States,Wisconsin,53588a8b-3e5c-47a7-a53f-9a3868a596ae,2020-04-10,2022-11-15
+20219,Girard Ag Enterprises,A,United States,Wisconsin,f87e9622-4c11-4233-8797-9c8a5c85abc5,2015-11-05,2023-09-26
+20078,Whitaker Grain Co,A,United States,Minnesota,1148f20e-26ad-4d4c-9417-40948c882de1,2020-07-13,
+20429,Pemberton G. Acres Ltd,A,Australia,Western Australia,e0012ef8-a413-4f42-a5ca-bb9d5c8edf69,2010-07-17,2013-11-11
+20285,Eastman Ag Enterprises,A,United States,Kansas,acff2061-0660-4e89-b278-4f5141bead84,2010-01-01,2017-08-11
+20236,Jablonski Family Farms Inc,A,United States,Indiana,546501dc-4221-4935-b3ad-ecb9507ef347,2012-03-16,2022-03-14
+20248,Rasmussen Family Farms Inc,A,United States,North Dakota,7f080072-11aa-4e82-8e76-e76d3071d146,2019-04-15,2025-02-15
+20177,Ziegler Farms LLC,A,United States,Indiana,c6e91245-452f-4f49-8ae3-e25dc4c8b3bd,2014-09-26,
+20329,Thompson Family Farms Inc,A,Australia,Queensland,d7098d62-7dd3-4e96-9401-20e1a08ad00f,2019-02-08,2024-07-25
+20049,Vandermeer Farming Co,A,United States,North Dakota,82a05339-7c59-4e62-8df4-8cff8e911973,2022-03-18,2025-09-11
+20201,Vandermeer Ag Enterprises,A,United States,Iowa,d089ac33-303a-4031-95a8-5c20f6e166d2,2017-03-14,
+20348,Yancey Family Farms Inc,A,United States,Illinois,b5a3ac25-b7ee-4624-96e7-8dceab654e8b,2022-05-24,2025-08-22
+20259,Merriweather Acres Ltd,A,Canada,Alberta,008f3fe2-5025-40a0-be99-88dbad58438c,2022-08-24,2023-06-08
+20432,Marsh N. Farms,A,United States,Ohio,1e9eead9-3e08-405c-be9c-e4398daecdb1,2009-09-12,2024-03-26
+20092,Ferreira Family Farms Inc,A,United States,Kansas,fec1d074-f5a9-4a27-a79f-cf2db8951654,2010-07-01,2024-02-08
+20283,Tollefson Agri Partners,A,United States,Kansas,1789c317-5e9e-428c-8464-47b472f53239,2019-08-02,2025-08-02
+20273,Quandt Family Farms Inc,A,United States,Ohio,3f9ced16-e31d-4da8-868f-fbb3f2d752b5,2021-06-27,2024-03-25
+20114,Ziegler & Sons,A,United States,North Dakota,6cc7353c-3616-47d8-9267-f66800647ebb,2010-11-11,2014-12-22
+20309,Kerrigan Farms,A,Australia,New South Wales,881e3ea1-010f-47f5-ac00-c328513d59f2,2009-06-01,2025-09-20
+20271,Girard & Sons,A,United States,Wisconsin,fb1ab61b-5571-44ba-9d44-4b98148cb9dc,2012-04-15,2020-05-09
+20375,Winters B. & Sons,P,United States,Ohio,7a171081-91bc-4f89-9f7d-684783019e3b,2022-12-09,
+20386,Nordin M. Family Farms Inc,P,Canada,Alberta,85f47ceb-6a42-4312-915e-934cc5a16718,2013-10-10,
+20199,Boudreau & Sons,A,United States,Nebraska,6700e599-a95d-4d4b-9982-d710d2e8760a,2016-06-06,
+20390,Tollefson F. & Sons,I,United States,South Dakota,80cfd87d-6b36-4665-ac9b-27b5c56ca527,2021-11-24,2025-11-04
+20175,Dietrich Ag Enterprises,A,United States,North Dakota,c3277215-be2a-4f26-af78-d3d02f369fff,2021-12-11,2022-01-20
+20358,Duval Family Farms Inc,A,United States,Indiana,2d90e583-c3dc-43ee-8226-ee47e8f1d439,2020-11-17,2025-10-26
+20227,Tollefson Farming Co,A,United States,Illinois,42fe8332-b248-4553-8859-1f15314e3657,2020-02-28,2021-06-15
+20380,Drummond K. & Sons,I,United States,Indiana,0d9559f7-50c0-4f6e-be07-a60a80f58505,2010-06-16,2021-07-15
+20379,Iverson M. Farms,P,United States,Nebraska,a49e527b-5757-4206-a2e7-b35c79cdb46e,2017-05-26,2018-04-17
+20088,Lindqvist Farms LLC,A,United States,Nebraska,8c0047a4-6fec-4db1-ba10-e3fc2b7076e6,2009-01-08,2011-01-14
+20400,Baxter R. Farming Co,I,United States,North Dakota,33beecbf-26d7-4633-9856-29ed98fa422e,2019-06-16,2023-12-31
+20123,Duval Acres Ltd,A,Canada,Saskatchewan,8d52f2a8-eda7-4e3a-9296-bb43bc9f461c,2012-01-12,2020-05-06
+20300,Castellano Ag Enterprises,A,Canada,Ontario,b05150da-1d9e-4f44-a037-09a687e7f2c6,2009-07-12,2010-04-15
+20085,Rasmussen Grain Co,A,United States,North Dakota,5af99691-9240-415f-862a-440bfdd27e37,2011-02-21,
+20296,Delacroix Farms,A,United States,Illinois,9ebf2045-986d-4a58-9b80-e46affa21f1a,2010-02-28,2023-03-10
+20190,Okafor Land & Cattle,A,United States,South Dakota,58471859-dba2-4a2c-a1f4-a30830e866c0,2022-04-24,
+20188,Falkner Farms,A,Canada,Manitoba,e36ce98b-6ae8-4b9e-b334-97c0a039a2c2,2013-05-17,2015-08-28
+20427,Steiner J. Agri Partners,A,United States,Wisconsin,6300b327-7b8b-47b8-976d-45d2b8cb5dcf,2009-09-07,2014-02-16
+20408,Eastman H. Farming Co,I,United States,Illinois,0066feb8-0539-4749-a764-ae9be538103b,2009-06-27,2020-03-22
+20411,Winters T. Farming Co,A,United States,South Dakota,536cf58c-16bc-4eac-966f-e7c203b5e635,2020-09-20,2020-10-21
+20320,Eastman Agri Partners,A,Australia,Victoria,8b82e09b-4dd4-4a60-8f4c-a52af98214d7,2018-09-12,
+20278,Hummel Farms,A,United States,Indiana,ca4ffcb8-b36e-4349-942a-b4d027b1cb0f,2012-06-22,2017-06-22
+20262,Underhill & Sons,A,United States,Ohio,d52fa0fb-e738-4db1-9310-b9b6fcf54e34,2016-11-08,2025-12-07
+20365,Steiner Farms LLC,A,United States,Minnesota,bd7597cc-98fb-4344-a250-8c66b73534ae,2017-04-18,2024-07-16
+20413,Jablonski A. Ag Enterprises,A,United States,South Dakota,cc7fda28-8387-40d3-bcd5-4a4daa9d87b2,2019-03-17,
+20393,Ashworth T. Farms,P,United States,Iowa,fcec3259-cfdc-483f-979d-6fd31c8887ad,2020-10-29,2021-01-13
+20299,Hartley Ag Enterprises,A,Canada,Ontario,1560807d-7980-4694-b648-8b5179911f46,2021-05-18,2022-02-12
+20250,Bergstrom Acres Ltd,A,Canada,Ontario,a8c8498e-e6f5-4474-8846-d3a784af154d,2020-06-10,2025-03-21
+20163,Iverson Farms LLC,A,United States,South Dakota,e329e316-df25-4d21-bf5a-8efbd46d534d,2011-08-23,2024-01-26
+20350,Oberlin Farms LLC,A,United States,Iowa,08618c8d-6eea-4f19-a779-987a312056c1,2010-03-19,2026-02-17
+20304,Iverson Farming Co,A,Australia,Queensland,55e94eef-3727-42b2-ae05-db06c3cfb98b,2019-02-13,2021-09-23
+20343,Pemberton Farms,A,Australia,Western Australia,bf412b01-78e0-4834-b072-930271ff43b6,2011-03-23,2023-05-05
+20361,Dietrich Agri Partners,A,Canada,Saskatchewan,18fc15fb-dae1-4ea0-bba8-50d20d94712d,2021-08-04,
+20117,Prescott & Sons,A,United States,Ohio,8bb44fd0-a7e3-432e-a4b3-1b55ab8849c3,2020-09-12,
+20292,Marsh Farming Co,A,United States,North Dakota,c551ae00-0f12-4b13-b0aa-a72179e8a672,2022-07-20,2024-08-26
+20286,Hartley Farming Co,A,United States,South Dakota,e02b5cc2-93cd-4744-bb54-f8889599ef5f,2019-01-31,2026-05-18
+20391,Yancey J. Acres Ltd,I,United States,Iowa,4d6334a4-7678-4f84-9b2a-4ff084424110,2020-05-18,
+20281,Okafor Farms LLC,A,Canada,Ontario,c4b4f1f3-9c67-450b-97f8-170666391e87,2011-07-07,
+20430,Castellano D. Land & Cattle,A,United States,Missouri,0f253684-0536-4e62-844d-d18bb4f1d146,2018-08-25,2021-08-28
+20246,Holloway Farms,A,Canada,Saskatchewan,66bd80b3-df56-48db-8af0-1467d74fe80b,2014-07-07,2015-06-30
+20130,Merriweather Land & Cattle,A,United States,Minnesota,8ba66318-312b-4cd3-bc4c-5c2a4fbef6f2,2015-11-09,2022-01-02
+20223,Vandermeer Farms LLC,A,United States,Wisconsin,cd303904-5227-4dcc-823f-dc4be0f59576,2017-09-27,
+20099,Oberlin Land & Cattle,A,United States,Indiana,99461fcd-5a85-493a-9065-4321092922a0,2015-03-21,2025-10-06
+20112,Reyes Ag Enterprises,A,United States,North Dakota,1dcffb45-689c-4bc2-a0b5-e908b385f7d5,2021-10-19,2023-08-12
+20153,Steiner Acres Ltd,A,United States,Iowa,8b99667d-4acd-41b8-8c81-4532898253ae,2014-02-18,2025-04-22
+20018,Whitaker & Sons,A,United States,Indiana,c19e8d69-82c4-4440-93f2-4fbeb75f2e7c,2013-08-31,
+20060,Vandermeer Agri Partners,A,Canada,Manitoba,141525f7-38ce-4724-9617-064209f6a460,2017-01-24,2022-02-25
+20290,Hummel Land & Cattle,A,United States,Indiana,16d43fdb-9000-4c64-ad81-cc399c09f11a,2018-01-20,
+20316,Callahan Land & Cattle,A,Australia,Queensland,e38338ea-95d1-4f9d-94bc-064279e52320,2021-09-03,2025-11-01
+20205,Nordin Acres Ltd,A,United States,South Dakota,f8697429-cbd8-4073-bfc3-211ebe2a639a,2019-10-06,2023-04-22
+20214,Reyes Farming Co,A,Canada,Saskatchewan,4e52310c-370d-4d8d-9f95-b75e3f76e218,2018-05-30,2025-06-11
+20141,Lockhart Farming Co,A,Canada,Ontario,cf634edd-bb1f-4f29-8de0-bee56f0403f2,2010-08-13,2019-05-13
+20233,Yancey Grain Co,A,United States,Iowa,78ec8c34-9d28-47e6-99ef-bdb7458ecaee,2010-09-27,
+20377,Iverson F. Ag Enterprises,I,United States,Iowa,49303c2d-d8b0-4dc3-a132-42f9fd52a3e2,2015-08-23,2020-09-15
+20261,Callahan Grain Co,A,United States,North Dakota,9c925a18-97b5-4970-82ed-4d619c2c7bee,2010-10-25,2016-04-04
+20389,Reyes D. Farming Co,I,United States,Illinois,628c199a-36b9-43ff-b576-85a4131a3102,2022-03-17,2025-12-28
+20095,Dietrich Grain Co,A,United States,Wisconsin,19c3b869-8421-46c9-b981-4e8c17c25aa3,2014-06-15,
+20168,Ivanov Grain Co,A,Canada,Saskatchewan,6d37bcdc-8799-4707-bb5f-9beffd805b6b,2020-06-23,2021-02-09
+20345,McAllister Grain Co,A,United States,Nebraska,6879eb14-0a31-49f4-9c92-4ba5fc4b861a,2009-01-22,
+20038,Drummond Ag Enterprises,A,United States,Nebraska,2c1c6086-ffa8-47be-b5b2-60cd31cbdc32,2009-09-20,2025-06-20
+20381,Xiong B. Grain Co,I,United States,Kansas,f8896cb5-3355-4d1d-adb9-92dc201ec370,2011-08-04,
+20121,Bergstrom Farming Co,A,Canada,Ontario,8fb2153c-428d-422e-bed6-18eb073cb1be,2020-10-25,2025-12-27
+20357,Whitaker Agri Partners,A,United States,Iowa,1acbf799-0315-4353-b0bc-b39787cebbc9,2019-03-04,2021-10-10
+20154,Iverson Ag Enterprises,A,United States,Wisconsin,e0d11bce-06a0-4e17-86ac-90cbe34562c3,2014-04-21,2016-12-24
+20013,Ivanov Family Farms Inc,A,United States,Nebraska,94a10fad-9815-4ae3-a980-6d8f6c0b0715,2014-12-19,2019-06-01
+20244,Oberlin & Sons,A,United States,Kansas,31f4ec85-9d61-41ca-9d4e-c996046eab50,2011-07-11,
+20111,Xiong Farming Co,A,United States,Illinois,b8b6cb7d-f681-422e-8c84-e4ae13fd9112,2020-08-26,2026-03-12
+20414,Pemberton N. Family Farms Inc,A,United States,Illinois,957e0929-b4a3-4c79-b867-a1cf4acdb798,2022-02-19,2024-09-06
+20306,Eastman & Sons,A,Australia,Western Australia,4987fee4-421d-4a27-848f-c7aa75221669,2012-08-31,2015-01-19
+20033,Albrecht Agri Partners,A,Canada,Saskatchewan,0ea79d69-5813-402e-b8fa-812e17245feb,2011-05-07,
+20066,Ziegler Farming Co,A,United States,Minnesota,28552231-aa3e-4f95-aace-f12f2dce033d,2016-03-11,2019-02-12
+20133,Underhill Farms LLC,A,United States,North Dakota,d18d0e36-41d8-4590-8c82-cb0dbd8d3573,2014-03-13,
+20369,Iverson K. Farms,I,United States,Illinois,7e248434-f524-4375-ad7c-0f626e097e51,2018-01-09,
+20126,Baxter Acres Ltd,A,United States,Ohio,776f5b98-d8df-4692-8dcd-8e250c0bf8bb,2019-06-20,2022-06-04
+20054,Rasmussen & Sons,A,United States,Iowa,0871d49e-dc52-444a-a4c1-b73f849fd147,2020-05-02,2022-06-18
+20009,Ashworth Family Farms Inc,A,United States,Indiana,c26ce5ed-28d3-44a6-bc0e-b9c2bcdc407d,2009-08-22,2025-05-18
+20090,Lockhart Farms LLC,A,United States,Iowa,199b5cfa-87c8-4cf8-be2c-3cf94f02ab6c,2017-07-29,
+20022,Yancey Farms LLC,A,Canada,Ontario,fa94841d-09f6-4ea7-8dc4-5855ac837875,2012-12-26,
+20032,Castellano Family Farms Inc,A,Canada,Saskatchewan,c7936fbd-6ab8-42a2-9cf4-f3dadfd51a38,2013-04-11,2021-11-19
+20164,Bergstrom Farms,A,United States,Kansas,c2747bdb-c4a7-4e3a-8d60-edd057662950,2021-01-16,2022-10-08
+20434,Rasmussen E. Agri Partners,A,United States,Kansas,d57d1806-10b7-4da6-9fc6-d7cf153a91db,2018-02-18,
+20396,Oberlin M. Ag Enterprises,P,United States,Illinois,183ebf43-58c6-4ab9-bb15-c38179de8195,2019-11-28,2020-09-12
+20235,Merriweather & Sons,A,United States,Illinois,54ea0aa5-59d0-4cae-996b-a6ffcf1c385b,2021-04-29,
+20104,Novak Farms LLC,A,United States,South Dakota,d3346837-a77c-4ccc-9154-374f35d41d75,2019-11-16,2021-08-05
+20211,Reyes Land & Cattle,A,United States,Ohio,db211cc8-6542-470a-9778-12cdbb02b0fc,2012-08-31,2026-05-19
+20158,Whitaker Farms,A,United States,Wisconsin,404d3a63-3840-421c-a9fc-e2c88f3bb2ff,2009-09-18,2012-10-15
+20034,Novak Acres Ltd,A,United States,Missouri,7e11818b-806a-4a37-8376-0aed2ae12b5b,2015-05-29,2020-08-31
+20041,Reyes & Sons,A,United States,North Dakota,2a5a522c-1a4c-4586-8ad1-7bed759fd17c,2013-04-30,2014-10-23
+20071,Ivanov Farming Co,A,Canada,Manitoba,77484e50-c0de-4559-abbf-102c0b7e29a7,2019-12-27,2026-02-23
+20169,Ivanov Land & Cattle,A,United States,Missouri,e4d212e9-5024-4f4d-98bf-6a2fb7143065,2010-02-08,2021-06-10
+20173,Okafor & Sons,A,United States,Kansas,8ac4eea3-f5ba-44ca-9ee6-97c58a7e6a8b,2020-09-25,2024-03-20
+20079,Girard Land & Cattle,A,United States,South Dakota,8226af76-20e3-4d73-8b87-242ffb8f41af,2017-03-30,2024-10-21
+20136,Nordin Ag Enterprises,A,Canada,Saskatchewan,695f3b9f-b9f8-42f3-bd12-1e508026d8af,2016-08-09,2025-07-16
+20001,Ziegler Acres Ltd,A,United States,North Dakota,e2f0124e-da24-4053-b18a-7e58a302dace,2021-04-17,2026-06-03
+20251,Holloway Grain Co,A,United States,Missouri,d9d4df44-8de0-4320-8410-83b0ff361477,2019-04-22,2025-06-19
+20029,Okafor Grain Co,A,United States,Minnesota,3156d52d-1787-48dd-8ab7-9149ae96a845,2019-09-14,2020-08-17
+20012,Boudreau Family Farms Inc,A,United States,Minnesota,2d3f9fbf-84d0-4003-8e9a-8a52b00cd50e,2021-12-01,2024-10-07
+20425,Nordin R. Farms LLC,A,United States,Iowa,d4e82a32-3b6f-40e5-b9f9-b8738bc21c73,2016-08-24,
+20051,Kerrigan & Sons,A,Canada,Ontario,ca54a051-7edc-4181-9daf-d34c97736791,2009-06-05,2013-04-26
+20216,Hartley Family Farms Inc,A,United States,Missouri,50762963-0523-4203-a1b8-b217107b07a2,2018-05-13,2019-11-12
+20263,Nordin Farming Co,A,United States,Wisconsin,0f5c1017-c244-47a7-ba8a-b3f16552ea8b,2010-07-07,2011-06-06
+20412,Nordin B. Farms,A,United States,Wisconsin,eb7454d0-80b9-46b3-8133-2ad02506d11b,2021-04-17,2022-08-09
+20002,Duval Ag Enterprises,A,Canada,Ontario,7d23012c-89b3-4bdc-aea0-5cb25fecfa91,2013-11-09,2016-04-25
+20077,Kowalski Family Farms Inc,A,Canada,Ontario,d1aa1ade-84a8-4942-bb95-258c10ba3f8e,2020-10-17,
+20315,Oberlin Acres Ltd,A,Australia,Queensland,daa3f315-3912-4991-b382-39e141159f5a,2020-10-29,2026-01-04
+20109,Rasmussen Acres Ltd,A,United States,Ohio,ec4eb309-fcb1-459d-89e1-35eef92310de,2012-03-26,2013-10-12
+20284,Hummel Grain Co,A,United States,Ohio,61eeba53-7680-4019-997f-4f1380ecc5e6,2012-06-16,
+20331,Okafor Farming Co,A,Australia,New South Wales,b4a92e46-7d54-440a-a26f-7a5c1cf941c5,2017-08-01,
+20276,Ashworth Farms,A,United States,Indiana,86a333ad-3d9b-4aca-a87d-4c970b1851d6,2012-11-13,2014-08-03
+20176,Iverson Grain Co,A,United States,Indiana,6cf44e42-5760-4a4a-a877-12333ea1203c,2013-03-07,2026-05-02
+20228,Underhill Ag Enterprises,A,United States,Nebraska,32e9d3f3-4eb7-43f9-a7e4-bbe08ff39c13,2018-08-12,2025-04-09
+20128,Holloway Land & Cattle,A,United States,Minnesota,0aa5b745-76c2-41e5-9149-677364971840,2022-06-29,2025-08-05
+20081,Hartley Farms LLC,A,United States,Wisconsin,ad09e104-b745-4e4f-aadb-99c228f33db4,2022-03-20,2025-03-25
+20307,Callahan Farming Co,A,Australia,Western Australia,229c5a7d-931a-4a81-9729-81ef45a7482a,2018-07-01,2019-04-09
+20395,Steiner K. Grain Co,I,United States,Wisconsin,b0bb56ab-a138-4d80-8834-4612ea7b3857,2022-02-01,2022-10-30
+20062,Marsh Acres Ltd,A,United States,North Dakota,9a0a127c-e3af-4e80-8572-30d3899170ba,2014-07-21,2024-08-29
+20282,Baxter Family Farms Inc,A,Canada,Manitoba,d4bfac67-9f4d-4146-8dad-3e046a2f2db6,2013-04-03,2020-07-31
+20353,Nordin Family Farms Inc,A,United States,South Dakota,747720ed-8195-49e8-924c-a5459de20e07,2017-12-15,2024-06-22
+20083,Baxter Farms LLC,A,United States,Nebraska,75c8df5e-9659-4055-a87c-d6fa03550b26,2011-03-29,
+20355,Yancey Acres Ltd,A,United States,Missouri,ad3c0ec9-9f39-4936-a933-971e678fe074,2018-01-06,2026-02-22
+20332,Albrecht Farms LLC,A,Australia,Queensland,0bd60aea-319a-48f5-93c0-77d1b50747ca,2021-04-24,2022-12-03
+20195,Underhill Acres Ltd,A,Canada,Saskatchewan,94ccdd13-8985-4dbd-a220-1b28ff002b8e,2013-01-05,2013-09-10
+20025,Hummel Farming Co,A,Canada,Saskatchewan,748442ef-64da-41b2-b7bb-d984a6ff026b,2018-03-09,2025-12-12
+20372,Hartley R. Family Farms Inc,I,Canada,Alberta,fa463100-6cb4-4f20-93c7-bfe0816d9473,2009-01-18,2021-05-08
+20165,Steiner Ag Enterprises,A,United States,South Dakota,ea21817b-b489-4303-ad0b-87867ae40dc4,2019-04-11,2026-02-12
+20150,Xiong Acres Ltd,A,United States,Nebraska,193b3f79-c71f-4cd8-a8d8-746529309df5,2020-04-18,2023-08-18
+20418,Okafor G. Farming Co,A,Canada,Ontario,95712f0a-e5f8-433c-a915-354b74225471,2020-09-03,2023-03-31
+20135,Ashworth Acres Ltd,A,Canada,Ontario,bbca98b0-c7af-4fbc-9d66-f2559201d690,2015-08-10,2016-08-04
+20213,Lockhart Family Farms Inc,A,United States,Illinois,c95507d7-c1dc-4103-b3ee-f11e17468b33,2011-01-07,2012-02-09
+20222,Whitaker Acres Ltd,A,United States,Iowa,0d88cc5b-9a6d-4e7a-8f04-e212a02b3234,2021-08-26,2023-02-10
+20091,Ashworth Farming Co,A,Canada,Manitoba,4f6f956c-6a13-45a6-b25f-9bd5ee32a81e,2017-06-05,2022-07-01
+20293,Hartley Land & Cattle,A,Canada,Alberta,82536881-f130-4920-8832-ba426f4de18e,2020-09-06,
+20404,Quandt T. Farming Co,P,Canada,Manitoba,953c2826-fd13-4574-9e1d-3ed6f07f9eee,2020-05-19,2025-04-07
+20040,Whitaker Land & Cattle,A,United States,Nebraska,7301dde0-c0f7-4adc-bd25-7cf84f202dc1,2013-06-15,2014-01-15
+20067,Okafor Acres Ltd,A,United States,Illinois,b011e9a4-f5e3-44f2-b561-e36520b2b529,2017-05-06,2025-08-28
+20138,Pemberton & Sons,A,United States,Illinois,2f3d00e6-5d46-4398-aa4a-26824b6c5180,2012-02-25,2021-07-06
+20403,Crenshaw S. Agri Partners,I,United States,Illinois,7ccf6e35-f432-40dc-87cb-675eefc3f33f,2016-02-18,2017-11-06
+20308,Callahan Agri Partners,A,Australia,Queensland,02b87bf0-d17f-40dd-bc92-ba05321d0fd4,2014-01-22,
+20383,Xiong R. & Sons,I,Canada,Manitoba,369b0247-e57c-4349-b671-0d761f64f11b,2010-09-20,2010-11-24
+20428,Eastman G. Farming Co,A,United States,Iowa,85189882-567f-4cd4-897d-02de01e0ddaf,2016-06-29,2022-01-31
+20151,Crenshaw Agri Partners,A,United States,Ohio,7f3d6620-8e73-43b5-8b0d-1a19e637d1eb,2012-10-10,2020-05-14
+20433,Kowalski P. Farms LLC,A,United States,Missouri,4f76d478-e0d4-4fec-ae07-f90f9bcf50f8,2018-10-26,2022-04-06
+20084,Girard Family Farms Inc,A,Canada,Ontario,0ca39d52-8de4-410f-9ab5-d9cece39b01d,2019-09-23,2025-03-30
+20406,Vandermeer T. Ag Enterprises,I,Canada,Ontario,3ebdb590-6798-4ad3-bafd-2182761dcb00,2016-09-19,2024-03-23
+20147,Marsh Grain Co,A,United States,Illinois,b719b80a-bd49-4ee5-ac11-423abdac34f6,2017-11-15,2021-08-16
+20338,Reyes Farms,A,Australia,Victoria,c729034a-2e3e-4635-8fb3-319d53981c58,2013-08-21,2019-01-14
+20208,Boudreau Farms,A,United States,South Dakota,cd4d3da0-1c10-461a-a9e9-03c583f90f1d,2021-04-22,2022-04-08
+20156,Underhill Farming Co,A,United States,Minnesota,6e6773f7-dd21-4079-a426-4016317f9e0a,2017-06-25,
+20107,Dietrich & Sons,A,United States,Minnesota,6a9491a6-8f86-4e5d-8dcd-1cca45fc5a79,2011-06-22,2023-08-28
+20314,Merriweather Farming Co,A,Australia,Queensland,39bda168-cdc1-40a4-ae8a-3c8ff889ff0a,2014-03-13,2017-12-20
+20026,Yoder Ag Enterprises,A,Canada,Alberta,42ffd3c7-e025-4722-9dde-b463c704cde7,2021-10-31,2023-11-08
+20044,Winters Farms,A,United States,Wisconsin,19e13f3d-43a8-4d63-89cf-27d6335c0fbd,2016-10-26,2019-07-21
+20139,Drummond Grain Co,A,United States,Kansas,de508df9-58ae-4269-a6e2-9f2b556a596d,2017-01-11,2022-01-30
+20366,Girard Grain Co,A,United States,Ohio,6f21f60d-e80e-4671-8532-d32ab6c93507,2014-12-24,
+20003,Marsh Family Farms Inc,A,Canada,Manitoba,6416c67d-e250-4709-a771-d80a4e376d12,2011-02-24,2025-06-21
+20253,Albrecht & Sons,A,United States,North Dakota,13d3fe64-e6bb-4ef9-a557-8984d47cff7a,2022-04-12,2026-06-10
+20194,Rasmussen Land & Cattle,A,United States,Wisconsin,0952bedf-23c5-4d36-9306-32950ccabf47,2009-12-28,
+20203,Quandt Ag Enterprises,A,United States,Wisconsin,57b2cdf8-1807-4256-b228-68515c242a78,2020-01-25,2025-09-07
+20167,Tollefson Land & Cattle,A,United States,Illinois,ba06ab61-7484-44bf-a843-12c52391e128,2012-03-03,
+20221,Reyes Acres Ltd,A,Canada,Saskatchewan,e983ba1d-d3aa-41e9-8457-f75cd633a007,2014-04-17,2020-06-30
+20125,Delacroix Farms LLC,A,United States,Kansas,55ad0aed-de74-4cf9-9d3b-6f193900a056,2014-03-01,
+20319,Iverson & Sons,A,Australia,Victoria,1e3779b6-b65e-482b-90ff-fdce0fcbf0cd,2017-06-28,
+20426,Whitaker H. Agri Partners,A,Canada,Saskatchewan,b4c55aca-3f64-471f-8c95-417d31241107,2017-01-28,2018-05-15
+20416,Jablonski L. Farms LLC,A,United States,Iowa,874892c8-65de-47f1-9249-e46b427d2acb,2016-03-03,
+20197,Reyes Agri Partners,A,United States,Wisconsin,9d0b8efb-5f4b-4137-a202-20bfbc17e8d2,2019-04-21,2025-04-27
+20340,Albrecht Farming Co,A,Australia,Victoria,1842481c-d5fb-4c20-a0dd-1fbce4349e26,2016-10-30,2019-09-08
+20277,Marsh Farms LLC,A,United States,Minnesota,3f55bb8c-4473-434b-8f41-736f35be5b99,2014-03-28,2022-12-08
+20295,Ashworth Ag Enterprises,A,United States,Ohio,c049a98a-e717-4c35-bbe5-d1987496834a,2019-06-27,2020-08-08
+20042,Jablonski Land & Cattle,A,United States,South Dakota,17dbf661-0202-4cfe-9e77-dbd7539c2c89,2015-02-26,2026-06-24
+20064,Brenner Land & Cattle,A,United States,Ohio,2c93594b-7541-4881-9bdb-232b7bc19f41,2019-11-26,2020-06-18
+20371,Albrecht F. Agri Partners,I,United States,South Dakota,749729dd-73b1-4b01-ace4-1e29c73de4e7,2012-11-06,2024-08-03
+20354,Nordin Land & Cattle,A,United States,Indiana,063c5285-6051-4573-90c6-deefdcc04fcc,2016-02-01,
+20422,Delacroix N. Grain Co,A,United States,Kansas,e8aa8a97-c91e-4ac7-8610-713648751b67,2009-07-09,2015-06-02
+20341,Lindqvist Family Farms Inc,A,Australia,Victoria,4c119e1e-adaf-47fe-a34c-3aa627284c8e,2018-12-29,
+20075,Duval Agri Partners,A,United States,North Dakota,f4cc99ea-4da9-4040-a63f-cea6482a8095,2020-07-27,
+20074,Novak Ag Enterprises,A,United States,Nebraska,24c5f1e2-797d-48e4-900e-3daa3a314970,2013-09-12,
+20318,Pemberton Farming Co,A,Australia,Western Australia,7d93e46c-9a4d-42ae-9eff-530845fc888c,2022-09-03,2024-08-01
+20287,Novak Farms,A,United States,Minnesota,3089baad-584b-4c31-9746-b91b3ab9675a,2010-11-23,2012-09-25
+20057,Xiong Agri Partners,A,United States,Minnesota,0bdd65d6-9f8a-4338-b2bf-740be3f9033e,2019-11-25,2021-08-20
+20272,Crenshaw Family Farms Inc,A,United States,Ohio,c9cbfa98-ac9f-4ed0-8beb-5e2bdcdffa4d,2021-06-01,2023-02-26
+20367,Thompson K. Grain Co,P,United States,Wisconsin,70897c29-8e9b-408d-9349-9018f4935c17,2009-06-04,2020-02-21
+20061,Yoder Acres Ltd,A,United States,Wisconsin,17c179c1-2f73-4922-be92-2bb87159ca7b,2013-01-10,2013-05-18
+20298,Marsh Farms,A,United States,Ohio,5732e5b5-3c6c-4bea-8b53-4606042cd873,2015-07-04,2021-03-06
+20230,Thompson Agri Partners,A,United States,Ohio,b9abc0d1-82bf-4bbf-9683-f89d7a9575a4,2022-10-20,2025-05-18
+20241,Brenner Farming Co,A,United States,Kansas,c114af95-ec19-4454-ad96-6d964f3c0ade,2020-05-05,2022-07-05
+20146,Tollefson Acres Ltd,A,United States,Minnesota,5c6810fe-e75c-4e54-be8c-9cc34f8efb52,2022-06-01,2025-12-08
+20409,Okafor R. Farms,I,United States,Nebraska,a4a4e3c9-bff6-41d3-9803-688f77404980,2011-03-05,2019-12-02
+20056,Iverson Agri Partners,A,Canada,Saskatchewan,a3292632-5784-4fea-aba0-e6ad4804f7ab,2020-10-18,2023-05-03
+20326,Underhill Farms,A,Australia,Victoria,82ce2efa-a5de-4232-9e4d-1f2f6f0a002f,2020-02-10,2024-06-13
+20325,Steiner Family Farms Inc,A,Australia,Victoria,1f5e920c-811d-429d-aea6-e59534424802,2015-07-23,2020-11-03
+20346,McAllister Land & Cattle,A,United States,South Dakota,93bc8255-d513-4e27-8678-a6598dc9ade9,2018-03-04,2023-05-30
+20323,Lindqvist Ag Enterprises,A,Australia,Western Australia,87ebff7e-82d3-49f6-8c27-512f7bc642c7,2018-10-23,2023-04-20
+20103,Ivanov Farms,A,Canada,Saskatchewan,e89d32f4-c537-44d7-89f5-4f7fd50dbc7d,2012-03-04,2012-08-20
+20269,Reyes Grain Co,A,United States,Iowa,cedfe019-e607-468a-b806-6112f5b34eb7,2014-12-29,2023-06-23
+20234,Oberlin Family Farms Inc,A,United States,Illinois,ab3da8b2-5ada-4b96-8c88-f1471bab026b,2010-04-29,2019-03-30
+20388,Falkner R. Ag Enterprises,I,United States,Illinois,ef7d7e3c-61cd-4590-9bf9-bd0d1f19860e,2022-03-10,2022-09-30
+20108,Dietrich Family Farms Inc,A,United States,Wisconsin,703161fa-80af-4e5e-8d49-402f5b080844,2020-10-13,2021-01-29
+20344,Ferreira Farming Co,A,Australia,Queensland,7ac7e413-58b0-4b6f-97cf-5a18c58ce5f0,2010-11-26,2020-05-12
+20431,Ferreira M. Family Farms Inc,A,United States,North Dakota,f7752ea8-10c6-47e1-8607-669cf872c2b5,2018-02-04,2023-10-15
+20268,Prescott Acres Ltd,A,United States,Nebraska,96f34085-9205-4e64-8860-db965d0ea303,2022-06-25,2023-11-26
+20402,Ashworth R. Grain Co,I,Canada,Manitoba,29e14b55-6ea9-4315-82a6-3dee4bf85548,2017-07-27,2018-12-31
+20196,Steiner Farms,A,Canada,Alberta,9de704b0-ddaa-4494-a660-5fad9ffd7c8d,2017-02-12,2025-09-26
+20101,Prescott Land & Cattle,A,United States,Minnesota,4e5796e1-01c2-45bc-917c-61d56374d38e,2014-06-06,2024-04-03
+20256,Nordin Agri Partners,A,Canada,Alberta,97dba5c6-0260-4d68-bba3-3f375da3cfe3,2019-07-02,2021-04-05
+20027,Rasmussen Farms LLC,A,United States,South Dakota,9056148e-64e4-47e1-8ba7-50b1bfb09536,2017-01-06,2018-08-23
+20347,Eastman Farms,A,United States,Iowa,ec1997f1-a66b-4afa-915b-df3e0ecb78b7,2017-12-04,2019-02-06
+20349,Hartley Grain Co,A,United States,South Dakota,dd86e366-64d6-46d9-87f3-aaba22172600,2011-09-23,
+20270,Quandt Farms LLC,A,United States,Illinois,c007fe13-a60e-4f43-9de7-2b3b8d2366dc,2020-08-25,2024-06-07
+20115,Delacroix & Sons,A,Canada,Alberta,6c662fa7-7522-4fbc-a199-16f5032602b3,2013-06-02,2017-12-12
+20209,Bergstrom Farms LLC,A,United States,Nebraska,30b0ef2d-80b6-432b-9a21-c2a3658d2210,2021-08-17,2025-06-27
+20374,Bergstrom J. & Sons,I,United States,North Dakota,60ad8db3-8271-4672-8e36-9566f2451e56,2016-12-13,
+20174,Kerrigan Farming Co,A,United States,Illinois,81ec0c23-1d2b-4fe3-9e2a-8f36f0586293,2013-01-13,2019-05-14
+20166,Girard Farms,A,United States,Illinois,53dc5777-5d05-4c1d-ae5a-102516382bd7,2013-04-24,2018-10-29
+20289,Ivanov Acres Ltd,A,Canada,Alberta,b0ca972f-2770-42a0-abc0-c4eea7fbc26a,2011-08-05,2025-11-13
+20046,Quandt Agri Partners,A,United States,North Dakota,dab1723f-e51c-4b05-be67-7b4f0aa2e3c9,2017-08-20,2020-07-04
+20149,Kowalski Ag Enterprises,A,Canada,Alberta,edda462c-1d87-4264-8f11-efc1e8a77980,2019-01-07,2022-03-29
+20217,Castellano & Sons,A,United States,Iowa,26ece562-1437-4b5b-9765-d4dabc59cd48,2014-06-15,2016-08-06
+20035,Xiong Grain Co,A,United States,Ohio,5b082dfb-eb23-427a-bdf9-90741fd5fc42,2021-12-01,2022-01-27
+20142,Thompson Land & Cattle,A,Canada,Alberta,46cc344d-61ec-4a2f-958b-2a0b3a32fa21,2011-04-30,
+20423,Albrecht L. Farming Co,A,Canada,Manitoba,534d828e-7c41-4a94-9d64-4583f1f11f01,2018-01-22,2022-04-24
+20048,Jablonski & Sons,A,Canada,Alberta,6e52550d-9a44-4cea-bcea-fa46760d566f,2010-03-13,2026-06-02
+20159,Hummel Ag Enterprises,A,United States,North Dakota,371e729a-0bba-4d6f-95b2-03b05c141536,2020-10-07,
+20119,Drummond Farms,A,United States,Ohio,ed3d4763-d5bb-4744-b411-fde2eccb1a00,2014-04-29,2017-10-26
+20157,Thompson Ag Enterprises,A,United States,Kansas,30d19c27-4047-49a2-b528-16dfcf3f49ff,2017-02-25,2018-03-08
+20218,Rasmussen Ag Enterprises,A,United States,Ohio,642bfb33-6e27-4f0e-b855-cb7039f4a308,2017-01-05,2018-11-13
+20010,Steiner & Sons,A,United States,Minnesota,e1725e6c-db20-415f-bdfe-5a27503136db,2014-05-02,2015-01-29
+20364,Bergstrom Grain Co,A,United States,Indiana,8a82c30d-1068-4148-9ed0-dd3a8a0a8882,2010-08-30,2019-02-04
+20232,Crenshaw Acres Ltd,A,United States,Nebraska,3c6188ec-2534-4111-8757-f9603be8158a,2018-05-12,2023-02-18
+20160,Hummel Agri Partners,A,United States,Missouri,8f7a466f-c027-461e-9f5c-7a45317d0da7,2014-06-28,
+20186,Winters Ag Enterprises,A,United States,Nebraska,21c21b2f-5c58-4e4d-850e-a6db37fa6639,2019-09-24,2023-03-22
+20280,Falkner Acres Ltd,A,United States,Wisconsin,bec96ff5-3570-4721-9369-ba1222519984,2017-07-04,2025-01-28
+20178,Yancey Land & Cattle,A,Canada,Ontario,8fcfe029-ef42-41e8-8b33-9a3c7c9a025c,2020-05-28,2020-09-10
+20152,Kowalski Farms,A,United States,North Dakota,3adb8733-088b-47cc-b4ac-08f5856cc5bd,2020-07-07,2024-01-07
+20015,Falkner Family Farms Inc,A,United States,North Dakota,ffc46616-328f-40cd-979b-21564d880404,2016-12-05,2021-01-20
+20252,Bergstrom Agri Partners,A,Canada,Alberta,ec1faf05-bf00-410d-a8e0-fd961e4b01a2,2015-10-18,2023-11-19
+20161,Rasmussen Farms,A,United States,Wisconsin,9d33915e-1d87-41e5-9edb-edafdf0a60f9,2015-12-04,2016-07-01
+20039,Winters Acres Ltd,A,Canada,Manitoba,d33f4c6c-3a65-48ed-aa28-4c511733409f,2019-08-20,2024-11-10
+20005,Eastman Family Farms Inc,A,Canada,Alberta,93320d9a-4f6c-4f4f-8d9b-530b68b90bbb,2011-10-17,
+20110,Kowalski Acres Ltd,A,Canada,Manitoba,a5a1e05f-133e-4711-83ab-eff0f6f21cf9,2011-04-19,2016-11-22
+20172,McAllister Farms,A,United States,Iowa,8feacae7-e36c-4477-bb78-7721d211e4e4,2022-01-16,
+20068,Crenshaw Farming Co,A,United States,Nebraska,81e9bfd3-4bdf-4467-9bd4-caa0447308cd,2009-12-16,2014-11-21
+20023,Kowalski Farming Co,A,United States,Missouri,544ba1f2-f269-4d84-9ce6-dac9cb4e7900,2020-07-30,2024-08-20
+20376,Brenner P. Land & Cattle,I,United States,Indiana,e6a03735-73bf-4d9a-8d20-048b2a0354ee,2018-05-26,2022-12-13
+20171,Oberlin Ag Enterprises,A,Canada,Manitoba,f84ea536-4e6a-4b9f-a310-7ebfe2ee1526,2010-06-18,
+20322,Ferreira Grain Co,A,Australia,Western Australia,ac1034e5-55ac-46a7-a29f-cbaace9a7d63,2021-12-31,
+20030,Pemberton Agri Partners,A,Canada,Saskatchewan,137d5b1c-51da-40eb-b588-17d3b8c0a56c,2010-12-03,2013-06-06
+20182,Xiong Ag Enterprises,A,United States,Indiana,1f72abee-293a-409d-a32e-bd0296254078,2017-06-02,2025-12-03
+20007,Ashworth Agri Partners,A,United States,Kansas,02ac515d-bb03-4ac5-9557-d43d5829e588,2021-02-06,2023-08-12
+20387,Reyes E. Farms LLC,I,United States,Nebraska,86ef7c06-1b39-4714-bde8-3ad7e848c46b,2010-09-30,2016-09-18
+20243,McAllister Ag Enterprises,A,United States,Nebraska,d7647986-08bd-4216-adc6-b9d99cafbe84,2014-08-06,2021-10-24
+20397,Xiong T. Farms LLC,I,United States,South Dakota,0c80dc8f-7ff3-464c-8940-61af5c09a10c,2020-05-11,2025-05-25
+20102,Kowalski Grain Co,A,United States,Illinois,3a349731-8543-466b-9817-05bc144f9e7c,2015-02-22,2017-09-27
+20207,Duval Grain Co,A,Canada,Alberta,0956bdd8-20d4-460f-ba16-4ab4c9c1a8e6,2014-05-15,2016-08-31
+20405,Prescott T. Agri Partners,I,United States,Wisconsin,7c5db763-c0e8-4e9d-849d-b9e7cfc1b958,2009-01-03,
+20407,Okafor M. Grain Co,I,United States,Minnesota,baf5833a-5eb9-4d0d-bb43-855a02024837,2012-03-30,2020-01-14
+20037,Novak Agri Partners,A,United States,Wisconsin,93ce9c3c-3d85-4b0c-9722-f8dabb37bb3e,2013-04-15,2017-01-22
+20017,Pemberton Acres Ltd,A,United States,Iowa,a5006798-db03-4431-84e5-e0b441de2e11,2009-06-27,2021-12-20
+20317,Yoder & Sons,A,Australia,Western Australia,458d11e8-26c2-4450-bc5b-d768fad5ffb4,2012-02-13,
+20120,Delacroix Land & Cattle,A,United States,Indiana,c7e70e57-63af-4328-a9f4-8f968f119d8f,2015-10-01,2021-02-20
+20303,Drummond Farms LLC,A,Australia,New South Wales,da7e26a4-79ab-4489-8486-ce2bb6ce6b48,2010-09-09,2025-02-15
+20200,Kowalski Land & Cattle,A,United States,Kansas,d1e94e3b-d18b-4257-af97-158f0a562131,2021-08-27,
+20072,Yoder Farms,A,United States,South Dakota,e87f452b-88f8-4471-a89c-282ad50521ea,2014-08-02,
+20162,Merriweather Farms LLC,A,Canada,Alberta,075bedcf-176f-4859-8df2-16150f302a34,2018-07-27,2020-09-11
+20106,Callahan & Sons,A,United States,Ohio,19b65698-ea51-465e-a564-91dd48c5418c,2017-03-19,
+20301,Underhill Agri Partners,A,United States,Missouri,cd820f02-611d-48cd-9bdc-b5498f476494,2014-07-08,
+20255,Ferreira Acres Ltd,A,Canada,Manitoba,151897bd-6cbc-46f1-b1a2-8205ed166195,2017-03-19,2022-06-07
+20337,Novak Land & Cattle,A,Australia,Victoria,a522031b-502b-49cb-9f30-7cdf25085fde,2013-01-27,2016-06-28
+20020,Crenshaw Ag Enterprises,A,United States,Wisconsin,ba4a0ea9-4e12-4b3f-b765-6ee6e144fe36,2009-05-30,2026-06-15
+20265,Okafor Farms,A,United States,South Dakota,c521759d-f8cf-4aa3-85c3-1f0b66ba8f93,2009-10-14,2011-02-13
+20019,Lindqvist Land & Cattle,A,Canada,Alberta,a568d17c-4f4b-4d44-a0ed-0ce583808c3a,2020-12-31,
+20202,Falkner Grain Co,A,United States,Wisconsin,46c374d8-df4d-4c8f-b316-07241a484b8e,2015-02-17,
+20170,Eastman Farming Co,A,United States,Indiana,01cac262-afc9-4f00-ad42-f886073e302c,2018-10-10,
+20294,Quandt Land & Cattle,A,United States,Wisconsin,98c2942f-85fa-46a9-ad99-1b0bbd42165d,2019-04-17,2022-05-10
+20311,Kerrigan Ag Enterprises,A,Australia,Queensland,00f3e69e-9076-49e0-b68b-d8a1ae879af6,2018-08-27,2023-10-30
+20330,Yoder Family Farms Inc,A,Australia,New South Wales,139e5fa7-6d11-4055-91c6-64f18390bee3,2017-11-12,2021-03-11
+20116,Yoder Farms LLC,A,United States,Minnesota,396ffa3a-f07f-4b12-8680-b25091c25555,2013-12-20,2015-02-16
+20184,Callahan Family Farms Inc,A,United States,South Dakota,3a03d042-9387-4922-a0f4-7bf0197e1b6b,2009-10-21,2019-10-27
+20368,Iverson M. Land & Cattle,I,United States,North Dakota,417738b5-210a-4eb3-9933-e1a265585bac,2011-02-23,2022-10-15
+20352,Boudreau Acres Ltd,A,United States,Illinois,0e18df86-d668-472b-8396-7d0bce8d8fa3,2022-11-05,
+20127,Drummond Farming Co,A,Canada,Manitoba,3048e989-d12c-4a76-845a-b9b95d21d423,2011-01-25,2018-09-19
+20096,Ziegler Farms,A,United States,Missouri,4c781d07-fce1-4442-9144-25a7299c74fe,2018-06-08,
+20070,Merriweather Family Farms Inc,A,United States,Iowa,7fca4430-5873-4185-9967-5c9ca50fd5a4,2021-04-30,
+20417,Underhill C. Family Farms Inc,A,United States,Minnesota,39208c0c-18e5-42db-9751-d3647e5f74bc,2019-07-22,2025-06-10
+20210,Winters Farms LLC,A,Canada,Saskatchewan,66c88d43-3186-4433-a3f7-3d2da309e389,2020-12-13,2025-05-03
+20312,Boudreau Ag Enterprises,A,Australia,Western Australia,e80de667-199c-46c1-99a7-4e1e5f79793d,2011-04-20,2015-08-25
+20225,Hummel Farms LLC,A,Canada,Alberta,147d4883-36e3-492b-be6d-bc1373f9ee0b,2021-01-01,
+20339,Hummel Family Farms Inc,A,Australia,New South Wales,2e9eb4cf-a6f1-4269-aaa2-8af5ebda0d63,2014-04-06,2022-06-25
+20193,Prescott Farms LLC,A,United States,Missouri,6853fab9-6421-4ff4-9bfe-8ead378f0a44,2021-07-23,2023-06-29
+20093,Merriweather Agri Partners,A,United States,Illinois,e37e79c6-5bcb-4926-8b2a-5eb1c52d6483,2019-07-26,
+20080,McAllister & Sons,A,United States,Missouri,8108850c-9506-43b5-92d0-ecbbb03938e3,2016-02-09,2021-06-27
+20031,Whitaker Family Farms Inc,A,Canada,Alberta,b61d6ed4-f0ca-4c59-b9e3-6e32907c5acb,2019-12-01,
+20419,Whitaker B. Farms LLC,A,United States,Wisconsin,dcbf9920-b405-41b5-94b3-6121f84795f6,2019-01-26,2022-01-20
+20198,Quandt & Sons,A,United States,Kansas,65684b01-dc0b-4029-a605-54364d935759,2017-08-10,2022-10-14
+20036,Lockhart Agri Partners,A,United States,Minnesota,e0955cc4-f635-463a-8cc8-d96bc3be75b5,2016-07-08,2016-08-26
+20351,Girard Acres Ltd,A,United States,Illinois,6efb84cc-82bd-47e2-8044-78f3b5120fa5,2016-06-10,
+20028,Thompson & Sons,A,United States,Indiana,37adb71b-0f3e-4938-b5d3-5266ed0d55eb,2019-04-30,2022-05-31
+20145,Whitaker Farming Co,A,United States,Wisconsin,5f1e0e2e-9d4e-4aaa-84ef-ee6303ec61d9,2016-03-25,2025-05-16
+20415,Brenner G. & Sons,A,United States,Ohio,88aacebc-de2b-4d47-b04d-0d95a55faf06,2014-05-15,2017-03-14
+20024,Okafor Agri Partners,A,United States,Missouri,4bdea64c-4643-4ac1-a154-7fba5e4eff7c,2022-05-24,
+20260,Underhill Land & Cattle,A,Canada,Manitoba,feba0c4c-c143-4c86-b007-1a9cc5d82c2b,2022-12-24,
+20014,Oberlin Grain Co,A,United States,Iowa,e2dfac12-7717-49fa-9891-f12eab9bea5f,2011-01-27,2014-03-29
+20006,Whitaker Farms LLC,A,United States,Wisconsin,f0e4a50d-00f8-4d1c-baba-835f7df678ed,2010-12-08,
+20063,Brenner & Sons,A,United States,North Dakota,bb0837db-d196-4755-b6b8-38dc14c80bcb,2014-02-09,2025-10-11
+20047,Vandermeer Family Farms Inc,A,United States,Indiana,ef160448-bc46-4f53-aa19-34dc1bd08716,2022-03-31,2023-04-27
+20324,Pemberton Grain Co,A,Australia,Western Australia,7d3471f3-6cc6-4932-b885-073a8bfc8158,2021-03-06,2021-06-09
+20240,Yancey Ag Enterprises,A,United States,Wisconsin,db65d0dd-21be-45f3-a650-dd320094a5fb,2014-10-28,2022-04-26

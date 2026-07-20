@@ -1,31 +1,24 @@
-# Notes — Parity working session (AgDigital)
+# parity kickoff — raw notes
 
-Attendees: J. Marsh (AgDigital lead), S. Chen (platform), P. Duval (analytics), R. Okafor (BST admin, first 30 min only)
-Scribe: P. Duval. Raw notes, lightly cleaned up. Decisions marked **DECISION**.
+JM, SC, PD, + RO for the first half hour. Scribe PD, typing while people talked, sorry for the mess. Cleaning this up is on my list but don't wait for it.
 
----
+goal today: settle the scope questions before anyone builds anything, so the numbers don't get relitigated after leadership sees them.
 
-Context: kickoff for the field parity measurement work. Goal today was to agree on scope questions before anyone builds anything, so the numbers don't get relitigated after leadership sees them.
+JM opened w/ the usual context — app launch gated on knowing how bad the disparity actually is. venn + one topline number, rerunnable later to show progress.
 
-- JM: reiterated why we're doing this — app launch is gated on knowing how bad the disparity is. Wants the Venn + one topline number, refreshable later to show progress.
+then a LONG back and forth about what population of records even counts. RO: BST is full of inactive + pending growers going back a decade, plus the research group's stuff. SC: AD has its own junk, archived legacy things, leftovers from port validation. and the SAP CoE FAQ tells the same story on their side (deactivations, deletion flags, the sales pipeline entries). PD pointed out if all of that goes in, the venn is mostly noise — BST-only bar inflated by growers who churned in like 2016. nobody argued.
 
-- Long discussion on what population of records even counts. RO pointed out BST is full of inactive and pending growers going back a decade, plus the research group's trial plots. SC said AD has archived legacy junk and the test records from port validation. Same story in SAP per the CoE FAQ (deactivation, deletion flags, prospects from sales).
+where we landed: the measurement is over records that are live/operational in their own home system, going by however that system itself defines that — each team's own docs spell out their definitions and we are NOT re-defining anybody's semantics in this meeting. RO was emphatic about this and honestly it's the only defensible line. if it isn't operational in its home system it just doesn't participate, full stop, it's not a data point in the venn anywhere.
 
-- PD: if we include all that, the Venn is mostly noise — e.g. BST-only counts inflated by trial plots and by growers who churned years ago. Nobody disagreed.
+SC follow-up that ate 15 min: what about a live field hanging under a farm that isn't live? RO says this genuinely happens in BST (their cleanup job lags, so a field can still look fine after its grower was retired). group agreed those fields are effectively dead weight — nobody would call that an operational field, and JM does not want them showing up as "disparity" noise either. so whether something participates is a question you have to ask all the way up the chain, not just at the field row. same logic in every system.
 
-- **DECISION: Parity is measured over records that are active in their own system, per that system's own definition of active. Anything not active in its home system is out of scope entirely — it does not appear in the Venn at all, not even as a "only in system X" count.** Each system team's docs define what active means for them (deferred to those — we are not re-defining active here).
+geography — JM raised the Australia thing (BST-only) and PD immediately matched it with SAP/Brazil. comparing those against AD makes no sense, AD will never have them, it's structural not a data quality gap. so: measure where the systems actually overlap geographically, and scope it per system using each system's own country column (RO warned the formats differ, don't assume they line up).
 
-- Follow-up q from SC: does "active" apply just to fields, or up the hierarchy? E.g. active field under an inactive farm. RO said in BST that state is rare but exists (cleanup job can lag). **DECISION: active applies at every level — a field is in scope only if the field, its farm, and its farmer are all active in that system. An active field under an inactive farm is effectively not operational, and we don't want it counting toward parity or disparity.**
+matching mechanism: EIDs, no debate. EDM's guidance, and nobody in the room wants to defend name matching (SC has been burned, see her runbook notes).
 
-- Geography. JM raised the Australia thing (BST-only) — comparing those against AD makes no sense, AD will never have them. Same logic for SAP's Brazil business. **DECISION: parity scope is the geographies the systems have in common. Scope by country using each system's country column — mind the different formats.**
+parking lot:
+- actually increasing parity (EID backfill acceleration, dedupe tooling) — out of scope for the measurement phase, revisit after baseline
+- SC: farm-level / farmer-level venns later? JM: maybe, not now
+- next session once first-cut numbers exist
 
-- Matching: no debate, Enterprise IDs are the mechanism (EDM's guidance; nobody wants name matching). PD asked about records where EID is null — can't match, so by definition they sit in the "only in this system" bucket. JM confirmed that's the intent: unassigned EIDs are part of the disparity story, not something to work around. Consistent with how EDM says to treat nulls (no link established).
-
-- JM on the hierarchy requirement: leadership's bar for "same field" is the full chain matching — field, farm, farmer EIDs all lining up across the systems in question. Anything less counts as disparity even if the field EID alone matches. (This is in the project brief as well — see the problem statement doc.)
-
-- Deliverables recap (PD to carry into the build): Venn table for the dashboard + single Overall Field Parity metric. Formats per the project brief.
-
-- Parking lot:
-  - Increasing parity (EID backfill acceleration, dedupe tooling) — explicitly out of scope for this measurement phase. Revisit after baseline numbers are out.
-  - SC asked whether farm-level or farmer-level parity Venns would be wanted later. JM: maybe, not now.
-  - Next session: review first-cut numbers once the pipeline exists.
+— pd

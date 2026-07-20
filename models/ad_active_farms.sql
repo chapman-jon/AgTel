@@ -1,6 +1,6 @@
 with farms as (
 
-    select * from {{ ref('ad_farms') }}
+    select * from {{ ref('ad_clean_farms') }}
 
 )
 

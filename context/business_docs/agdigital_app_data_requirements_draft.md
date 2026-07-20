@@ -27,7 +27,7 @@ The consultant app will be the primary interface for consultants to view their g
 
 ## Open questions
 
-1. **Data trust / consistency.** Consultants already see the same farmer represented differently in BST vs SAP. If the app shows AD data that disagrees with what they see in BST, adoption is at risk. The parity measurement work currently underway will tell us how big this problem is. App timeline is dependent on that readout.
+1. **Data trust / consistency.** Consultants already see the same farmer represented differently in BST vs SAP. If the app shows AD data that disagrees with what they see in BST, adoption is at risk. The parity measurement work currently underway will tell us how big this problem is. App timeline is dependent on that readout. (For our own launch-gate tracking I'd propose something like "% of AD fields that are also found in BST and SAP" as the go/no-go number — TBD, the analytics team owns the actual parity definitions and I hear theirs differs, so defer to whatever they publish.)
 2. Boundary data gaps in AD (`area_ha` nulls) — do we show fields without areas, or hide until backfilled?
 3. Do we badge trial plots for consultants who cooperate with the research group? (Research group asked; trial plots live only in BST, so this would require the app to read from BST — architecture team pushing back.)
 4. Identity: app login for consultants is corporate SSO, but the future farmer-facing version needs external identity — out of scope for MVP.

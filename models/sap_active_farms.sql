@@ -1,6 +1,6 @@
 with farms as (
 
-    select * from {{ ref('ZAGT_FARM') }}
+    select * from {{ ref('sap_clean_farms') }}
 
 )
 

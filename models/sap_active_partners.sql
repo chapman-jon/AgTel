@@ -1,6 +1,6 @@
 with partners as (
 
-    select * from {{ ref('ZAGT_PARTNER') }}
+    select * from {{ ref('sap_clean_partners') }}
 
 )
 
