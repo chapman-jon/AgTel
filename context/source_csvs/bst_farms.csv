@@ -1,669 +1,622 @@
 farm_id,grower_id,farm_nm,stat_cd,country,state_prov,entrpr_guid,crt_dt,upd_dt
-50515,20300,Castellano East Place,I,Canada,Ontario,c12aa6c9-91f2-45f5-a4d9-d80391d90f2f,2011-01-11,2015-12-04
-50392,20219,Girard East Ranch,A,United States,Wisconsin,f1ceba67-1d1f-4199-8665-32b574c059c0,2022-11-19,
-50512,20297,Dietrich West Ranch,I,United States,Ohio,1b34f7da-1a19-49f6-8a86-44204fef55d7,2010-09-22,2013-04-22
-50057,20032,Castellano New Ranch,A,Canada,Saskatchewan,07069c98-5ee3-4321-bb30-868ec7347c02,2018-03-04,2020-06-10
-50603,20370,Drummond Lower Place,I,United States,South Dakota,71bd4781-1323-4fdd-8dc5-1ca3a18a1bed,2017-06-06,2018-09-30
-50076,20042,Jablonski New Homestead,A,United States,South Dakota,d49b2e71-1e88-4873-a855-ba185eb06e67,2011-02-16,2016-09-07
-50351,20196,Steiner Old Ground,A,Canada,Alberta,16d3aad7-6f25-4aec-b738-3ce8262c1571,2014-01-29,
-50285,20159,Hummel South Place,A,United States,North Dakota,10ff15fb-3a16-4193-9cb4-baead3be804f,2012-11-16,2023-01-24
-50103,20056,Iverson Upper Ground,A,Canada,Saskatchewan,825a5db1-a8e0-4cf0-8279-5082557a95a7,2012-02-03,2012-04-30
-50575,20343,Pemberton New Ground,A,Australia,Western Australia,bb180ab1-0451-4916-986c-3090de00345f,2020-06-10,2020-09-18
-50011,20005,Eastman Lake Section,A,Canada,Alberta,88e68231-da74-485c-afef-2e2b7ee0884d,2012-08-05,2015-08-28
-50329,20184,Callahan West Quarter,A,United States,South Dakota,87d80c8d-f3d6-469e-9d7a-c4cb82f13877,2015-04-06,
-50532,20313,Hummel Hilltop Homestead,A,Australia,Victoria,ca238dbe-cb21-4db5-a951-a5bd5dadb93f,2020-11-26,
-50419,20232,Crenshaw Valley Section,A,United States,Nebraska,4fd02a4a-e3f0-451b-8f9c-aa4b30b07841,2019-08-27,2020-07-16
-50048,20025,Hummel Creek Quarter,A,Canada,Saskatchewan,702ad3a6-227c-4c34-b49f-81ae689c0b54,2021-09-06,2025-01-22
-50576,20343,Pemberton New Place,A,Australia,Western Australia,0268e2f0-7340-4e28-8182-21d1ba007cd0,2015-02-06,2025-03-28
-50050,20027,Rasmussen Creek Homestead,A,United States,South Dakota,ee071d23-0cb4-4299-b0ee-0bb027b437cf,2018-04-07,2024-05-13
-50454,20251,Holloway Upper Ground,A,United States,Missouri,0af3058e-b7ff-4bb2-aca4-21da367607e4,2020-07-16,2025-07-23
-50501,20286,Hartley North Quarter,A,United States,South Dakota,2f6344ad-ff11-4620-96fa-e3cf65636928,2020-03-12,2021-07-27
-50296,20165,Steiner River Ground,A,United States,South Dakota,e233a21e-8ee9-4deb-8364-75758aa40a87,2018-02-03,2020-09-04
-50648,20415,Brenner River Homestead,A,United States,Ohio,4b88cb2e-8b14-4178-a920-7e46d4461264,2017-11-22,2020-05-11
-50342,20191,Albrecht Valley Ranch,A,Canada,Manitoba,bd57d6e9-1f78-4fc3-b9d3-ada425a992b1,2020-09-23,2025-04-02
-50640,20407,Okafor Prairie Quarter,I,United States,Minnesota,edcbf60a-8940-447a-b12a-925a293f352c,2014-10-06,2015-12-19
-50320,20178,Yancey East Section,A,Canada,Ontario,647b5ebf-712d-4127-b254-22b4782a7070,2013-07-09,2013-10-29
-50560,20332,Albrecht Upper Section,A,Australia,Queensland,9e6795f3-c6d1-4481-a30b-fb75960454d8,2016-02-15,2016-04-26
-50661,20428,Eastman Valley Quarter,A,United States,Iowa,91b52601-b607-4f96-872a-be66409f6d1e,2015-05-19,2020-04-15
-50061,20034,Novak Creek Farm,A,United States,Missouri,0f4c75d6-41ae-4d62-af46-cd0f765b9555,2022-07-20,2023-09-12
-50138,20077,Kowalski South Quarter,A,Canada,Ontario,a2bbb5d6-dcae-455f-873c-164d833aa3de,2021-06-16,
-50412,20228,Underhill Creek Ground,A,United States,Nebraska,d98b7db0-ea97-4abe-ad29-77b78f1e57f8,2011-04-14,2013-04-17
-50311,20173,Okafor Creek Place,A,United States,Kansas,c35664f5-5869-481c-a4dd-407cf8243d31,2013-04-18,2016-09-30
-50646,20413,Jablonski Home Ranch,A,United States,South Dakota,01e268b8-3d10-411e-8160-951fb9904a16,2020-09-26,
-50493,20278,Hummel Hilltop Homestead,A,United States,Indiana,48c85bbf-3b46-41bb-9a01-7340785fcdb7,2022-04-01,
-50441,20243,McAllister Ridge Section,A,United States,Nebraska,b7a7761c-7da7-4003-95d3-689b0b0487bf,2021-09-27,
-50630,20397,Xiong Creek Farm,I,United States,South Dakota,0b0bbb0a-7c9b-405b-8b5a-dd5f5a224257,2018-08-03,2022-01-06
-50125,20069,Vandermeer East Farm,A,United States,Indiana,d1c6d337-cedb-4183-81b8-50833a9e8e0a,2013-06-11,2023-06-04
-50555,20328,Albrecht South Place,A,Australia,Victoria,5282fac7-71f7-43a1-8441-e1ca047094e5,2019-09-04,2024-10-15
-50483,20268,Prescott Home Ranch,A,United States,Nebraska,,2017-07-13,2020-03-04
-50085,20046,Quandt Lower Section,A,United States,North Dakota,12b6918e-dfd8-49a8-a29d-0380a0e235c3,2014-03-15,2015-12-18
-50537,20316,Callahan North Place,A,Australia,Queensland,6e91384d-1178-4a00-8cac-d92bf14a8435,2010-10-02,2020-11-09
-50408,20227,Tollefson Old Place,A,United States,Illinois,8b727ca4-f85a-41d2-b471-4fc43cd4c2ef,2011-01-18,
-50492,20277,Marsh Hilltop Ground,A,United States,Minnesota,e76c4b90-fa98-4502-986b-b906d9031b13,2018-11-11,2024-11-20
-50150,20083,Baxter East Farm,A,United States,Nebraska,ac3a1d19-75b3-44c4-9a86-6b33a0188393,2012-11-25,2025-11-04
-50616,20383,Xiong Creek Homestead,I,Canada,Manitoba,a0ee37fc-aa86-4b96-b1f3-0d8d78782c3b,2011-02-26,
-50623,20390,Tollefson East Ranch,I,United States,South Dakota,6c7cf3f1-0775-411c-bdc4-d61d2d0065ab,2019-08-12,2020-06-07
-50539,20317,Yoder New Farm,A,Australia,Western Australia,4b0f7c98-f1bb-4225-8fc5-286520d14ef5,2020-01-12,2026-04-01
-50250,20137,Drummond New Place,A,United States,Iowa,e9679a53-cf7d-4fcb-8769-ad750d63ab68,2022-11-25,2023-05-07
-50551,20326,Underhill West Ground,A,Australia,Victoria,0f8373c6-fe9b-4d62-acf3-bb87dcdfe320,2015-08-12,2024-11-01
-50295,20164,Bergstrom Home Ranch,A,United States,Kansas,304c1ce3-f319-4add-8c8e-48ccd52d2a75,2017-09-03,2025-08-06
-50100,20054,Rasmussen Ridge Farm,A,United States,Iowa,8dccccf2-12b9-46b8-a3df-4500fe9d75e0,2012-01-29,2015-10-28
-50064,20035,Xiong Valley Place,A,United States,Ohio,5a4a89d3-b124-4713-8945-192897444350,2017-03-16,2020-01-31
-50339,20189,Dietrich West Ground,A,United States,Minnesota,fa11282c-d8c0-4d44-a9cd-81c1fca1570c,2017-06-26,2018-03-06
-50111,20062,Marsh New Section,A,United States,North Dakota,dfd0d33e-8bec-4845-a0a0-3dccc033c958,2020-08-19,2023-10-30
-50666,20433,Kowalski Lake Homestead,A,United States,Missouri,ea9b5cb5-f1ed-4439-bc02-dede0bfd7681,2019-09-27,2021-07-12
-50457,20252,Bergstrom New Homestead,A,Canada,Alberta,40823564-371d-425b-81b5-fd4c379bb9b1,2010-11-23,2024-09-18
-50657,20424,Rasmussen East Place,A,United States,Minnesota,3a8160e3-60de-431a-8b35-d522011aa163,2021-06-16,2022-08-30
-50092,20050,Yancey New Section,A,United States,South Dakota,5a8e452a-9316-4fe2-8a3d-06ac1547f48d,2023-03-02,
-50273,20151,Crenshaw Creek Farm,A,United States,Ohio,f42b0329-469a-4626-b149-bf3a02a41752,2013-04-08,2017-11-19
-50261,20145,Whitaker Home Place,A,United States,Wisconsin,35e8c0a7-aab9-443e-a88c-7c1a835b9f10,2017-04-17,
-50270,20150,Xiong New Homestead,A,United States,Nebraska,bf57a57e-1699-46ed-bdd1-cc5d18e9f067,2018-10-26,
-50469,20259,Merriweather Ridge Farm,A,Canada,Alberta,1c70f2e5-420a-45e1-b98f-96014fda8ce1,2018-06-15,2024-07-10
-50549,20325,Steiner Hilltop Place,A,Australia,Victoria,0fa8a123-e9e4-481f-928a-f64562f2c904,2018-04-11,2019-03-14
-50194,20108,Dietrich Prairie Ground,A,United States,Wisconsin,3021afdf-07d8-45ec-aeff-797552db9bca,2010-05-30,2015-02-11
-50364,20204,Jablonski North Homestead,A,United States,Iowa,3e7434a4-0e8b-4d59-93ca-84e92f853d40,2013-08-24,2019-12-19
-50180,20099,Oberlin Valley Place,A,United States,Indiana,1e115410-cd2e-4ccb-ba76-5f54b6479ad6,2023-04-17,2023-10-28
-50145,20080,McAllister Upper Quarter,A,United States,Missouri,770373df-8f31-47bf-a9d7-f3298298e931,2014-01-22,2022-03-17
-50341,20190,Okafor Lower Ground,A,United States,South Dakota,0509d56c-ffe6-4d24-884d-55fe8e5e8acb,2020-01-27,2023-02-20
-50607,20374,Bergstrom Prairie Ground,I,United States,North Dakota,04b8289d-3aff-44b1-9e56-23c8ae6c651c,2022-01-02,2022-06-28
-50201,20111,Xiong Creek Ranch,A,United States,Illinois,0330304c-d6a6-4cfd-81f6-5581319538bf,2011-10-26,2018-07-10
-50435,20240,Yancey Valley Ground,A,United States,Wisconsin,cecde8ed-50ec-4814-a1c8-cb8f69712f4c,2014-06-30,2018-08-12
-50003,20001,Ziegler Hilltop Ground,A,United States,North Dakota,3f25ef72-a0a8-4e09-8e1c-9dae3547a82f,2018-06-04,2026-06-26
-50089,20048,Jablonski North Ranch,A,Canada,Alberta,88f5015c-4bd5-45e8-b66d-16a87113d692,2022-04-23,2025-09-21
-50438,20242,Ivanov Prairie Place,A,United States,Missouri,064277c2-35ec-41d0-bf5d-8cb8d3bb151a,2016-12-27,2022-09-05
-50596,20363,Prescott West Ranch,A,United States,North Dakota,de31403a-ba64-4c8c-80a0-e8ff85d842b4,2021-02-26,2022-03-30
-50375,20211,Reyes River Ranch,A,United States,Ohio,9370378b-8022-4664-a3a1-996a1a3e553b,2013-11-04,
-50209,20116,Yoder River Place,A,United States,Minnesota,264696c2-8d17-40b3-ae3b-b986db3d698c,2011-07-22,2013-01-07
-50579,20346,McAllister South Ranch,A,United States,South Dakota,8cd7f114-1503-47fe-b4b6-0188d5a06e4e,2023-08-16,2026-05-09
-50257,20143,Hartley Ridge Ranch,A,Canada,Saskatchewan,9185b891-25e1-4c2b-98f7-4a40de4adc72,2022-09-26,2024-12-31
-50430,20238,Baxter Prairie Ground,A,United States,Minnesota,6ef345ff-478f-4a89-86cb-f76a11ce51db,2022-02-06,2024-11-05
-50005,20002,Duval Creek Quarter,A,Canada,Ontario,e6d72e8c-bd27-49df-ba68-ea62bbd5d330,2011-03-15,2018-06-26
-50618,20385,Boudreau Hilltop Ground,I,Canada,Alberta,ac3f4a5e-7409-4b7e-a962-da5788fdc741,2021-07-05,
-50079,20044,Winters Valley Farm,A,United States,Wisconsin,4608824e-c18a-4dad-a321-49f141c539ac,2016-08-16,
-50507,20292,Marsh South Homestead,A,United States,North Dakota,218b40b0-206a-4523-9cd2-baf429898118,2022-03-21,2023-05-12
-50400,20223,Vandermeer Prairie Farm,A,United States,Wisconsin,986ae4db-d0cd-4626-90a3-ec4bff241fd8,2022-03-18,2024-01-26
-50391,20218,Rasmussen East Section,A,United States,Ohio,c480ff89-d98c-404d-a288-c1c5085e3aac,2010-11-15,
-50411,20228,Underhill Upper Place,A,United States,Nebraska,de87387e-7cfa-4984-b0f9-c25471eee679,2023-11-19,2025-11-30
-50564,20335,Kerrigan North Farm,A,Australia,Victoria,827f050d-d5f2-4bc6-b88c-05c13c9ca19e,2021-08-06,2025-11-15
-50164,20091,Ashworth Home Ground,A,Canada,Manitoba,d1007da6-ee82-4e3c-8e3f-8df9778bd822,2013-03-13,2023-07-23
-50383,20215,Pemberton South Farm,A,United States,Wisconsin,897d6a3a-7f7d-484c-929c-896ad171ad45,2015-10-14,
-50581,20348,Yancey Prairie Ground,A,United States,Illinois,acfbee06-6dfe-4164-9244-6e2ec82eef1b,2020-04-02,2024-05-13
-50269,20149,Kowalski Prairie Ground,A,Canada,Alberta,09792eef-716c-4e59-892a-b4eb5b3b4536,2011-02-12,2019-04-19
-50067,20037,Novak West Ranch,A,United States,Wisconsin,7a14fd60-68f5-4495-9069-e986abc75936,2021-08-03,2026-05-21
-50415,20230,Thompson Home Farm,A,United States,Ohio,5bf52c1d-3391-47be-bbee-2a04706a61a3,2023-02-09,2025-12-16
-50274,20152,Kowalski Old Section,A,United States,North Dakota,bbbca127-6f5c-417f-9819-0df7ebecabd1,2016-03-27,2022-02-12
-50136,20075,Duval Ridge Ranch,A,United States,North Dakota,01512652-8452-48ee-b92c-64b2450243e0,2020-10-22,
-50569,20338,Reyes Lake Ranch,A,Australia,Victoria,91e0d67c-cd1d-44a7-9dfe-e330544f487b,2021-12-20,2025-10-22
-50043,20022,Yancey North Quarter,A,Canada,Ontario,c78e8b78-8123-4cac-b8ff-ac3a55dcc762,2015-02-08,2022-12-20
-50200,20111,Xiong Home Section,A,United States,Illinois,fad85ac3-f679-49f3-8cfc-8494f25eb24f,2018-11-20,
-50008,20004,Holloway Lake Homestead,A,United States,Missouri,8081b000-0943-4abe-9641-5cba808c8e93,2020-10-24,2023-04-04
-50233,20127,Drummond River Ranch,A,Canada,Manitoba,be91b8ea-16f0-42d2-95ae-eb767c3d34ef,2015-08-06,2022-07-14
-50140,20078,Whitaker Old Farm,A,United States,Minnesota,ea72d9d9-beb7-49bd-98de-16c8f6ed4932,2012-04-28,2013-08-17
-50179,20099,Oberlin West Ground,A,United States,Indiana,7589eb51-2742-420d-b422-5f8c1fd246b6,2010-01-09,2024-03-09
-50442,20244,Oberlin Hilltop Ground,A,United States,Kansas,bf45b062-ec75-4109-a10b-433a2a56acfc,2013-01-07,2019-09-07
-50373,20209,Bergstrom Hilltop Ground,A,United States,Nebraska,77e3babb-3c43-4d9e-967c-927339407625,2012-05-21,2016-12-01
-50385,20216,Hartley West Quarter,A,United States,Missouri,d468d232-7771-49d3-a220-92e53ac33cfa,2010-09-03,2023-08-12
-50651,20418,Okafor River Ranch,A,Canada,Ontario,ceef92ca-c5f8-4df0-9f79-290d66a15c23,2021-02-20,2023-08-09
-50370,20207,Duval Old Place,A,Canada,Alberta,306f62d1-b1c3-44b8-99fe-88cae97d9d0a,2018-11-13,2020-03-02
-50210,20116,Yoder South Ground,A,United States,Minnesota,c4bf69fc-563e-4927-9211-2f467841719e,2021-08-31,2025-02-20
-50036,20019,Lindqvist Home Section,A,Canada,Alberta,c234a4e6-a4ca-456e-8469-6dbb188acf3f,2019-03-31,2024-10-17
-50299,20167,Tollefson Home Quarter,A,United States,Illinois,6dcd41ec-7887-4dde-b4d5-8607b29d54ee,2017-10-17,
-50314,20174,Kerrigan South Quarter,A,United States,Illinois,b01e4c94-31a0-431e-8962-89b5c32b63c2,2019-06-29,2021-03-14
-50563,20334,Marsh River Section,A,Australia,New South Wales,b981eae1-cac6-4328-a2bb-c34cf08dec8c,2023-06-26,
-50019,20009,Ashworth Home Ground,A,United States,Indiana,7a3abb0a-da7a-4545-8bda-7ecc0554c6d9,2017-12-27,
-50205,20115,Delacroix Hilltop Section,A,Canada,Alberta,292a0653-5b84-4519-afd1-0cd208e8aca3,2019-12-08,2022-03-11
-50546,20323,Lindqvist South Section,A,Australia,Western Australia,63142fe3-7f4c-42a0-8aec-f92f6e9cae61,2010-07-21,2017-01-24
-50599,20366,Girard Home Section,A,United States,Ohio,5b4fada3-8237-420f-9d8b-5638e2af844e,2019-08-02,2023-11-05
-50633,20400,Baxter East Section,I,United States,North Dakota,25f644c7-f050-4d7d-92c5-1d7184c36a6c,2013-04-11,2018-08-23
-50123,20068,Crenshaw South Section,A,United States,Nebraska,2baeb988-7c84-412e-9419-eabb7ff72f9f,2011-01-21,
-50378,20212,Boudreau Ridge Ground,A,Canada,Ontario,0cf07c96-cba2-4f12-b11c-ed81bccc8a9c,2020-10-15,2024-08-26
-50170,20095,Dietrich Lower Section,A,United States,Wisconsin,8a682c17-92ad-46f5-b1a8-e30ae3abde3e,2012-02-28,2015-03-23
-50621,20388,Falkner Creek Farm,I,United States,Illinois,c1a335f1-2fc1-4156-8dda-bd59cd565acf,2013-07-25,
-50382,20214,Reyes Lower Ground,A,Canada,Saskatchewan,a496e66c-6301-4ba8-88b8-d094ed67f405,2022-04-30,
-50505,20290,Hummel South Farm,A,United States,Indiana,4553d881-2dd0-4b00-8634-2e1bbc6690f6,2014-07-09,2017-05-06
-50496,20281,Okafor Home Farm,A,Canada,Ontario,79eedda7-2c88-4867-9e9b-292c140a56d8,2017-09-01,2020-04-12
-50148,20082,Okafor New Quarter,A,United States,North Dakota,41643420-1362-4388-bb9c-322c9b0d255d,2021-08-30,2026-05-02
-50195,20108,Dietrich Creek Ranch,A,United States,Wisconsin,b05f07eb-9a0d-4e0a-b318-4b0470f75017,2021-05-02,
-50445,20246,Holloway Prairie Farm,A,Canada,Saskatchewan,5a6e1ce7-3942-43cd-ad08-d43605f9054e,2010-09-30,2019-04-06
-50128,20072,Yoder Valley Homestead,A,United States,South Dakota,56576aee-ff97-4a00-bf90-bbf5a4b614f0,2018-02-27,2022-03-26
-50310,20173,Okafor Old Ranch,A,United States,Kansas,ce6ba9f3-ab52-4739-8fed-f52947061119,2018-04-25,2022-03-27
-50268,20149,Kowalski North Quarter,A,Canada,Alberta,54a27819-f912-4747-bb91-f01f408ebdbb,2016-12-30,2025-01-23
-50336,20188,Falkner East Place,A,Canada,Manitoba,d013ea5a-9987-44ee-8396-2b05b6537c16,2022-10-07,2025-03-30
-50229,20125,Delacroix Creek Ranch,A,United States,Kansas,eb5e8db3-c76f-41d5-bef7-e5a4d03c30eb,2021-02-17,
-50534,20314,Merriweather Prairie Ground,A,Australia,Queensland,253beaf9-6ffe-430a-b059-8e21b1ba85a5,2022-10-02,2023-02-14
-50459,20253,Albrecht Hilltop Ground,A,United States,North Dakota,b740a8e1-1dda-416f-a78f-4dab1521e64a,2010-04-06,2012-09-06
-50157,20087,Jablonski East Ground,A,United States,Wisconsin,ebcc7b1b-a831-483e-86b9-340f1534e74f,2022-02-13,2026-06-06
-50494,20279,Falkner Lower Homestead,A,Canada,Manitoba,cb689fba-ba17-4d42-a240-a4fc9a9c1d88,2011-12-01,
-50548,20324,Pemberton Valley Ranch,A,Australia,Western Australia,8f7650bc-3a61-4e5c-bb02-f579e2416946,2015-10-31,2023-05-17
-50093,20051,Kerrigan Hilltop Place,A,Canada,Ontario,e1b0b028-6e3b-45b3-b5e6-934006a13430,2018-08-27,
-50256,20142,Thompson Old Quarter,A,Canada,Alberta,fe2916b0-d62d-4c9e-8465-19a29c6e938d,2021-03-03,2024-10-24
-50572,20341,Lindqvist Old Farm,A,Australia,Victoria,2b27cb4d-208a-4690-b3c1-a2b21d0ca2e6,2018-12-22,2022-02-07
-50545,20322,Ferreira New Farm,A,Australia,Western Australia,a4d8c36d-f9d2-4c6f-95a8-c31fca0a39e4,2011-06-11,2015-01-30
-50022,20011,Marsh Home Farm,A,Canada,Alberta,9f0f03de-1786-47c4-86fd-f5062e9aa97d,2021-02-19,
-50302,20168,Ivanov Home Quarter,A,Canada,Saskatchewan,91126ab6-2822-4e3f-99e9-b6a0a115b1fd,2012-09-30,2022-03-21
-50632,20399,Marsh East Ground,I,United States,Iowa,b0fd8ae8-9ea9-440a-9546-c2c8806814ac,2017-04-25,
-50541,20318,Pemberton Old Section,A,Australia,Western Australia,98d616c2-e087-4422-84f6-2f688b7823ab,2022-11-16,
-50509,20294,Quandt New Section,A,United States,Wisconsin,155e53cd-9f27-404a-b3a0-95355f37f285,2017-06-28,
-50240,20131,Albrecht Lower Farm,A,United States,Nebraska,5bdf6009-5274-4d00-b415-93a17bdf45cc,2021-09-02,2023-12-29
-50163,20091,Ashworth Prairie Place,A,Canada,Manitoba,1c2f2310-44f4-4e86-a6f4-3bd324338d62,2017-01-28,2018-06-11
-50169,20094,Falkner Upper Ground,A,Canada,Saskatchewan,2e350a55-666d-4ed2-9d00-ec6c6bb8a842,2014-02-04,2021-11-21
-50664,20431,Ferreira New Farm,A,United States,North Dakota,87023afe-2ba2-45be-953e-3017b97d7231,2018-04-28,2019-02-08
-50073,20040,Whitaker Home Ranch,A,United States,Nebraska,dcc9c30e-e987-47e6-a4eb-97c9cac5a83a,2022-09-22,2023-08-08
-50538,20316,Callahan West Farm,A,Australia,Queensland,1e14cb58-fec5-4253-98b7-124d04559a7c,2023-08-12,
+50065,20037,Prescott Home Ground,A,United States,Missouri,89e3a49c-93f6-49ec-8c50-e4e34f5afde1,2015-11-01,2025-11-02
+50318,20169,Kowalski Prairie Homestead,A,United States,Illinois,874dccb0-293d-4e2a-b167-9c514e0fd407,2010-01-24,2024-03-01
+50572,20355,Prescott New Ranch,I,United States,Kansas,0f39b0cf-282b-4bdb-9f28-3f554c444032,2019-09-23,2020-12-16
+50051,20031,Reyes Ridge Ranch,A,Canada,Ontario,0e5bcfe2-3d14-4754-902a-c7f9d176d439,2020-03-26,2021-11-08
+50378,20203,Boudreau South Place,A,United States,Nebraska,9c80f462-273b-4bf1-880b-a3f2310fcb9a,2021-03-17,2022-07-19
+50577,20360,Hartley Old Homestead,I,Canada,Ontario,765bf1c9-fb3e-4cd2-8bca-211d69c33cd7,2012-03-06,
+50242,20130,Prescott Valley Homestead,A,United States,South Dakota,355d9880-7187-4468-a2d2-a7925e35e816,2010-02-20,
+50558,20341,Albrecht New Section,I,Canada,Ontario,b2ab99b4-857c-49f8-8a50-f702edc6a4b0,2020-03-17,2021-08-17
+50447,20253,Nordin Lower Place,A,United States,North Dakota,218d2395-9555-4e4c-a4d2-b684436dc581,2010-05-22,2014-11-05
+50153,20082,Lockhart South Section,A,United States,Wisconsin,7ae7a2eb-9794-40b4-b805-df62be9724cb,2015-02-24,2016-06-25
+50198,20104,Okafor South Ranch,A,United States,North Dakota,7605edea-86c0-4764-b351-c0868a2152cd,2017-03-03,
+50263,20140,Yoder Old Farm,A,United States,Minnesota,db88d6bd-31b3-401f-8473-51361a8cf201,2021-12-14,2024-03-05
+50549,20332,Brenner Creek Homestead,A,United States,Kansas,b4749688-5a2d-4549-8b82-628f4936046d,2015-11-18,
+50540,20323,Yancey West Ground,A,Canada,Alberta,2fdbf07c-dcd0-4fc4-8073-38a2b276c2c1,2016-10-26,
+50173,20092,Oberlin Lake Quarter,A,United States,Kansas,db0c1beb-f5bd-4592-a33c-bca27f0e4476,2012-10-11,
+50298,20160,Kowalski Old Ranch,A,United States,Kansas,23ce10a7-eda4-480e-9e5e-04b74d9d6ab1,2010-02-13,2021-07-09
+50150,20081,Merriweather Valley Section,A,United States,South Dakota,3a87c288-21ce-489f-bdc5-042a05f43913,2014-11-03,2017-11-10
+50608,20391,Holloway Ridge Homestead,A,United States,Ohio,28cab878-92a0-4592-91ad-481abe09d023,2016-03-23,
+50056,20033,Ashworth Lake Ranch,A,United States,Minnesota,41b59379-f3f5-4c4d-b6d5-beb2cc7144cb,2021-01-21,2022-11-19
+50412,20222,Oberlin Old Section,A,United States,Kansas,27ce7c2b-ac9c-412d-b354-e63a32d6a4ec,2014-11-10,2016-02-05
+50225,20121,Delacroix Lake Place,A,United States,North Dakota,1e559301-ce05-4d4c-9194-167dd7a3376e,2023-03-10,
+50018,20011,Kowalski Creek Ranch,A,United States,Illinois,11c9f8ae-cfe2-4b85-8e3a-9a5490bba23f,2018-09-15,2019-01-29
+50114,20063,Hummel Hilltop Place,A,Canada,Alberta,b976f309-34bd-4906-a29b-86521a1a3626,2011-07-14,2026-03-18
+50408,20220,Duval New Ranch,A,United States,Kansas,c38eb22d-81ea-4b41-bf49-0daf77d234ea,2012-07-11,
+50311,20166,Callahan South Ranch,A,Canada,Saskatchewan,bd9dbb55-2b0a-46e7-935c-d46b87a962dc,2010-11-14,2013-04-01
+50325,20173,Duval Creek Ground,A,Canada,Manitoba,f0019ce6-afc0-4475-b279-f0e62595d380,2016-10-02,2023-07-10
+50170,20090,Whitaker Creek Homestead,A,United States,Ohio,11c17ad5-e44e-481a-a9f4-a7b6c709d611,2019-05-26,2026-04-06
+50596,20379,Boudreau Prairie Ranch,A,Canada,Alberta,1e6f520f-13b7-40c3-b720-7fd6a6ab8ee0,2020-10-19,2024-02-16
+50224,20121,Delacroix Prairie Farm,A,United States,North Dakota,e295bbdf-7437-463c-a06f-272c01750591,2020-01-20,2025-02-17
+50066,20037,Prescott Lake Ranch,A,United States,Missouri,2b4f6c88-9a0c-46b4-b0ce-dac12dfa7d3c,2014-07-26,2023-04-27
+50425,20231,Thompson Lake Farm,A,United States,Indiana,,2020-09-24,2026-05-01
+50188,20099,Baxter Lake Section,A,Canada,Alberta,4a089cf4-561e-4189-81e3-f6a0f4a76bad,2016-11-11,2022-09-29
+50418,20224,Ivanov Old Farm,A,Canada,Alberta,e8e40945-635d-4f98-a305-a0a127da1f40,2011-11-03,2014-04-10
+50427,20233,Steiner Hilltop Farm,A,Canada,Ontario,,2020-02-18,
+50097,20053,Tollefson Prairie Farm,A,United States,Ohio,5bfb7790-6a14-42c3-9622-cf82298ec21d,2014-01-22,
+50542,20325,Pemberton Valley Section,A,United States,Ohio,01f4b570-733b-470a-b8e7-f7d0810431fe,2020-03-02,2025-09-27
+50055,20033,Ashworth Hilltop Homestead,A,United States,Minnesota,bd9216f2-0c32-42b8-bc01-9e7e3be6065f,2010-02-13,2013-12-09
+50422,20228,Boudreau Old Section,A,United States,South Dakota,,2010-01-18,2012-08-23
+50233,20126,Nordin Home Quarter,A,United States,Wisconsin,b0ca8ecd-3408-4bdb-b797-7538f07520f8,2017-03-01,
+50281,20149,Falkner North Farm,A,Canada,Alberta,ef02f496-654c-40fe-8556-4bf34671b825,2011-10-15,2021-10-22
+50088,20049,Marsh South Ranch,A,Canada,Saskatchewan,0c14f192-bc10-4bec-98d2-e59b65cd5ac6,2021-05-09,
+50386,20207,Marsh Hilltop Quarter,A,United States,North Dakota,1bcebd31-636b-4f15-bfa2-0acc6a327fe4,2021-10-25,2024-02-01
+50309,20165,Kowalski Hilltop Homestead,A,Canada,Saskatchewan,ead3b885-85fd-41a7-aa63-08e256ff6334,2016-10-31,2022-10-14
+50045,20028,Delacroix Valley Section,A,United States,Illinois,4b6359c8-554c-4ee8-a0f0-4038d66fd737,2012-02-09,2016-05-12
+50580,20363,Xiong Valley Quarter,I,Canada,Ontario,af675e20-7102-432a-a493-639496c21dac,2015-06-01,2025-10-28
+50181,20096,Bergstrom North Ranch,A,United States,Nebraska,9142d0f4-5a55-4f79-988e-abf354bd544f,2019-03-03,2023-01-15
+50348,20184,Girard Old Place,A,United States,Kansas,89a12ba3-b655-40bd-b63b-1ec9dfc09584,2016-02-28,2020-06-27
+50287,20153,Novak Ridge Ranch,A,Canada,Alberta,1d5544d2-1e34-4275-a321-1514fa9cdc62,2012-09-13,2019-10-18
+50323,20172,Whitaker Lake Section,A,Canada,Saskatchewan,b1b7326e-ad1b-46fc-887b-13b92c2d87cf,2011-04-07,
+50502,20296,Okafor South Ground,A,Australia,Victoria,10a3b382-4097-40c4-8177-431f1a0246c6,2023-06-04,2023-10-10
+50271,20145,Callahan West Section,A,United States,Iowa,753b3b2e-f457-48b1-b7d8-114c1fd7e852,2011-03-05,2021-06-25
+50576,20359,Baxter New Homestead,I,United States,Illinois,dd440823-9a6d-481f-91ab-d42b381a7649,2017-03-11,2018-08-28
+50619,20402,Brenner East Homestead,A,Canada,Saskatchewan,3ce9a15d-8b07-4647-9bf1-3fb0330973e0,2010-03-13,
+50574,20357,Duval Prairie Ranch,P,United States,Minnesota,96637084-6773-4a58-a6ad-e6464a401db9,2020-11-28,
+50219,20118,Ivanov Prairie Ground,A,United States,South Dakota,63b8a670-fb15-47ba-be67-2a09a8772603,2021-04-13,2021-12-04
+50501,20295,Quandt Valley Homestead,A,Australia,Victoria,54d09d71-c26a-404a-8648-6bf91db2f269,2011-12-02,2025-05-29
+50565,20348,Dietrich Creek Ranch,P,United States,Missouri,9d8cf376-1fc5-452b-a07a-a7130eef798f,2015-08-05,2019-11-09
+50260,20138,Pemberton Ridge Farm,A,Canada,Alberta,ec37ab5d-61ec-40a0-a7a0-519e7ec340ed,2021-11-21,
+50474,20278,Bergstrom River Section,A,Australia,Western Australia,afa773a5-9b6d-4538-8b80-d4e6d1b5ef73,2015-05-13,
+50094,20052,Brenner Lake Farm,A,United States,Wisconsin,6a229119-8e7b-4b5a-b1c2-09a7d5454eb1,2021-07-28,2025-10-20
+50313,20167,Hartley Ridge Ground,A,Canada,Manitoba,626a2a11-5ece-432b-933b-075def5e290d,2022-07-11,2023-01-12
+50060,20035,Castellano Lake Ground,A,United States,Ohio,5813502e-38fa-412e-9724-5feb58933436,2019-06-15,2021-07-01
+50494,20291,Dietrich Old Quarter,A,Australia,Western Australia,4ab5e2c6-6e3e-45f6-a988-ac3c29be9d23,2011-05-03,2025-10-23
+50054,20032,Winters Valley Homestead,A,United States,Wisconsin,ddb692ed-65c3-47cc-b247-20bfb4f81b30,2017-01-17,2018-04-23
+50352,20187,Underhill River Section,A,United States,Ohio,3c0fe544-af9d-40f4-90ea-2d953ea418ee,2022-09-05,
+50615,20398,Tollefson Hilltop Ground,A,Australia,Western Australia,eca8e544-9374-4e03-bdd3-8d153649f406,2023-11-14,
+50035,20022,Okafor Lower Place,A,United States,Missouri,f13b83ca-8c3b-46f6-9807-b5248afc1aa5,2019-09-03,
+50467,20273,Girard Creek Homestead,A,Australia,Western Australia,ad920813-ad1a-4d42-a18e-c56c1e9454c9,2022-05-24,2025-05-11
+50430,20236,Yoder Ridge Place,A,United States,Kansas,,2020-01-03,2022-03-29
+50326,20174,Winters Lower Place,A,United States,Wisconsin,59f485bc-6cd7-4703-8c38-a46b731c5770,2021-05-08,2024-11-11
+50017,20011,Kowalski Prairie Place,A,United States,Illinois,4456a691-003d-4268-aa03-d5471e8acb81,2021-12-06,2025-12-19
+50247,20133,Pemberton East Quarter,A,United States,Nebraska,9ddb644f-2bd2-43e1-b7e8-58bf0bd69efc,2023-03-18,2026-02-07
+50616,20399,McAllister South Place,A,United States,Wisconsin,5e40649d-1a81-4bbd-9bf4-f6086ddef3a2,2023-03-24,2025-01-15
+50200,20106,Girard Prairie Ranch,A,Canada,Ontario,e67ea894-1e2b-454e-9bbb-5af1fbfe1683,2010-05-15,2013-03-08
+50512,20302,Ashworth East Homestead,A,Australia,Queensland,bbef9be0-9e91-4572-9acf-020f3e27df10,2016-01-07,2020-11-02
+50083,20047,Quandt East Section,A,Canada,Ontario,50a2e875-6231-47c1-b32a-cf694ed17149,2011-04-16,2020-11-21
+50415,20223,Boudreau Lower Homestead,A,United States,Indiana,2723566c-208f-409f-a7ac-9c07d88721fb,2020-01-27,2021-04-01
+50546,20329,Winters Old Quarter,A,United States,Indiana,c7cd8f4c-6069-4bf9-b5f2-d6683774587f,2020-02-11,2021-05-31
+50420,20226,Ferreira North Section,A,United States,South Dakota,5934b67f-872c-4d32-9794-2d8f6ed7a452,2020-07-03,2023-05-24
+50259,20138,Pemberton Lower Farm,A,Canada,Alberta,0f8f7b2e-98a3-41b8-82e9-39a359ee24f0,2019-12-31,2024-10-01
+50414,20223,Boudreau Prairie Section,A,United States,Indiana,6e81327d-b826-4c47-bbf1-e18da0a24ae4,2010-09-04,2022-04-14
+50341,20181,Castellano Upper Farm,A,Canada,Saskatchewan,83912291-da30-455e-ba91-964a483a67cf,2020-08-13,
+50532,20315,Yoder East Ground,A,United States,Missouri,c2ac644d-cb0e-409e-8313-81177ea62d47,2021-07-29,2025-05-18
+50476,20280,Crenshaw Old Ground,A,Australia,Victoria,5acbf432-a843-4828-b72a-6a5b1d2821d1,2019-04-21,2025-11-26
+50487,20286,Dietrich Creek Ground,A,Australia,New South Wales,bdf68c73-845d-476b-819e-f0f293d034fb,2019-04-21,2020-10-17
+50504,20297,Xiong Old Ground,A,Australia,Queensland,b52f6546-65aa-4ba2-b7bc-2563f972757a,2011-05-30,2026-04-14
+50441,20247,Thompson New Homestead,A,Canada,Alberta,e08b825c-909b-4a5d-83b4-1207f1627068,2016-06-07,2022-01-15
+50108,20060,Baxter Home Place,A,Canada,Saskatchewan,e8a72960-fad9-4215-949e-30df3869012a,2012-11-13,2013-04-13
+50167,20089,Duval Ridge Ranch,A,Canada,Manitoba,56e5ed5c-d11b-4db9-a053-050ff583c3e9,2017-01-28,2018-06-11
+50479,20281,Drummond Home Quarter,A,Australia,New South Wales,e1c74a9a-ef03-421e-8ed9-d3b10fe4290c,2017-03-21,
+50395,20212,Reyes Upper Place,A,United States,North Dakota,3bfc90b4-80a6-4d3b-8cdc-a888402eb9a0,2015-03-17,
+50495,20291,Dietrich Lower Ranch,A,Australia,Western Australia,a4ec514f-bb92-4e5c-b981-4e9df2dad21b,2010-06-03,
+50125,20068,Yoder Home Ranch,A,Canada,Saskatchewan,dccfa886-b8a0-43d7-9436-35093c7880f0,2010-09-06,2023-03-01
+50552,20335,Jablonski Hilltop Ground,P,United States,Kansas,965d0cbb-d519-47e1-aaf4-601472540e99,2015-01-26,2019-09-25
+50010,20007,Tollefson Hilltop Section,A,Canada,Alberta,af99a9e3-82f0-42d1-8542-f8313c9a663b,2023-04-02,2026-01-24
+50336,20179,Rasmussen Hilltop Quarter,A,Canada,Manitoba,4b9b83cb-c630-4f49-ab66-77e834e8ae0b,2022-08-31,2025-10-15
+50598,20381,Delacroix Creek Ground,A,United States,North Dakota,c4450280-4c63-476b-82f9-15b0faf26f83,2019-05-21,2021-11-29
+50407,20220,Duval River Section,A,United States,Kansas,99daaf48-ec8e-4b1b-9fec-219f510f4cfb,2023-11-25,
+50444,20250,Lindqvist Home Homestead,A,United States,Ohio,656b212a-2de2-488d-b7e0-32ccc6a15bbc,2015-01-02,
+50515,20304,Pemberton West Section,A,Australia,New South Wales,e34af8bd-f89b-458b-9b68-a14d6218281a,2012-02-21,
+50162,20086,Reyes New Section,A,United States,Nebraska,28040f6c-5895-4a0c-82d7-470fdcd3e270,2011-12-08,
+50480,20282,Holloway New Quarter,A,Australia,Western Australia,6652f990-67b4-4940-94a2-284ce000bf06,2020-08-29,2024-03-09
+50389,20209,Ferreira Creek Ground,A,United States,Indiana,941e274d-8eaf-4922-a089-576b1847b209,2018-07-19,2023-11-16
+50090,20050,Baxter Old Place,A,United States,Wisconsin,e1ba3a30-e3df-4d01-b7df-4b7f3c5258ea,2023-11-20,2025-07-14
+50070,20039,Dietrich Valley Homestead,A,United States,Indiana,f56279d7-5b78-4a7a-ad0c-42aa90ff2f36,2020-06-09,
+50486,20285,Marsh Valley Quarter,A,Australia,Western Australia,6ee52af2-04be-4895-bb29-7882e2734847,2021-11-05,2024-09-27
+50034,20021,Kowalski Lake Section,A,United States,South Dakota,999e114d-70e3-4793-8baf-090b88a69cd4,2013-10-29,2016-11-15
+50113,20062,Reyes Hilltop Section,A,Canada,Alberta,79643ae8-31a8-45b5-b79c-8b6f49e01501,2020-01-27,2020-09-13
+50179,20096,Bergstrom South Farm,A,United States,Nebraska,762e3a24-582a-4889-a423-01c6da75bc0b,2021-09-17,2023-11-08
+50356,20190,Yancey Old Ground,A,Canada,Alberta,0417d198-059b-48cb-a847-1153c725a558,2011-10-05,
+50241,20129,Quandt South Quarter,A,United States,North Dakota,0c4f406b-7ac9-4427-a315-b875f8aa8365,2018-08-02,2023-01-19
+50256,20137,Jablonski West Place,A,United States,Ohio,3792af1e-fb2b-48dd-8f7a-fd6892c32183,2017-07-14,2019-01-11
+50248,20133,Pemberton Lower Ranch,A,United States,Nebraska,fa104a11-49d3-4d5a-bffa-d3af07d2694d,2010-10-24,2012-06-30
+50138,20075,Brenner Lake Ranch,A,Canada,Ontario,bc09c9ec-3443-457b-87d5-e8b82667dc20,2013-02-21,
+50610,20393,Boudreau Upper Section,A,United States,Missouri,b8b75d4f-37e9-45a7-9e81-33d1941071c3,2018-08-21,2024-07-25
+50039,20024,Merriweather River Section,A,United States,Illinois,779ec36f-5b3c-4c05-aa20-29c0ec0de3c4,2019-03-27,2025-08-05
+50587,20370,Lockhart South Place,I,United States,Ohio,0bafde97-ef29-42a8-82cb-50a244ea996b,2012-07-02,2025-08-25
+50346,20183,Pemberton East Section,A,United States,Wisconsin,af5a657e-ec90-4914-89fd-2711d39db4e5,2013-12-04,
+50380,20204,Oberlin Hilltop Ranch,A,United States,Illinois,5ad07c3e-0f78-4911-942f-9d44b3219c22,2022-04-21,2023-10-19
+50575,20358,Yoder Lower Homestead,I,United States,North Dakota,0b6a2be4-8280-4631-81e8-f75a2ca4419f,2021-10-30,2025-03-21
+50042,20026,Hartley Ridge Quarter,A,United States,Indiana,0e958c50-8e30-4c46-9a7e-6cd7cf1145db,2013-10-01,
+50559,20342,Girard West Farm,I,United States,Minnesota,0741d94e-1e4b-43f2-b745-0d7f97090b85,2021-12-25,
+50140,20076,McAllister Ridge Quarter,A,United States,South Dakota,1f461703-2cf0-43a6-a701-ce426a01cc8a,2018-07-22,2019-05-15
+50158,20085,Kowalski Upper Homestead,A,United States,Indiana,cc5dec7c-f030-45db-a61f-c357b466b2fd,2021-07-24,2022-03-19
+50252,20135,Holloway South Quarter,A,United States,Missouri,2bf79411-5f81-42b8-b01c-892629cb96c2,2023-11-01,2024-11-25
+50124,20067,Ferreira Lower Ranch,A,United States,Ohio,87effa49-7ae2-4284-ac1a-6acc5cd89416,2022-04-19,2025-08-22
+50189,20099,Baxter Valley Quarter,A,Canada,Alberta,0dab1bfa-3b3e-4246-95f2-4323a93bef8d,2013-12-30,2015-11-28
+50231,20125,Castellano New Section,A,United States,Missouri,27c8cd1d-f893-4ccb-b66a-0d780e459a9a,2021-07-24,
+50082,20046,Winters South Section,A,United States,Wisconsin,3652969b-b704-44af-b492-f0889b66b0e2,2022-04-13,2024-08-29
+50314,20167,Hartley Creek Homestead,A,Canada,Manitoba,60ceb63f-a16e-4b89-bf48-0a8c98ef0591,2017-06-29,2018-06-09
+50403,20217,Merriweather Lower Homestead,A,United States,Missouri,44710c06-384b-4bda-b69a-5959bb77cc7c,2017-06-12,2020-11-16
+50339,20180,Underhill West Ground,A,Canada,Manitoba,b6222f46-f7a5-4a25-a422-6bcc947f4230,2012-04-12,
+50566,20349,Tollefson East Quarter,I,Canada,Ontario,844f2ab5-4044-495d-9620-957d4c1f6de6,2015-10-18,
+50239,20128,Hummel Home Ranch,A,United States,Indiana,b107ad83-cb40-436f-af2d-dcaf14edfe5f,2019-08-19,2024-11-30
+50168,20089,Duval Home Ground,A,Canada,Manitoba,1c2f2310-44f4-4e86-a6f4-3bd324338d62,2013-03-13,2023-07-23
+50365,20195,Falkner Creek Homestead,A,United States,Kansas,f4620697-754b-4dd4-a465-0c4a93a269c0,2012-05-20,2013-02-06
+50592,20375,Hummel Upper Homestead,I,United States,North Dakota,cad15d1d-783c-4bf7-8fa6-6446d7872f27,2020-03-07,2024-05-19
+50015,20010,Iverson River Ground,A,United States,Iowa,9b487167-3618-48a2-9aff-aeb313d4be26,2023-02-04,2026-05-05
+50355,20189,Brenner Home Ground,A,United States,Nebraska,e9079f59-421c-4c5f-9bed-59d3ec85e874,2018-06-14,2020-07-07
+50573,20356,Jablonski Lake Farm,I,United States,South Dakota,47f0842f-7a9b-4ddd-bad6-395f1d9ee502,2015-11-28,2022-09-17
+50438,20244,Thompson East Ranch,A,United States,Illinois,f4994f19-27cd-4958-a6df-f30dc5101f02,2023-10-29,
+50433,20239,Prescott New Ground,A,Canada,Ontario,90074211-92fa-4cb6-ac52-c120af87ed66,2020-01-31,
+50485,20284,Prescott River Ground,A,Australia,Queensland,afee5aef-7968-4b78-8e8a-075d7b18c81a,2017-05-06,2017-11-09
+50421,20227,Xiong Upper Quarter,A,United States,Wisconsin,3558e2b0-b2f8-4ca1-8836-80f85f8a6ea5,2023-06-21,2025-10-10
+50312,20166,Callahan South Place,A,Canada,Saskatchewan,31641ce1-94e2-4b39-947a-d0325900c208,2010-12-24,
+50102,20055,Dietrich Lake Quarter,A,United States,Nebraska,98bbcf35-27d8-48a2-98db-776294943084,2011-09-30,2015-08-11
+50528,20311,Novak East Quarter,A,United States,South Dakota,3f231a60-b7d9-4160-b878-eb314987fee4,2019-06-20,2019-10-06
+50003,20003,Bergstrom Ridge Ranch,A,United States,Iowa,f9b9c304-52d9-4a1a-9feb-2d166ea3271c,2015-11-20,2026-04-25
+50514,20303,Vandermeer West Ground,A,Australia,Western Australia,dfdc8435-d27d-4088-b0ef-4b75d75a0a03,2018-01-04,2026-04-23
+50132,20072,Iverson North Place,A,United States,Ohio,36f00511-3c23-47ca-a338-0f371759f542,2020-04-07,2024-05-09
+50618,20401,Ivanov Valley Section,A,United States,Indiana,3099124e-59bb-4ec1-9749-4aa18a8a0c03,2023-08-15,2024-06-26
+50498,20293,Falkner Upper Homestead,A,Australia,Victoria,95f186d4-c867-466d-af5d-9eac3e3d323b,2022-09-08,2025-12-19
+50203,20107,Callahan River Ranch,A,Canada,Manitoba,c86a72d9-aa56-41b9-8b0e-15994d98f10e,2018-07-13,2022-11-09
+50337,20179,Rasmussen New Section,A,Canada,Manitoba,e9d2df1b-1d4c-4dfb-9045-4f6c53b07052,2013-11-26,
+50036,20022,Okafor West Ranch,A,United States,Missouri,f51e4802-d5d9-4669-a6d9-2810c9d48943,2023-01-21,2025-12-10
+50463,20269,Ziegler Old Section,I,Canada,Alberta,94323150-34b2-4448-99df-0a9a9ddde6bf,2022-07-02,2022-10-02
+50069,20038,Whitaker North Homestead,A,United States,Kansas,868f9527-b7d5-4b9b-9380-b5d36548ecd6,2023-08-08,2024-06-29
+50366,20196,McAllister Ridge Quarter,A,United States,Ohio,0884b9c4-c62a-4b31-a7d6-e80af5c0baf3,2022-11-18,2023-10-03
+50613,20396,Ferreira West Quarter,A,United States,Illinois,39bde456-1958-4079-b9ab-fbcc286bd3b0,2012-11-02,2023-01-29
+50599,20382,Hummel West Ranch,A,United States,Kansas,928e7613-51f5-4752-9e6d-43ee7f5404f0,2021-09-24,2026-01-17
+50535,20318,Holloway Upper Quarter,A,United States,Minnesota,30e78306-af77-4ae5-861c-dbc577023d5e,2022-12-16,
+50385,20207,Marsh Hilltop Section,A,United States,North Dakota,e1b911da-5249-4df7-a31c-d31e0d2b189f,2011-03-23,
+50582,20365,Steiner Lower Quarter,I,Canada,Saskatchewan,8454deaf-5f7d-4851-aa17-ae396e877aea,2022-07-21,2023-08-07
+50446,20252,Nordin Hilltop Farm,A,United States,Nebraska,967190c1-d26a-4135-974a-b8e33abcad07,2013-05-29,
+50303,20162,Albrecht New Section,A,United States,Indiana,4903f1cd-4c1d-4dfc-b8a4-88aadf5d5fc2,2022-11-28,2024-03-21
+50002,20002,Okafor Prairie Farm,A,United States,South Dakota,d0c6ac5a-590f-4a90-ab1b-822ffaa8943a,2015-09-28,2017-03-30
+50345,20182,Crenshaw Prairie Farm,A,United States,Kansas,aa322ecd-2562-4410-8a0e-54824d4ba2c3,2012-05-27,2024-08-06
+50331,20176,Albrecht Old Place,A,United States,Ohio,e7d9e0b5-c631-409f-b326-f415f41e23a3,2019-02-08,2026-05-23
+50126,20068,Yoder New Farm,A,Canada,Saskatchewan,dbd4caa0-4473-48cd-8b89-3604c2001717,2019-08-29,2026-03-24
+50548,20331,Brenner Lower Ranch,A,United States,North Dakota,7c89d964-03db-4a11-969a-cff51c1a222f,2011-06-22,2025-03-30
+50329,20176,Albrecht Home Ground,A,United States,Ohio,44e790f0-385d-420a-8dea-cda4312b4651,2016-02-17,
+50148,20081,Merriweather North Ranch,A,United States,South Dakota,7fb21dfa-d3e4-482a-8818-7ea56e91da66,2022-03-28,2025-04-02
+50315,20168,Oberlin North Place,A,United States,Missouri,24a28a8e-5cd7-47fb-8433-9d8d7cc1780a,2015-11-20,2021-07-18
+50569,20352,Thompson Upper Place,I,United States,Minnesota,b739cec5-8dd1-4d65-873e-40edfa9f157e,2013-02-01,2016-03-26
+50076,20043,Iverson South Farm,A,United States,Kansas,8c70d64e-5298-4f40-863f-473308dd593b,2014-05-22,2025-08-20
+50508,20299,Tollefson River Farm,A,Australia,Victoria,7ddeda6c-1a4e-4a06-8a30-055c498f47a6,2023-02-16,2025-09-29
+50244,20131,Winters Home Farm,A,Canada,Manitoba,028ed2e0-7c41-4ba8-9b23-1a8eb7435c0a,2012-08-03,
+50206,20109,Pemberton Home Quarter,A,United States,Minnesota,2343e00c-7fe8-4552-810d-01e8b63f70a8,2015-12-06,2016-10-26
+50533,20316,Novak Lower Farm,A,United States,Kansas,28d3bff2-9d50-4f50-9b30-24b5110e555b,2011-06-30,2014-05-14
+50443,20249,Hummel Upper Ground,A,Canada,Saskatchewan,5c2d0a81-5d69-437f-baaf-89420f6f6ec6,2018-11-01,2024-02-07
+50291,20155,Eastman Ridge Section,A,United States,Missouri,2814e406-28e2-4f50-b1f9-9f00fbc40d16,2019-12-29,
+50375,20201,Thompson Old Section,A,United States,Kansas,97ebb8e9-af88-43b1-84d3-d8460509d56c,2020-01-27,2023-02-20
+50127,20069,Holloway Home Place,A,United States,Missouri,239dd57e-99d1-49e6-a6b8-9c3b2d640c8a,2022-07-13,
+50484,20284,Prescott West Ground,A,Australia,Queensland,fc99bdc6-d600-479d-9e2b-3995642067f7,2017-05-26,2022-05-14
+50085,20048,Rasmussen Lower Section,A,Canada,Ontario,55f85c75-1696-462d-ad2c-8c807aad4758,2013-01-12,
+50517,20305,Kerrigan Hilltop Section,A,Australia,Victoria,eb371201-5374-4bcb-aec5-037eac32db8d,2012-03-10,
+50013,20009,McAllister Lake Section,A,United States,Nebraska,7dd5ebe3-b4fb-42bf-bd1a-b4f75a77dec2,2020-02-22,2026-03-30
+50161,20086,Reyes Lake Ground,A,United States,Nebraska,3b9e6559-d132-40a3-ad92-60a3e0d9874f,2010-01-08,2021-07-29
+50465,20271,Brenner River Ground,I,United States,North Dakota,9abbefa3-f020-4a65-8aaf-1eba68283cf9,2019-10-27,2023-11-10
+50354,20189,Brenner Valley Ground,A,United States,Nebraska,44575ba0-e22f-4d80-b009-6cfe5e3e33ab,2018-12-14,2025-12-28
+50128,20069,Holloway Hilltop Section,A,United States,Missouri,55bdcb1d-930c-4ba2-a06b-efa9327c8224,2020-06-18,2021-11-13
+50316,20168,Oberlin Hilltop Place,A,United States,Missouri,145ad671-b880-4f7a-8384-f3c44f25db0f,2017-09-27,
+50228,20123,Callahan Lake Quarter,A,United States,Minnesota,b09f3488-28ae-4d2f-9f3f-3755ad3cfcc1,2021-07-24,2023-12-24
+50445,20251,Ashworth Ridge Place,A,United States,Missouri,1750b932-7986-444a-9d81-0edb3ab09027,2020-11-22,2021-02-25
+50154,20083,Brenner East Ground,A,Canada,Ontario,979d898f-6c21-4778-adf8-2a2e337cdf26,2016-07-26,
+50543,20326,Eastman South Section,A,United States,South Dakota,a32eb2a9-7a71-4c14-8b7a-cc28d2196681,2023-07-09,2024-04-23
+50571,20354,Girard Creek Quarter,I,Canada,Alberta,3cdfd5b4-69e7-45e2-9509-2034f1fb23f1,2013-12-18,2024-12-19
+50209,20111,Thompson Home Section,A,Canada,Ontario,69bef239-4a2f-46b2-a6bf-c26124b2c16c,2014-06-16,2023-03-02
+50330,20176,Albrecht Home Farm,A,United States,Ohio,2ea06ee0-390c-4819-b257-d7e89b33c53d,2023-06-05,2025-01-13
+50537,20320,Prescott Upper Place,A,United States,North Dakota,1bc5fbc5-2f54-4066-834b-ae1d962d20ab,2015-01-26,
+50147,20080,Delacroix Home Place,A,United States,Missouri,f6f02251-5e14-43d1-b5eb-a321f2ca7c6e,2019-03-24,2024-01-27
+50217,20117,Prescott Valley Quarter,A,Canada,Saskatchewan,637fe17a-7c90-4637-9e14-309a7f7dba70,2010-10-30,
+50104,20057,Reyes North Quarter,A,United States,North Dakota,1e010411-09c0-4152-abf1-aeccd17dd927,2015-03-26,2020-10-31
+50372,20199,Albrecht Valley Ranch,A,United States,Wisconsin,d0260c60-50e7-4eb4-82df-6bfede2aa5e6,2022-11-30,2025-08-15
+50072,20041,Kerrigan River Section,A,United States,Nebraska,9e5066fe-55f6-450d-b5ec-e1930cd0fc8b,2023-06-07,2025-04-13
+50130,20070,Crenshaw Lake Homestead,A,United States,Illinois,8580a5e6-c5db-4b7f-9063-d7b378088942,2010-02-22,2017-11-04
+50284,20151,Bergstrom Hilltop Ground,A,United States,Illinois,b0463c5b-da94-46a0-b9eb-564dafb08c7c,2014-06-08,
+50149,20081,Merriweather Upper Farm,A,United States,South Dakota,44fb6f4c-9e78-4f4c-8fc4-90e95ec5200e,2022-10-06,2025-11-18
+50411,20221,Prescott North Homestead,A,United States,Indiana,abf6fa8b-2945-4751-a159-7010500f910d,2010-10-27,2012-12-17
+50553,20336,Marsh Old Ranch,P,Canada,Saskatchewan,d0fcb882-8c7d-4408-b7d5-a1717af36c66,2010-05-18,2024-01-01
+50359,20192,Ferreira Creek Ranch,A,Canada,Alberta,c7a4e7c6-e4a5-4275-bd7a-149c1245de57,2014-02-08,2017-11-19
+50227,20122,Falkner Lower Farm,A,Canada,Ontario,f61e273f-8332-422c-ab32-1664d0f946f5,2013-07-25,
+50049,20029,Jablonski New Ranch,A,United States,Ohio,b1f2277a-5568-47a2-9dd5-413fff98795f,2021-07-14,2022-10-13
+50343,20181,Castellano Old Ranch,A,Canada,Saskatchewan,292639f3-55ce-4092-9f56-163c221c73d3,2013-06-17,
+50428,20234,Xiong North Place,A,United States,Nebraska,,2020-05-06,2024-01-12
+50286,20152,Hummel Valley Ground,A,Canada,Alberta,58d5ec26-ebdc-4afd-9007-f815a75a43de,2019-08-06,2020-07-06
+50214,20115,Underhill Ridge Ground,A,United States,Nebraska,ef3c564c-7db7-49ba-988a-55ba2d7c7601,2019-01-19,
+50556,20339,Tollefson Lake Quarter,I,United States,Nebraska,5aa60b3b-71de-4763-9b45-4569755d9464,2022-04-02,2023-12-29
+50305,20162,Albrecht Hilltop Farm,A,United States,Indiana,dd7a0af1-1b06-4d0e-9749-3c12e5f25972,2022-04-22,2023-11-05
+50141,20076,McAllister Creek Place,A,United States,South Dakota,ff443c6f-b92b-45ab-a7a4-941fadab86b7,2015-03-22,2015-11-20
+50604,20387,Drummond North Farm,A,United States,South Dakota,ecb5cb97-5a4e-4591-bd08-c20bbd144747,2020-02-17,2026-04-04
+50194,20102,McAllister North Section,A,United States,Missouri,70dd21b1-5410-4ab5-9862-4da1d6f28d2d,2014-01-01,2015-07-11
+50122,20066,Steiner West Farm,A,United States,Kansas,620aa956-d416-45fd-833d-9b1699ca5a94,2019-05-22,2024-09-24
+50334,20178,Hartley Lower Place,A,Canada,Alberta,f61b8977-6930-40ab-89ad-4be8c289cee9,2019-12-24,2021-11-10
+50185,20098,Eastman Prairie Ground,A,United States,Indiana,f82f3a40-183a-4703-8087-c4d291a8dea7,2013-11-01,2025-09-23
+50324,20172,Whitaker Upper Place,A,Canada,Saskatchewan,9618d435-78f8-4e0c-8224-cd065c029548,2018-05-21,
+50100,20055,Dietrich Old Farm,A,United States,Nebraska,4f664d63-9587-401f-b36f-9f1c8a1f2666,2023-05-23,2026-04-17
+50190,20100,Holloway Ridge Ground,A,United States,Nebraska,1400de3e-01fc-4581-852f-bb90f42768b5,2011-05-09,2024-11-06
+50568,20351,Eastman New Place,I,United States,Wisconsin,2641cbb5-5ca3-4400-86fb-4dfe1c184300,2016-01-22,
+50246,20132,Pemberton Upper Ranch,A,United States,Indiana,21223904-6e20-4632-870e-ffb598c723d2,2011-06-07,2021-11-08
+50033,20020,Callahan Prairie Farm,A,Canada,Manitoba,c4e5e0b4-41de-4e11-95b8-db328fb74d53,2023-11-09,2025-10-05
+50278,20148,Falkner East Ground,A,Canada,Saskatchewan,22706786-2122-4cf0-9a1e-7b89afd5b163,2015-06-20,2021-05-22
+50364,20195,Falkner Hilltop Ground,A,United States,Kansas,292de841-f605-453a-b22f-0c20195ba5d9,2023-11-23,2024-06-14
+50344,20182,Crenshaw Hilltop Section,A,United States,Kansas,d133d49f-f039-417d-9baf-2266ad3d72c1,2014-01-02,2015-07-15
+50089,20049,Marsh Valley Ranch,A,Canada,Saskatchewan,9205e804-c1b2-49b9-b932-3bd976f51067,2014-02-13,2025-08-21
+50269,20144,Tollefson Old Ground,A,Canada,Manitoba,6cba487e-2d5d-4f27-bbd5-1c6608e5ea83,2021-04-02,2022-07-11
+50142,20076,McAllister Lake Farm,A,United States,South Dakota,c1c492af-57f5-4f38-88c6-a9362e3bb455,2018-09-25,2022-03-22
+50043,20026,Hartley New Farm,A,United States,Indiana,e0f5f719-bf46-4a87-8ac8-cf161e59a536,2012-03-22,
+50029,20017,Jablonski West Ground,A,United States,Illinois,0fc5a266-e831-4ebd-a4c6-8b815aaa28f4,2015-07-01,2015-12-23
+50180,20096,Bergstrom Old Ground,A,United States,Nebraska,9bcd7635-16cf-466e-855b-78456a8e6506,2015-11-18,
+50603,20386,Yoder Creek Place,A,United States,Missouri,553b227e-544f-428f-a929-c71f90e9f8f4,2013-04-29,2018-03-25
+50488,20286,Dietrich Prairie Homestead,A,Australia,New South Wales,fdfcce1a-3b86-4c1a-860e-267625670ff9,2018-06-22,2019-01-12
+50509,20300,Xiong Prairie Place,A,Australia,Victoria,799ed56b-d5d2-4237-8e7b-1c158df95d45,2017-01-31,2021-10-11
+50513,20302,Ashworth East Ranch,A,Australia,Queensland,7e3a13b4-9bed-4e36-8456-15e2cd7cc9cf,2010-09-18,2021-08-23
+50095,20053,Tollefson Valley Quarter,A,United States,Ohio,634cb80a-b26a-4543-acd2-e52b18cc0b23,2018-06-04,2022-11-24
+50067,20037,Prescott River Quarter,A,United States,Missouri,9b183fa8-7234-4460-b3d1-e1e5c83e2c54,2014-10-18,2017-11-21
+50276,20147,Novak Ridge Section,A,United States,Iowa,054b62ab-1b52-438b-93a8-f247ae256b17,2014-10-03,
+50277,20147,Novak South Homestead,A,United States,Iowa,556fcf0e-1f34-4813-b65f-17977fd1503c,2010-11-12,2016-03-08
+50589,20372,Vandermeer Ridge Farm,I,Canada,Ontario,c25a4418-1c52-4f73-96f6-1b029c5b1c96,2016-01-15,2025-09-30
+50250,20134,Hummel East Quarter,A,United States,Indiana,2f7c6639-7bc2-4a55-b143-7c1389ccdd4c,2010-08-23,2014-04-12
+50431,20237,Jablonski Prairie Ground,A,United States,Minnesota,,2014-06-03,2016-04-12
+50151,20082,Lockhart Upper Ground,A,United States,Wisconsin,b73304c0-1ef9-4696-9483-fa77c1e09b8c,2021-08-27,
+50371,20198,Crenshaw East Section,A,United States,Illinois,8c344713-9fbb-4435-be9b-0af8fd924109,2015-04-07,
+50236,20127,Winters New Quarter,A,United States,Kansas,ed8d5d4d-5aa0-41e3-8221-38997198cfd8,2018-03-10,2021-01-03
+50182,20097,Oberlin Old Section,A,United States,South Dakota,a39bc012-9096-4b10-b6b3-aa90e7567ff7,2012-10-30,
+50302,20161,Vandermeer North Ground,A,United States,Missouri,13bca46e-d0f4-4367-8fc0-6c325e331e1b,2020-10-09,
+50454,20260,Duval West Place,A,United States,Illinois,11aa4e82-0e76-476d-b071-d146075e7b2a,2020-01-18,2023-01-07
+50215,20116,Rasmussen Creek Homestead,A,Canada,Alberta,bed14d60-9309-4096-9c6d-77e259a7be94,2012-10-10,2021-04-20
+50511,20301,Holloway Lower Farm,A,Australia,Queensland,d706ee3c-df4a-4265-8b3d-0b6cf77c12c2,2010-06-12,2012-07-30
+50562,20345,Merriweather East Section,I,Canada,Manitoba,ae1dae44-1606-43a0-ab0f-da64fe963241,2019-07-30,2021-08-23
+50050,20030,Drummond Home Ground,A,United States,South Dakota,65525602-f04f-413f-8377-d65c9e116245,2017-09-05,2021-04-27
+50047,20028,Delacroix River Place,A,United States,Illinois,55e27a18-4d27-4b5b-80f2-e2eca08b088f,2013-07-30,2013-09-21
+50116,20063,Hummel Lower Section,A,Canada,Alberta,14eba1d7-8e1f-4962-886a-bff340005795,2016-12-18,
+50491,20288,Xiong Lower Section,A,Australia,Queensland,d545d165-6096-4e90-bef8-072606e83f6c,2011-08-15,2025-11-10
+50230,20124,Boudreau Valley Homestead,A,United States,Illinois,e3de880b-9f0e-495a-9f79-0592adb736dd,2020-12-12,2022-09-19
+50159,20085,Kowalski Prairie Section,A,United States,Indiana,8f550ac9-d2b9-4a6c-ac90-c7c2efcc41b2,2019-12-15,2020-03-13
+50353,20188,Lockhart East Place,A,United States,Indiana,36769562-2fbd-4d55-9379-ac19707a2cae,2010-11-14,2019-09-24
+50307,20164,Baxter South Ranch,A,United States,Nebraska,87c104a2-8c7e-4f7c-806c-8effaae9e093,2012-11-12,
+50434,20240,Steiner North Homestead,A,United States,Illinois,45738f38-fd97-43b0-9cae-8c090ce02fdb,2016-07-08,2017-08-06
+50280,20148,Falkner New Ranch,A,Canada,Saskatchewan,6159bb64-7441-4c9b-a145-de70778aa5f9,2016-11-26,2022-05-21
+50105,20058,Lockhart South Ground,A,United States,Kansas,aa0280c1-9805-4eec-801c-6e25087fa8aa,2016-11-26,2020-10-01
+50531,20314,Ivanov Old Section,A,United States,Iowa,adc97c66-2a8f-4720-a5be-a32004ba9532,2023-06-16,2025-08-09
+50295,20158,Dietrich Hilltop Section,A,United States,Minnesota,c0eb9986-7f2c-4377-bc9a-e44088d72862,2011-11-14,2017-10-17
+50032,20019,Winters West Ground,A,United States,South Dakota,fe5fdb77-d12f-4ae1-b9a7-cdbfff28a360,2011-05-03,2020-05-24
+50379,20203,Boudreau Lower Farm,A,United States,Nebraska,7772869e-569d-41f8-9338-29e1bc3122cb,2017-06-22,
+50171,20091,Tollefson Upper Section,A,Canada,Saskatchewan,3b62067a-a0da-4ef2-9b5a-281de831b330,2021-12-28,2024-04-19
+50555,20338,Ferreira Creek Place,P,United States,North Dakota,e11ba2da-8898-4c77-9732-8187e16c8aa7,2020-02-16,2023-08-02
+50040,20025,Rasmussen Old Section,A,United States,Indiana,ee70d1a0-8433-47ec-bef4-46d1b246fdd4,2017-09-26,2026-02-13
+50593,20376,Falkner Hilltop Quarter,I,Canada,Manitoba,61bfc1ac-fc1a-4855-8ba4-e7c6d57d6e8a,2018-06-23,2023-10-04
+50020,20012,Yancey Lower Homestead,A,United States,Indiana,32f96270-046b-4248-afc6-785dc92d467c,2015-01-18,2025-10-15
+50520,20306,Brenner Lake Place,A,Australia,Queensland,7b9c2cae-662e-4d66-b65d-5b936fd089c2,2019-01-23,2020-05-17
+50176,20094,Quandt Creek Section,A,United States,Illinois,2f5efa7e-d0df-4f2c-9f0e-3dda16f5b118,2021-07-18,2024-09-21
+50163,20087,Marsh East Section,A,United States,Illinois,dbf33d39-328e-4582-9f10-59a3db941177,2020-01-19,2022-06-07
+50362,20194,Albrecht West Farm,A,United States,Wisconsin,99026443-ef40-4ecb-9314-7619bb1f47ee,2013-04-28,2020-01-27
+50238,20128,Hummel New Homestead,A,United States,Indiana,d957fed9-e8ae-46f4-a20f-b816f1613844,2011-12-05,2015-11-26
+50007,20005,Underhill Hilltop Ground,A,Canada,Ontario,a2c5e982-5570-4de0-8c0a-8e5f1abae7d2,2012-11-26,2020-11-06
+50529,20312,Reyes West Farm,A,United States,Nebraska,bb957fe3-a7b8-4b80-831f-616856c6e67d,2014-04-18,2017-04-26
+50477,20280,Crenshaw Home Place,A,Australia,Victoria,53e4ace2-a0ef-40a5-9eaa-fa2b055f9411,2021-02-22,
+50210,20112,Castellano Valley Quarter,A,United States,Ohio,495f99bf-34b4-4abc-ac65-ee938173b7a8,2016-11-20,2024-02-02
+50490,20288,Xiong West Quarter,A,Australia,Queensland,efccfb32-bc6c-4aab-90a3-0e22467facd8,2022-04-14,
+50166,20089,Duval New Homestead,A,Canada,Manitoba,a96fc6f2-3156-4f25-8a53-610eaa86d614,2018-06-05,2023-07-01
+50243,20130,Prescott Lower Place,A,United States,South Dakota,f33f3a48-7850-4717-bf45-f7422b20576f,2011-08-15,2013-09-24
+50396,20212,Reyes Valley Ranch,A,United States,North Dakota,b2a4146a-cb5a-4dde-a4b4-a366e64961c3,2020-01-18,
+50063,20036,Bergstrom Lake Farm,A,Canada,Manitoba,60261de3-fdf5-43f6-85eb-feb9c4b624d9,2012-06-21,2023-01-23
+50201,20106,Girard Prairie Section,A,Canada,Ontario,e03ffc6e-5dd6-4b02-a311-22ee7b08d8f6,2017-05-23,2024-01-24
+50004,20004,Ashworth Lower Ranch,A,United States,Minnesota,a8fa86e5-d5ab-40ef-9456-8c1afd099f94,2015-03-01,2018-12-17
+50349,20185,Girard Valley Quarter,A,Canada,Ontario,e3c5fa7e-64cc-49ff-8911-5c5ed84cf589,2013-06-06,2016-10-18
+50131,20071,Eastman Valley Homestead,A,Canada,Saskatchewan,5a6b4b92-c174-4ea5-8de4-8ef0a3cc6b3c,2011-04-15,2014-09-16
+50279,20148,Falkner New Ground,A,Canada,Saskatchewan,fa5b60b9-9db8-4d2a-9bf2-6e9b72a14417,2013-04-14,
+50492,20289,Duval Ridge Quarter,A,Australia,Western Australia,808f6eb6-cdcd-4f31-8886-f936e2281dba,2017-06-22,
+50266,20142,Dietrich Creek Quarter,A,United States,Iowa,6589917a-60fe-4f5a-99e3-926dab2a5713,2017-02-25,2019-11-03
+50545,20328,Ivanov Lower Section,A,United States,South Dakota,bb2970cf-579c-4a3c-9faf-ecbea97f11d6,2016-10-22,2018-10-14
+50025,20015,Bergstrom Lower Quarter,A,United States,South Dakota,1426292f-c902-4bab-b427-c94c5ba04278,2016-05-19,2023-04-04
+50275,20147,Novak South Section,A,United States,Iowa,9e2f7973-d99c-4e7d-a460-07868e080c64,2011-06-16,2021-11-11
+50235,20127,Winters Old Quarter,A,United States,Kansas,13909e89-b444-4c55-b7d1-1e3b9c8fa0a4,2021-01-10,2022-05-27
+50258,20138,Pemberton Lower Homestead,A,Canada,Alberta,726f4aa9-ed74-448d-aa3a-917a0e7aac8c,2014-03-20,2016-08-11
+50335,20178,Hartley Lake Ranch,A,Canada,Alberta,d6355579-fae1-4b21-8c93-f5ff31a7831a,2020-06-07,
+50057,20034,Duval Home Farm,A,United States,Nebraska,44f1cfa9-16b3-41e4-9a2f-e50ba754f6b1,2023-02-12,2023-03-27
+50358,20191,Drummond Old Section,A,United States,Nebraska,fae07514-0dc1-4ec5-9df0-0ea74487996c,2010-01-31,2010-05-28
+50026,20015,Bergstrom Old Homestead,A,United States,South Dakota,0c3d09d9-b6db-4fc2-86b0-b898f11d0d00,2020-05-24,
+50270,20144,Tollefson Old Section,A,Canada,Manitoba,da93139b-4878-4759-8e94-4c3933dad3bd,2014-10-08,
+50333,20177,Winters Home Section,A,United States,Kansas,010e6949-bfac-4c48-a668-cc0deddbb9c8,2014-12-11,
+50620,20403,Delacroix Lower Ground,A,United States,Kansas,53591967-f87e-4095-a7fd-f11ec676bb32,2016-03-15,2020-05-31
+50547,20330,Lindqvist Creek Farm,A,United States,Wisconsin,b39c0e58-4af6-4ae6-8fa6-d76ca5b94754,2017-10-11,2018-09-11
+50129,20070,Crenshaw New Ground,A,United States,Illinois,0e3910b9-88cd-4f6c-96b4-f40830b27b6c,2011-11-02,2020-07-28
+50404,20217,Merriweather Lower Ground,A,United States,Missouri,dd0cd5e0-60ad-4913-a4b0-fbafb0944dfb,2021-08-31,2024-11-23
+50384,20206,Ashworth Upper Ground,A,United States,South Dakota,1a28e32a-a197-4497-a35c-1732f8328dc5,2011-04-16,
+50009,20006,Hummel Hilltop Quarter,A,Canada,Saskatchewan,bf1135a2-b555-4699-b11d-556bc62b9b86,2011-08-11,2015-08-19
+50075,20043,Iverson Creek Quarter,A,United States,Kansas,28361d82-dbad-42f2-bb19-13abce47ad99,2021-10-06,2022-05-31
+50155,20083,Brenner Lower Section,A,Canada,Ontario,5980f64f-bf89-4ccf-9db8-beee9424d1ed,2014-07-20,2020-06-21
+50614,20397,McAllister River Place,A,United States,Minnesota,a11f1d03-3f46-4fb0-bd83-2e84c90d60ea,2019-02-16,2021-10-31
+50118,20064,Duval New Ranch,A,United States,Wisconsin,ad875e77-4a28-4087-a2a1-b2be19353f49,2019-08-30,2023-10-22
+50321,20171,Ziegler Upper Farm,A,United States,Kansas,eed3f56c-466e-48df-8121-ec5fd41dedde,2021-02-14,2021-12-30
+50137,20074,Merriweather New Ranch,A,Canada,Saskatchewan,8ca8a35e-798a-400c-ad89-6f9fba259432,2011-05-30,2026-03-24
+50471,20277,McAllister Lower Ranch,A,Australia,Victoria,0175a3d0-21d1-42ea-8581-f7a5d5677e23,2011-02-26,2014-04-23
+50273,20145,Callahan Ridge Homestead,A,United States,Iowa,1c4eff85-6f65-4858-a2b6-974dea835ef7,2012-03-15,2022-09-10
+50606,20389,Reyes West Section,A,United States,Illinois,d819a71a-2112-4866-b883-c016f44b44b3,2021-10-02,2026-03-01
+50413,20222,Oberlin West Section,A,United States,Kansas,76f177ea-67a2-4dae-907a-787d561be7c0,2023-08-24,2025-09-14
+50310,20165,Kowalski Old Homestead,A,Canada,Saskatchewan,75f498e7-bb23-4d66-a076-bae646468b9a,2015-09-13,2017-02-15
+50500,20294,Tollefson North Ground,A,Australia,Victoria,5257d475-6cee-41f4-afde-92d642c07817,2018-12-06,2024-09-20
+50507,20299,Tollefson Lake Ranch,A,Australia,Victoria,4625b2be-a98c-4f8e-bafb-0359fd0a6c6f,2021-05-03,2022-08-05
+50609,20392,Iverson East Ground,A,United States,Indiana,344cae1e-deff-439b-b01e-9be5a6fa9bdb,2016-03-25,2025-12-22
+50265,20141,Falkner Home Farm,A,Canada,Ontario,d7df2530-7e37-4517-900c-029fbc415e78,2018-11-14,2020-05-19
+50294,20158,Dietrich Prairie Ground,A,United States,Minnesota,8cc08224-7663-4a17-a1b0-f5e4b3cd7756,2020-09-20,2020-12-11
+50406,20219,Brenner Ridge Quarter,A,Canada,Ontario,14e491e5-05c8-4f1d-925d-f6ec6f3455ff,2012-03-09,2012-06-09
+50133,20072,Iverson New Section,A,United States,Ohio,a88391a6-dd13-4a83-b0f6-aa4d8e2a46e3,2012-10-31,
+50211,20113,Whitaker Old Ground,A,United States,North Dakota,b334b0f7-5913-4282-9330-204a11c09045,2019-12-29,
+50617,20400,Dietrich River Place,A,United States,Missouri,ca564321-62af-46c1-be4a-10bc1c271274,2016-08-19,2025-04-19
+50388,20208,Ziegler North Place,A,United States,Illinois,418336db-327e-41ae-9c4b-f94d001d9e37,2022-08-08,2026-01-25
+50254,20136,Thompson Upper Quarter,A,United States,Nebraska,6228d907-fafc-4d91-87c3-c90f13a03aa2,2020-03-04,2025-10-15
+50350,20186,Underhill New Farm,A,Canada,Manitoba,18d3b97d-8d2d-480c-81d5-1a7ee1fdad14,2012-05-17,2012-06-23
+50174,20093,Lockhart Lake Quarter,A,United States,Minnesota,40bdbeb2-ef2d-419f-9025-be870ef9a605,2012-03-29,2020-06-25
+50400,20214,Crenshaw Lake Section,A,Canada,Manitoba,9cb034fb-02df-4915-9db8-b6d13ac79d0e,2022-05-04,
+50605,20388,Lindqvist New Quarter,A,United States,South Dakota,628204aa-60a5-413a-8073-a9b6bd55a215,2023-08-01,
+50602,20385,Vandermeer East Place,A,United States,Missouri,6aef0bd2-2186-4c9f-ab15-f8e89a1b64e6,2013-03-03,2020-10-06
+50012,20008,Hummel Upper Homestead,A,United States,Nebraska,2deea673-d201-47ec-9c1a-6df5df81687b,2020-08-29,2021-07-05
+50232,20125,Castellano Prairie Quarter,A,United States,Missouri,c5b9fc8d-480f-4ba7-95e9-e9846acae5c0,2022-12-08,
+50357,20190,Yancey Prairie Ranch,A,Canada,Alberta,a8e34c24-7f62-45bf-9834-7bde3629317c,2019-11-22,
+50581,20364,Crenshaw North Ranch,P,United States,South Dakota,64b4c74e-c244-4103-bfe0-7eece9d7af53,2019-03-21,2023-08-02
+50564,20347,Oberlin East Section,P,United States,Illinois,68334b88-e8d0-4845-af67-390f044a71c0,2021-04-05,2023-07-21
+50136,20074,Merriweather Prairie Ranch,A,Canada,Saskatchewan,0d158d5e-8c1d-43b8-b4f6-38b8473598ae,2019-12-30,2020-02-20
+50526,20309,Yancey Ridge Quarter,A,Australia,New South Wales,17e00ae2-067e-4434-a0cd-c0985b6625b1,2010-04-20,2014-08-20
+50374,20200,Tollefson West Place,A,United States,Nebraska,bfb87dd5-3761-43e6-b9cc-f69eae1d6762,2021-03-04,2025-11-21
+50398,20213,McAllister Lake Place,A,United States,Ohio,26f9fc58-6ad5-4c43-8fd0-2a4ae3f0451b,2023-10-24,2024-02-04
+50139,20075,Brenner Home Homestead,A,Canada,Ontario,03440bbe-8d68-4e33-967b-9ed7df94fdec,2010-11-04,2022-06-06
+50292,20156,Pemberton New Section,A,United States,Missouri,2e744698-4388-4830-b2ae-ed4b0ae4d953,2022-09-22,2026-03-27
+50304,20162,Albrecht Creek Section,A,United States,Indiana,d3e47f5c-2da8-4f82-97bb-2add05a2aeb7,2019-06-30,2023-12-18
+50059,20034,Duval Home Place,A,United States,Nebraska,b6665a7e-cd2b-486b-b5ec-f7c65aee81fb,2013-09-26,2013-11-03
+50023,20014,Delacroix Upper Ground,A,Canada,Alberta,8f4af6f7-4b84-43fe-97b8-26983bd2560a,2018-07-21,
+50437,20243,Baxter South Section,A,Canada,Ontario,87c8cddb-008e-40c1-a249-1b9d30473424,2017-04-14,2019-08-28
+50213,20114,Ferreira Lower Section,A,United States,Illinois,2d224433-08a3-4a38-97ea-38e63e8f79ba,2023-07-11,2023-11-01
+50377,20202,Pemberton Hilltop Ground,A,United States,Iowa,2900fa50-b5b2-4120-a18d-3631f3c111c5,2012-01-29,2024-03-23
+50290,20154,Iverson North Ground,A,United States,Wisconsin,f99b1db2-b768-420b-92de-f2c900d85389,2019-04-14,2022-08-07
+50453,20259,Callahan Prairie Ranch,A,United States,Minnesota,73ec90cb-e330-46c3-90bf-8772c06c271b,2015-05-18,2017-04-11
+50220,20118,Ivanov Lower Quarter,A,United States,South Dakota,92d44eda-4a29-4adb-ac6f-18f0f7065709,2013-01-05,
+50338,20179,Rasmussen New Ranch,A,Canada,Manitoba,87308e26-331d-47ea-818b-2c144b10808d,2013-04-03,2022-03-12
+50031,20018,Hartley River Ranch,A,Canada,Saskatchewan,40019d9d-597b-4ffe-be54-400e2398970e,2019-04-07,2019-08-03
+50103,20056,Castellano Lower Quarter,A,United States,Nebraska,f53cf110-983a-48a5-955c-5e9d3543a132,2022-09-30,2023-02-20
+50450,20256,Kerrigan Home Ground,A,United States,North Dakota,6f3f3f0a-3098-4623-a768-3760578a7cc2,2014-03-06,2015-07-13
+50464,20270,Ziegler West Place,I,Canada,Alberta,fc6c30b4-809a-4f18-be94-78c595895695,2012-01-17,2014-10-05
+50448,20254,Reyes Old Homestead,A,United States,Ohio,30f6c08f-2238-4190-9c03-daf55399cbd2,2023-06-20,2026-01-26
+50119,20064,Duval Lake Section,A,United States,Wisconsin,ac653d55-5ee9-497d-a1f8-4493dbb80364,2021-11-27,2025-05-02
+50041,20025,Rasmussen Old Ranch,A,United States,Indiana,1d839b29-9687-4314-a6e0-ef9c955a08d5,2018-11-22,2021-05-02
+50110,20061,Winters South Ground,A,Canada,Alberta,52c1f749-7d7f-4a2b-bfab-0698359d433e,2013-10-03,2020-10-25
+50019,20012,Yancey Prairie Farm,A,United States,Indiana,3759df0d-0d43-4c1b-858e-94ae7f462ee3,2022-09-18,
+50038,20023,Vandermeer Home Place,A,Canada,Alberta,b0c05728-aac9-4392-aa14-b3c70e7bd3e3,2017-02-11,
+50011,20008,Hummel South Homestead,A,United States,Nebraska,ae83563d-1082-40e1-a577-7bd5db8d9b34,2017-07-10,2021-09-15
+50053,20032,Winters Lower Place,A,United States,Wisconsin,4b58fe1d-36ea-46c4-b817-cda4df89ed8e,2023-10-24,2024-07-11
+50601,20384,Yoder East Ground,A,United States,South Dakota,1a5e3e73-ed2e-4467-b533-d95e9d1dff0f,2017-03-26,2019-05-17
+50579,20362,Tollefson River Quarter,I,United States,Iowa,b02600d3-e788-4f3c-84ad-ea1831bf7c40,2014-02-23,2015-06-29
+50424,20230,Ashworth South Homestead,A,United States,Ohio,,2011-04-29,
+50093,20051,Castellano South Ground,A,United States,Minnesota,e3b7d3b8-7adc-4a5e-9ace-f344934f0660,2016-07-26,
+50300,20160,Kowalski East Place,A,United States,Kansas,efd01544-a4c6-40db-abb7-6721a7bf424d,2012-04-10,2014-05-07
+50423,20229,Callahan North Quarter,A,United States,South Dakota,,2014-10-06,2022-05-09
+50044,20027,Drummond South Section,A,United States,Minnesota,db59c14f-1f27-44db-92fb-986a63780604,2021-09-15,2022-02-07
+50074,20042,Castellano Prairie Place,A,United States,Illinois,bf966503-f61f-4853-a8b6-50328da637e0,2014-06-15,2015-01-15
+50516,20304,Pemberton Hilltop Ground,A,Australia,New South Wales,4ff1e35d-3391-4113-a86d-da36a67aa6c3,2014-12-18,2016-10-05
+50111,20061,Winters Home Homestead,A,Canada,Alberta,9f9bef2d-16d1-4c08-9f9a-0d0be5f6d737,2010-12-26,2017-09-14
+50590,20373,Falkner Upper Place,I,United States,Ohio,5b6857cd-2ec8-44a2-9bb5-008f71af3127,2011-04-10,
+50319,20170,Dietrich River Ground,A,United States,Iowa,83f78c56-c14f-4d30-a654-a47882122c88,2012-06-06,2020-05-04
+50327,20174,Winters Ridge Section,A,United States,Wisconsin,4a9275bd-c4f3-4fdb-aee4-3b1bdd3351b7,2022-07-20,2025-10-27
+50099,20054,Eastman New Place,A,United States,Missouri,2b36f7af-aaa5-4aa0-bcd4-b5e703edb700,2013-07-19,2025-10-18
+50442,20248,Lockhart East Quarter,A,United States,Missouri,2593a274-259e-43ec-8f1e-499794cd97df,2015-11-05,2016-12-01
+50426,20232,Boudreau South Ranch,A,United States,Wisconsin,,2020-07-14,2026-02-18
+50611,20394,Dietrich Hilltop Place,A,United States,Nebraska,390afbef-630b-4648-8a81-af5358e52df0,2020-07-20,2020-12-12
+50342,20181,Castellano Hilltop Section,A,Canada,Saskatchewan,dfe4fc34-b589-4431-ba89-5448e58bb141,2016-01-10,
+50164,20087,Marsh Hilltop Homestead,A,United States,Illinois,f4b144ee-831b-4c02-98c6-d14b92b1e67a,2012-09-11,2019-03-14
+50106,20059,Duval Upper Quarter,A,United States,Indiana,dbf6b58e-9520-46d6-a776-653948b1cc73,2023-06-28,2023-08-01
+50585,20368,Prescott Creek Homestead,P,United States,Iowa,5376c441-c541-48d7-b2e9-655200125288,2019-03-06,
+50145,20079,Boudreau Old Section,A,United States,Ohio,464024fe-bcae-4b67-af19-0ccc68f98b5f,2013-11-24,2019-11-18
+50497,20292,Okafor Prairie Ground,A,Australia,Queensland,503e656d-7a0f-4dcf-bf18-d15da98ba306,2013-10-29,
+50397,20212,Reyes South Homestead,A,United States,North Dakota,1c0efceb-68a6-4a5e-a22f-e207e535e50e,2021-04-06,2023-07-13
+50165,20088,Girard East Quarter,A,Canada,Manitoba,5acbfa19-68c8-4069-b51c-c5eff9de7406,2015-06-24,2020-08-15
+50268,20143,Delacroix Old Ground,A,United States,Missouri,5f84e361-7774-4b7d-ad1c-4ec56f3f186c,2014-07-23,2020-10-03
+50473,20278,Bergstrom North Homestead,A,Australia,Western Australia,e72d9611-891e-45ee-a50d-daa776c0901b,2012-02-19,2013-01-06
+50296,20159,Falkner Lower Ranch,A,United States,Kansas,d9323712-286f-4e7c-8ca6-dd5665595c6d,2012-11-29,2014-08-16
+50363,20194,Albrecht North Section,A,United States,Wisconsin,414b7d45-92de-454b-af6f-64b80a7421e7,2015-08-08,2020-09-04
+50382,20204,Oberlin East Place,A,United States,Illinois,755edf1e-ba93-4c2a-a964-342734c5688c,2015-08-24,2021-07-23
+50381,20204,Oberlin New Ranch,A,United States,Illinois,1ed42184-6115-4f4f-8c94-54efcc05e40f,2022-08-19,
+50109,20060,Baxter Lake Farm,A,Canada,Saskatchewan,c16d8734-74f9-4144-ac19-db4e30d9718e,2014-05-09,2017-03-28
+50184,20098,Eastman Hilltop Farm,A,United States,Indiana,2378124e-bf5d-43f7-ba47-861400c23687,2021-11-02,2023-09-25
+50510,20300,Xiong Creek Ground,A,Australia,Victoria,90b65a19-6b03-4c04-ae1d-d65db44b8c30,2021-05-13,2025-10-05
+50261,20139,Holloway Lake Section,A,Canada,Ontario,c8b1a6ee-1268-4644-ab8e-886ccf5d4c26,2015-12-20,2022-11-02
+50522,20307,Albrecht Lower Quarter,A,Australia,Queensland,f3b651ed-b908-4950-9f80-9ebf3028953e,2011-02-02,2015-12-20
+50301,20161,Vandermeer Old Homestead,A,United States,Missouri,3d9f1ca3-49d8-4313-b326-7b781499b540,2014-04-26,2019-10-25
+50092,20051,Castellano Lower Ground,A,United States,Minnesota,6a94962a-b8a0-4054-901f-9da3d4fd3cd1,2012-11-14,2013-02-09
+50006,20005,Underhill River Section,A,Canada,Ontario,413e1420-b06a-465b-b37a-ecb23dd203c4,2012-06-17,
+50152,20082,Lockhart Prairie Homestead,A,United States,Wisconsin,ecfbfb70-af6f-46dc-b6f0-2a2ff93b76f9,2010-12-17,2024-05-19
+50361,20193,Hartley Prairie Place,A,United States,Iowa,c36537aa-97a1-416f-a7de-f468fd9c3260,2017-06-10,2026-05-15
+50538,20321,Albrecht Valley Farm,A,United States,Indiana,39bda168-cdc1-40a4-ae8a-3c8ff889ff0a,2019-11-05,2022-07-10
+50021,20013,Jablonski South Section,A,Canada,Ontario,4970f8de-7d47-4260-b4fb-3cdf24142d93,2022-07-03,2025-08-28
+50274,20146,Yancey Hilltop Quarter,A,United States,South Dakota,b9106f74-7856-4c8b-833d-3e1d6d0aefbc,2012-04-19,
+50191,20100,Holloway Creek Homestead,A,United States,Nebraska,0bcc23a0-2cbe-422a-b440-855fe83ef437,2018-01-18,2021-02-19
+50267,20142,Dietrich West Place,A,United States,Iowa,e8dd3339-969a-4072-8091-8c5ba4db92e1,2022-11-12,
+50460,20266,Underhill Creek Ground,I,Canada,Ontario,c7e23f9e-4714-447f-a95f-99d5f6aba9a2,2020-07-16,2025-07-23
+50551,20334,Marsh Prairie Homestead,I,United States,North Dakota,1ecda0e1-58d9-4734-b011-b79ee066b339,2010-02-13,2020-02-13
+50524,20308,Vandermeer Creek Ranch,A,Australia,Western Australia,da43b07e-a148-41f9-84b4-f1f39c67450b,2019-11-17,2022-06-28
+50117,20064,Duval Lake Place,A,United States,Wisconsin,47ded357-0824-4a60-8c61-dfc4539dbc3d,2014-03-07,2016-08-27
+50328,20175,Xiong South Section,A,United States,Nebraska,a3650eec-6ca0-467b-9e2c-b198ebb7d7a2,2022-09-17,
+50376,20202,Pemberton Hilltop Ranch,A,United States,Iowa,7907d4cb-e03c-4c29-b7ae-1df9eb24e5f3,2022-02-28,
+50172,20092,Oberlin River Ranch,A,United States,Kansas,6fc5c252-787b-4637-b6e8-bf7c12740c6b,2019-11-22,
+50293,20157,Bergstrom Prairie Section,A,United States,Kansas,045806c5-9ba3-4349-9b45-4bc49076ecd8,2010-03-21,
+50468,20274,Kowalski Prairie Ranch,A,Australia,New South Wales,d10b5ec2-c176-4af5-bc76-678a2f9a4a59,2013-02-12,2017-12-22
+50207,20110,Rasmussen Home Section,A,Canada,Manitoba,82d84211-c539-4de3-9c42-d0086a89fdbc,2017-10-20,2020-12-16
+50347,20184,Girard Prairie Quarter,A,United States,Kansas,d3986e39-13ef-46f6-9c92-7c725f5b2732,2014-06-03,2020-05-04
+50518,20305,Kerrigan Ridge Homestead,A,Australia,Victoria,375bcc37-c1cf-44f1-8585-dc9bd2c68d1b,2016-10-30,
+50600,20383,Eastman Hilltop Homestead,A,Canada,Alberta,a106db28-aa13-4ebc-ac5b-2d220aca3f62,2019-05-16,2021-07-06
+50530,20313,Duval Upper Section,A,United States,Indiana,b03a741b-c390-4ad8-9ba8-fd9cbe7e7389,2010-08-02,
+50449,20255,Marsh Home Place,A,United States,Minnesota,745865f8-1890-4852-a8fc-9f1edbe0af19,2016-10-20,2020-10-23
+50186,20098,Eastman River Ground,A,United States,Indiana,9f36a660-25ed-48cc-bc13-b29787dc0db5,2023-09-06,2023-12-26
+50544,20327,Albrecht Old Homestead,A,Canada,Manitoba,90cefefe-6bda-47b5-9be2-b1b593876730,2015-10-24,
+50178,20095,Lindqvist Lake Place,A,Canada,Alberta,4f153991-79d5-4c50-8161-bc31d70672cc,2013-03-31,2019-07-12
+50401,20215,Ziegler Home Homestead,A,United States,Indiana,f637d2b2-138f-4e76-b4d2-cf28f1c68c53,2014-03-27,2025-08-10
+50008,20006,Hummel South Ground,A,Canada,Saskatchewan,a6d80f79-957b-4511-81ba-6c61f1253fbd,2023-12-27,2024-10-01
+50393,20211,Nordin Lake Ground,A,Canada,Alberta,8e05b366-d179-4014-921b-f553d6737d47,2013-01-02,
+50469,20275,Ivanov East Homestead,A,Australia,Victoria,5b1dd40f-88e1-4a5b-9b95-5502e71138c7,2016-08-19,
+50481,20282,Holloway Lower Farm,A,Australia,Western Australia,56ecd9ac-3eea-4492-813f-f038d414588e,2017-12-15,2022-07-14
+50022,20014,Delacroix East Homestead,A,Canada,Alberta,49d4afc2-b322-47d0-bb9b-f7c82e5bf032,2018-02-12,
+50458,20264,Callahan West Quarter,A,United States,Nebraska,5b1a7371-6c7b-4ebf-9eaf-6ba577a3c207,2011-03-29,2012-07-08
+50234,20126,Nordin Creek Homestead,A,United States,Wisconsin,653b6b78-2029-40aa-b54b-6c496ab362a5,2017-04-15,2023-03-07
+50482,20283,Boudreau North Ground,A,Australia,Victoria,0178f87e-8ea5-43e9-8d9a-290593d23f55,2018-09-05,
+50436,20242,Xiong West Place,A,United States,Minnesota,ec83a932-4ddd-497f-bd8c-a59ef9f64422,2015-04-19,2017-11-06
+50527,20310,Ashworth Home Ground,A,Australia,New South Wales,9382ed5c-1789-4317-9e9e-028c446447b4,2014-01-24,
+50459,20265,Steiner Creek Section,A,United States,North Dakota,12d80679-83f4-4757-99e3-9fae989b56ab,2010-07-25,2024-02-22
+50028,20017,Jablonski Valley Farm,A,United States,Illinois,baec95ec-6d36-4663-bcdf-f3a3b9ae96b8,2019-05-21,2025-04-01
+50146,20079,Boudreau Lake Farm,A,United States,Ohio,01e41a31-6da6-4db2-831b-902a8d336fa6,2011-03-20,
+50245,20132,Pemberton Valley Place,A,United States,Indiana,367a9749-0334-45b8-b21b-030053766469,2014-09-04,2018-04-19
+50299,20160,Kowalski Old Section,A,United States,Kansas,c522dbf2-d11a-4266-b482-618bb4f26b92,2010-08-02,
+50216,20116,Rasmussen Prairie Ground,A,Canada,Alberta,155a9e2d-3ccd-4c2d-bd1b-f0c129792aee,2013-12-02,2019-01-13
+50373,20200,Tollefson New Place,A,United States,Nebraska,8165688d-e9a0-459c-8dcb-32d6cb7b8647,2016-10-24,
+50567,20350,Delacroix Upper Section,I,United States,Iowa,26fe9fec-191f-4ec7-ab39-dfa3318d2107,2023-06-11,2025-05-25
+50037,20023,Vandermeer Lower Ground,A,Canada,Alberta,7c8a4821-df9e-44d4-92a6-22be8ce28d0f,2010-09-19,2026-04-26
+50521,20307,Albrecht West Ranch,A,Australia,Queensland,09a2d4c0-2b59-4518-b42a-f3485d4cc195,2013-10-15,2020-09-23
+50525,20309,Yancey North Quarter,A,Australia,New South Wales,d140a763-8126-4f75-b365-5bbf577fe79f,2011-03-14,2024-03-02
+50112,20062,Reyes Lower Ranch,A,Canada,Alberta,451618fc-257b-49c4-9d02-3730cf866b10,2021-06-28,2025-12-31
+50264,20141,Falkner Hilltop Section,A,Canada,Ontario,20397bd6-4eaf-48e3-9de2-431aa0729b1b,2021-10-26,2022-06-26
+50058,20034,Duval River Ground,A,United States,Nebraska,8072512b-1ab0-413d-b5e8-213214223f4f,2015-03-10,2023-08-09
+50087,20049,Marsh Ridge Homestead,A,Canada,Saskatchewan,d9f9c6eb-032e-467d-9fae-3f0a58282a45,2019-04-24,2023-09-08
+50091,20050,Baxter Upper Ranch,A,United States,Wisconsin,ef42f9ad-899f-4c9d-9e46-f5469d847360,2013-12-11,
+50391,20210,Hartley Lower Quarter,A,Canada,Alberta,917719a6-4a7d-4971-bed1-823c33f33664,2013-05-02,2022-12-03
+50123,20067,Ferreira Creek Homestead,A,United States,Ohio,2396fb7c-c997-4a2e-b4c6-12f3f0ba719e,2023-10-19,2025-05-24
+50439,20245,Xiong Lower Ground,A,United States,Ohio,605bbb77-17aa-4adf-96da-a678ad8f7c40,2019-01-08,
+50457,20263,Ziegler River Ranch,A,Canada,Manitoba,3aadb2f8-2477-4bbd-a410-2c9a9549fcc1,2013-05-07,2023-10-19
+50297,20159,Falkner Lake Farm,A,United States,Kansas,c5d86f9b-f8e9-46eb-8869-18c03af14159,2012-01-03,2018-04-18
+50197,20104,Okafor Ridge Section,A,United States,North Dakota,82123b06-1020-4994-b0d3-06e41c330eea,2010-03-16,2019-07-16
+50218,20117,Prescott Lower Ground,A,Canada,Saskatchewan,05b15339-89a4-4480-bc4d-b88d65ed611a,2021-05-30,2025-07-24
+50086,20048,Rasmussen Lake Farm,A,Canada,Ontario,5daa45c6-2472-47a7-aa98-d9984052b8b9,2018-08-20,
+50550,20333,Ivanov Lake Homestead,A,Canada,Saskatchewan,9d916880-278b-48ff-8f55-e051334f25cf,2023-12-10,2024-06-12
+50115,20063,Hummel Old Place,A,Canada,Alberta,f43c06e2-eb1c-4c4a-b373-854757ccfdc0,2017-06-18,
+50196,20103,Callahan Valley Ground,A,United States,Ohio,5db0accf-9580-4b28-aead-d397f3dafae9,2022-08-15,
+50187,20099,Baxter East Farm,A,Canada,Alberta,9a39cef3-71a3-4dff-8b54-3acb91270537,2018-12-27,2019-02-23
+50394,20211,Nordin Valley Ground,A,Canada,Alberta,e374ff4f-7492-4728-be75-80a3815527c0,2020-06-24,
+50048,20029,Jablonski Valley Ranch,A,United States,Ohio,01e3cb55-b48f-41b1-9450-8d42f94aeed4,2017-03-06,
+50081,20046,Winters South Ranch,A,United States,Wisconsin,b8856e7e-0e5f-4ffc-8a96-d4f93efe02cb,2020-10-15,2026-01-22
+50193,20102,McAllister Hilltop Section,A,United States,Missouri,c8806eaa-0f03-496e-9b20-495c9033491c,2020-06-25,2022-12-26
+50135,20073,Merriweather South Ground,A,United States,Iowa,e70d485a-caa0-48d0-adcf-86debc522384,2021-05-19,
+50098,20054,Eastman Lake Ground,A,United States,Missouri,6fb5a0c5-47bd-40e4-b189-c155144777ff,2023-07-05,2025-04-20
+50121,20066,Steiner Old Ground,A,United States,Kansas,15fcc517-3ba5-4912-924f-852d6cc547c8,2010-05-30,2021-10-31
+50229,20123,Callahan Ridge Section,A,United States,Minnesota,02f19355-26be-48b9-b702-b077043991f3,2018-11-19,2026-03-11
+50506,20298,Ziegler Old Section,A,Australia,Western Australia,dc30bc88-b3b8-4adc-8ba7-4827ba28463e,2014-09-10,2024-05-11
+50064,20036,Bergstrom Ridge Farm,A,Canada,Manitoba,471abf3e-8924-4c51-bc64-fc95e8746cfb,2010-01-22,2025-11-10
+50360,20193,Hartley Ridge Homestead,A,United States,Iowa,3e0ffadd-f473-4f06-87e3-ae1bfc522d51,2017-05-04,
+50079,20045,Holloway Creek Farm,A,United States,Missouri,a9c7450c-0ad2-4651-a065-f16c6e7538bf,2019-12-22,
+50073,20041,Kerrigan Lower Farm,A,United States,Nebraska,6d3b273e-c389-46a1-9b79-1d5ec33c90c1,2011-11-26,2016-12-28
+50472,20277,McAllister Old Place,A,Australia,Victoria,c9244f56-df3b-43bd-8b66-bbdf918c22dc,2022-05-31,2026-06-17
+50308,20164,Baxter Lower Farm,A,United States,Nebraska,670d430b-595a-49b7-8650-eeb5572fd7eb,2018-11-29,
+50177,20094,Quandt Ridge Homestead,A,United States,Illinois,41fa57bd-8388-4d5e-9f08-4030a401f620,2018-09-12,2021-02-23
+50024,20014,Delacroix East Place,A,Canada,Alberta,2b29c009-064b-4b46-93fd-5e2bdc4dc495,2011-09-07,2013-04-12
+50320,20170,Dietrich North Quarter,A,United States,Iowa,f036c744-2eef-4bdc-b400-46090088e1a1,2013-12-20,2019-02-09
+50237,20127,Winters Creek Farm,A,United States,Kansas,b8fc48ea-2439-403a-9934-62a5c4e890ba,2014-12-26,2021-10-28
+50595,20378,Winters Home Farm,A,Canada,Ontario,b3ef967f-23eb-419a-a6d1-b0954a01630d,2013-04-18,2017-05-24
+50505,20297,Xiong Valley Section,A,Australia,Queensland,44e5a005-2f02-474d-a8f9-ed04e94922c1,2011-05-14,2024-05-03
+50456,20262,Bergstrom South Ground,A,United States,Nebraska,e7907e54-7f5d-4eed-a8a8-e9418a14eef1,2016-07-19,
+50588,20371,Falkner Old Ranch,I,United States,North Dakota,3fa3e056-7a60-4888-8477-49245dea54f7,2019-04-19,
+50272,20145,Callahan Creek Farm,A,United States,Iowa,2448a314-6b40-40d7-a607-c1142a290a3b,2018-01-10,2026-04-03
+50368,20196,McAllister Home Homestead,A,United States,Ohio,1c37d269-fd72-4dc4-8ff2-d274b72dad7b,2022-10-18,2023-05-28
+50561,20344,Jablonski Lower Section,I,United States,Ohio,0e28032c-137f-4612-b7dc-7029a8246040,2013-02-22,2014-11-24
+50046,20028,Delacroix Upper Ranch,A,United States,Illinois,3f2b796e-a6d0-4759-87b3-e4a0895af50d,2021-06-08,2021-08-11
 55210,20481,Hartley North Farm,A,United States,Iowa,77b3c6d8-8e10-49a4-9f2b-3f4a1c9d20e6,2014-03-19,2024-08-14
-50437,20241,Brenner Lake Farm,A,United States,Kansas,a6113438-86d0-48f5-9102-034c89b7f786,2015-09-17,
-50490,20275,Baxter Lower Homestead,A,Canada,Manitoba,4136beca-736d-4800-8e55-b006e41d9eb0,2019-07-12,2020-06-02
-50060,20033,Albrecht New Ranch,A,Canada,Saskatchewan,f2caa579-25b6-44e4-99a1-556ef7b1fe8a,2012-03-27,
-50107,20058,Rasmussen Valley Farm,A,United States,Indiana,8fa577b5-edd8-4fbf-96cc-e81606f628ca,2021-09-01,
-50344,20192,Lindqvist Lower Ground,A,Canada,Saskatchewan,1e1cc279-75f6-4553-bdba-cd63ad69fe0f,2018-07-09,2024-07-01
-50377,20211,Reyes Ridge Farm,A,United States,Ohio,ed312454-cdaa-41b5-9cd0-335e393bf4d3,2011-09-05,
-50625,20392,Winters Home Quarter,I,United States,Missouri,e6187dec-47aa-4e96-822c-c0f2365f4d87,2020-02-01,2020-11-05
-50012,20006,Whitaker Prairie Farm,A,United States,Wisconsin,bb6033d9-1660-469a-a849-67cf50754f87,2013-11-15,
-50561,20332,Albrecht Valley Farm,A,Australia,Queensland,9973a23f-455d-4125-8382-c43ddf58a04e,2013-10-22,2018-01-24
-50262,20145,Whitaker Ridge Ground,A,United States,Wisconsin,99162859-f7c8-4e28-ae49-2ad9fc6e28c7,2019-03-29,2020-07-17
-50654,20421,Nordin North Section,A,United States,Nebraska,ec89af67-e839-45d5-863f-5d44c835854d,2021-06-04,2023-02-12
-50530,20311,Kerrigan Hilltop Farm,A,Australia,Queensland,b947beb0-09c9-4feb-8c12-da8ac0cffb78,2022-08-15,2024-09-07
-50624,20391,Yancey Lower Farm,I,United States,Iowa,1250a260-2a02-485e-aa8c-3549ac5bd38a,2020-07-04,2024-06-12
-50645,20412,Nordin Upper Ground,A,United States,Wisconsin,d6833901-7e5a-407c-a685-1f2a1ac5fde4,2017-07-09,2020-01-24
-50037,20019,Lindqvist River Ground,A,Canada,Alberta,e6c3106b-5688-4b5f-bdae-aa97563a4309,2023-03-16,2024-11-12
-50562,20333,Ferreira New Ranch,A,Australia,Queensland,2e7a23b4-ff3d-45c6-af8a-f433ebe10879,2018-08-21,
-50290,20161,Rasmussen Home Quarter,A,United States,Wisconsin,e974a6ac-b9d6-4e2b-9b18-31e4f82ab836,2014-12-14,2016-05-08
-50639,20406,Vandermeer South Quarter,I,Canada,Ontario,91af7667-1475-464b-b03d-b265c1a51179,2015-09-10,
-50101,20055,Bergstrom Valley Place,A,United States,Minnesota,68964985-2ed5-40ef-b4ca-4987fd176559,2018-01-31,2018-12-27
-50159,20088,Lindqvist Ridge Homestead,A,United States,Nebraska,3b8d2ef7-421a-42b0-bccb-e708297ca32d,2015-01-19,
-50418,20231,Ferreira Hilltop Section,A,United States,North Dakota,c4c03aea-3de2-44d9-aade-fff7fd2d83bf,2020-12-22,2022-08-14
-50109,20060,Vandermeer Upper Farm,A,Canada,Manitoba,28beeb98-7da7-4062-a3af-f5237afb2634,2010-01-16,2016-01-15
-50379,20213,Lockhart Lake Place,A,United States,Illinois,98a3a76a-df22-49c6-af48-9d4376229170,2010-04-17,2014-01-23
-50520,20304,Iverson East Quarter,A,Australia,Queensland,994ace18-014e-4a6c-abc3-893e6f974fe2,2010-07-30,2014-06-02
-50162,20090,Lockhart Prairie Section,A,United States,Iowa,67a9078d-c585-4967-88bf-a27e2cb4385b,2014-12-10,2020-08-18
-50433,20239,Lockhart Upper Homestead,A,United States,Ohio,80e6c65f-4c7a-4328-af9e-3807b54efba7,2021-09-02,2026-05-28
-50481,20266,Lockhart North Farm,A,Canada,Ontario,,2018-06-03,2024-11-22
-50234,20127,Drummond East Ground,A,Canada,Manitoba,9959e73f-6f3d-4c1c-8483-2de664ae5c05,2016-10-15,2018-11-12
-50443,20245,Thompson Upper Ranch,A,United States,Kansas,727a673b-4642-4cbd-a4ca-cbea01560aeb,2011-04-10,2020-10-06
-50523,20307,Callahan Lake Homestead,A,Australia,Western Australia,cde79fc0-df54-4f14-983f-048018720bb2,2013-08-28,
-50271,20150,Xiong North Ranch,A,United States,Nebraska,c0e451e1-8d63-4f62-918a-25f970ca7cfc,2017-05-08,2022-11-01
-50644,20411,Winters East Ranch,A,United States,South Dakota,e4365a55-01e5-4f3d-b6c8-4803f53e05e5,2014-04-12,2022-05-07
-50556,20329,Thompson West Place,A,Australia,Queensland,8c104e4f-614b-4f30-b06d-e180f88c2f0e,2013-01-09,
-50248,20136,Nordin Hilltop Quarter,A,Canada,Saskatchewan,717d8608-8733-4f9f-8476-0c8e05b99d2a,2011-11-26,
-50348,20194,Rasmussen Old Homestead,A,United States,Wisconsin,328f71c3-7665-48bf-aba8-44ae47e55089,2018-07-23,2022-06-01
-50068,20037,Novak New Ranch,A,United States,Wisconsin,70ff9c25-5fd3-43d6-8b3f-f19d9fb12d4c,2016-03-15,2019-12-14
-50359,20201,Vandermeer Upper Place,A,United States,Iowa,b5c508ad-ad78-448f-8148-be627939673f,2020-10-11,2021-01-28
-50476,20263,Nordin Hilltop Quarter,A,United States,Wisconsin,ed890d55-6bcc-4d3a-812e-b8f8bf9a01d5,2019-07-25,
-50171,20095,Dietrich Valley Ranch,A,United States,Wisconsin,87ddcca2-d2ec-44a6-b895-dc41c7ce3018,2021-10-13,2023-01-18
-50283,20158,Whitaker Creek Section,A,United States,Wisconsin,a7ecfed1-0f1c-4301-80c3-30b51bf1aa9a,2010-01-13,2018-08-18
-50315,20175,Dietrich River Ranch,A,United States,North Dakota,ee7d93cf-2c40-4787-adea-5123c694cb11,2017-02-11,2021-06-02
-50084,20046,Quandt Home Section,A,United States,North Dakota,37d69322-1b8d-47f0-b64b-d73fe48e2233,2015-03-13,2025-06-15
-50535,20315,Oberlin Creek Quarter,A,Australia,Queensland,0840c771-bc05-44f1-afb0-2d91e0e0af38,2020-01-16,2023-11-16
-50553,20327,Yoder Lower Place,A,Australia,Queensland,3e821a3d-2b5c-43d3-a0de-908ffb5c3a2a,2013-08-28,
-50627,20394,Okafor West Ground,I,United States,South Dakota,69df8e2e-ed72-4765-8129-aec4d7387560,2017-09-03,
-50626,20393,Ashworth Creek Farm,P,United States,Iowa,718f3c02-5ed3-4b7f-a9f8-f035b43231ec,2010-07-17,
-50500,20285,Eastman West Farm,A,United States,Kansas,73297c79-e64b-4bf2-9b3e-72034bfaa098,2022-05-07,
-50448,20248,Rasmussen North Farm,A,United States,North Dakota,20e46d6e-41fa-4a3d-96d8-ba0dcf69b558,2023-08-01,2025-01-01
-50653,20420,Girard Prairie Homestead,A,Canada,Manitoba,051e7343-46ef-4ae9-95fb-8dff57a0c0a8,2015-11-04,2019-07-24
-50426,20236,Jablonski Lake Quarter,A,United States,Indiana,68717e27-05e2-43ed-b882-6330aba1ec35,2013-01-04,
-50021,20010,Steiner River Place,A,United States,Minnesota,7a681355-c263-44c8-93ab-69569b527011,2022-05-31,2025-05-13
-50038,20020,Crenshaw Home Section,A,United States,Wisconsin,be85658b-130b-4d26-99f3-e0e7b4fe009a,2021-08-20,2021-12-05
-50334,20186,Winters North Homestead,A,United States,Nebraska,b4f46ebb-5b80-4d1c-84c8-52cdf81d0dfb,2017-02-16,2022-12-13
-50183,20101,Prescott Ridge Ranch,A,United States,Minnesota,6cf10ec7-7f62-4cff-bbd3-bc22c372ae92,2021-02-09,
-50540,20318,Pemberton Valley Place,A,Australia,Western Australia,e80d7c65-a5ae-4b54-902b-8ec569453eaa,2021-07-03,2023-03-12
-50253,20140,Albrecht Creek Farm,A,United States,South Dakota,a9395477-0c9a-4554-b161-cd55bc606438,2014-02-04,
-50313,20174,Kerrigan River Ground,A,United States,Illinois,211befc4-8496-4f73-b844-93be9431e5e5,2011-06-25,2023-10-11
-50001,20001,Ziegler River Section,A,United States,North Dakota,5c8f8af9-808d-403e-b934-b56a19ad35c1,2022-04-12,2025-02-14
-50176,20097,Nordin Prairie Section,A,United States,South Dakota,62cd24f5-c076-492e-9f4a-783c8cb27eae,2013-02-24,2023-04-03
-50598,20365,Steiner New Homestead,A,United States,Minnesota,14599171-1435-452c-b453-ba90b6863b84,2011-05-29,2015-05-07
-50027,20013,Ivanov East Farm,A,United States,Nebraska,defaa0f4-cf2a-4306-8a75-b23b6c781291,2010-05-10,2024-06-17
-50424,20235,Merriweather North Ranch,A,United States,Illinois,3e3f1f0f-a03c-4823-851b-07e82c7bf18b,2014-03-17,2017-10-11
-50139,20077,Kowalski Lake Section,A,Canada,Ontario,20347704-f891-461b-84dc-d245ba771849,2019-07-18,2025-03-01
-50491,20276,Ashworth Valley Section,A,United States,Indiana,d52ca072-dd9f-4059-bc76-8da048e839a3,2011-07-18,
-50409,20227,Tollefson East Ground,A,United States,Illinois,dd39c3cd-3a69-44c7-b56f-375e2a5c993f,2015-06-29,2016-11-16
-50259,20144,Thompson New Farm,A,United States,Indiana,d3a0e2c1-3555-486c-b2c1-397965bd78b4,2014-12-23,2017-01-25
-50222,20121,Bergstrom East Ground,A,Canada,Ontario,e71e455c-0f4f-409c-8656-cc7771e21d18,2012-12-28,
-50485,20270,Quandt North Section,A,United States,Illinois,,2019-08-03,2024-05-24
-50619,20386,Nordin Old Quarter,P,Canada,Alberta,11afcb78-1e9e-4e57-810d-5202c6b7d28a,2014-07-18,2016-02-21
-50479,20264,Pemberton Old Homestead,A,United States,South Dakota,e2114a01-aeff-4f2d-af79-53c9c4d6bf40,2017-09-22,2018-12-04
-50416,20230,Thompson Old Ground,A,United States,Ohio,7c723883-13b9-436e-b471-69fc70f9df0d,2019-07-21,2023-05-17
-50086,20047,Vandermeer New Section,A,United States,Indiana,032a445d-4f59-48c5-af00-2b87fc494092,2010-04-10,2011-08-17
-50174,20096,Ziegler Hilltop Homestead,A,United States,Missouri,8fb1e8fe-7541-4309-b355-94a2f2525a66,2012-06-16,2014-01-08
-50010,20004,Holloway Lake Section,A,United States,Missouri,33851054-acae-46ec-b6bc-d48949768e05,2010-12-28,
-50397,20221,Reyes Lower Place,A,Canada,Saskatchewan,978cb4be-fee0-41c9-bcbd-491094a1e539,2016-04-07,2025-11-05
-50642,20409,Okafor South Quarter,I,United States,Nebraska,88310496-4f76-46a8-a7bb-57f4d543edf0,2021-10-30,2023-06-21
-50188,20104,Novak New Place,A,United States,South Dakota,2bbdf350-a6c6-4515-9e31-a2432880f485,2015-02-19,
-50486,20271,Girard Home Farm,A,United States,Wisconsin,,2021-08-08,
-50211,20117,Prescott Valley Ranch,A,United States,Ohio,a08c2f1b-b0e8-45c8-b26d-482959367aab,2017-12-05,
-50447,20247,Holloway Creek Ranch,A,United States,Iowa,69d00564-8ce5-4481-8531-0f07bd3f2649,2013-05-12,2021-12-11
-50212,20117,Prescott New Quarter,A,United States,Ohio,60cf1284-9740-4dd1-a359-05059737c657,2018-10-12,
-50331,20185,Xiong West Homestead,A,United States,North Dakota,6ca6ad44-8415-4ef4-9b44-3376e5335747,2010-09-30,2013-08-31
-50104,20056,Iverson South Farm,A,Canada,Saskatchewan,60805719-1f8c-44f9-a18d-f1abff0efe70,2018-06-08,2019-02-06
-50552,20327,Yoder Lower Ground,A,Australia,Queensland,f811e6fd-7090-49df-a87e-bfd943ecd99a,2023-06-25,
-50224,20122,Kerrigan Hilltop Ground,A,United States,Minnesota,d6c64f52-18aa-4a0e-9f4a-0e1858b2cbe9,2018-12-18,2019-05-18
-50417,20231,Ferreira South Section,A,United States,North Dakota,b5d8b426-908b-48c8-a094-683b84a4b919,2018-06-14,
-50495,20280,Falkner River Section,A,United States,Wisconsin,be00d828-f132-4bbd-80d5-d88554bf609a,2023-05-20,2024-08-20
-50121,20066,Ziegler East Place,A,United States,Minnesota,2d9759a7-df27-4d5e-9b5f-0bfca371fb5b,2020-09-23,2024-08-25
-50317,20176,Iverson Upper Farm,A,United States,Indiana,2bb74fda-5461-46a3-adc1-10239f3428ca,2016-09-07,2025-10-14
-50087,20047,Vandermeer North Ground,A,United States,Indiana,a8a75bc0-584f-4f1e-a92c-479282894835,2013-01-15,2013-02-17
-50090,20049,Vandermeer Home Homestead,A,United States,North Dakota,2b5fe0f9-828b-4203-8284-bf389c557980,2016-02-11,2024-11-16
-50297,20165,Steiner North Place,A,United States,South Dakota,d9328c9b-a0ca-41ba-a1df-c2a419aab14f,2015-09-11,2021-12-14
-50358,20200,Kowalski Prairie Ground,A,United States,Kansas,18891ef0-9bd5-40b8-ab4f-08d8f124f1be,2019-04-06,2020-10-02
-50032,20016,Xiong Lake Section,A,Canada,Manitoba,e4486142-00b8-4987-901a-2abb3a8c2e63,2018-10-13,
-50396,20220,McAllister Lower Farm,A,Canada,Saskatchewan,92ce1e99-2766-40b1-8968-ca0a5cca17c0,2019-10-19,2022-12-15
-50622,20389,Reyes Creek Homestead,I,United States,Illinois,80f5f17e-da1c-4bcc-abd0-d355dca3ac36,2020-07-29,2023-05-03
-50528,20310,Castellano East Ground,A,Australia,Western Australia,92795c3c-7a8f-406e-841e-f8a796ff17aa,2023-03-03,2024-12-06
-50124,20069,Vandermeer North Ground,A,United States,Indiana,4d5dbb7b-9037-4ab0-84df-48f3cf2a4d3f,2016-09-07,2022-06-12
-50647,20414,Pemberton Old Quarter,A,United States,Illinois,99a66931-a7f8-4425-b2d8-5d550351fa92,2012-07-05,
-50143,20079,Girard River Ground,A,United States,South Dakota,3f4cdef0-dedf-4de6-931e-0d817e9bb309,2013-08-12,
-50514,20299,Hartley South Place,I,Canada,Ontario,1215fca3-58f2-43e5-99ec-a02880f91729,2015-08-20,2021-06-15
-50029,20014,Oberlin Home Quarter,A,United States,Iowa,592c2f0d-5c74-4be0-aeb5-c1a590032f3e,2012-11-15,
-50615,20382,Quandt New Ground,I,Canada,Alberta,41cfd7b5-6bb6-4373-8df4-7199449299fe,2015-08-18,2017-07-12
-50228,20124,Eastman Valley Farm,A,United States,Missouri,52aa5ba1-6ee7-45e8-8dc4-ee16e778449a,2017-12-03,
-50230,20125,Delacroix East Quarter,A,United States,Kansas,fb3fb934-ba8b-4aef-be31-8d80cb6e19bc,2018-01-24,2020-06-20
-50601,20368,Iverson North Quarter,I,United States,North Dakota,10065ca2-485e-4aab-9d0c-e4ecb8017510,2013-07-02,2022-11-13
-50663,20430,Castellano Lower Place,A,United States,Missouri,07caaf9a-202e-4f9d-8397-92cb1a39264c,2010-12-03,2025-10-08
-50083,20045,Quandt Creek Ground,A,Canada,Ontario,27c2b613-20bb-44df-852c-10bb22d1a599,2020-06-07,2023-04-29
-50482,20267,Kerrigan North Ranch,A,United States,Minnesota,,2014-11-23,2023-12-18
-50110,20061,Yoder New Ground,A,United States,Wisconsin,037d1877-75b6-4e4c-bea1-65f6de91cb2e,2022-04-06,2023-07-16
-50294,20164,Bergstrom Home Farm,A,United States,Kansas,febdaa7b-e92d-4495-bdb4-d5e7a1aa2b76,2016-09-08,2020-06-04
-50497,20282,Baxter North Farm,A,Canada,Manitoba,5b07a848-cee3-4631-8676-82d461c81b81,2018-05-31,2019-06-08
-50337,20188,Falkner Ridge Farm,A,Canada,Manitoba,33dff86b-9083-495e-b9f4-4724fde1f5d1,2022-11-30,2025-08-15
-50080,20044,Winters South Ranch,A,United States,Wisconsin,b8856e7e-0e5f-4ffc-8a96-d4f93efe02cb,2020-10-15,2026-01-22
-50044,20023,Kowalski Ridge Homestead,A,United States,Missouri,5b775750-615c-49a7-9124-dde6f0e88d68,2023-03-27,2024-02-21
-50428,20237,Lockhart West Place,A,United States,Illinois,568ab104-1350-4d4b-b29a-704a34b454b3,2022-11-28,2024-06-01
-50594,20361,Dietrich New Homestead,A,Canada,Saskatchewan,32be96ec-2ab2-49ec-9be3-12d138d9be55,2017-05-08,2018-07-16
-50488,20273,Quandt Old Ground,A,United States,Ohio,,2010-04-07,2010-07-12
-50151,20084,Girard North Ranch,A,Canada,Ontario,5a3c0483-0a24-4296-b3e4-67e59c99f2fc,2014-02-22,2024-07-12
-50504,20289,Ivanov Hilltop Ground,A,Canada,Alberta,25e2fe16-ee08-4da0-ac99-88115ce2b765,2012-08-08,2023-01-09
-50502,20287,Novak Creek Ranch,A,United States,Minnesota,d909a640-b2a4-4c4e-b9ae-ef9a21c2d809,2020-10-18,2022-04-14
-50081,20044,Winters South Section,A,United States,Wisconsin,3652969b-b704-44af-b492-f0889b66b0e2,2022-04-13,2024-08-29
-50574,20342,Drummond South Section,A,Australia,Queensland,824230f5-0e55-44a2-9a82-5b40ffd5617b,2014-04-07,2026-03-31
-50215,20118,Ivanov South Place,A,United States,Missouri,f5478af7-d01f-4e64-b339-5c64a2d1e389,2023-06-24,2024-08-03
-50116,20064,Brenner River Ground,A,United States,Ohio,0acff9a8-c2be-416f-a341-cc14bbcf9a22,2010-10-29,2011-10-04
-50652,20419,Whitaker Creek Section,A,United States,Wisconsin,a6ba3067-8a91-4547-a6c5-dee2dca78328,2020-09-14,2023-05-24
-50133,20074,Novak New Homestead,A,United States,Nebraska,cea50e27-a91f-497f-bcfa-1554f4b6a8e2,2014-12-17,2025-12-01
-50193,20108,Dietrich North Section,A,United States,Wisconsin,82b2dd18-a2cd-4cd6-899c-a6b3930b7753,2013-12-20,2017-09-24
-50249,20137,Drummond West Homestead,A,United States,Iowa,dcaa956b-3474-4f7d-a284-ee1ba9192683,2023-12-15,2026-03-05
-50343,20191,Albrecht Creek Homestead,A,Canada,Manitoba,3b3ee6e1-5473-4e5b-b3e4-c7b8e1356c17,2019-07-14,2025-12-21
-50467,20257,Baxter Upper Ground,A,United States,Missouri,4cf1bd98-ebbb-496a-ad7b-20548d43a7f4,2011-05-22,2024-01-30
-50643,20410,Castellano North Ground,A,United States,Iowa,b048cbdc-ef1f-4de0-8c12-23bc44801a63,2011-02-28,2020-04-04
-50405,20226,Oberlin Old Farm,A,United States,Illinois,91d4e575-28e0-44e0-b501-9fda0d590826,2021-07-21,
-50324,20180,Castellano New Farm,A,United States,Missouri,dd7a0af1-1b06-4d0e-9749-3c12e5f25972,2022-11-28,2024-03-21
-50105,20057,Xiong North Farm,A,United States,Minnesota,627e4688-7462-4e8b-aeef-ded9c39e2207,2012-12-29,
-50181,20100,Delacroix River Homestead,A,United States,Illinois,61256a65-7c7f-421e-becc-bd488bf7fc34,2019-07-19,
-50440,20243,McAllister North Ranch,A,United States,Nebraska,b4dd2394-7909-4c6d-b189-332c33a0b64f,2015-10-30,2021-09-27
-50226,20123,Duval Lake Section,A,Canada,Saskatchewan,e1097045-e3ec-4b29-be50-74052db9e95e,2022-11-09,2025-04-18
-50414,20229,Jablonski Lower Farm,A,United States,Iowa,779fd55d-df18-4a00-a683-53ca884fb9ad,2018-01-09,2019-07-08
-50173,20096,Ziegler New Ranch,A,United States,Missouri,dddbf9e4-36cf-4411-93a7-f81f53d68a8f,2018-12-28,
-50368,20206,Castellano Hilltop Place,A,United States,Minnesota,d1c6ed6c-160d-4ce1-b22a-c7cc54f7184d,2022-11-14,2025-12-30
-50436,20240,Yancey East Section,A,United States,Wisconsin,56107301-e508-460d-b295-fca571ceec6e,2021-12-11,2023-09-23
-50197,20109,Rasmussen East Quarter,A,United States,Ohio,3fad4af9-8562-459e-805c-74599784039d,2018-09-12,2026-06-12
-50237,20129,Oberlin Ridge Quarter,A,United States,Kansas,682acfc2-0992-48f9-af86-5217bfa77728,2010-10-15,2015-11-19
-50527,20310,Castellano Prairie Homestead,A,Australia,Western Australia,d3a7ef7a-7806-4998-b616-f0a01a545998,2022-01-02,2022-05-09
-50366,20205,Nordin Lower Ground,A,United States,South Dakota,9c708a39-ee0b-4819-badb-a0e01e48477f,2023-03-15,
-50395,20220,McAllister South Section,A,Canada,Saskatchewan,f3fbe7cc-7990-4732-b10f-e15544e852f0,2020-11-04,2022-11-28
-50098,20054,Rasmussen Lake Ranch,A,United States,Iowa,959714ab-1578-4b9d-819d-cfe45d2f3519,2013-07-20,2014-05-14
-50113,20063,Brenner Creek Farm,A,United States,North Dakota,4174168a-ddec-43af-9935-7550d59470d0,2020-04-03,
-50386,20216,Hartley Prairie Ranch,A,United States,Missouri,3c41eba5-9e74-4e71-9885-a02bcfbaa2d4,2016-04-03,2022-01-23
-50041,20022,Yancey East Homestead,A,Canada,Ontario,f0080365-76b9-4881-9fa4-270d71b8d707,2010-07-18,2019-02-11
-50018,20008,Drummond Lower Place,A,United States,Indiana,b55ef052-7a0f-4321-86a6-74dbf843ab7c,2020-05-15,2021-04-06
-50585,20352,Boudreau West Place,A,United States,Illinois,d1210c74-7ede-470d-b8c9-f1743ec9383d,2018-12-15,
-50308,20172,McAllister Old Section,A,United States,Iowa,117a4ad3-9525-4997-8174-a657164c219f,2019-06-30,2023-10-06
-50498,20283,Tollefson Creek Ranch,A,United States,Kansas,d0f6d4c2-92fc-405e-ba48-161a2b48e4ac,2020-01-02,
-50293,20163,Iverson Upper Farm,A,United States,South Dakota,e008b67b-a8a4-4415-86b7-9273f5a7d7d7,2015-09-24,
-50524,20308,Callahan Hilltop Homestead,A,Australia,Queensland,372424f1-57be-455e-8129-639415fce07d,2015-09-08,2023-09-14
-50187,20104,Novak North Place,A,United States,South Dakota,4fc08721-189c-49bd-9df5-2bcdb9de4828,2011-04-29,
-50284,20158,Whitaker Valley Farm,A,United States,Wisconsin,c8dfc720-0e4e-4f96-af5d-b930165ea876,2017-07-30,2020-07-15
-50216,20119,Drummond New Farm,A,United States,Ohio,03fa119f-4819-430e-8236-1cb92d37707f,2017-03-30,2019-10-01
-50429,20237,Lockhart South Section,A,United States,Illinois,e84c6eb6-bc2c-4e4f-a910-29bdda6d294c,2015-01-11,2019-10-12
-50326,20181,Girard South Homestead,A,Canada,Saskatchewan,0f233ebe-345a-448c-9954-cd4d83c88c04,2018-12-06,2019-09-13
-50346,20193,Prescott Lake Ranch,A,United States,Missouri,30ea9127-5f33-4b87-a8ae-a64d6e18e460,2019-08-24,2023-01-27
-50026,20012,Boudreau West Section,A,United States,Minnesota,ddc8107a-6fa6-4c08-af63-eba136e72647,2012-03-19,2020-10-23
-50444,20245,Thompson Home Farm,A,United States,Kansas,e261085f-e47c-4ddf-8183-55477e60c9d7,2016-06-07,2018-03-27
-50455,20251,Holloway Hilltop Farm,A,United States,Missouri,c7e23f9e-4714-447f-a95f-99d5f6aba9a2,2023-08-16,2024-06-13
-50031,20016,Xiong Creek Section,A,Canada,Manitoba,dd38bf45-1e3b-406c-b370-fd1a47d9ffd2,2021-06-04,2023-04-08
-50316,20176,Iverson Lake Ground,A,United States,Indiana,af97a382-c007-4220-b3cd-4173815eaacd,2017-09-15,2020-12-27
-50332,20185,Xiong North Farm,A,United States,North Dakota,85258156-b577-41b9-a743-8d8b81ab5542,2017-01-02,
-50126,20070,Merriweather Lake Ground,A,United States,Iowa,e302fadd-b7d8-42d8-8d18-9a6757d6046f,2010-12-02,2016-12-21
-50338,20189,Dietrich West Farm,A,United States,Minnesota,69a80407-2346-4743-9930-5f7bbfb87dd5,2017-11-20,2019-12-04
-50099,20054,Rasmussen South Farm,A,United States,Iowa,057860e4-5254-4a5f-89b2-4c82bad57187,2023-01-08,2025-12-26
-50168,20094,Falkner Lake Section,A,Canada,Saskatchewan,c5a62088-8b9d-4991-917d-1f34a9982c43,2021-02-17,2026-01-04
-50276,20154,Iverson Upper Section,A,United States,Wisconsin,4727e312-9248-4537-93dc-0a5dd261ac49,2014-01-04,2014-03-11
-50660,20427,Steiner South Section,A,United States,Wisconsin,94aca04b-3381-452f-9369-8d0b12edc862,2010-05-11,2025-11-19
-50202,20112,Reyes Valley Place,A,United States,North Dakota,49fe8d8a-a5d2-4e01-8705-6d97df01ba6d,2017-01-08,
-50178,20098,Yoder Prairie Section,A,United States,Nebraska,1e7923fc-6929-4d7b-bbac-94c3c60234f5,2020-08-06,2025-08-24
-50473,20261,Callahan Home Ground,A,United States,North Dakota,edf1e97d-4ea2-4e12-8dbf-25249c9d5c51,2011-01-19,2021-05-20
-50277,20155,Brenner New Homestead,A,United States,Minnesota,cf54c424-6f30-4b99-94de-436be94657b4,2012-08-09,2021-09-30
-50137,20076,Boudreau Prairie Quarter,A,Canada,Ontario,bf4d276d-d8db-4c5f-b4f3-bd91ced26f93,2013-05-15,2025-12-30
-50239,20130,Merriweather River Farm,A,United States,Minnesota,71153793-d201-48f0-90d8-929bb2950fd6,2017-11-10,2024-09-10
-50478,20264,Pemberton New Farm,A,United States,South Dakota,27d5ab7d-b02d-4d42-958a-fea15e4b2c9a,2023-05-15,2026-02-06
-50536,20315,Oberlin Home Section,A,Australia,Queensland,24c70176-39d1-46aa-94ce-b7f5fbe28273,2015-11-22,2021-06-28
-50023,20011,Marsh Home Ground,A,Canada,Alberta,aa159893-c121-4f4f-9ca1-2798b19fec86,2018-11-12,
-50464,20256,Nordin North Place,A,Canada,Alberta,698379a1-5351-43dd-85ba-6bac412464dd,2019-10-13,2022-10-27
-50147,20081,Hartley East Section,A,United States,Wisconsin,81bec114-24a8-4b8a-8338-f7c18fbac426,2014-11-03,2017-11-10
-50130,20072,Yoder Lake Quarter,A,United States,South Dakota,800f3bfb-7cec-42e8-b9bb-d38182505651,2016-11-21,2019-04-09
-50004,20002,Duval North Section,A,Canada,Ontario,75426a0b-29cf-4d23-9029-531395b0cfdf,2014-10-30,2016-05-07
-50399,20222,Whitaker Hilltop Ground,A,United States,Iowa,c1e636b1-b4aa-4409-938a-4db7bfbe759b,2013-04-04,
-50161,20090,Lockhart Old Ground,A,United States,Iowa,3b56507d-312a-4783-8e7b-aedee082abdd,2020-01-05,2026-05-15
-50292,20162,Merriweather Old Ranch,A,Canada,Alberta,af01fa12-6eb5-4b7c-8106-124e32e94191,2015-08-10,2020-10-08
-50605,20372,Hartley New Place,I,Canada,Alberta,ad015107-5f79-473b-b695-bf4b16ffb106,2013-04-11,
-50056,20031,Whitaker Creek Quarter,A,Canada,Alberta,9d5877ca-94c7-449d-9ad5-06e3f6d03f42,2022-01-09,
-50206,20115,Delacroix Valley Section,A,Canada,Alberta,235c4824-b624-404e-8c98-20e53c40d4c7,2021-05-05,
-50166,20092,Ferreira South Quarter,A,United States,Kansas,bd96b148-aaba-46c1-b15b-b969456a8393,2019-04-14,
-50039,20020,Crenshaw East Ground,A,United States,Wisconsin,be549130-1154-4133-9012-8cd2e010bae8,2019-07-10,2023-09-20
-50013,20006,Whitaker Hilltop Ground,A,United States,Wisconsin,b8291f56-b897-4a0e-b183-cd6c96524162,2018-10-02,
-50547,20324,Pemberton Prairie Section,A,Australia,Western Australia,fd2a5918-01f5-43e0-9e5f-212c90c99594,2022-02-17,2024-11-24
-50404,20225,Hummel Lake Quarter,A,Canada,Alberta,ee9b26b7-6cc3-4dcf-b062-1866858aeea8,2021-02-27,2025-02-17
-50096,20053,Winters New Ranch,A,United States,South Dakota,796d42de-2871-4e32-810f-1096ef90a981,2015-03-27,2018-12-19
-50641,20408,Eastman Upper Farm,I,United States,Illinois,0b6a2806-1f2f-4bfe-9c6e-848512d1c255,2021-09-06,2026-06-16
-50637,20404,Quandt Lake Quarter,P,Canada,Manitoba,818a3e30-4116-4da4-924a-b9006ae5cf99,2021-10-17,2022-10-26
-50033,20017,Pemberton New Homestead,A,United States,Iowa,3399e4a0-052b-4f31-b152-d7251208e7d7,2018-06-01,
-50508,20293,Hartley North Ground,A,Canada,Alberta,0d752176-bc15-4448-a565-f77df6c70015,2018-05-20,2024-06-19
-50192,20107,Dietrich South Place,A,United States,Minnesota,b6576023-8718-40d2-904f-ec9259bd9e31,2020-02-08,2022-05-26
-50583,20350,Oberlin Home Quarter,A,United States,Iowa,c0fe27b5-916e-4f30-8305-ada4c5544e0d,2018-03-08,2021-03-08
-50606,20373,Whitaker South Quarter,I,United States,Kansas,14dfb6ee-59e5-474a-92a1-b0b3bed79b73,2020-01-04,2026-02-03
-50009,20004,Holloway Creek Homestead,A,United States,Missouri,34cb7dfa-5545-4ea9-a750-5b7c6bced1de,2014-02-15,2019-03-18
-50065,20036,Lockhart Lake Section,A,United States,Minnesota,95b69cf3-239e-4de4-b0b8-e05df51498ef,2016-06-19,2023-05-12
-50425,20236,Jablonski New Homestead,A,United States,Indiana,2f6f4ec1-aa97-4a10-81c7-071bffa9422b,2020-12-18,2024-03-23
-50278,20155,Brenner Lower Ranch,A,United States,Minnesota,4d22ac5f-caf9-4958-bcf0-0b4c4e7b4f3a,2011-12-03,2013-05-30
-50614,20381,Xiong Creek Farm,I,United States,Kansas,c7eca51e-8954-400e-9f44-8f5ee14e73cc,2018-09-12,2021-09-09
-50363,20203,Quandt New Ground,A,United States,Wisconsin,0e8909e2-fbfd-405c-819c-fcc4f47c0763,2013-06-24,2020-10-17
-50182,20100,Delacroix South Section,A,United States,Illinois,3ac141c2-5f18-44df-96ba-0e9f0a428cb3,2011-09-15,2017-08-06
-50558,20330,Yoder Prairie Section,A,Australia,New South Wales,47beba8a-0e65-4673-a6a6-e87dcb2c82d4,2014-04-01,
-50381,20214,Reyes River Quarter,A,Canada,Saskatchewan,c48b0e3c-9207-4d82-96c9-191eb5500244,2014-12-03,2018-01-16
-50280,20156,Underhill Prairie Ranch,A,United States,Minnesota,55542e6c-9d61-4184-9394-f36babf42c47,2017-05-24,2022-10-26
-50597,20364,Bergstrom Ridge Farm,A,United States,Indiana,bfacc55a-54a9-4041-997d-ad8f06097f50,2014-03-21,
-50254,20140,Albrecht Upper Farm,A,United States,South Dakota,867764f1-8f5f-4ac2-a681-f8a60629b50c,2016-12-07,2024-09-11
-50074,20041,Reyes East Ground,A,United States,North Dakota,29ef663d-8645-4a88-aa79-71377ba65507,2018-10-12,2023-05-07
-50470,20259,Merriweather Creek Homestead,A,Canada,Alberta,d2349d16-758c-4c07-bf44-e9ca0877ac52,2012-04-24,2016-01-14
-50058,20032,Castellano Ridge Section,A,Canada,Saskatchewan,609b83fb-2aa7-4d41-9f26-02e6dc1e5ea3,2023-03-12,2024-01-09
-50279,20156,Underhill West Ground,A,United States,Minnesota,fd72305f-0e20-44d8-88cd-7c553a5557ad,2012-03-25,2019-02-28
-50592,20359,Oberlin Lake Place,A,United States,Ohio,d39d64fe-2ac8-484b-a874-d0a8fcf91b2d,2012-05-07,
-50153,20085,Rasmussen Old Ranch,A,United States,North Dakota,54fbb6a1-c444-4afb-af7c-3707b62dcec6,2022-03-08,2023-11-25
-50380,20214,Reyes North Ranch,A,Canada,Saskatchewan,69d7cc43-3942-4de9-928d-15d922568a6a,2016-02-12,2024-12-15
-50475,20262,Underhill Lake Ground,A,United States,Ohio,cfe5d18d-c860-4593-ad8c-8f17b0a5ca8c,2016-06-07,2017-11-20
-50401,20224,Delacroix Home Quarter,A,Canada,Alberta,e7de526d-c8e0-4eb0-b083-07b52ea17cbd,2015-12-21,2018-09-18
-50629,20396,Oberlin North Section,P,United States,Illinois,013dacb3-4c67-4573-add4-7abdb396680c,2013-01-29,
-50323,20179,Iverson River Section,A,United States,Indiana,c18792e6-76e4-4071-a9cd-c20df429a872,2018-08-07,
-50390,20218,Rasmussen Ridge Quarter,A,United States,Ohio,c15dadb1-5920-4702-86b4-05975dd0c15d,2023-06-08,
-50066,20036,Lockhart Lake Quarter,A,United States,Minnesota,6cf2c303-dd57-4347-9900-9cc21a73fd22,2011-01-19,2011-05-07
-50247,20136,Nordin Ridge Farm,A,Canada,Saskatchewan,5f4ac2ac-8b57-422c-b328-a54f4a696b6d,2016-09-19,2025-04-10
-50604,20371,Albrecht North Farm,I,United States,South Dakota,306247cd-0a59-456b-8fbb-e0ccdd07e0f4,2023-06-05,
-50376,20211,Reyes Old Section,A,United States,Ohio,bf5cc72d-bc59-4387-b04b-be5b4bfbe324,2016-09-10,2022-11-19
-50025,20012,Boudreau Old Place,A,United States,Minnesota,62991ac2-d07c-47ba-b6a6-bdcebdc48e27,2013-11-28,2018-06-20
-50144,20079,Girard Valley Farm,A,United States,South Dakota,169f872b-f106-479c-bec1-9b3fa2129101,2018-04-23,
-50255,20141,Lockhart Ridge Section,A,Canada,Ontario,6b8e886c-cf5d-4c26-aeab-f4bbd19debd8,2019-01-27,
-50303,20169,Ivanov Valley Ranch,A,United States,Missouri,57abbf24-ecdc-4b5c-a5b1-fee9bcba6775,2012-10-10,2025-08-27
-50406,20226,Oberlin Prairie Farm,A,United States,Illinois,22bd4f73-a552-4ed5-a9cd-562e4bde311b,2018-09-04,
-50241,20132,Eastman New Place,A,United States,Nebraska,1057c3fe-ae27-4085-a86d-fdd5cb225b95,2014-05-15,
-50371,20208,Boudreau Lake Homestead,A,United States,South Dakota,a31f3133-abc2-4b46-bad1-c8260e0350da,2021-09-15,2023-05-03
-50609,20376,Brenner Creek Farm,I,United States,Indiana,01647e96-83dd-4a2a-8c13-b291aa260a57,2013-11-26,2021-04-01
-50566,20336,Ivanov North Ranch,A,Australia,Western Australia,4b332692-f05f-4ffc-9d14-9e7c2e4a6899,2020-06-24,2021-04-08
-50282,20157,Thompson Home Ranch,A,United States,Kansas,ac7827be-7930-4d36-9ce0-b93bf50a3cdc,2022-09-01,2024-12-16
-50517,20302,Prescott Lake Farm,I,Canada,Saskatchewan,def90a17-48b7-4399-9893-ad6a4b3609cd,2022-05-31,2024-05-19
-50340,20190,Okafor North Homestead,A,United States,South Dakota,9a75f69e-5d5d-4516-a713-9654149a2e3e,2016-01-29,2023-05-19
-50456,20252,Bergstrom Valley Ground,A,Canada,Alberta,34df9d9a-35bb-4556-a3ec-63e167ab8797,2022-06-05,2022-12-10
-50119,20065,Xiong Ridge Farm,A,United States,Ohio,5f64604c-53be-48c9-8929-243e84fecd5c,2020-11-05,2024-12-25
-50158,20088,Lindqvist River Place,A,United States,Nebraska,5b38abc8-2804-4f6c-9895-6a0c02d7470f,2022-03-12,2023-08-29
-50252,20139,Drummond River Quarter,A,United States,Kansas,9765371a-4eae-4ade-8ac2-dbb2b2901769,2017-09-28,
-50362,20203,Quandt New Section,A,United States,Wisconsin,49c36bbc-af0c-4f26-8085-caac075d05f9,2011-07-18,2013-10-14
-50034,20018,Whitaker Lower Ranch,A,United States,Indiana,08fea60a-a813-4b99-855b-e35a42662018,2023-06-27,
-50465,20257,Baxter Hilltop Place,A,United States,Missouri,49a0cf49-a7c8-4d40-8fed-5a765c812853,2023-11-28,2024-11-04
-50243,20134,Thompson Hilltop Homestead,A,United States,Missouri,ed9d8f1e-8900-403e-aa26-9e01b8a51711,2019-02-13,2022-12-09
-50511,20296,Delacroix Hilltop Farm,I,United States,Illinois,8e79a82c-eebe-448b-9bdb-a5964015f813,2011-09-16,2023-03-08
-50309,20172,McAllister Valley Homestead,A,United States,Iowa,40e893ff-a216-4b48-8c8b-d62a5de01112,2010-06-02,2022-04-13
-50118,20065,Xiong East Farm,A,United States,Ohio,aa832b1d-ae90-4ad3-92c6-c4eacf2575fb,2020-07-03,2024-05-05
-50327,20182,Xiong Lower Farm,A,United States,Indiana,e9084c3a-ece3-4f99-9c69-584aa8878eec,2010-08-18,
-50030,20015,Falkner Lake Ranch,A,United States,North Dakota,d111f3bc-356c-4502-a441-fca54e4be70b,2016-09-13,
-50656,20423,Albrecht Ridge Homestead,A,Canada,Manitoba,35b03cd1-488b-4fae-917b-3105ca90407c,2023-10-28,2024-04-19
-50223,20122,Kerrigan Lake Section,A,United States,Minnesota,ae3a40d0-e6b4-442a-afa1-36d79840222f,2022-02-07,2024-04-30
-50059,20032,Castellano Home Homestead,A,Canada,Saskatchewan,c76a669d-f226-4702-8042-dc50f912b693,2020-10-06,2025-02-09
-50513,20298,Marsh Lake Place,I,United States,Ohio,6c697855-b49a-4a7d-a682-de0e38ca7671,2010-06-11,2017-05-17
-50069,20037,Novak North Ground,A,United States,Wisconsin,ef0d63d3-4101-4aef-b2c8-2f82efbf301e,2016-03-03,2016-06-03
-50635,20402,Ashworth North Ground,I,Canada,Manitoba,f71b5579-363c-42c9-8c91-226327167297,2011-11-01,
-50439,20242,Ivanov Prairie Farm,A,United States,Missouri,2b3b7972-d95c-4538-a7bf-ea99e29a235d,2011-12-29,
-50002,20001,Ziegler Lake Ranch,A,United States,North Dakota,2a4aae40-a46d-4103-a85c-2b1c08b53997,2016-04-10,
-50135,20075,Duval Old Section,A,United States,North Dakota,dddc250d-ae90-40e0-ae82-2a846d130669,2019-11-21,2024-06-09
-50035,20018,Whitaker Valley Place,A,United States,Indiana,de4c5b82-6b94-4830-9e9b-ab85ae9f8125,2018-05-17,2019-08-12
-50650,20417,Underhill New Place,A,United States,Minnesota,63d45b76-4043-40f0-9fe3-3a31c6cd3c96,2012-04-14,2014-08-14
-50214,20118,Ivanov New Quarter,A,United States,Missouri,43ed08c1-ddd7-436f-bee9-817765e15cdc,2015-02-26,2024-07-19
-50487,20272,Crenshaw Old Section,A,United States,Ohio,,2014-10-04,
-50631,20398,Thompson Upper Ranch,I,United States,Illinois,59f3ca35-51b6-42a7-a1cd-a94513a4d37d,2022-03-13,2023-05-13
-50077,20042,Jablonski Lower Section,A,United States,South Dakota,f3816ef3-a2de-43a4-93a5-10c61c7d71be,2023-04-20,2026-02-17
-50582,20349,Hartley Creek Quarter,A,United States,South Dakota,64b456ba-be53-43cf-8776-871afb7322b4,2018-01-13,2023-10-18
-50154,20085,Rasmussen Ridge Ground,A,United States,North Dakota,500275d7-5ba2-4cba-8754-a2ecc266b34f,2011-06-21,
-50097,20053,Winters Old Quarter,A,United States,South Dakota,9e95f359-800f-4aff-8547-3c5f79cfa176,2020-10-13,
-50503,20288,Brenner River Ranch,A,United States,Nebraska,7b42ae28-06fc-47f4-a629-872424d08b06,2021-05-03,2022-07-20
-50042,20022,Yancey Home Quarter,A,Canada,Ontario,06b01630-325d-43c4-b63b-7e1d1aab65f1,2015-01-19,
-50305,20170,Eastman Creek Homestead,A,United States,Indiana,4bdc542f-6350-4cdf-a499-978af5da5998,2011-11-03,
-50446,20247,Holloway East Ground,A,United States,Iowa,dc64211b-fd70-41cc-b6e6-d6f9f7071ddb,2023-02-16,
-50132,20074,Novak South Section,A,United States,Nebraska,428c805c-16aa-4a0a-87f8-cbeef7bfe87a,2023-10-02,2025-04-14
-50451,20249,Ziegler North Ground,A,United States,North Dakota,df6e6376-ec3c-4cb3-8589-eaa437ea30c5,2022-10-29,2023-02-28
-50522,20306,Eastman Lower Homestead,A,Australia,Western Australia,6c0cb89b-dcf4-46a0-81ba-96cc49009bc3,2012-09-20,
-50075,20041,Reyes Ridge Homestead,A,United States,North Dakota,0dd2b3f9-3213-40db-99fc-929c337e0b46,2020-03-06,
-50149,20082,Okafor River Quarter,A,United States,North Dakota,e0621968-1c4a-44fb-b64e-a554fa3f62d6,2023-11-14,2025-01-14
-50071,20038,Drummond West Place,A,United States,Nebraska,913d0ae9-d6bd-4359-ad31-43a272896395,2020-12-02,2024-07-15
-50480,20265,Okafor East Farm,A,United States,South Dakota,,2018-11-07,2020-01-30
-50611,20378,Hartley River Farm,I,United States,Nebraska,c8a47ff9-02de-4282-a4ae-f3846116019f,2019-01-04,2020-11-24
-50108,20059,Novak River Place,A,Canada,Alberta,8fd7bc3b-d81d-4c8c-a269-b22c93bdad1f,2016-11-19,2025-12-30
-50300,20167,Tollefson Valley Farm,A,United States,Illinois,e1033428-f377-4505-ba67-c1018ffc8e1b,2010-03-23,2014-03-24
-50007,20003,Marsh East Section,A,Canada,Manitoba,e9f2bdfc-97a4-445b-8e16-cdd97ed5e38d,2017-02-19,2019-10-01
-50189,20105,Reyes Prairie Quarter,A,United States,Kansas,03647d14-b408-4f16-990d-899a7a954500,2014-03-03,2024-10-11
-50461,20254,Baxter West Section,A,United States,Illinois,3e08a123-bad7-4df7-ae51-8a0135ad5850,2013-09-09,
-50014,20007,Ashworth East Place,A,United States,Kansas,bcfa8f5c-8fb8-460c-a6e3-31c8534380e1,2020-11-21,2024-07-01
-50020,20010,Steiner Old Ground,A,United States,Minnesota,051b4fcd-bc84-46b6-aa03-527da21b8458,2017-07-23,
-50554,20328,Albrecht Prairie Place,A,Australia,Victoria,4d208ba6-c558-4e6a-970a-f0cef7ecf28a,2018-09-03,2024-05-17
-50063,20035,Xiong Valley Section,A,United States,Ohio,53ce76cc-31b2-4106-bc63-f2070bf2e5cc,2011-03-01,2018-10-22
-50360,20201,Vandermeer Old Ground,A,United States,Iowa,62650521-7206-48fb-8c84-49ed1e92eb76,2010-02-19,2011-08-06
-50570,20339,Hummel Hilltop Ranch,A,Australia,New South Wales,02713430-1466-4004-a45a-047dda4053fa,2012-02-13,
-50620,20387,Reyes Home Section,I,United States,Nebraska,30727f90-d69f-4243-8e24-f6b1e9e9550d,2021-08-23,2025-11-09
-50052,20028,Thompson Upper Section,A,United States,Indiana,23dc564a-48e3-4202-a489-1cf18db85934,2023-12-06,2024-11-03
-50543,20320,Eastman Upper Homestead,A,Australia,Victoria,d269e1d6-9188-4241-816d-7499a55ea703,2017-02-20,
-50196,20109,Rasmussen New Farm,A,United States,Ohio,65898759-5a3f-4838-b04a-13ab40d26e84,2018-10-01,2025-03-30
-50288,20160,Hummel River Place,A,United States,Missouri,2836bd81-0572-489b-b6f4-7f3251c9ef65,2019-03-11,
-50369,20207,Duval Creek Farm,A,Canada,Alberta,691a794f-0754-4a05-9e68-210701366b53,2019-10-04,2020-10-03
-50421,20233,Yancey West Ground,A,United States,Iowa,ac81ac4d-b76a-4d04-8af3-feab60afe87c,2013-01-09,
-50062,20034,Novak Ridge Homestead,A,United States,Missouri,8e8186eb-bd7c-4ae0-829d-516aefcb46b0,2014-06-17,2020-01-31
-50595,20362,Pemberton Upper Quarter,A,Canada,Manitoba,ad3f9452-6509-4481-bdb7-3d1814dc078a,2015-05-11,
-50665,20432,Marsh Home Ground,A,United States,Ohio,4ac28902-05b5-431f-b1e9-924e84ccdc9d,2010-04-28,2012-03-31
-50115,20063,Brenner West Farm,A,United States,North Dakota,7b57bc2c-be6a-4c0f-a60e-5b9685849099,2023-01-16,2023-05-16
-50477,20263,Nordin Prairie Homestead,A,United States,Wisconsin,76afd817-2269-49bc-89cd-6be424a8c90e,2016-06-10,2024-09-17
-50227,20123,Duval Valley Ground,A,Canada,Saskatchewan,7e3d9aa2-6c98-493c-902c-c5a6bb4eb8f1,2020-11-17,2023-02-14
-50114,20063,Brenner River Place,A,United States,North Dakota,bd154f2a-1993-477d-a15d-f81e19f6d74d,2019-02-22,
-50088,20048,Jablonski West Quarter,A,Canada,Alberta,0cb5f106-0da9-499d-896d-a460953c54a4,2016-01-11,2026-05-12
-50458,20253,Albrecht Lake Ranch,A,United States,North Dakota,309a51ef-6ca9-4fb3-95ec-2a89e0c331bd,2018-12-22,
-50506,20291,Holloway West Place,A,United States,Kansas,96a50e7d-74b3-48b8-9347-25e549bac4f7,2018-10-20,2024-02-25
-50613,20380,Drummond East Place,I,United States,Indiana,bb70b4bd-3448-411a-bbf3-f2231af120b4,2017-04-29,2020-03-17
-50095,20052,Steiner Upper Quarter,A,Canada,Manitoba,ad82bbbb-ca11-439c-9a1d-73b1158cabcd,2010-01-30,2021-12-16
-50328,20183,Brenner North Farm,A,United States,Indiana,a8bb0687-045e-4553-8f30-f62486ef27fc,2014-11-13,2019-06-25
-50213,20117,Prescott Home Ground,A,United States,Ohio,ada049c9-217d-4987-b9c0-8ff3c1316f05,2015-12-28,
-50422,20234,Oberlin New Section,A,United States,Illinois,b930a26c-c3bc-469b-9d62-3b220e138217,2012-11-12,2014-11-14
-50319,20177,Ziegler Home Ground,A,United States,Indiana,976ea2e1-bf3d-40c6-9bb4-71513bf13de0,2022-10-16,2024-08-28
-50275,20153,Steiner Hilltop Place,A,United States,Iowa,24fa07b4-e527-4878-91c4-9f60efac6741,2021-04-19,
-50112,20062,Marsh River Homestead,A,United States,North Dakota,3a684639-29d0-4bf1-afef-b3b70d3d3fdd,2021-03-24,2025-09-28
-50325,20180,Castellano Lake Quarter,A,United States,Missouri,ecb4c888-db27-4b1f-89af-c0d9b0e88b4d,2019-06-30,2023-12-18
-50356,20199,Boudreau Valley Farm,A,United States,Nebraska,9031c714-a23f-4b79-bbb5-dcb7b10b3846,2018-04-01,2023-05-05
-50394,20220,McAllister Prairie Quarter,A,Canada,Saskatchewan,2dd5c379-d03d-4621-ada0-279e9bff410a,2021-07-28,2021-12-31
-50246,20135,Ashworth River Ground,A,Canada,Ontario,e13d03c3-f7d4-492b-9f4f-b0fdf31ba095,2018-04-15,2024-03-09
-50263,20145,Whitaker Upper Quarter,A,United States,Wisconsin,1c12aecc-ee64-4e86-ba5f-f3e1cb239206,2014-04-28,2026-05-01
-50016,20008,Drummond East Ground,A,United States,Indiana,8f21baa1-8569-4fba-b2d9-2fb8aa0e897d,2010-09-23,2015-05-21
-50167,20093,Merriweather South Ranch,A,United States,Illinois,88a62b0c-07af-40b2-9a35-273fdadf0ad6,2021-01-17,2026-04-26
-50225,20122,Kerrigan Home Ground,A,United States,Minnesota,b9ff1dd9-cdf5-492f-ae3e-c924da6cfdc2,2018-10-26,2024-04-17
-50272,20151,Crenshaw River Quarter,A,United States,Ohio,52731cc3-8adf-4fe7-82da-6d1a1ebc5fa2,2023-12-10,2024-12-07
-50078,20043,Holloway Creek Farm,A,United States,Missouri,a9c7450c-0ad2-4651-a065-f16c6e7538bf,2019-12-22,
-50463,20256,Nordin Prairie Farm,A,Canada,Alberta,aca08324-bb2f-442c-89b6-43102a9aeb39,2019-04-28,2023-05-23
-50367,20206,Castellano Upper Homestead,A,United States,Minnesota,f6f7401e-42c9-42e0-b410-a8f0bf37bf35,2023-01-01,
-50120,20066,Ziegler New Section,A,United States,Minnesota,4e46eb6d-e594-4ec2-8b52-2c3df7767142,2015-06-24,2026-02-04
-50518,20303,Drummond Home Farm,A,Australia,New South Wales,e0a8f5aa-c5da-4664-aa3b-3eb64e7c7e35,2013-05-04,2023-03-31
-50374,20210,Winters Lower Quarter,A,Canada,Saskatchewan,2924a587-bfcc-4e3b-b200-eb46e40d9899,2012-10-29,
-50175,20097,Nordin Lower Homestead,A,United States,South Dakota,830889a0-0c60-42f2-8d95-6b378b4b9e57,2010-07-26,2012-12-17
-50208,20116,Yoder East Section,A,United States,Minnesota,3c11c35d-262c-429a-9b65-5675753c9c59,2019-01-17,2023-11-15
-50510,20295,Ashworth River Place,I,United States,Ohio,3c716894-8db7-403a-a60f-d3c3214c3ae9,2015-01-18,
-50207,20115,Delacroix Creek Place,A,Canada,Alberta,7affe091-43d7-4914-8939-756cc3c5b832,2016-06-05,2025-08-04
-50600,20367,Thompson Ridge Farm,P,United States,Wisconsin,6f0a9f67-e2a1-4c6d-b41a-826899e9e1bf,2013-01-25,2021-08-21
-50238,20130,Merriweather Prairie Homestead,A,United States,Minnesota,12f0640d-b8b4-48df-88e6-d6ec6103278a,2013-06-22,2023-06-05
-50352,20196,Steiner West Section,A,Canada,Alberta,dd9a10a6-f573-4511-9554-9bfa4b4cba78,2017-07-22,2018-09-29
-50301,20167,Tollefson East Place,A,United States,Illinois,edd79d32-a7df-4ff8-9838-0b1adb43497d,2018-03-20,
-50393,20219,Girard New Quarter,A,United States,Wisconsin,a98ca1b6-73d0-4f90-8a29-582b7326add9,2010-12-16,2024-05-01
-50184,20102,Kowalski West Ground,A,United States,Illinois,a465ebb0-ea7a-4b23-be94-6ae0ac7c8320,2016-11-17,2025-05-25
-50186,20103,Ivanov Old Ranch,A,Canada,Saskatchewan,a7cef302-5610-4424-9798-0ceab1c52c6c,2022-10-03,2025-05-29
-50580,20347,Eastman Lake Farm,A,United States,Iowa,0e4bc299-b332-4297-b384-11951af20f59,2014-11-11,2015-08-17
-50384,20215,Pemberton Lower Ranch,A,United States,Wisconsin,54fef4f1-31a5-468d-b873-5953da199c1f,2012-12-23,2019-10-12
-50662,20429,Pemberton Ridge Farm,A,Australia,Western Australia,891d031b-1ee3-450e-a02e-3ffad536c78d,2017-04-07,2018-04-19
-50354,20197,Reyes East Homestead,A,United States,Wisconsin,e2adf379-ce45-4417-9479-d96ab0c01110,2019-07-23,2025-03-20
-50321,20178,Yancey Lower Ranch,A,Canada,Ontario,9e3df21c-78d7-4e90-9bce-8bdb9cff3d46,2014-08-21,2021-02-18
-50251,20138,Pemberton New Farm,A,United States,Illinois,6b20924b-66da-43de-9d15-b4a18702923b,2021-11-27,2025-10-08
-50304,20169,Ivanov Hilltop Ranch,A,United States,Missouri,64c19d7d-5531-4828-890e-e715e02c641c,2011-06-13,2019-05-16
-50258,20144,Thompson New Place,A,United States,Indiana,98e0d41a-b205-490a-964c-cb86aaf9e883,2017-06-29,2018-10-01
-50349,20194,Rasmussen Valley Homestead,A,United States,Wisconsin,77c32ce3-6f6c-4a69-9cab-e813b1334a2b,2022-11-04,2024-06-06
-50484,20269,Reyes Home Place,A,United States,Iowa,,2011-05-30,2023-02-01
-50155,20086,Dietrich Lower Farm,A,Canada,Saskatchewan,035e7667-026d-48f9-9ac3-80d364c02937,2012-08-19,2023-11-16
-50460,20254,Baxter East Quarter,A,United States,Illinois,c199f06b-9f72-4215-bc1e-61120a55db76,2016-04-12,2020-04-20
-50102,20055,Bergstrom New Farm,A,United States,Minnesota,e81394f2-9078-42af-b4ba-8879215cfce3,2021-07-30,2025-05-20
-50449,20248,Rasmussen Old Ground,A,United States,North Dakota,642ec5a3-a040-45b1-b2a7-fcd17850dedd,2017-01-26,2018-02-06
-50489,20274,Dietrich Upper Place,A,Canada,Saskatchewan,ed6046c3-8fe0-4370-bb8e-0d5550dd3f01,2023-01-26,2024-09-09
-50177,20098,Yoder Home Farm,A,United States,Nebraska,5f209b01-2fe9-477d-b6c0-bebc71cb5915,2016-03-09,2022-05-02
-50156,20086,Dietrich East Ground,A,Canada,Saskatchewan,92536e8b-abf1-4fc2-8f1d-287b8798f2ff,2020-04-01,2023-06-08
-50420,20233,Yancey North Ground,A,United States,Iowa,6e740e1c-b6dc-4148-b7c9-a27a6091df17,2020-05-07,2024-08-06
-50142,20078,Whitaker Upper Quarter,A,United States,Minnesota,638e3dc0-c389-4782-9d3b-2c8f2c984ad0,2012-02-12,2019-09-29
-50403,20225,Hummel West Farm,A,Canada,Alberta,16650f24-b97a-408e-9ebe-b61e5c937362,2021-03-07,2022-01-13
-50521,20305,Ziegler Creek Farm,A,Australia,Queensland,0d2861d9-90f1-4f2a-a832-a9d26686be22,2013-01-13,2020-01-02
-50289,20161,Rasmussen Lake Place,A,United States,Wisconsin,161e67e9-a5d8-47e7-a5d2-8f8a1c75f436,2019-04-24,2021-10-30
-50264,20146,Tollefson Hilltop Quarter,A,United States,Minnesota,a90e779c-147d-44cb-be65-a66b9f92120d,2022-08-04,2026-05-17
-50413,20229,Jablonski South Section,A,United States,Iowa,e6a2a6a8-224c-4d45-be35-d24111d1fa48,2018-01-18,2024-10-22
-50091,20049,Vandermeer Old Quarter,A,United States,North Dakota,b5aa0aab-1187-4e7f-b36f-35683a85f58c,2015-09-03,2025-05-17
-50218,20120,Delacroix South Place,A,United States,Indiana,04c05f8e-fd2e-45ae-b83b-57c1148aefb8,2010-02-16,2012-12-11
-50047,20024,Okafor Prairie Quarter,A,United States,Missouri,c19516b4-bd5c-449d-b576-877d8e71298c,2022-09-04,2025-08-19
-50526,20309,Kerrigan Old Homestead,A,Australia,New South Wales,ed37bcce-8c9a-442b-a629-877bb77d9214,2023-06-16,2025-08-09
-50203,20113,Duval Lower Quarter,A,Canada,Saskatchewan,4c447de4-40e8-4766-84ae-4d8511fd8bd2,2015-06-17,2024-04-05
-50190,20106,Callahan Upper Ranch,A,United States,Ohio,c1604f7e-6362-4988-bb33-6ae8f05b3cb0,2014-07-18,2017-07-07
-50221,20121,Bergstrom River Ranch,A,Canada,Ontario,bf40a45a-f194-43db-9a4b-c5e5f01fadfd,2017-11-11,2025-05-09
-50141,20078,Whitaker Prairie Section,A,United States,Minnesota,e7acb45a-61ff-4efb-bdd2-f31b1286487f,2020-12-16,2022-12-22
-50265,20147,Marsh West Ranch,A,United States,Illinois,c480ca61-7cc7-4a92-8b40-35e29ff829ac,2022-04-22,2022-12-21
-50453,20250,Bergstrom Lake Ground,A,Canada,Ontario,40c89408-0f04-4902-b3f5-228abbcd444c,2010-06-14,2014-01-06
-50531,20312,Boudreau Creek Farm,A,Australia,Western Australia,9c342027-f1c7-44e2-acff-81f7e0788abc,2014-07-10,2020-01-08
-50407,20226,Oberlin Lower Farm,A,United States,Illinois,e8a57761-f3fb-45e8-a54e-e92e8e832925,2015-04-05,
-50134,20074,Novak West Homestead,A,United States,Nebraska,4a4e2e12-de22-4469-8c8b-f310839b540f,2013-11-07,2020-03-27
-50361,20202,Falkner River Ranch,A,United States,Wisconsin,5d8d966f-ec32-4a1f-8146-142a4ba13b90,2018-10-04,2025-10-28
-50589,20356,Drummond Prairie Homestead,A,United States,North Dakota,1ecda0e1-58d9-4734-b011-b79ee066b339,2010-02-13,2020-02-13
-50172,20095,Dietrich Lake Place,A,United States,Wisconsin,7b7130a3-0eb1-41d5-ab3b-a555cf8548a0,2021-09-15,2021-11-11
-50387,20216,Hartley North Ranch,A,United States,Missouri,eab74215-1a32-4c00-98b5-ea74cb619cef,2014-10-20,2023-07-21
-50152,20084,Girard Creek Quarter,A,Canada,Ontario,e57eeb7c-d397-4df5-93dd-5effbb23931b,2015-01-12,
-50306,20170,Eastman South Ground,A,United States,Indiana,43c7254a-5aec-4e3c-89e7-94c74eeb9dcd,2023-08-18,2025-07-27
-50474,20262,Underhill South Ground,A,United States,Ohio,8a409dcc-688e-457e-ae6a-f8adee0352db,2015-12-12,2016-09-01
-50046,20024,Okafor West Ranch,A,United States,Missouri,682e5ea5-90ec-4538-8fb1-5877230402fc,2014-07-14,2023-07-19
-50333,20186,Winters Ridge Section,A,United States,Nebraska,b3b2a346-3cdd-4096-bd28-862785130ad5,2012-10-12,2013-03-03
-50628,20395,Steiner Lake Quarter,I,United States,Wisconsin,eac35278-ecc6-4d73-a9db-ea11a47becf1,2011-01-30,
-50423,20234,Oberlin West Section,A,United States,Illinois,027fa83a-8464-46d0-a3fc-07d3a96706d5,2015-03-02,2020-04-24
-50353,20197,Reyes Ridge Place,A,United States,Wisconsin,4c7883ea-f9ac-4783-b8c0-96033caf56ce,2022-02-17,
-50578,20345,McAllister Creek Section,A,United States,Nebraska,e6822019-dfb2-4448-92ca-1638edf05cd4,2015-09-25,2025-08-22
-50462,20255,Ferreira Home Ground,A,Canada,Manitoba,b8f0f5c0-d61b-4dd2-8b3d-c2dba35294a2,2015-03-26,
-50655,20422,Delacroix Lake Homestead,A,United States,Kansas,47ed85b2-a605-4775-a0e5-229ce5e9f7df,2015-12-28,2019-06-28
-50307,20171,Oberlin East Ground,A,Canada,Manitoba,2784a400-857e-4ae6-9415-7ca4a84436e5,2017-09-19,2025-01-01
-50347,20193,Prescott Creek Ranch,A,United States,Missouri,d1c3b8c7-e5c1-4fc1-9a55-7bba0281146a,2022-10-10,2024-03-15
-50231,20126,Baxter Home Ground,A,United States,Ohio,85f58d1e-cfc2-4456-a418-99b34becd498,2011-03-24,2016-04-18
-50199,20110,Kowalski Home Section,A,Canada,Manitoba,95829f15-d7c1-4d31-88f0-7c23a522bf47,2019-03-25,
-50122,20067,Okafor Ridge Place,A,United States,Illinois,abde5c7d-c6b7-4634-9a7c-cac7dc486289,2023-11-29,
-50577,20344,Ferreira Creek Ground,A,Australia,Queensland,3a3a794d-8970-4961-b12e-de63681d077c,2021-10-27,2021-12-21
-50242,20133,Underhill North Ranch,A,United States,North Dakota,387c3986-4e71-427a-b54d-afc05315b417,2020-11-18,2025-08-26
-50410,20227,Tollefson Upper Ground,A,United States,Illinois,13b2ce02-3900-4885-91bc-91d178e0fb61,2023-06-05,
-50129,20072,Yoder Valley Place,A,United States,South Dakota,edf032a2-2e3c-4760-98c7-2b18428af306,2010-08-23,
-50559,20331,Okafor New Quarter,A,Australia,New South Wales,0843ebf8-f227-4cdb-a092-b88f0f8bc7db,2012-01-05,
-50267,20148,Ashworth New Quarter,A,United States,North Dakota,0801c52f-cbb3-4d81-9102-cbd5a80ef873,2018-04-17,
-50452,20250,Bergstrom West Farm,A,Canada,Ontario,3552cf08-14b0-4cc7-bb05-e8c9853374ef,2018-02-01,2023-08-19
-50006,20003,Marsh Old Quarter,A,Canada,Manitoba,f21f8099-31f0-4a20-97aa-04048b29e219,2021-06-06,2023-03-13
-50204,20114,Ziegler Valley Homestead,A,United States,North Dakota,b1eb608d-81c6-4468-8ca2-144a8a557150,2018-07-29,2024-08-03
-50468,20258,Okafor North Quarter,A,United States,South Dakota,093815b8-b29c-41a5-9eae-82d4904f7a59,2022-09-15,2023-09-19
-50024,20011,Marsh Prairie Ground,A,Canada,Alberta,e26cf1d6-6ebe-481a-8fd3-b8ba61982ff0,2012-09-08,2025-03-05
-50587,20354,Nordin Old Place,A,United States,Indiana,419ccdd8-b7da-41a2-bd1b-6fe20e7a9143,2023-10-25,2024-10-16
-50529,20311,Kerrigan River Place,A,Australia,Queensland,e63cc83c-4018-4e4f-ba73-69b9f8b8d3eb,2012-10-13,2023-09-23
-50312,20174,Kerrigan Hilltop Ranch,A,United States,Illinois,10c37eea-a391-4cd7-be03-53ef21cf2bd2,2015-06-01,2015-07-07
-50244,20134,Thompson Ridge Ground,A,United States,Missouri,6e3dcbc2-5200-43f1-be29-80c02d395124,2016-05-10,2025-04-19
-50472,20261,Callahan Prairie Section,A,United States,North Dakota,efde68a6-bc76-48fe-a024-240a2402e31b,2021-04-05,2022-05-07
-50053,20028,Thompson North Homestead,A,United States,Indiana,80368172-26a9-4180-8c7a-1b6869acf456,2018-03-19,
-50094,20051,Kerrigan Hilltop Homestead,A,Canada,Ontario,03545fee-e2b1-473c-9a73-1c7ce2f420bc,2022-01-10,2022-02-18
-50146,20081,Hartley West Ground,A,United States,Wisconsin,c0556e4c-3a87-4288-a1ce-e89f7dc5042a,2022-10-06,2025-11-18
-50565,20336,Ivanov Lower Place,A,Australia,Western Australia,3db6f8d6-57c6-4034-a6f0-267b33a98f81,2017-03-20,2020-05-09
-50106,20058,Rasmussen North Ground,A,United States,Indiana,9d975270-f3e9-42b8-b8c1-2dc64e2a7124,2014-09-17,2023-02-17
-50045,20023,Kowalski Home Ranch,A,United States,Missouri,cf9491c9-b3f4-46c8-b37d-f3a1be0092ec,2019-05-30,2019-12-02
-50345,20192,Lindqvist Prairie Ground,A,Canada,Saskatchewan,94c45dfe-3dcf-43f6-8171-a61d0784e4cd,2019-10-19,2026-03-30
-50127,20071,Ivanov Old Quarter,A,Canada,Manitoba,75729ff9-1565-45cc-814a-89a30732506e,2020-09-25,2025-11-28
-50220,20121,Bergstrom Home Ground,A,Canada,Ontario,2df4cf18-7a23-44b7-bd62-57a99917a585,2015-05-22,2018-09-05
-50051,20027,Rasmussen New Quarter,A,United States,South Dakota,596f5451-adde-4633-b8ed-442cb4c02677,2012-08-28,
-50659,20426,Whitaker Lake Quarter,A,Canada,Saskatchewan,8b0e4129-db1f-4067-8d47-a3e19e6544d2,2019-09-07,2021-08-19
-50322,20179,Iverson Lake Section,A,United States,Indiana,394c6d68-a4ba-4efa-bef0-3e0034df98a8,2016-12-08,2024-10-22
-50658,20425,Nordin New Ranch,A,United States,Iowa,40ce6183-fc07-4a74-a800-35995d26cef7,2022-02-05,2024-01-04
-50286,20159,Hummel North Quarter,A,United States,North Dakota,fdce8de5-fbf6-41ca-8720-8f29029ad5a3,2012-10-15,2015-05-23
-50593,20360,Quandt East Homestead,A,Canada,Saskatchewan,6dbf467f-b992-4fa1-ac64-01acee9689f4,2014-12-02,
-50571,20340,Albrecht Lower Place,A,Australia,Victoria,3b1dcc6a-e3ee-4e7a-ae82-ba5ccd2e8a7c,2018-12-26,2022-03-25
-50117,20064,Brenner Home Quarter,A,United States,Ohio,f9103103-2bab-4c14-8266-2b77ecb2d2ec,2012-02-28,
-50471,20260,Underhill North Quarter,A,Canada,Manitoba,bc3e8fbf-5319-4d7d-becf-7d3e79d9b2dc,2019-03-31,2020-04-22
-50040,20021,Nordin Creek Farm,A,United States,Missouri,32ff8f26-0ce4-44f3-b349-0b274a79da52,2012-09-12,
-50602,20369,Iverson Hilltop Place,I,United States,Illinois,442444f8-3bbf-4320-b611-162da70a36e9,2013-11-09,2017-06-20
-50245,20135,Ashworth South Farm,A,Canada,Ontario,91b29910-7641-4ac4-adea-60a0c0596116,2023-12-07,2026-02-27
-50567,20337,Novak Valley Place,A,Australia,Victoria,3ef0770d-9d95-4eef-a4ed-fdf9a49ef9c7,2018-04-23,2023-08-19
-50131,20073,Winters Ridge Quarter,A,Canada,Ontario,01b22543-ed4a-4b80-9e60-a4e3aa6024d5,2018-12-20,
-50160,20089,Dietrich Old Ground,A,United States,Indiana,87f119fb-53d9-42e5-a46d-98f646609867,2013-07-21,2024-11-20
-50550,20325,Steiner Ridge Homestead,A,Australia,Victoria,04db4945-9db9-4036-b04d-f08d261ed470,2023-11-07,2024-11-30
-50335,20187,Baxter Prairie Homestead,A,United States,Iowa,4302c001-a992-4a8e-893f-b309dcf68b33,2016-02-16,2018-05-27
-50634,20401,Kowalski Lake Quarter,P,Canada,Manitoba,046646e0-2675-4759-8e6b-0e201f22d739,2020-01-25,2024-10-22
-50427,20236,Jablonski North Place,A,United States,Indiana,7a91765f-c9fb-49b5-946c-966c9c97323f,2010-02-14,2012-11-13
-50260,20144,Thompson West Quarter,A,United States,Indiana,dc3da072-981f-44a2-a79a-65f60ed59db8,2018-04-03,
-50350,20195,Underhill Lake Quarter,A,Canada,Saskatchewan,3ebbd867-7d6c-4075-8cc3-debe146b2cae,2014-01-25,
-50365,20204,Jablonski Old Farm,A,United States,Iowa,7c94c08d-942b-4e9b-afda-0b77f62b6c2c,2017-02-25,
-50235,20128,Holloway New Homestead,A,United States,Minnesota,9ab7689d-41aa-486f-b0f4-441bcc348fe7,2021-10-24,
-50450,20249,Ziegler West Section,A,United States,North Dakota,67f451e3-e88f-4b48-b15a-e4605016a8da,2020-10-29,2025-09-05
-50466,20257,Baxter South Place,A,United States,Missouri,b078124b-f2f9-423a-b0ff-8133e3ad6065,2016-12-03,2020-10-25
-50649,20416,Jablonski East Ground,A,United States,Iowa,51d93559-2f62-436d-ad82-5b67dbe53ed0,2015-02-27,2022-03-23
-50612,20379,Iverson West Ranch,P,United States,Nebraska,8dfdc406-5e35-4152-9a69-5fc768575e7f,2012-03-14,2016-09-21
-50667,20434,Rasmussen Lake Quarter,A,United States,Kansas,319be94e-00f7-46fb-a865-6ce242c632ee,2021-11-15,
-50055,20030,Pemberton Ridge Ground,A,Canada,Saskatchewan,be1b6c4c-dd0a-412f-b1c5-667362d58206,2021-12-23,2022-05-18
-50015,20007,Ashworth Home Ground,A,United States,Kansas,e0ecf840-902e-4957-9bd1-0d4677c53d67,2012-08-17,2025-02-07
-50610,20377,Iverson Upper Ranch,I,United States,Iowa,6e297f99-09b0-43f2-b910-14bfbc25e7c8,2014-04-27,2023-04-06
-50568,20337,Novak Old Ground,A,Australia,Victoria,5198709a-793c-4ddf-be44-dc66df4a43b6,2017-01-28,2024-11-10
-50586,20353,Nordin Ridge Place,A,United States,South Dakota,02f5bd99-9f2a-460b-803c-9cfe42399c83,2013-12-02,
-50544,20321,Merriweather River Farm,A,Australia,Western Australia,e6a048cc-8ccc-4351-8270-71a1388dd2da,2015-07-29,2015-12-20
-50028,20013,Ivanov West Section,A,United States,Nebraska,7d74cd0d-4c9e-4299-874a-61b11d073244,2023-03-17,2025-02-04
-50636,20403,Crenshaw North Farm,I,United States,Illinois,685bde27-6cd6-4762-a90c-60b4563154e0,2010-11-26,2016-10-20
-50533,20313,Hummel River Place,A,Australia,Victoria,c76b26b8-0a16-41b6-8208-3eb1593dc7a2,2014-02-05,2024-07-18
-50185,20103,Ivanov Valley Farm,A,Canada,Saskatchewan,f0b763a3-720c-41c3-8c60-fce94e8e5d04,2023-11-18,
-50525,20309,Kerrigan Home Quarter,A,Australia,New South Wales,49a56809-602f-44b7-b7c5-945065c18870,2011-04-28,
-50431,20238,Baxter Creek Section,A,United States,Minnesota,033cdd97-e5aa-4ec3-a979-c1bf76ff2423,2013-09-07,2020-06-21
-50219,20120,Delacroix North Section,A,United States,Indiana,7d29f350-66a1-4a7f-ba4a-b67a9e6c1ad1,2016-09-14,2021-08-11
-50608,20375,Winters Hilltop Ranch,P,United States,Ohio,92895157-c9f1-450d-bda3-dfc78ec94e6d,2023-08-09,
-50236,20129,Oberlin Prairie Farm,A,United States,Kansas,1161aac3-3000-497f-8ea5-61ee9d1df7c7,2018-12-06,
-50318,20177,Ziegler Prairie Section,A,United States,Indiana,7499c46d-3a36-43c6-ac28-7554b1c16f63,2023-11-08,2024-01-04
-50499,20284,Hummel Old Section,A,United States,Ohio,330e9657-3ca5-44d2-8f9a-bdde6f5387ad,2018-01-05,2023-09-26
-50590,20357,Whitaker Valley Ground,A,United States,Iowa,805815dc-9a6a-49e2-a55e-cd2d01b6f2b4,2010-02-01,2023-11-23
-50232,20126,Baxter Home Ranch,A,United States,Ohio,5f83620c-131f-4d31-bb54-568424b77fcc,2015-05-16,2015-08-26
-50588,20355,Yancey South Farm,A,United States,Missouri,8a77cc56-452c-49f1-8bc0-1620ecf7a22d,2012-06-18,
-50398,20221,Reyes Ridge Homestead,A,Canada,Saskatchewan,3f13340f-0ae5-4a21-9cc0-6f2a35a2c294,2013-04-04,2013-11-01
-50070,20038,Drummond Lower Homestead,A,United States,Nebraska,a699efb3-82e7-4689-9fd3-da25d3e10eea,2017-01-29,2024-07-03
-50165,20092,Ferreira Valley Place,A,United States,Kansas,682fd5a0-2e4a-429f-9a8a-b1bb46a573bf,2017-07-30,2023-01-06
-50049,20026,Yoder Creek Place,A,Canada,Alberta,2626606c-1013-42a3-b31f-3021fecdda28,2012-04-13,2013-10-12
-50389,20217,Castellano West Ranch,A,United States,Iowa,bfa4f405-322d-4d74-8fdc-6ed7b45ce85d,2018-07-21,2024-06-21
-50388,20217,Castellano Ridge Farm,A,United States,Iowa,9102c326-4d11-4e64-8c99-d875c9f080e8,2012-06-13,2024-10-22
-50591,20358,Duval East Homestead,A,United States,Indiana,00bef304-cc11-4ebc-b585-851c48b3bae8,2010-08-15,2014-01-14
-50017,20008,Drummond Old Homestead,A,United States,Indiana,3f4cf044-48f4-413f-bc5c-4abc2e66bdb8,2015-03-05,2019-09-10
-50542,20319,Iverson East Section,A,Australia,Victoria,b252b307-c4ec-4085-8644-ddc0a3bca8de,2019-04-13,2025-02-03
-50516,20301,Underhill Ridge Section,I,United States,Missouri,2755bc1c-feac-49e0-9496-f5ebd07bcf95,2015-07-10,2018-10-05
-50432,20238,Baxter Old Section,A,United States,Minnesota,fc5ba002-9e0d-4df8-8281-ecac8867d4a3,2012-10-30,2016-11-03
-50519,20303,Drummond New Homestead,A,Australia,New South Wales,01c22eff-8412-4a49-b8b7-bd77b4166dfe,2015-11-11,
-50584,20351,Girard Lower Place,A,United States,Illinois,ffb6be08-4b5c-489e-9f65-f30c6c841e94,2014-02-27,
-50266,20148,Ashworth River Homestead,A,United States,North Dakota,bdcbeb84-1301-46cc-baf4-f36850269ec6,2016-06-11,2023-08-12
-50357,20200,Kowalski River Place,A,United States,Kansas,846202d4-5fc4-44c8-b028-e757a4f40375,2017-09-24,2019-03-17
-50638,20405,Prescott Valley Farm,I,United States,Wisconsin,ba8ebfba-a20a-4c7e-92c2-88174196ea90,2012-08-26,2021-06-20
-50298,20166,Girard Creek Ground,A,United States,Illinois,2023ff1f-7b27-4793-b1ad-4a13a594edc0,2012-07-18,
-50287,20160,Hummel Prairie Ranch,A,United States,Missouri,505a5063-23a2-496a-a3e9-d1836151f499,2017-06-01,2019-10-27
-50191,20106,Callahan Valley Ground,A,United States,Ohio,5db0accf-9580-4b28-aead-d397f3dafae9,2022-08-15,
-50557,20329,Thompson Valley Homestead,A,Australia,Queensland,438bf0ed-df4a-4d76-851a-98f14fd81f68,2017-05-06,2021-04-27
-50330,20185,Xiong Creek Place,A,United States,North Dakota,72bdc9f1-bed6-4794-a963-332f23f5e0e6,2021-01-06,
-50082,20045,Quandt East Section,A,Canada,Ontario,50a2e875-6231-47c1-b32a-cf694ed17149,2011-04-16,2020-11-21
-50054,20029,Okafor Lower Farm,A,United States,Minnesota,551b84bc-b5c6-4c87-be07-70203231788b,2023-09-27,2025-04-28
-50617,20384,Girard Creek Quarter,I,United States,Illinois,ff28234d-71b6-4674-8680-937c1c275f9f,2011-10-22,
-50573,20341,Lindqvist Valley Section,A,Australia,Victoria,fc9be56b-b9ee-4ddb-8a55-9090db33bf96,2010-07-18,2020-11-18
-50198,20110,Kowalski Lower Ground,A,Canada,Manitoba,60ea6fe2-14f4-4b9b-8002-5998d7449b6b,2011-03-25,2013-07-18
-50217,20119,Drummond New Ranch,A,United States,Ohio,bba10aff-0b5c-4b62-b5a1-932bdb8eafd5,2012-01-14,2025-11-03
-50281,20157,Thompson Lake Ranch,A,United States,Kansas,fba2a018-eaf5-4c84-88da-f59bcda666f0,2010-12-13,2015-01-20
-50402,20224,Delacroix East Farm,A,Canada,Alberta,c82d10b1-b7b0-437a-8d12-f4e50cf77925,2014-09-28,2024-10-29
-50355,20198,Quandt Ridge Section,A,United States,Kansas,31279185-e0cd-4d37-891f-5dbf1b89ed30,2015-03-14,2018-09-28
-50072,20039,Winters River Homestead,A,Canada,Manitoba,729a7123-a397-4ddf-b32f-c7674f3e0cea,2013-03-04,
-50291,20162,Merriweather Creek Ground,A,Canada,Alberta,5c89a8d5-b78a-4f4b-8243-5883e5a2598f,2012-08-05,2026-03-28
-50372,20208,Boudreau Hilltop Section,A,United States,South Dakota,2bb672a9-4c9a-49ed-a8b1-ebabc306725c,2021-07-29,2022-12-06
-50434,20239,Lockhart North Ground,A,United States,Ohio,d10a9b25-6c33-4611-bbf3-49566044f770,2022-10-27,2026-05-08
+50221,20118,Ivanov South Ground,A,United States,South Dakota,3222e3a2-f824-45fb-a049-4bddfee14d0e,2012-11-13,2023-08-29
+50570,20353,Novak Upper Farm,P,Canada,Ontario,0cb16dec-9eab-4193-b9b1-64e8178cb6df,2017-09-22,2018-09-06
+50399,20214,Crenshaw North Place,A,Canada,Manitoba,f8f6dddf-34b2-47f9-947e-ac72b2a2cc43,2013-08-27,
+50370,20198,Crenshaw Hilltop Section,A,United States,Illinois,e6daa66e-2103-47a7-b666-11e969faddfc,2013-04-26,2025-10-19
+50062,20036,Bergstrom Upper Homestead,A,Canada,Manitoba,4157cf6c-7aba-4e09-8450-53262f9b2a2a,2016-09-22,2024-07-08
+50594,20377,Eastman Lower Section,I,United States,South Dakota,e4a001dc-41f3-45e0-9051-97ee24df997b,2015-12-05,2016-04-04
+50612,20395,Yoder South Ground,A,United States,North Dakota,739895d0-0e6e-4626-868b-4a3b5fd69a02,2023-02-04,
+50591,20374,Oberlin Home Quarter,I,United States,Kansas,5383fc32-8eab-4ce7-9b48-1bc9a6638b5e,2014-03-17,2020-01-02
+50466,20272,Hummel Creek Section,I,Canada,Ontario,8588251f-cfca-45b3-9b77-8a947847a301,2012-10-10,
+50249,20133,Pemberton Lower Section,A,United States,Nebraska,11c26587-a02e-4b1d-94a8-07174e9b9c94,2018-12-31,2021-03-13
+50204,20107,Callahan Lower Farm,A,Canada,Manitoba,1de3c84f-50e0-45b6-ade0-f6a86579dcf2,2023-03-14,2024-12-25
+50001,20001,Iverson Upper Farm,A,United States,Wisconsin,38b4004e-0c28-4548-9b67-1b0b9279b622,2023-08-20,2025-09-07
+50451,20257,Yancey Lower Place,A,United States,Illinois,5a787807-183f-4e35-8252-21c8bfc6d31c,2023-03-19,2023-11-14
+50143,20077,Whitaker South Homestead,A,United States,Wisconsin,8c73677e-da95-40d6-a8ee-152a3d89d43a,2012-06-14,2015-04-05
+50144,20078,Kerrigan Ridge Section,A,United States,Nebraska,28b47634-26e4-4f77-9582-63abd7ae8567,2010-11-30,2016-10-29
+50578,20361,Ivanov River Ranch,P,United States,Ohio,c5ced542-31b9-489c-8398-b34509e919b7,2012-07-14,2020-06-25
+50483,20283,Boudreau Old Homestead,A,Australia,Victoria,bca8a1b5-1e7a-4b76-9aef-e5f49910aa5f,2022-06-01,2025-06-17
+50461,20267,Whitaker Upper Quarter,I,United States,Missouri,cca5ad94-4717-4fc6-ac1f-af05bf00910d,2018-06-27,2019-08-18
+50288,20153,Novak South Homestead,A,Canada,Alberta,e796eb5f-d916-47e5-b241-66c467263e08,2022-09-19,
+50202,20107,Callahan Lower Quarter,A,Canada,Manitoba,81ba364e-9275-4eb2-a437-9a3dc234489a,2012-10-29,
+50096,20053,Tollefson New Section,A,United States,Ohio,389e931c-751a-4c4e-9035-65aebf50b04b,2021-10-08,
+50417,20224,Ivanov Lower Place,A,Canada,Alberta,e4bc2396-4073-4fd4-ac2a-534ad2c630d0,2014-07-20,2022-10-04
+50405,20218,Steiner Ridge Quarter,A,United States,Iowa,0284073f-69a3-49fc-94bf-4d6df524fd74,2019-10-23,2021-11-28
+50120,20065,Novak Creek Quarter,A,Canada,Ontario,8039993a-8edd-4fe9-83f5-a99f8c00d7fd,2023-10-21,2026-02-17
+50340,20180,Underhill Lake Ground,A,Canada,Manitoba,88d86966-639e-442f-b184-85b31532746e,2021-11-27,2023-03-31
+50183,20097,Oberlin Prairie Ground,A,United States,South Dakota,bb5f9f55-cff7-420a-aafd-2d05ff6a74f0,2022-08-24,
+50503,20296,Okafor Lower Farm,A,Australia,Victoria,520585c3-15f2-4d3a-8a9b-b27910052dd3,2010-06-12,2014-04-23
+50351,20187,Underhill Creek Farm,A,United States,Ohio,9386a61e-1048-47b4-b14f-f0833f385b94,2017-02-15,2018-08-17
+50584,20367,Boudreau Prairie Ground,I,United States,North Dakota,5b288a44-bcb8-4c1a-8e4b-39ea3b1518e4,2010-02-17,2013-05-10
+50383,20205,Rasmussen South Homestead,A,Canada,Saskatchewan,a7ba69ad-ab18-432a-9006-7946f2a998e2,2017-12-02,
+50262,20140,Yoder Hilltop Ground,A,United States,Minnesota,fe2916b0-d62d-4c9e-8465-19a29c6e938d,2016-10-13,2024-12-15
+50084,20047,Quandt Creek Ground,A,Canada,Ontario,27c2b613-20bb-44df-852c-10bb22d1a599,2020-06-07,2023-04-29
+50080,20046,Winters Valley Farm,A,United States,Wisconsin,4608824e-c18a-4dad-a321-49f141c539ac,2016-08-16,
+50192,20101,Vandermeer Home Homestead,A,United States,Illinois,ccd515cc-29b2-41f9-9c4d-bb649f477a22,2016-12-27,2024-05-17
+50541,20324,Lindqvist Home Ranch,A,United States,South Dakota,25279147-05b9-4bc5-9383-6fc3ebe6cedc,2015-01-23,2015-03-09
+50157,20084,Crenshaw Prairie Section,A,United States,Missouri,10a5d32b-f3d4-4290-9b38-ae4fe7cb27d5,2014-11-25,2019-05-31
+50101,20055,Dietrich River Ground,A,United States,Nebraska,703fa83b-4a15-4120-b50b-0260bfaccea6,2017-05-22,2024-03-12
+50195,20103,Callahan Upper Ranch,A,United States,Ohio,c1604f7e-6362-4988-bb33-6ae8f05b3cb0,2014-07-18,2017-07-07
+50499,20294,Tollefson East Homestead,A,Australia,Victoria,3d4c4881-8ffe-4d45-823c-383e08a05c94,2020-09-14,
+50452,20258,Bergstrom Lower Section,A,Canada,Manitoba,cc794bf9-4fee-445e-83b1-9508513bd1c5,2018-12-05,2023-11-19
+50534,20317,Vandermeer New Quarter,A,United States,Missouri,32009a0b-7415-4938-b188-b7fb5fc65eb2,2012-03-19,
+50052,20031,Reyes Valley Homestead,A,Canada,Ontario,fb3919c5-c3e2-4dc4-92b0-7c41ee356aca,2015-01-11,
+50392,20210,Hartley Home Homestead,A,Canada,Alberta,214e9876-a37d-48dc-adaf-c68916abe465,2022-02-03,2023-08-02
+50563,20346,Quandt South Ground,P,Canada,Manitoba,48bec390-cbad-4d96-92dd-534639881399,2023-09-27,2024-07-08
+50160,20086,Reyes East Ground,A,United States,Nebraska,6fe77668-17ca-45d0-924f-83cbf8814389,2015-03-21,
+50240,20128,Hummel Hilltop Homestead,A,United States,Indiana,9e40cfb9-95e4-41f7-95f7-27de402b627f,2010-12-07,2014-09-01
+50586,20369,Novak West Farm,I,Canada,Alberta,42b30746-dc6a-4fc7-9931-90e2e6ecea24,2022-04-22,2023-02-27
+50583,20366,Lindqvist Hilltop Quarter,I,United States,Illinois,1184b19f-b26a-4e4b-bd81-bebc12139956,2017-09-05,2023-12-06
+50212,20113,Whitaker New Quarter,A,United States,North Dakota,1cfc2324-ca67-47f1-b66c-eb03d8e25fbf,2023-09-22,
+50489,20287,Okafor Prairie Place,A,Australia,Western Australia,6a34d526-04d2-46e4-843e-a6199395ac47,2014-11-26,2022-06-19
+50597,20380,Steiner Home Farm,A,Canada,Ontario,bdd53f87-97f7-495e-80af-620c6ac27d3f,2022-11-08,2024-05-04
+50156,20084,Crenshaw Hilltop Place,A,United States,Missouri,57b2d594-db78-4e34-8e3e-5b9ddfdc2e3d,2016-09-22,2021-05-29
+50322,20171,Ziegler Ridge Ground,A,United States,Kansas,f309b597-b66d-4cff-a82d-5e2aa3b1ea6b,2020-02-06,2025-10-19
+50475,20279,Girard Lake Place,A,Australia,Victoria,d959917e-27e4-46ff-8213-37cdd073521b,2023-08-12,2025-01-23
+50554,20337,Okafor Lake Homestead,P,United States,Minnesota,ce3b1f6d-3020-49f2-9f54-c5fad02351c3,2010-07-18,2018-07-10
+50560,20343,Ferreira Ridge Section,I,United States,North Dakota,2a73b066-f92b-4de4-b64a-cf89ae183eb1,2014-07-29,2022-09-16
+50027,20016,Novak South Quarter,A,United States,Minnesota,17a0c815-d2be-4e59-9e0a-c20c1d3a78e1,2011-02-02,2017-03-18
+50317,20169,Kowalski Hilltop Place,A,United States,Illinois,b70296c1-b7cb-445c-84fb-f65f4a7b9df9,2010-06-22,
+50199,20105,Kowalski Creek Place,A,Canada,Ontario,0c4ace1c-1bae-4dcf-8cf6-37845452c0ec,2015-08-04,2026-05-28
+50416,20223,Boudreau Lower Ranch,A,United States,Indiana,3b537935-cb8d-4721-92b6-5c4afe4f393b,2012-07-15,2018-02-13
+50387,20208,Ziegler South Section,A,United States,Illinois,0ec23cde-2b18-4236-b8f4-983ba00c2c4c,2012-04-29,2015-07-25
+50390,20209,Ferreira Old Ground,A,United States,Indiana,8d73c483-b315-48e6-a497-c8bf25b7ff37,2023-08-09,2025-08-13
+50014,20009,McAllister North Quarter,A,United States,Nebraska,c1afa6af-0d6c-4de4-9fc2-d98ba30b33f6,2020-11-26,
+50257,20137,Jablonski Creek Section,A,United States,Ohio,a61c0db6-0df5-4d31-898a-9a1471040e16,2016-04-17,2021-05-15
+50493,20290,Nordin River Ground,A,Australia,New South Wales,7367749e-df5b-427b-9dc2-6875a7710fea,2012-10-08,
+50536,20319,Oberlin Home Ranch,A,United States,Iowa,64f9ef1c-d03d-42a8-9913-ea7526bbf240,2019-07-27,2023-07-13
+50071,20040,Yancey Lower Homestead,A,United States,Ohio,ad6e0961-f1f2-46e2-9a30-4f47b0b98d3b,2020-08-07,2023-03-04
+50432,20238,Dietrich Lake Ground,A,United States,Nebraska,5a5a7b44-9119-4491-a034-f4ee249b42f0,2012-09-29,
+50226,20121,Delacroix Home Farm,A,United States,North Dakota,9cd21963-018b-45de-99b6-26f5b68432ba,2010-02-24,
+50306,20163,Delacroix Home Farm,A,United States,Illinois,db0883e4-bccf-4295-ae5f-0ff4c38ef958,2019-02-19,2022-10-01
+50440,20246,Ivanov Home Farm,A,United States,Wisconsin,199833a1-5638-4802-8b37-ea74f0e7bcc9,2011-11-26,2019-07-02
+50519,20306,Brenner Hilltop Place,A,Australia,Queensland,4eca9116-38b1-4e2a-8c82-140a4f2de144,2023-05-01,2024-05-26
+50367,20196,McAllister Creek Ground,A,United States,Ohio,2067fd50-fbf3-41d8-b391-268194e0580e,2013-04-07,
+50107,20059,Duval Lower Place,A,United States,Indiana,73bd800a-aeef-4fe3-82d2-fd572fdfa068,2021-05-01,2023-11-20
+50429,20235,Drummond Hilltop Quarter,A,United States,Missouri,,2014-09-19,2021-01-23
+50539,20322,Boudreau Home Section,A,United States,Ohio,1bb21e7e-05db-4771-9c4a-ea0c951e10d3,2012-09-07,2020-06-11
+50282,20150,Jablonski Valley Section,A,United States,Ohio,7fd8f1ba-4146-4543-988b-ba6e712aa9c4,2021-03-28,2025-11-25
+50369,20197,Yoder River Place,A,Canada,Ontario,d71dce4f-472a-45b7-b827-05d0515f85d9,2012-12-05,
+50255,20136,Thompson East Farm,A,United States,Nebraska,f9deefdd-91b2-4722-a9cd-40f0bf48e2c2,2013-11-05,
+50077,20044,Lockhart Lake Ranch,A,Canada,Saskatchewan,6f8e802a-cf0f-41de-b2f3-b74b78cc75a3,2022-07-06,2026-01-24
+50078,20044,Lockhart North Farm,A,Canada,Saskatchewan,6855ba18-5eb0-4e67-aa21-0b71be09b120,2021-03-30,2026-04-10
+50455,20261,Kerrigan North Section,A,Canada,Alberta,5e7fe77a-7452-4d70-b245-a76cbe5db145,2013-07-26,
+50005,20004,Ashworth Old Homestead,A,United States,Minnesota,76f699a2-161a-4377-a7c4-62f0087d0d43,2011-12-22,2023-12-08
+50283,20151,Bergstrom Valley Quarter,A,United States,Illinois,22b8c5f4-89b1-43c2-902b-01d8c1e67f7e,2020-02-06,2021-03-14
+50470,20276,Ferreira Lake Homestead,A,Australia,Victoria,4c2aabef-3de8-4d8d-b4df-10e63545b7d2,2016-06-14,
+50068,20038,Whitaker Lake Place,A,United States,Kansas,f6345767-cf06-4ed4-becc-f0a5ac03d3f1,2022-12-13,2025-05-16
+50061,20035,Castellano Creek Ground,A,United States,Ohio,6af30908-9b19-47b9-9891-4efd0ea79d69,2021-05-17,2026-03-23
+50016,20010,Iverson Old Ranch,A,United States,Iowa,40e89240-0dad-4ea7-9e2b-4b2a8a494360,2013-08-29,2014-07-13
+50419,20225,Quandt West Section,A,United States,Ohio,0493b1ed-5d3f-4dd2-96e2-6f1b8139ac75,2023-01-23,2024-10-01
+50251,20134,Hummel Home Ranch,A,United States,Indiana,4971a709-d999-4a46-a179-13846ddadd43,2021-02-20,2023-09-27
+50410,20221,Prescott East Homestead,A,United States,Indiana,6eb2544b-38b7-4239-9bd1-4788701565d0,2011-06-01,
+50285,20152,Hummel New Farm,A,Canada,Alberta,eba361a1-5f3f-4b19-afad-5fe830cde872,2015-04-10,2022-05-26
+50205,20108,Hartley Lower Ground,A,United States,Kansas,173c3f5e-1224-412f-b1c0-f8deeb2fccaa,2011-07-04,2023-05-16
+50223,20120,Drummond Upper Quarter,A,United States,Nebraska,b57be7e1-d17e-407a-a734-6538b2c845ee,2017-01-20,2025-04-19
+50289,20153,Novak Lake Quarter,A,Canada,Alberta,b76bf248-2717-4d0b-8b7c-9bc32dc94f51,2022-09-07,
+50462,20268,Prescott South Ranch,I,United States,Kansas,3b04b3cb-4528-4d4b-ac6f-548d45c00fa6,2010-04-09,2014-08-14
+50332,20177,Winters Valley Homestead,A,United States,Kansas,f40b7c1d-9b59-4f91-b41e-50827668c0e7,2010-09-25,2025-09-01
+50496,20292,Okafor Creek Quarter,A,Australia,Queensland,eb782c0f-babd-49ce-b6d6-bc95c5ba4ce1,2010-05-11,2014-09-26
+50169,20090,Whitaker Home Ground,A,United States,Ohio,7a43a217-f128-44d7-8593-603456784edb,2010-06-16,2013-07-24
+50402,20216,Okafor North Quarter,A,United States,Ohio,cc66abba-071b-4c3e-8126-761634f9b4cd,2011-01-19,2022-09-18
+50134,20073,Merriweather East Quarter,A,United States,Iowa,e01b33cf-2a67-4c65-8903-4db55028bc09,2015-01-25,2021-08-10
+50478,20281,Drummond Ridge Farm,A,Australia,New South Wales,2c81d930-6f26-4b63-82ba-06d3feba0c4c,2023-12-24,2025-11-20
+50222,20119,Hummel Home Ranch,A,United States,Iowa,2556fa48-e0f9-4004-95ee-3775846fad0d,2020-12-19,2023-11-25
+50409,20221,Prescott Valley Quarter,A,United States,Indiana,d61bf3de-a3a4-4126-813a-5991f2c3b9b4,2019-03-08,2024-12-03
+50607,20390,Delacroix Hilltop Homestead,A,United States,Ohio,56c2b845-cf6e-491b-ae60-aec8d5a8f016,2022-08-12,
+50030,20018,Hartley North Ground,A,Canada,Saskatchewan,85e82e2a-a20c-430e-a63e-41d9a39cdcfe,2010-03-14,2017-01-09
+50208,20111,Thompson East Place,A,Canada,Ontario,162976f7-48f9-4b31-a653-b5b055430a02,2010-06-21,
+50435,20241,McAllister Ridge Farm,A,United States,Nebraska,1e2a30ac-fdcc-425e-82e4-3b417363c23d,2019-02-19,2021-09-21
+50175,20093,Lockhart North Place,A,United States,Minnesota,bb9ae62f-4235-450f-bf2f-d7008fe6a128,2012-11-29,2013-07-01
+50253,20135,Holloway South Section,A,United States,Missouri,02ef9757-a817-4fd5-802b-0b1088394248,2018-07-04,
+50523,20308,Vandermeer River Farm,A,Australia,Western Australia,97f81706-6639-4e87-979f-c78808641e87,2012-07-06,2020-04-05
+50557,20340,Yancey River Ranch,P,United States,Illinois,02f569e6-28ab-421a-a4ae-cad46ff1a373,2011-07-15,2021-11-09
