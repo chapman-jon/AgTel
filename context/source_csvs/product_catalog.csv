@@ -1,0 +1,29 @@
+prod_cd,prod_nm,category,rate_uom,restricted_use,active
+AGT-1004,Vantiva 4L,herbicide,qt/ac,N,Y
+AGT-1010,Vantiva XC,herbicide,qt/ac,N,Y
+AGT-1017,Crestline 65WG,herbicide,oz/ac,N,Y
+AGT-1024,Torrent SC,fungicide,fl oz/ac,N,Y
+AGT-1033,Torrent Duo,fungicide,fl oz/ac,N,Y
+AGT-1039,Ravelin 2EC,insecticide,fl oz/ac,Y,Y
+AGT-1043,AgTel N-28,fertilizer,gal/ac,N,Y
+AGT-1049,AgTel N-32,fertilizer,gal/ac,N,Y
+AGT-1058,AgTel MAP 11-52-0,fertilizer,lb/ac,N,Y
+AGT-1063,AgTel Potash 0-0-60,fertilizer,lb/ac,N,Y
+AGT-1071,AgTel AMS Granular,fertilizer,lb/ac,N,Y
+AGT-1079,SulfaMax ATS,fertilizer,gal/ac,N,Y
+AGT-1085,Broadhead 75DF,herbicide,oz/ac,N,Y
+AGT-1091,Broadhead Complete,herbicide,oz/ac,N,Y
+AGT-1102,Quickstrike ME,insecticide,fl oz/ac,N,Y
+AGT-1105,Interlock Adjuvant,adjuvant,fl oz/ac,N,Y
+AGT-1112,DriftGuard NIS,adjuvant,qt/100 gal,N,Y
+AGT-1121,AgTel Zinc 9%,micronutrient,qt/ac,N,Y
+AGT-1129,AgTel Boron 10%,micronutrient,lb/ac,N,Y
+AGT-1133,RootSet Starter 6-24-6,fertilizer,gal/ac,N,Y
+AGT-1145,Ledger 480SL,herbicide,fl oz/ac,N,Y
+AGT-1151,Ledger Pro Mix,herbicide,fl oz/ac,N,Y
+AGT-1154,Sentry ST25,seed treatment,fl oz/cwt,N,Y
+AGT-1164,Sentry ST25 FL,seed treatment,fl oz/cwt,N,Y
+AGT-1168,Aegis Complete,fungicide,fl oz/ac,N,Y
+AGT-1176,AgTel Lime Fine,soil amendment,ton/ac,N,Y
+AGT-1182,HumiBlend 6%,soil amendment,gal/ac,N,Y
+AGT-1189,Clearpath 90SP,herbicide,oz/ac,N,Y
