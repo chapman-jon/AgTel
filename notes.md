@@ -12,7 +12,8 @@
 
 # Bookmark
 
-added files for filler, most recent async run is with filler
+updated bst_fields so that it is type 2
+need to update dbt models and regenerate context/result zips then test
 
 # Frequent Prompts
 ## For Coding Agent Assistant

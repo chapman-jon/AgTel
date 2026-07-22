@@ -23,6 +23,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110472,50157,Home Field,A,PROD,96.1,United States,1f2e9aa0-e099-4270-8f04-db0ff962a9b5,2014-05-01,2025-12-06
 110879,50296,Big Field,A,PROD,92.2,United States,ed842942-5ebb-4920-a117-be363858bc51,2020-10-21,2021-12-17
 110563,50187,Pivot 2,A,PROD,214.0,Canada,ece6b9d0-e5ff-43f3-99a8-505fde92dc05,2013-05-26,
+110202,50065,Windmill Field,A,PROD,286.9,United States,9075e67f-8d8f-4bce-ae3b-0032eef1e076,2017-03-20,2017-04-30
 110592,50198,Rock Pile,A,PROD,99.8,United States,dcdca532-81f0-4cc5-a4c6-c2f640069200,2014-12-13,2015-11-25
 111593,50548,Trial Block 36,A,TRIAL,169.0,United States,7823a0ee-5c0b-4cc5-8b5d-821bb1579d4f,2019-11-28,2025-07-05
 111561,50540,Trial Strip 32,A,TRIAL,160.1,Canada,11780a00-ccac-492b-b14a-8435d5edbda6,2013-03-01,
@@ -65,6 +66,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111004,50340,Big Field,A,PROD,,Canada,6552bc27-162c-446c-8adb-c769413efa18,2014-10-02,2026-06-11
 110629,50211,Corner Piece,A,PROD,189.5,United States,82a5fbcf-d6a4-45cd-b2d9-438c89b28468,2011-12-28,2018-06-07
 110930,50313,North 80,A,PROD,25.5,Canada,ca653ec3-42fc-4eaa-b0d6-f27f332a5e92,2013-09-20,2021-08-15
+110129,50042,Bench,A,PROD,239.2,United States,191bb063-4483-4e2a-bbd4-6f7edc6550a3,2012-02-19,2015-08-24
 111290,50465,Big Field,A,PROD,,United States,01ba97fd-094a-42d4-93ec-749825ea7c08,2017-12-11,2020-02-04
 110702,50237,Home Field,A,PROD,47.9,United States,67359f55-ed11-4892-8d63-cea1774cff43,2016-11-03,2026-01-11
 110773,50262,South 40,A,PROD,237.2,United States,46d94f42-c07f-4091-9265-f743174ccac2,2021-08-13,2024-11-07
@@ -74,6 +76,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111712,50609,Dryland South,A,PROD,258.0,United States,d8e8d996-90be-4238-ac41-02fe90d88b89,2018-12-11,2025-10-17
 110505,50170,West 160,A,PROD,314.3,United States,a99e7b48-716c-4c2b-8dc9-582cb175a3c0,2020-04-18,2026-06-24
 111625,50563,Pivot 3,P,PROD,92.2,Canada,1e907de9-32a9-4447-8eff-f06f1c9b9a11,2015-01-28,2015-11-25
+111552,50538,Old Orchard,A,PROD,284.5,United States,550b6ecc-bb24-4224-ab62-e5fcaf88d250,2015-05-29,2022-08-19
 111608,50555,Slough Field,P,PROD,28.7,United States,4ea0e0f0-5ece-403d-9ec2-7f49aa32238d,2012-06-05,2019-02-16
 111074,50363,South 40,A,PROD,87.5,United States,2d2a3eac-3449-42cf-b06d-3698b5827715,2020-05-08,2025-09-28
 110258,50085,Rock Pile,A,PROD,,Canada,4c048194-661d-493e-aa15-6b6bfef13a24,2012-04-16,2014-01-31
@@ -107,8 +110,11 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110233,50077,Dryland South,A,PROD,24.5,Canada,d9210f54-2aed-45ff-904b-c1c344c403b2,2014-09-28,2016-12-28
 110119,50039,East Quarter,A,PROD,213.8,United States,48716b42-141d-4b41-960b-8e1028767fca,2015-05-20,2020-09-15
 110040,50011,Windmill Field,A,PROD,244.6,United States,ca5b822d-bcb4-4c98-b56a-f8bdea6aa55d,2021-04-09,2025-10-04
+110111,50038,Slough,A,PROD,104.8,Canada,5245070a-232c-4e3c-bf2a-ae47ce52eda9,2020-10-31,2021-12-07
+111734,50617,Pivot 1,A,PROD,167.4,United States,c22eb7a9-0975-4118-98ca-57ff774a856e,2023-10-31,2024-09-05
 110209,50069,East Quarter,A,PROD,105.3,United States,92eb83ef-f49e-4a0b-a5b1-0cf11a32c8cc,2021-12-16,
 110423,50142,Back 40,A,PROD,320.3,United States,5f805a22-f9ed-4e1b-8b4e-cb32c4c84afa,2022-04-03,
+110119,50039,East Quarter,A,PROD,212.5,United States,48716b42-141d-4b41-960b-8e1028767fca,2015-05-20,2019-07-26
 110903,50306,Dryland South,A,PROD,44.7,United States,,2018-08-27,
 111495,50522,West 160,A,PROD,216.7,Australia,00dc2a64-4657-4ce3-968a-53a4ab9b511a,2016-11-21,2021-10-01
 111224,50445,Triangle,A,PROD,143.1,United States,29d73730-9622-4a3c-af6c-e89b41d8b914,2023-06-01,2024-05-14
@@ -153,6 +159,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110426,50143,Flat 120,A,PROD,,United States,37c5e3fe-d1d9-439a-a659-43c66ebb0d53,2019-06-02,2024-01-24
 111620,50561,Pivot 1,I,PROD,278.7,United States,03878c7f-1e85-4b8a-93d6-ecbc0f874c85,2014-11-02,2018-06-14
 111056,50357,Corner Piece,A,PROD,118.4,Canada,630ef90d-8c66-4f4a-a9dc-561884fc3675,2024-11-03,2025-03-30
+110352,50117,Fence Line 60,A,TRIAL,,United States,d81d03f9-10c2-41ab-a3df-a2c47c6d975f,2024-12-17,2025-02-09
 111589,50547,Trial Strip 34,A,TRIAL,34.8,United States,486e2ef8-eb64-4946-9f8c-faad9b953d85,2024-11-19,2025-12-28
 110635,50213,Dryland North,A,PROD,,United States,4e798363-126e-4dee-a349-5ee2d62f3364,2017-05-30,2025-09-13
 111639,50571,Triangle,I,PROD,308.4,Canada,d40e38d8-a15d-4b4e-b915-4192c6dbe77d,2017-05-22,2020-05-29
@@ -164,6 +171,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110395,50131,West 160,A,PROD,14.3,Canada,16ddf486-76cd-484e-9a6e-86d2861a941f,2019-11-15,2023-12-14
 110078,50026,Bench Field,A,PROD,258.7,United States,1b5dff80-7a0d-480d-9dc8-2a37a2c2cc00,2021-09-16,2023-01-03
 110763,50258,South 40,A,PROD,192.7,Canada,4501f172-d5f6-4df0-97d6-77559cadca25,2021-05-19,2025-10-23
+110654,50220,Schoolhouse Field,A,PROD,281.9,United States,ad243180-f6e2-4513-8774-41c1c001a8be,2012-07-20,2012-11-22
 111601,50551,Sandy Knoll,I,PROD,114.9,United States,c051b831-bc13-4d63-93d8-14797faa647b,2018-02-27,
 111034,50349,Long Strip,A,PROD,260.2,Canada,ca98ad29-bab6-4266-88ac-16609962b636,2020-09-13,
 111398,50495,West 160,A,PROD,251.1,Australia,0a621f88-a661-42a7-89ca-62e207aa2e45,2013-09-11,
@@ -173,6 +181,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111000,50336,Creek Field,A,PROD,,Canada,dbedc2f3-a1eb-48ab-a736-bb20bd611967,2012-11-18,
 110407,50134,Long Strip,A,PROD,159.6,United States,cd1d8cb0-e3bd-4386-b5c2-dc42416416ad,2023-05-14,2023-07-05
 111720,50612,Dryland North,A,PROD,96.6,United States,00000000-0000-0000-0000-000000000000,2012-03-28,2018-08-23
+110934,50315,Gravel Pit Field,A,PROD,137.2,United States,0ce665b1-3ab4-4d90-a3fc-3db950c18e95,2023-09-27,2024-03-08
 111137,50405,East Quarter,P,PROD,237.7,United States,7746899f-6fd1-418c-a9f3-f41ff7352fba,2014-04-28,2019-10-31
 110750,50255,Slough Field,A,PROD,33.1,United States,9ac1adbe-3012-40b0-9902-0927fee27d0d,2013-11-23,
 110052,50016,Dryland North,A,PROD,143.6,United States,0da53d1e-7db0-400b-90eb-6391c2c6c1e2,2020-10-18,2024-10-23
@@ -208,6 +217,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110378,50126,Schoolhouse Field,A,PROD,81.3,Canada,6bc02367-fc7e-4f1e-91c6-d337cedb9183,2017-09-17,2023-08-30
 110197,50065,Flat 120,A,PROD,145.1,United States,d91dfc97-e1ca-4ace-b62b-3522236aba3e,2019-04-21,2024-06-03
 110688,50232,Pivot 2,A,PROD,40.3,United States,749cae1b-f229-4320-9f06-07d533cd8a9a,2020-06-21,2025-05-22
+110850,50289,Corner Piece Field,A,PROD,145.8,Canada,44fb17b7-55ec-40d7-a97b-3eb722935d03,2024-06-06,2024-07-17
 110247,50081,Corner Piece,A,PROD,304.9,United States,7f92021e-b87d-4754-a4cf-3d88cf0442d9,2014-06-09,
 110299,50098,Gravel Pit Field,A,PROD,176.7,United States,c1a67fc1-c779-4e76-b023-7eea29d06687,2017-06-16,
 111012,50341,Highway Field,A,PROD,159.9,Canada,94f7aef9-8e5e-457a-9e58-edc43e0a130a,2011-07-28,2013-06-04
@@ -230,6 +240,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110864,50293,Corner Piece,A,PROD,,United States,9e1beedb-be13-41f8-b9ac-ed8be92f6b72,2011-08-11,2020-11-27
 110493,50165,Dryland North,A,PROD,306.7,Canada,e0267f88-f254-437f-b48b-363caf81e5e4,2017-05-13,2022-01-20
 110277,50092,Pivot 2,A,PROD,231.5,United States,766636c2-d2ca-405d-8008-14f7c42116c5,2014-12-20,2025-09-12
+111047,50353,Home Field,A,PROD,115.5,United States,b5551592-b4b3-48d7-b207-e1ff098abd09,2017-12-02,2019-04-11
 111375,50489,Gravel Pit Field,A,PROD,263.4,Australia,4aecd20d-715e-47e9-abd9-d7840d0ab75a,2019-04-06,2021-01-12
 110643,50215,Corner Piece,A,PROD,135.9,Canada,661ccd52-e387-41e2-87e2-37083e30c865,2011-11-12,
 111449,50510,Fence Line 60,A,PROD,209.5,Australia,b6f2bb3e-a2ac-42e4-98ae-6c20c9e26309,2017-04-28,2020-01-11
@@ -249,6 +260,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110393,50131,Highway Field,A,PROD,143.1,Canada,8a308615-9a63-4fa7-b273-d406076623c5,2023-08-02,
 110894,50301,Dryland South,A,PROD,208.6,United States,98c82711-3008-4efd-8bd8-5e3913da2bca,2018-08-03,2021-04-23
 111516,50528,Trial Block 12,A,TRIAL,213.8,United States,9c3bd5fa-0bb9-4a6f-a5f4-27dbc893b115,2018-06-14,2021-05-13
+110589,50197,Pivot 3,A,PROD,44.9,United States,06e5afc7-88c1-4a39-b645-6860e79b1175,2022-06-14,2022-07-16
 110228,50076,Slough Field,A,PROD,209.3,United States,1a67d581-77c3-4431-883e-3c77eeefc638,2019-02-04,2024-09-10
 111569,50542,Trial Plot 20,A,TRIAL,270.1,United States,b3196f26-cd1f-4578-80fc-cb2358012f93,2024-08-09,
 110102,50034,Old Orchard,A,PROD,175.2,United States,231a8612-ce76-46e5-b381-6e8718820678,2011-06-08,
@@ -259,6 +271,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110572,50192,Windmill Field,A,PROD,312.1,United States,d5e79947-ebd8-471b-9ee1-39cea21b8977,2019-07-10,
 110506,50170,River Bottom,A,PROD,80.8,United States,9f8ce9be-0713-4c8c-839f-c96a941cfc18,2019-12-07,
 110111,50038,Slough Field,A,PROD,104.8,Canada,5245070a-232c-4e3c-bf2a-ae47ce52eda9,2020-10-31,2022-12-18
+111545,50535,Windmill Field,A,PROD,311.7,United States,1aff9236-1db7-40f0-9d1b-da6f55d3f25e,2012-12-31,2017-09-05
 110997,50338,West 160,A,PROD,209.8,Canada,,2015-12-10,2016-08-10
 110566,50191,Dryland South,A,PROD,266.6,United States,80435d5a-d396-405f-8bfe-2e12ae843fb2,2012-09-24,2025-05-31
 110654,50220,Schoolhouse Field,A,PROD,280.2,United States,ad243180-f6e2-4513-8774-41c1c001a8be,2012-07-20,2020-12-04
@@ -269,6 +282,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111175,50430,South 40,A,PROD,37.6,United States,ada9b1ea-9ff1-4577-8adc-80728e8a59a5,2017-04-17,2019-02-11
 111363,50486,Bench Field,A,PROD,59.3,Australia,3a8ab3f1-6552-4a8b-8a78-d91e2802b793,2018-10-01,2022-02-19
 111412,50500,Long Strip,A,PROD,135.7,Australia,9c8b5d03-7132-4fef-a7c2-19331b5d38ba,2013-04-22,2023-07-18
+110711,50240,Big,A,PROD,187.1,United States,7a9eb8da-9cd2-474b-a47d-57f1766b2162,2018-07-05,2018-08-28
 111377,50490,Flat 120,A,PROD,299.0,Australia,faf952e5-f45c-4190-8c5d-15db429f8558,2015-02-23,2018-09-18
 110843,50285,Home Field,A,PROD,263.7,Canada,94ba4336-3f01-4f43-a2ad-16da3cda02ba,2024-02-28,2025-09-26
 110513,50171,Big Field,A,PROD,296.0,Canada,99bc9cb2-2fc2-4f40-bd31-ad5cd538bad2,2011-02-27,2020-09-20
@@ -277,6 +291,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110899,50303,North 80,A,PROD,168.5,United States,b383eb82-877a-4be7-bd81-68f18f8976e5,2016-06-15,2019-09-09
 110704,50237,Old Orchard,A,PROD,121.1,United States,15295d93-ac0a-4ac9-bfdf-7f1056663dbc,2017-10-15,2019-10-23
 110924,50312,East Quarter,A,PROD,24.0,Canada,7b867185-46b2-4271-ad99-80f5304c5a0d,2011-01-19,2022-01-30
+110379,50125,North 80,A,PROD,168.9,Canada,5eb1fb06-9938-4ffc-8c19-68fbedefb4c8,2014-04-14,2017-08-06
 110137,50044,Gravel Pit Field,A,PROD,30.9,United States,31d90d38-61c5-4a53-8065-9a98fee58904,2021-02-04,2021-07-30
 111352,50483,Triangle,A,PROD,318.0,Australia,5310b9b6-fcf5-4e34-b618-8768c16b96e8,2012-01-09,
 111346,50483,Schoolhouse Field,A,PROD,214.0,Australia,b6dc7727-3f8e-44f2-a3a6-ff426a02a2fe,2022-03-05,
@@ -316,8 +331,10 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111316,50474,Bench Field,A,PROD,103.3,Australia,1c8d65e3-34a9-4adf-bbf4-70c08e48eb45,2015-02-20,
 111212,50441,Old Orchard,A,PROD,,Canada,26b0716f-cf2c-424c-810b-0ca2d9b737d0,2013-09-16,
 111335,50478,Triangle,A,PROD,132.5,Australia,1351764e-743d-4339-9185-2777599671e7,2014-08-28,
+111541,50535,Trial Block 18 Field,A,TRIAL,13.1,United States,71d12da6-45c3-440d-8125-9319d72e06ab,2011-04-30,2014-04-22
 110567,50190,Old Orchard,A,PROD,319.5,United States,64da9eac-9312-47ee-bbc4-aeb7ae2c2952,2020-10-03,
 110617,50207,South 40,A,PROD,310.4,Canada,4e2ecddf-b8f1-4e3e-b3b4-6341be413ced,2022-01-15,2022-07-12
+110592,50198,Rock Pile,A,PROD,99.8,United States,,2014-12-13,2015-07-21
 110255,50084,Flat 120,A,PROD,142.6,Canada,e453abcc-679d-473f-a1b7-dd303f1d02e2,2015-06-02,2019-12-23
 110092,50031,South 40,A,PROD,158.4,Canada,b001775c-1a85-48b5-94d5-68a900ee5684,2021-02-11,2022-06-04
 110375,50125,Slough Field,A,PROD,182.6,Canada,d34651c5-8e44-4bf9-af5b-9ca6eb7e0f10,2017-04-05,2023-07-17
@@ -330,6 +347,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110979,50330,Pivot 1,A,PROD,24.0,United States,6b0d4586-4b09-484f-963c-edd35e5ffd8d,2022-05-24,2023-06-26
 111005,50340,Pivot 2,A,PROD,28.7,Canada,106d5496-8dc2-4ba8-a3c3-289f6a9dd974,2016-09-07,2019-04-16
 111729,50615,Pivot 1,A,PROD,34.6,Australia,00000000-0000-0000-0000-000000000000,2020-04-28,2025-10-07
+111699,50604,Back 40,A,PROD,134.6,United States,394b1f24-4a1b-43ce-9966-d135e8bd5c8b,2020-03-17,2021-02-06
 110114,50038,West 160,A,PROD,265.1,Canada,4d2344fb-ed55-4c8b-87e8-159ccc37d619,2016-10-27,2022-11-02
 110328,50108,Sandy Knoll,A,PROD,68.7,Canada,49b9bdc6-8fd7-4c3b-981d-5c8ce269b22c,2013-11-22,2016-03-07
 111556,50539,Trial Block 32,A,TRIAL,85.0,United States,2d50ad3b-3056-4ffd-a296-0dfc3634b734,2012-02-11,2012-07-06
@@ -347,6 +365,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111478,50518,Corner Piece,A,PROD,177.4,Australia,8a011d13-d83f-4986-998f-ab7090029526,2017-06-25,2023-05-23
 110263,50087,Big Field,A,PROD,285.7,Canada,dfea8554-b70a-465f-a9a0-11071a037b01,2016-08-09,2019-01-27
 111199,50437,East Quarter,A,PROD,307.4,Canada,04c4deca-866e-41cc-9f5d-da62e12cc836,2015-06-01,2025-04-03
+110570,50191,Home Field,A,PROD,303.9,United States,19115245-8d21-4a22-a635-9ff884b39721,2019-05-15,2020-08-03
 111687,50593,Bench Field,I,PROD,272.3,Canada,76614014-fba3-4e2a-aff8-f7aaceae9f17,2013-12-22,
 111144,50422,Bench Field,A,PROD,167.0,United States,97be7664-3b6c-4ada-8685-917c52f24342,2011-09-25,2019-10-29
 111047,50353,Home Field,A,PROD,116.9,United States,b5551592-b4b3-48d7-b207-e1ff098abd09,2017-12-02,2022-02-06
@@ -377,6 +396,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111446,50508,Back 40,A,PROD,218.9,Australia,b228cf06-76b0-4556-931a-0728aadf852e,2014-03-26,2025-03-29
 111325,50475,Dryland South,A,PROD,20.0,Australia,798f9601-4fda-4ce1-9a88-1e5bd77833c5,2011-09-28,2025-05-30
 110252,50083,Fence Line 60,A,PROD,206.6,Canada,198e605f-a829-4258-9c3d-3370c28fa872,2021-04-01,2026-02-05
+110471,50156,Creek Field,A,PROD,288.8,United States,08258955-df85-4d4e-9f5d-15eb2ef43f01,2024-07-23,2024-12-11
 111504,50526,Windmill Field,A,PROD,310.6,Australia,c4b6c0e2-988f-43d5-af5d-6c916001509e,2013-09-28,2014-03-20
 110437,50146,Windmill Field,A,PROD,291.3,United States,635f36b1-d631-4f2d-bdd9-4e3a29d8846d,2020-10-19,2021-11-09
 110820,50279,Pivot 2,A,PROD,167.0,Canada,8c3df97b-f347-483d-9860-5d1d8379f3e3,2017-10-13,2022-02-13
@@ -397,6 +417,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111023,50346,Old Orchard,A,PROD,199.2,United States,2436bbab-5a9f-48f7-bf83-b08ae8dd65b9,2023-07-21,2025-11-21
 110182,50061,South 40,A,PROD,,United States,09e4a2ac-3ecd-454c-98dd-10558eef3305,2019-01-13,
 110279,50092,Triangle,A,PROD,150.0,United States,b06e133a-b1b4-4d31-9c86-539c4fafc906,2019-08-02,2026-01-20
+111168,50428,Big Field,A,PROD,93.6,United States,41a2ebe6-c62c-4382-97f0-81b8ee0e349d,2021-02-05,2021-03-22
 110680,50229,West 160,A,PROD,163.3,United States,d3a95b5c-ae0d-4256-bae1-4cf81019fae2,2023-11-09,2025-01-22
 110536,50181,Corner Piece,A,PROD,181.1,United States,7cf58525-751d-4015-8e9b-a9fb9a7b800c,2019-04-03,2024-05-25
 111435,50505,West 160,A,PROD,80.1,Australia,24268a7c-6315-41e8-a04e-ba33d604d92c,2023-01-23,
@@ -417,10 +438,12 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110800,50273,Slough Field,A,PROD,28.4,United States,391917bc-1bec-4a43-8fb2-9d0dc30b265a,2021-10-13,
 111021,50344,Schoolhouse Field,A,PROD,182.6,United States,224103bd-89c4-4ef9-bc68-656872c3f89b,2014-09-06,2018-01-14
 111698,50603,Slough Field,A,PROD,,United States,13e0430e-e8fe-4bc6-b025-426c68f783ea,2020-08-25,
+110850,50289,Corner Piece,A,PROD,145.0,Canada,44fb17b7-55ec-40d7-a97b-3eb722935d03,2024-06-06,2024-10-15
 111069,50361,South 40,A,PROD,81.1,United States,a3fc49e1-ae14-43e5-9d0c-1f4bd1500381,2013-11-07,2023-04-16
 111096,50371,South 40,A,PROD,228.3,United States,8f994a47-f653-4c27-95e1-eee429812ad1,2018-06-17,2026-05-18
 110419,50141,Pivot 2,A,PROD,29.2,United States,54a86a8d-0850-40f6-8ddb-6468ec75b1df,2023-07-28,
 110835,50284,Creek Field,A,PROD,175.4,United States,8d403deb-d4b4-4eda-852c-fb354a25f342,2014-01-23,2026-06-20
+110191,50062,Rock Pile,A,PROD,,Canada,dd197395-ff37-4f66-a760-a96b3b188574,2015-05-10,2017-12-20
 110025,50009,Schoolhouse Field,A,PROD,27.4,Canada,93cad23c-f3b9-4315-9a68-3416c3701b02,2012-08-02,
 111387,50492,Fence Line 60,A,PROD,,Australia,e947709f-a4af-449b-865b-8714cb2241fb,2014-10-04,
 111051,50355,Windmill Field,A,PROD,,United States,4a145118-e7c8-43fe-97d6-09e9fe140944,2017-06-15,2024-04-23
@@ -457,6 +480,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110502,50166,Bench Field,A,PROD,217.5,Canada,d8f0a551-ec9f-4935-bd8b-2c93beba1f22,2023-04-03,2023-04-13
 110601,50202,Sandy Knoll,A,PROD,82.0,Canada,e0170f70-3699-45e5-b857-c7d8db315e13,2017-08-23,2019-07-19
 110554,50184,Back 40,A,PROD,198.2,United States,19df3d89-420f-4937-afe5-ab4ccdb04833,2017-07-02,2017-08-20
+111489,50519,Big Field,A,PROD,172.0,Australia,d15c2eca-0f4e-4941-8e5c-e111441873b9,2014-08-22,2020-10-15
 110512,50171,Home Field,A,PROD,98.3,Canada,f8f0c820-63a4-4853-bad2-e89f109e60b2,2022-09-17,
 110060,50019,Bench Field,A,PROD,207.1,United States,22d58cbb-c0a8-4375-87f2-914d24ec0081,2024-08-10,2025-12-22
 111039,50350,Windmill Field,A,PROD,218.2,Canada,4fe549d5-6680-46df-b85b-aa8bf2cc577b,2020-08-06,
@@ -465,6 +489,8 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110732,50248,Sandy Knoll,A,PROD,180.6,United States,7d7d8e97-77ae-45c3-9975-38cfce5b9643,2014-09-03,
 110116,50039,Bench Field,A,PROD,,United States,2b88ca57-168e-45d1-b621-1f17419f5741,2019-01-16,
 111434,50504,Dryland North,A,PROD,237.7,Australia,d82b05de-6b30-4cc5-8ce5-27956812e073,2014-10-11,2024-11-07
+110629,50211,Corner Piece,A,PROD,189.5,United States,ca7bdee2-f898-4680-bb9c-633cf8263c48,2011-12-28,2015-11-13
+111614,50558,River Bottom,I,PROD,305.6,Canada,6cc0de69-6263-4555-a494-9c1245c47143,2019-06-10,2019-11-06
 110254,50084,Long Strip,A,PROD,232.0,Canada,99bbfa4a-82b0-45e2-bfd4-7f9186ce3485,2024-01-13,
 111145,50422,Old Orchard,A,PROD,265.4,United States,a66bd65a-d4ca-4866-8e60-f8d85068c3fe,2022-04-25,2024-03-31
 111095,50371,Pivot 1,A,PROD,87.0,United States,91618f3a-6097-4179-8f2c-e0178e4f0a48,2015-04-11,
@@ -475,9 +501,12 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110096,50032,Gravel Pit Field,A,PROD,307.4,United States,20fb133f-2514-4308-b539-bdbeb975d3b9,2020-05-04,2022-12-27
 110712,50238,River Bottom,A,PROD,147.0,United States,a5f6098a-07d2-4063-bfd5-af5b393c1dd5,2022-08-26,2025-07-21
 111517,50529,Trial Plot 30,A,TRIAL,304.2,United States,5aca21ba-4deb-4026-af03-2fe768bed595,2019-12-06,2021-09-11
+110475,50158,Pivot 2,A,PROD,100.8,United States,,2017-11-23,2021-07-07
 110464,50154,Long Strip,A,PROD,130.7,Canada,793ed182-f410-4a72-94bc-5b742acb8355,2023-10-25,2025-06-23
 110821,50280,West 160,A,PROD,78.3,Canada,162d4d52-324f-4ac2-a889-8d36d6e809ff,2020-04-09,2020-05-30
 111668,50586,West 160,I,PROD,66.2,Canada,c470e00c-9b22-47b1-9bb5-856854780988,2022-12-05,2025-12-07
+110505,50170,West 160,A,TRIAL,315.3,United States,a99e7b48-716c-4c2b-8dc9-582cb175a3c0,2020-04-18,2023-04-29
+110579,50193,Long Strip,A,PROD,235.0,United States,193c2389-acf2-4a0a-9364-e96dcc9df00f,2017-04-20,2022-07-12
 111322,50474,Long Strip,A,PROD,296.5,Australia,0bb4cfcc-2cf7-49b7-980b-7c30eb32ef9c,2020-03-31,2023-10-23
 111635,50568,Triangle,I,PROD,205.1,United States,8353a278-1835-4414-b7eb-e98657fcae5e,2017-12-22,2022-02-02
 110153,50050,Flat 120,A,PROD,196.9,United States,b5e35c38-cccb-4968-8015-f9dfa3edd209,2024-04-05,2025-07-25
@@ -488,6 +517,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111274,50460,Pivot 2,A,PROD,292.1,Canada,0361178c-7438-49da-8815-81e9d15ec31e,2024-06-30,2025-04-11
 111463,50514,Pivot 3,A,PROD,73.6,Australia,a72d73a3-f3af-407b-b5a4-7d71214678c9,2013-12-17,2020-09-06
 111640,50571,Back 40,I,PROD,202.9,Canada,643e7cf2-f6c5-49a1-8398-e3bf3c14ca20,2022-04-01,2022-12-06
+110822,50278,Dryland North,A,TRIAL,87.6,Canada,8d75b3f9-334f-4996-a3d0-15665294e14e,2022-10-07,2023-08-15
 111438,50506,Pivot 1,A,PROD,125.5,Australia,5da685ca-dfbe-479d-865f-988b39d11fc9,2022-08-28,2023-01-16
 111123,50390,Windmill Field,P,PROD,237.5,United States,2e3fc953-633a-49de-a458-b904124d37d9,2023-01-25,2025-04-02
 110739,50247,Old Orchard,A,PROD,231.3,United States,1b598a18-801f-445f-b136-518445410566,2016-05-14,2019-09-25
@@ -497,6 +527,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111085,50366,Old Orchard,A,PROD,307.2,United States,15625b9f-32f9-4f0a-a4a9-5972bb43c7fa,2020-11-24,2025-09-28
 110715,50240,Dryland North,A,PROD,139.4,United States,1c8f309f-a94d-4489-b8c8-653796405a31,2013-04-23,2020-09-03
 110467,50156,Rock Pile,A,PROD,127.8,United States,db83a473-b271-4b6c-9864-a9e086f7ace8,2014-07-24,2014-09-09
+111324,50475,North 80,A,PROD,269.4,Australia,0e7d494c-3a16-4860-b187-5506a240feae,2014-07-28,2016-10-04
 110767,50258,Rock Pile,A,PROD,258.5,Canada,943efa86-eed2-48dc-8ae6-027aaf4f4ad3,2012-09-18,2024-01-28
 111203,50437,Rock Pile,A,PROD,80.1,Canada,7ef79f22-ac4e-46fc-a782-a9d162ea5d79,2015-07-15,2019-10-19
 110623,50209,Pivot 1,A,PROD,277.8,Canada,c2854307-abf1-4ad5-9f19-ebefac4e2489,2023-05-21,2023-11-15
@@ -517,6 +548,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110170,50056,Slough Field,A,PROD,112.7,United States,315c6311-b2a6-43a0-980e-5d85af55afed,2013-02-08,2017-08-21
 110551,50186,Pivot 1,A,PROD,,United States,99359daa-9453-41e4-8f6d-a8bab8d49cc7,2021-07-02,2023-05-16
 111709,50608,Old Orchard,A,PROD,,United States,b739d44b-cc08-4e67-823b-cc1ea2143fac,2011-02-15,2016-07-12
+110945,50320,Corner Piece,A,PROD,208.4,United States,,2024-03-01,2025-05-19
 111211,50440,Flat 120,A,PROD,282.7,United States,e747a2f5-e200-4cda-8b03-75fc74975421,2021-01-29,2021-09-13
 110659,50222,Creek Field,A,PROD,16.6,United States,bd5202f8-5a76-4e0a-a633-e112c6ddc2ae,2020-09-06,2026-06-21
 110401,50133,Fence Line 60,A,PROD,259.5,United States,128f2357-af11-43b5-83e0-6318b4d26b29,2020-08-14,2021-10-03
@@ -577,6 +609,8 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111295,50466,Fence Line 60,A,PROD,105.5,Canada,22cf4ec2-e92a-4eda-828f-99f70de12bca,2023-04-12,2026-06-26
 110867,50294,Pivot 2,A,PROD,263.9,United States,25c1bb3d-018e-4252-b941-e919d75c40a6,2015-08-17,2016-11-19
 111301,50468,Back 40,A,PROD,95.6,Australia,d24348c3-331e-4ecf-8373-6d916b608617,2012-10-01,2016-07-07
+111666,50585,Rock Pile,P,PROD,318.8,United States,978003b0-84c4-4d88-9699-28981bf85cfa,2015-01-02,2017-11-14
+110472,50157,Home Field,A,PROD,96.1,United States,,2014-05-01,2015-05-28
 111087,50367,Corner Piece,A,PROD,112.9,United States,,2012-11-21,
 110839,50285,Long Strip,A,PROD,288.9,Canada,681015a9-9b38-486a-99fe-bccac5e33c45,2013-07-12,
 110231,50075,Flat 120,A,PROD,189.0,United States,e7939e4a-3f9b-461b-9c28-bb18fc910590,2014-03-22,2021-01-25
@@ -590,6 +624,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110975,50329,Pivot 1,A,PROD,110.5,United States,1fffc8a6-414b-43d1-9f53-09374789956d,2024-01-04,2025-01-25
 110722,50242,Pivot 1,A,PROD,108.2,United States,4ff2a564-7fe0-4763-87b3-d5ef8f532ab0,2023-11-09,2024-10-31
 110379,50125,North 80,A,PROD,171.0,Canada,5eb1fb06-9938-4ffc-8c19-68fbedefb4c8,2014-04-14,2021-02-04
+110060,50019,Bench Field,A,PROD,206.1,United States,22d58cbb-c0a8-4375-87f2-914d24ec0081,2024-08-10,2025-11-15
 110693,50231,Sandy Knoll,A,PROD,221.2,United States,000aa960-faf3-4f66-b61a-48c312fe06ea,2017-04-25,2021-02-24
 110057,50018,Rock Pile,A,PROD,64.7,United States,ae824f4e-c1b5-4a43-9b2c-32c6b2b7f002,2019-02-13,
 110373,50125,River Bottom,A,PROD,81.8,Canada,84ac551b-9ba5-4c3b-8adb-dfb41aadb010,2011-06-06,2020-04-22
@@ -611,6 +646,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111518,50529,Trial Block 6,A,TRIAL,312.3,United States,018e8ed3-0899-4b34-9bb9-4491b9fe0803,2013-05-24,2018-12-22
 110927,50313,Bench Field,A,PROD,36.6,Canada,0cc7f7d3-3933-4ece-b429-ec26994e7047,2011-02-24,2019-08-31
 110482,50161,River Bottom,A,PROD,59.8,United States,2b0d261e-a286-4c2c-8974-c875a89fc467,2014-05-16,2017-07-29
+110722,50242,Pivot 1,A,PROD,110.3,United States,4ff2a564-7fe0-4763-87b3-d5ef8f532ab0,2023-11-09,2024-08-01
 111450,50509,North 80,A,PROD,36.8,Australia,8b94be3a-c8d4-4648-8d7d-3700a3271e8f,2023-07-23,2026-04-11
 111418,50501,Slough Field,A,PROD,170.3,Australia,d18dfacb-a7b7-4b20-ab77-8ced620a8d67,2020-02-29,2020-03-24
 110392,50131,South 40,A,PROD,245.9,Canada,5ecf6eb3-e974-4ca6-959e-1662e98f635b,2018-09-24,2020-05-20
@@ -620,6 +656,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111397,50494,Windmill Field,A,PROD,64.7,Australia,d4f51ed1-f3d0-4950-a2df-a3b0b87aa5ff,2018-04-27,2019-01-17
 110021,50006,Highway Field,A,PROD,198.2,Canada,1bc15dbb-4eae-4a01-9125-cae1cb8c1972,2024-06-17,2025-06-23
 110188,50062,Long Strip,A,PROD,,Canada,76363fc1-4076-4f8f-a910-b35fbea25bcf,2012-07-28,
+110773,50262,South 40,A,PROD,237.2,United States,a7eb7e5b-e7ce-4ddb-a793-6d843e281a9a,2021-08-13,2023-10-02
 110537,50179,East Quarter,A,PROD,101.8,United States,8016d85a-7b08-47f4-8905-5956f98cdd9d,2011-04-12,2017-05-02
 110219,50073,Flat 120,A,PROD,313.3,United States,a79dbd70-5cb4-4d70-964b-71f324337945,2014-08-17,
 110358,50117,West 160,A,PROD,10.6,United States,2e95aab2-6611-4b89-939a-dfef8390d8c7,2013-08-02,2018-06-16
@@ -652,6 +689,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110398,50133,Long Strip,A,PROD,21.7,United States,49e2442c-774e-4c79-a05e-4f022174fcd3,2013-11-10,
 110582,50195,Rock Pile,A,PROD,227.1,United States,f1a25a9c-528d-435e-a411-1123db8244fe,2017-05-06,
 110206,50068,Big Field,A,PROD,198.4,United States,1cfec6e2-08b2-4ee3-86b3-7c1a827754be,2012-05-19,2012-12-26
+110925,50311,S. 40,A,PROD,65.8,Canada,1424cf40-4b7e-4659-97c8-2e9123bd6eb3,2023-10-19,2024-06-15
 110172,50055,North 80,A,PROD,290.1,United States,6488bc69-6ae1-4684-a361-c5c6584fd658,2012-10-24,
 111302,50468,North 80,A,PROD,,Australia,84ff8e5e-8e72-4b71-a253-89a2a2e3bd33,2023-09-03,
 111113,50377,South 40,P,PROD,,United States,50a88528-cfe3-4e1d-8a9a-b0c440fa2f1c,2013-11-10,2014-07-25
@@ -717,6 +755,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111414,50499,Highway Field,A,PROD,169.5,Australia,8985a0ea-a5e0-4811-9e3c-acb90d9ef121,2013-01-17,2024-06-23
 110531,50178,Gravel Pit Field,A,PROD,302.7,Canada,59d83a94-e6f9-40dc-9fac-aaaf3253bf04,2020-09-15,2025-05-05
 111296,50467,Highway Field,A,PROD,73.9,Australia,de8d4fe4-d4af-4113-a592-7a4c9e915bfa,2024-02-19,
+110809,50274,Corner Piece Field,A,PROD,94.6,United States,7f13aff4-1855-4f0c-83f4-77263cc31988,2016-02-03,2022-03-22
 110020,50006,Pivot 2,A,PROD,206.3,Canada,c1613af1-ad0a-4b89-ab75-71b894812696,2023-02-04,2024-10-12
 111527,50531,Trial Plot 8,A,TRIAL,164.1,United States,206aa5a4-88ef-41a0-943c-c9f31f676d07,2015-12-25,2018-07-23
 111442,50507,River Bottom,A,PROD,93.2,Australia,726ec5d2-9748-4e11-93d4-50cdb099fb2b,2011-07-15,2011-09-05
@@ -739,6 +778,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111483,50519,Fence Line 60,A,PROD,124.8,Australia,3e9535ec-c07f-406e-8bbe-f927faf1b268,2018-12-26,
 111042,50352,Windmill Field,A,PROD,37.3,United States,440da5d4-0e4f-45df-824a-0c8c74c591ec,2015-12-19,2017-04-03
 111179,50432,Big Field,A,PROD,159.4,United States,9a6e6421-5293-49b2-b94b-b7256c41f310,2011-11-11,2024-03-29
+110934,50315,Gravel Pit Field,A,PROD,136.7,United States,0ce665b1-3ab4-4d90-a3fc-3db950c18e95,2023-09-27,2024-01-28
 111499,50523,Slough Field,A,PROD,316.5,Australia,a66434d8-2758-42fc-b2d7-638fb2f82968,2024-10-20,2025-10-10
 111267,50457,Sandy Knoll,A,PROD,,Canada,89d46a04-d28f-4bde-820e-d46b9d554903,2022-04-15,2024-05-26
 110873,50295,Schoolhouse Field,A,PROD,214.5,United States,7a449925-3a2c-4aa8-b17a-e8e680d51fe0,2023-11-26,2026-05-26
@@ -771,8 +811,10 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110549,50186,Pivot 3,A,PROD,236.7,United States,e3c25f86-96a5-4500-9ae9-434cb278dfb6,2017-11-01,
 110957,50324,Pivot 3,A,PROD,291.8,Canada,,2021-03-25,2023-12-13
 111551,50538,Trial Block 7,A,TRIAL,248.3,United States,0d287c25-013c-44b5-8504-1a629189b22b,2011-04-23,
+110168,50056,Home,A,PROD,291.2,United States,c314e0e6-f322-471f-b01a-f18b2b8eaaca,2011-04-05,2015-09-16
 110123,50041,Creek Field,A,PROD,157.2,United States,2d7a6823-e284-49cc-b2b4-16d7c78e8b78,2011-12-15,2020-06-20
 110922,50311,Flat 120,A,PROD,303.0,Canada,cc275123-0552-48f4-b39d-90dd315a27b1,2022-10-19,2025-05-29
+111152,50424,Slough Field,A,PROD,236.2,United States,b002af78-7b84-41fb-8491-c6744fb616d4,2021-05-05,2022-08-04
 110556,50184,Schoolhouse Field,A,PROD,31.1,United States,422e0d4e-366e-439a-86e5-131369a54349,2024-12-26,2025-11-07
 111263,50456,Flat 120,A,PROD,200.9,United States,b8a2f939-4fa2-4c87-bd30-355010d5c06a,2012-06-29,
 111525,50531,Trial Block 15,A,TRIAL,210.3,United States,18bc1f40-9ddb-4f5a-9c82-e4fc8a4760d7,2016-12-29,
@@ -795,6 +837,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111195,50436,Pivot 1,A,PROD,,United States,5c33b3e3-e45d-4efb-a92d-8fd330924bec,2020-01-06,2025-02-13
 111272,50460,Long Strip,A,PROD,192.5,Canada,fb13f51d-43f4-454a-8b4e-2154f9493348,2020-03-22,2022-09-28
 111109,50374,Home Field,A,PROD,257.0,United States,,2020-02-13,2023-06-14
+111666,50585,Rock Pile,P,PROD,316.8,United States,978003b0-84c4-4d88-9699-28981bf85cfa,2015-01-02,2017-12-09
 110745,50252,Dryland South,A,PROD,78.8,United States,01a4d212-8e2c-4e6b-8ca8-b934ca1dadfe,2012-07-01,2020-04-28
 111216,50442,Dryland South,A,PROD,189.8,United States,3385e667-7577-49d4-aba4-c472bfb9d3b7,2020-09-01,2023-03-08
 110332,50111,Pivot 3,A,PROD,25.5,Canada,bc58adf7-44f4-491d-9021-6826ae707457,2024-03-30,
@@ -810,6 +853,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110973,50328,Slough Field,A,PROD,211.5,United States,54e74370-1403-425f-95ad-e76354f6a70a,2022-04-02,2024-12-11
 111509,50526,Windmill Field,A,PROD,119.1,Australia,328bb27b-59f0-43e2-9f5d-dd31fae30a76,2012-04-19,2026-01-28
 110203,50067,Gravel Pit Field,A,PROD,160.9,United States,b9191885-66f7-40b4-b48d-a1193bea10ed,2015-03-18,
+111145,50422,Old Orchard,A,PROD,267.5,United States,a66bd65a-d4ca-4866-8e60-f8d85068c3fe,2022-04-25,2022-10-31
 110338,50113,Bench Field,A,PROD,290.6,Canada,4011daa2-7f46-4cb0-a440-01162e612e0a,2021-10-03,2025-02-09
 111373,50489,Pivot 1,A,PROD,99.6,Australia,ef6f8fb7-8a43-41d3-9723-1e5603a9f076,2023-04-12,
 110174,50059,Highway Field,A,PROD,304.4,United States,63db8912-2d2c-441b-9e64-d00ac376f238,2019-03-20,
@@ -824,6 +868,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110775,50262,Fence Line 60,A,PROD,194.2,United States,630e3658-90a6-48a8-baf2-8bcb7650b2cb,2014-11-20,2025-01-15
 111644,50575,Pivot 1,I,PROD,,United States,5602e073-beac-4bfd-92fc-cee9f34baf49,2018-01-28,
 110607,50204,Schoolhouse Field,A,PROD,94.6,Canada,ce5debfe-c3bf-42f0-aaaa-0b440dc94200,2024-01-31,2024-06-15
+110633,50213,Dryland South Field,A,PROD,153.6,United States,8f777741-2567-4112-a288-a1663663abbd,2011-06-25,2016-01-17
 110596,50201,Windmill Field,A,PROD,141.1,Canada,a6ff37c2-a317-42a8-8fcb-d625b9ced4b3,2023-05-02,2024-11-17
 110496,50167,Highway Field,A,PROD,82.3,Canada,6d8245cf-39f6-4cea-9b4e-031fe246470f,2015-07-20,2018-02-04
 111076,50363,Schoolhouse Field,A,PROD,267.9,United States,8e64c3fb-f9b7-47e5-b8b1-684980a1e704,2022-11-06,
@@ -835,6 +880,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111184,50433,Pivot 3,A,PROD,41.8,Canada,dbe7d804-1789-4386-8ba3-2c713b55ce4f,2015-02-26,2015-09-12
 110448,50149,Highway Field,A,PROD,298.3,United States,700a3c00-ad24-40e1-a722-53e103436657,2021-04-29,2023-12-14
 111581,50546,Trial Block 21,A,TRIAL,76.4,United States,76594eee-9f12-4b99-93b2-a8b730088d35,2018-07-10,
+110298,50098,North 80,A,PROD,,United States,52546a5f-c9b2-4c82-bad5-7187959714ab,2012-08-22,2021-02-20
 110099,50033,Corner Piece,A,PROD,117.1,Canada,5e7526e0-2995-43d1-91bb-5670eb650be2,2014-12-23,2018-04-17
 111734,50617,Pivot 1,D,PROD,169.5,United States,c22eb7a9-0975-4118-98ca-57ff774a856e,2023-10-31,2025-02-10
 111188,50434,Highway Field,A,PROD,191.3,United States,773007b9-f23b-41ac-85dc-9fc83cb695fa,2014-07-27,2025-04-22
@@ -848,6 +894,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110561,50189,East Quarter,A,PROD,45.0,Canada,3a349731-8543-466b-9817-05bc144f9e7c,2013-07-08,
 110718,50241,Pivot 2,A,PROD,184.1,United States,99e335f5-e083-41c8-9940-6f7b8b10991f,2011-05-04,2019-11-27
 111596,50549,Trial Plot 36,A,TRIAL,150.7,United States,4c8a8cc5-7d34-41f3-acc6-59327885073a,2022-09-21,2024-09-28
+111471,50516,S. 40,A,PROD,189.8,Australia,dc0a67cb-68a5-460a-ae9b-a8d6ab48af9f,2024-09-05,2025-06-25
 110094,50030,Highway Field,A,PROD,300.7,Canada,0a015a71-e819-4edc-90ca-2e6f4b3d8232,2022-05-13,
 110257,50085,Pivot 3,A,PROD,231.8,Canada,0f66761c-d895-481f-8192-781cbd2ebd6d,2015-02-05,
 110342,50113,West 160,A,PROD,,Canada,fbcc3406-71e9-4a84-8ef3-fbcc4ecbb14f,2017-01-20,2023-06-05
@@ -863,6 +910,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110817,50275,West 160,A,PROD,19.0,United States,a417e842-2edc-46e2-81c6-9fb0fa7b9240,2021-01-18,
 110436,50146,Gravel Pit Field,A,PROD,263.9,United States,810ac746-8151-4ced-affd-c1db6684ecde,2017-05-17,2018-03-15
 110312,50104,Rock Pile,A,PROD,298.5,United States,a4d8b43e-f08b-4e0f-8cf8-1823a18939ab,2017-12-04,
+111629,50565,North 80,P,PROD,89.9,United States,75c9fc08-7095-4234-a3de-60089f8698bf,2011-09-17,2020-06-22
 110716,50241,Rock Pile,A,PROD,130.5,United States,7b2c6e84-3600-4b86-a9e7-6966f0902306,2012-07-20,2022-09-01
 111428,50502,Pivot 3,A,PROD,236.5,Australia,148cb9dc-3bcb-4fa0-a92e-0e8053ebdf38,2013-11-22,2020-10-31
 111090,50369,Gravel Pit Field,A,PROD,,Canada,7c8b3b1c-4678-430a-a2cb-ae34b25bde46,2024-12-27,
@@ -896,6 +944,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111413,50499,Long Strip,A,PROD,320.7,Australia,364fa9a6-6b25-4b96-99cf-39fe5b18b8c5,2021-11-10,2023-03-03
 111032,50348,Dryland South,A,PROD,37.8,United States,,2022-02-05,
 111119,50384,West 160,P,PROD,264.2,United States,3cc3b4bb-88da-4106-90ee-04ad4426e149,2014-08-14,2015-06-08
+110281,50093,Corner Piece,A,PROD,123.6,United States,,2011-12-02,2016-01-03
 110409,50136,Dryland South,A,PROD,90.7,Canada,9623f109-4105-4256-9654-065fc3f4dc48,2015-07-11,2020-10-09
 110058,50020,Pivot 2,A,PROD,291.3,United States,4b8ac58e-d5f2-4af2-bddd-fc595bff68f2,2017-08-05,
 110140,50046,Sandy Knoll,A,PROD,250.8,United States,12ed1873-148b-4284-a16c-05a1a0708440,2011-09-11,2024-02-06
@@ -945,6 +994,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110479,50159,Sandy Knoll,A,PROD,288.1,United States,1ebd0eb9-8cb3-4491-a2a7-fb335c146825,2023-10-14,
 110831,50282,Corner Piece,A,PROD,78.3,United States,918925a5-6b9e-4c0f-af71-5ee4e55fd64c,2021-10-07,2022-05-08
 110646,50217,North 80,A,PROD,312.8,Canada,643c4052-fed6-457c-9cea-8823031d677e,2013-07-11,2025-02-18
+111468,50516,Pivot 1,A,PROD,88.3,Australia,dbddc2fa-d252-4baf-a744-ea7687b3853f,2011-10-03,2013-03-25
 111083,50367,Pivot 1,A,PROD,28.4,United States,e8d0d2b4-b4d9-4400-a828-1dd8a7b46a78,2013-01-04,
 111181,50432,Corner Piece,A,PROD,,United States,4d41c567-bcdc-438c-a1e9-40d34dedf9ff,2021-10-31,
 110868,50294,North 80,A,PROD,29.4,United States,f6491ac9-bac6-46c8-ab52-423c1fdf379c,2020-10-21,2025-08-24
@@ -953,6 +1003,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111182,50432,Dryland North,A,PROD,156.7,United States,f30609b2-fa49-47bb-abc9-3c5e6ce4268b,2021-10-09,2023-08-29
 111694,50599,Triangle,A,PROD,112.2,United States,4262af29-e2be-4353-854a-52bb8339cea4,2024-02-07,2024-07-28
 111432,50505,Big Field,A,PROD,142.6,Australia,b2427d8e-c891-4163-ba2b-f95ea56f624b,2024-01-20,2024-10-21
+111152,50424,Slough Field,A,PROD,239.1,United States,b002af78-7b84-41fb-8491-c6744fb616d4,2021-05-05,2022-08-07
 110213,50070,Bench Field,A,PROD,207.6,United States,10421ee7-f4b5-48a5-b180-cb68106ab5a4,2021-01-16,2025-06-23
 111258,50455,Highway Field,A,PROD,246.4,Canada,718ae64b-bcb7-4e7a-bafb-c1aec1fe9abd,2017-01-05,2018-04-11
 110495,50165,Back 40,A,PROD,52.9,Canada,96823636-6a8c-4c39-af9b-a5753505b639,2017-02-15,
@@ -968,14 +1019,18 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111733,50617,Schoolhouse Field,D,PROD,25.9,United States,c89d4040-6f70-45a7-9530-b6476851393d,2019-12-08,
 111304,50469,Long Strip,A,PROD,20.3,Australia,40a978cb-fcc0-4ea9-afc6-c6a60f4101e0,2014-12-29,2016-01-12
 110001,55210,South 40,A,PROD,88.2,United States,2c617a85-3358-4602-80e0-a4ca203b19f2,2014-09-06,2025-12-07
+111512,50527,Highway Field,A,PROD,259.0,Australia,d2bf98bf-0eb5-4e15-b31f-9acaaf45ac07,2017-02-10,2017-06-20
 110180,50058,East Quarter,A,PROD,114.7,United States,19f7a86d-cfac-417d-9a17-8a7c50e828b5,2022-11-28,
 110354,50117,Creek Field,A,PROD,,United States,e0c78db6-f290-4422-ba2c-672c1a40a39b,2020-04-14,2024-02-04
 110869,50295,South 40,A,PROD,126.3,United States,6e0c6df9-f9c9-414d-a1d1-48c478e143ea,2021-05-18,
+110022,50006,North 80,A,PROD,98.9,Canada,46500fbf-305a-40b5-875b-55e29de36557,2022-01-31,2023-08-30
 111680,50591,Sandy Knoll,I,PROD,233.3,United States,b9464195-79c6-471d-bbcd-0b7b637b06c5,2021-03-02,2023-08-30
+110076,50025,Fence Line 60,A,PROD,175.2,United States,cbb2ce63-d72d-46e3-a769-e49ffb94772d,2017-02-04,2021-07-17
 111072,50363,Dryland South,A,PROD,,United States,4057f8dc-9d4e-425e-bceb-3f9a97ee444d,2011-05-23,
 110674,50225,Pivot 2,A,PROD,155.2,United States,22e55bf8-0d7f-4186-a8c3-9bb4fdf200bf,2018-10-09,2020-10-27
 111159,50425,Dryland South,A,PROD,242.4,United States,95dd88af-939a-4ab0-86dd-de714ed49e05,2012-01-26,
 111582,50546,Trial Plot 13,A,TRIAL,225.1,United States,08159010-bd4f-48b5-a1f7-a01699729bf1,2019-12-18,
+111515,50528,River Bottom,A,PROD,256.3,United States,b1d8bddb-0404-4794-abac-6c812c14332a,2018-03-20,2020-03-14
 110227,50075,Home Field,A,PROD,309.6,United States,7e52fdbe-47a0-46ff-8b37-741c35be1237,2021-08-12,
 111520,50529,Trial Plot 17,A,TRIAL,63.3,United States,a375c33f-b9a9-423a-a7a0-279ac844bbb1,2018-01-04,2022-12-18
 110781,50265,Old Orchard,A,PROD,248.3,Canada,ac6dfeb0-2997-4949-9a98-ee95766bec35,2014-12-01,
@@ -993,6 +1048,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110208,50069,Triangle,A,PROD,130.5,United States,cf468533-2005-4cac-b4c3-ee4ba9924a20,2022-03-02,2023-06-12
 111255,50454,East Quarter,A,PROD,284.4,United States,f4fe883c-7bb0-4b8b-9d0d-55bba041ed5e,2023-09-28,2025-09-18
 110086,50029,Highway Field,A,PROD,152.5,United States,3d352216-d977-4bbc-b751-9b66a420b797,2019-02-06,2019-02-17
+110921,50311,N. 80,A,PROD,97.3,Canada,,2015-10-07,2019-09-24
 111368,50488,Schoolhouse Field,A,PROD,127.8,Australia,7249b9e1-1e06-4096-ab94-e1a295bd2529,2014-01-11,
 110882,50299,Slough Field,A,PROD,232.5,United States,,2016-09-17,2026-04-13
 110144,50047,Triangle,A,PROD,213.3,United States,e28a363a-824c-4abe-9d3e-669b791fd4ad,2024-09-19,
@@ -1019,6 +1075,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111033,50349,Pivot 1,A,PROD,236.5,Canada,861fd6c5-c400-4d9d-8b28-045ee23d5854,2018-07-05,2020-08-04
 110369,50124,South 40,A,PROD,47.2,United States,cd6edb2d-e3d7-4737-bbe4-13783b2ef891,2016-10-27,2017-04-06
 110062,50020,River Bottom,A,PROD,30.4,United States,b7abf442-8057-4445-86de-eafa2ca3aa92,2022-07-15,
+111303,50468,Gravel Pit,A,PROD,,Australia,5880002b-0398-4bff-8f39-078191c15ee1,2019-01-28,2020-09-04
 110725,50244,Corner Piece,A,PROD,277.5,Canada,3ecf367b-1ae6-4d69-b8bd-1cd87a8ef9ce,2019-05-02,2022-02-02
 110204,50068,River Bottom,A,PROD,217.2,United States,f0967685-2c5f-4abd-92d4-90b045434dd1,2016-11-25,2019-05-02
 110264,50087,Dryland North,A,PROD,237.2,Canada,09fc980a-7b35-477b-b534-653e9593ecec,2017-01-16,2018-01-27
@@ -1084,6 +1141,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110093,50031,Schoolhouse Field,A,PROD,131.7,Canada,bfce35c2-2c5b-456a-8140-ca68097169fa,2019-03-17,2022-08-06
 111236,50448,Corner Piece,A,PROD,171.2,United States,01456c2a-2736-4297-b863-bae8851f04f9,2019-09-19,2024-03-27
 110129,50042,Bench Field,A,PROD,239.2,United States,191bb063-4483-4e2a-bbd4-6f7edc6550a3,2012-02-19,2016-09-18
+110711,50240,Big Field,A,PROD,187.6,United States,7a9eb8da-9cd2-474b-a47d-57f1766b2162,2018-07-05,2020-04-12
 110499,50166,Highway Field,A,PROD,,Canada,5bedac87-9df6-4240-8e55-e6c66e5da94e,2013-10-06,2024-01-09
 110948,50319,Dryland North,A,PROD,51.2,United States,321a1a8e-a0c7-4f46-b6ca-8be6bf0ecd3f,2016-08-02,2021-01-10
 110294,50099,East Quarter,A,PROD,45.5,United States,b0485b94-f6cf-4ac5-8f3a-78dfbfb2cc1b,2013-11-02,
@@ -1111,13 +1169,16 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110245,50082,Gravel Pit Field,A,PROD,273.8,United States,0e990a3e-a3d7-4d9a-8cb2-8aa212f2b65a,2022-01-19,2024-10-01
 111519,50529,Trial Plot 4,A,TRIAL,285.4,United States,3ade58c5-4bf3-4364-9e4e-1358e190cd07,2015-07-27,2026-04-01
 110826,50279,Triangle,A,PROD,247.9,Canada,56485389-bb0c-4222-9ee3-302cacd9f339,2015-01-06,
+111593,50548,Corner Piece,A,PROD,170.2,United States,7823a0ee-5c0b-4cc5-8b5d-821bb1579d4f,2019-11-28,2021-12-26
 110769,50261,Dryland North,A,PROD,155.2,Canada,9ec2d484-921b-4a5c-bce0-5c40e6e7b445,2021-07-08,
 110035,50010,Back 40,A,PROD,39.8,Canada,f02265eb-239d-4e19-bfc9-df7848b6e5be,2015-05-09,2019-05-16
+110029,50008,Long Strip,A,PROD,264.3,Canada,afc337f8-47e2-4994-ac4c-1526badb102d,2018-05-17,2019-11-20
 110850,50289,Corner Piece,A,PROD,145.8,Canada,44fb17b7-55ec-40d7-a97b-3eb722935d03,2024-06-06,2025-11-19
 111511,50525,Pivot 2,A,PROD,234.8,Australia,9d1efc2a-63de-48f4-bc76-74b4a4a24742,2024-07-07,
 110431,50144,Pivot 1,A,PROD,59.8,United States,132d6984-8c2c-485a-8341-0db73f507180,2013-04-12,2018-11-22
 110866,50293,Rock Pile,A,PROD,255.8,United States,1275e9f8-ad1d-4eba-a8a2-e4878e170bd1,2024-05-06,2025-06-14
 110753,50254,Fence Line 60,A,PROD,154.9,United States,c6fbe360-2acb-4a53-9119-f03dab70267d,2016-07-13,2022-03-03
+110088,50031,Fence Line 60,A,PROD,317.4,Canada,a671fa54-62be-42e6-beb5-adca5af4eee1,2020-01-29,2021-09-01
 110714,50239,Fence Line 60,A,PROD,67.0,United States,0c702eed-3794-40de-b0f5-170143d13c0d,2012-10-31,2020-03-31
 110987,50334,Pivot 2,A,PROD,163.1,Canada,f2ff0dd9-733a-4c9b-89b2-2bc7e379c433,2022-07-24,2026-02-05
 110699,50233,South 40,A,PROD,,United States,c303ea7b-32c9-425f-994d-ae7491cdbb36,2011-03-07,2011-11-21
@@ -1149,6 +1210,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111677,50590,Rock Pile,I,PROD,120.3,United States,45e2cb7b-f457-4555-96fc-a16ee246ab7e,2021-06-13,
 110945,50320,Corner Piece,A,PROD,209.8,United States,,2024-03-01,2025-11-05
 111506,50525,Creek Field,A,PROD,215.0,Australia,58dba7b5-1e0d-433c-9767-5e846c268ae5,2020-02-16,2021-05-01
+110677,50227,Back 40,A,PROD,24.7,Canada,00000000-0000-0000-0000-000000000000,2017-11-19,2018-09-21
 110757,50257,Bench Field,A,PROD,198.9,United States,69bb0ea9-7f52-40ca-a39d-7bda86008be5,2014-08-11,2025-11-10
 110127,50042,Big Field,A,PROD,147.5,United States,c16efd70-5fdd-4944-b56d-40114699cc12,2016-06-26,
 110117,50039,North 80,A,PROD,204.4,United States,ded22538-75da-496f-a47f-59985975f49c,2015-08-04,2015-10-20
@@ -1167,13 +1229,16 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110330,50110,Creek Field,A,PROD,229.3,Canada,b7d3b827-fb4f-49a6-8c13-a2ed478f596d,2024-03-23,2026-01-16
 110128,50043,Dryland North,A,PROD,122.6,United States,a1e065e2-fe01-4c3b-8212-97ce69d25eb5,2011-02-09,2018-10-11
 111189,50434,Sandy Knoll,A,PROD,176.7,United States,35d7e144-3564-4e67-8a2b-614076512998,2017-01-18,2017-04-10
+110653,50219,Home Field,A,PROD,208.5,United States,43c624f3-6096-48f9-b0b9-88ce941dbaae,2015-11-24,2020-07-14
 111020,50344,Windmill Field,A,PROD,307.9,United States,77bb6b9d-f684-49fe-b4e7-f2fbf16375c8,2015-03-10,2016-02-11
 110562,50189,Pivot 3,A,PROD,95.1,Canada,f92ca0f2-c170-4161-af63-5e261ccf63a8,2024-02-14,2025-09-25
+110702,50237,Home Field,A,PROD,47.9,United States,f948f0f5-aa1b-48e2-9780-9590a80a74c4,2016-11-03,2022-10-09
 111603,50552,River Bottom,P,PROD,104.0,United States,6111105f-62e5-45d1-9fcd-9f8adeb4b356,2024-10-23,
 110794,50270,Home Field,A,PROD,55.4,Canada,d80c97f2-f666-43a1-9e07-be3147e49d53,2022-07-19,
 110110,50037,Dryland North,A,PROD,44.5,Canada,9ee1aa4f-e409-4ec5-934a-940b569a19d4,2012-11-29,
 110084,50029,Pivot 3,A,PROD,,United States,19ba5879-db75-4f9f-8552-116826dc7dd0,2021-05-25,
 110290,50096,Home Field,A,PROD,240.4,United States,0c8f7e2d-8f25-4495-938d-342d76f5c0ee,2024-05-18,
+110958,50323,Slough Field,A,PROD,16.3,Canada,d153bb78-934f-4327-8086-40bb28963bfc,2020-09-06,2023-01-25
 111416,50499,Highway Field,A,PROD,94.4,Australia,845f2174-d971-434a-b1b4-d6c91010cd1f,2014-05-06,2024-01-18
 110619,50209,Triangle,A,PROD,171.7,Canada,e466da2b-01a8-48a7-88a3-06f41008b48a,2017-11-02,2021-07-29
 110438,50146,Bench Field,A,PROD,292.6,United States,7413b826-d270-4fe9-9785-cc50f05e3e6d,2013-10-10,
@@ -1198,6 +1263,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111103,50372,South 40,A,PROD,181.9,United States,b9ea1527-7c68-48dc-9347-2fddb8f5854b,2013-11-29,2014-11-07
 110939,50317,Home Field,A,PROD,123.8,United States,21739d1c-2798-4dfc-b244-b0a0ecb2b90c,2020-11-18,
 110675,50227,Old Orchard,A,PROD,41.5,Canada,2822665a-d0b1-49cb-9c49-c76de17d7985,2023-10-13,2025-05-20
+111372,50489,Slough Field,A,PROD,270.6,Australia,2bf8a6ab-dcb4-4eb2-a83a-f74fe3c7b197,2023-05-16,2024-06-16
 110019,50006,Old Orchard,A,PROD,201.4,Canada,f1205f65-394a-4c36-bea4-e3191503a97d,2024-08-24,
 110266,50088,Old Orchard,A,PROD,137.6,Canada,ce1fc3df-6984-4b12-a3a9-570add8c6ecc,2023-11-14,2024-11-15
 110308,50103,Flat 120,A,PROD,222.9,United States,a59fed1a-a2b7-4616-9107-14413680eb5e,2018-09-18,
@@ -1219,6 +1285,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110530,50178,Dryland South,A,PROD,71.9,Canada,14374dbc-7b4b-4b8a-b64f-1ac13a5919bd,2011-05-24,2017-10-12
 110456,50151,Schoolhouse Field,A,PROD,110.7,United States,b751ba6d-a9f9-45df-8d4a-6c5f1a6a1799,2013-04-02,
 110914,50310,Flat 120,A,PROD,65.2,Canada,d7fd3414-392a-4833-bfd8-8cb9a3d117ed,2024-03-09,
+110831,50282,Corner Piece,A,PROD,79.4,United States,918925a5-6b9e-4c0f-af71-5ee4e55fd64c,2021-10-07,2022-03-14
 110746,50253,Triangle,A,PROD,99.1,United States,0e00efdf-462e-45a1-b1fb-ed93764331fa,2017-05-02,2022-09-03
 111209,50439,Triangle,A,PROD,128.3,United States,4e4afd6a-0599-473a-8d82-9644bef9b5c7,2024-03-12,
 110967,50326,Dryland North,A,PROD,253.3,United States,36ff83d4-175a-48d6-8835-d98df9fd6fac,2017-02-06,2019-06-10
@@ -1227,6 +1294,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110012,50005,Highway Field,A,PROD,,United States,7263ca78-149c-4f4c-9cb4-0e3873cf3f6e,2020-07-30,2024-02-12
 111586,50547,Trial Strip 1,A,TRIAL,18.5,United States,b335e6ed-e66c-4490-8a07-750bc7fe26c1,2018-10-03,2021-02-24
 110313,50104,Windmill Field,A,PROD,46.5,United States,25490cf5-8106-4bba-a6e4-5d5e93e74f82,2012-05-09,2018-02-03
+110258,50085,Rock Pile,A,TRIAL,,Canada,4c048194-661d-493e-aa15-6b6bfef13a24,2012-04-16,2013-07-04
 110169,50055,Sandy Knoll,A,PROD,176.9,United States,2b9d34c4-0088-4bc2-b330-fee9665818c4,2011-12-03,2017-03-01
 110082,50027,Windmill Field,A,PROD,153.2,United States,3f2f8a1e-ae65-4539-9bc8-6a043bb156a5,2023-01-22,2024-04-21
 111542,50535,Trial Plot 1,A,TRIAL,24.7,United States,f9874da9-eda0-4518-bc54-c04c0fa7fb90,2018-11-08,2025-08-20
@@ -1264,6 +1332,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111609,50555,Fence Line 60,P,PROD,158.9,United States,05a3b4b7-b2df-4923-a4e6-91e5988d7942,2012-10-26,2014-04-03
 110016,50004,Long Strip,A,PROD,313.8,United States,a71bd6c2-5958-4190-a15e-c2c8c183287c,2019-01-25,2025-12-18
 110696,50234,Fence Line 60,A,PROD,175.7,United States,b2be96f7-2ee1-4b45-9359-f01c3748cbd3,2015-08-25,
+110283,50094,Pivot 1,A,PROD,122.1,United States,8af73353-c75b-45c9-9d75-8f25e019f393,2015-07-10,2019-05-26
 111405,50497,South 40,A,PROD,205.3,Australia,81528d80-dcd8-4dba-b821-4f77a6637050,2018-11-02,2024-07-08
 111019,50344,West 160,A,PROD,196.0,United States,,2012-06-09,2019-12-26
 111248,50452,South 40,A,PROD,120.6,Canada,6ed6923c-addf-4a98-91c3-106ac6cba827,2015-10-23,
@@ -1278,10 +1347,12 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110023,50006,Bench Field,A,PROD,319.8,Canada,6470fa69-58e9-4574-83ce-dc977f0d266d,2015-10-13,2021-04-26
 110653,50219,Home Field,A,PROD,209.8,United States,43c624f3-6096-48f9-b0b9-88ce941dbaae,2015-11-24,2021-07-24
 110742,50250,Creek Field,A,PROD,98.1,United States,61fb1e73-9b08-4316-a7ce-2060f630fc90,2019-09-02,
+110547,50183,Flat 120,A,PROD,241.2,United States,b92d742d-817f-45ba-a2e4-dc79f73aac46,2022-03-15,2022-09-20
 111324,50475,North 80,A,PROD,271.6,Australia,0e7d494c-3a16-4860-b187-5506a240feae,2014-07-28,2017-11-03
 110691,50231,Highway Field,A,PROD,164.3,United States,a7522d0e-4e2a-4054-a760-ad3d5e7861e5,2020-08-29,2023-01-04
 110098,50033,Schoolhouse Field,A,PROD,64.0,Canada,e20f7e5d-448f-485c-9232-540789720b36,2016-11-26,
 110663,50223,Corner Piece,A,PROD,179.4,United States,d0c6ea3c-43c1-4d24-81a1-c583ef7961c9,2015-11-01,2025-10-02
+110786,50267,Triangle Field,A,PROD,51.4,United States,5c97e941-fd4f-40af-b1d2-dd38dace0a7a,2014-10-19,2025-06-10
 110445,50149,Fence Line 60,A,PROD,278.0,United States,f2d4a36b-e233-4137-8aec-afd44638ae81,2024-02-09,2024-04-21
 111494,50522,Sandy Knoll,A,PROD,252.3,Australia,a0f0e337-db97-4285-817e-cec14668b1f7,2024-02-11,2025-05-15
 110347,50116,Dryland South,A,PROD,25.5,Canada,0fbfea4b-db16-44fb-b6d4-a1915f07293b,2020-03-27,
@@ -1290,6 +1361,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110477,50158,Flat 120,A,PROD,39.0,United States,18c82fe7-5273-4d17-a6f5-6a835a08b4c1,2011-10-25,2016-07-16
 110517,50173,Bench Field,A,PROD,52.1,United States,4fb88110-f3c4-40bd-8de5-ed554b3d7980,2013-02-14,2024-01-29
 110802,50273,Highway Field,A,PROD,258.7,United States,ee1ff143-db5a-4f89-8fec-a34b758bc75e,2022-11-04,2022-12-14
+110812,50276,West 160,A,PROD,99.8,United States,,2017-10-05,2019-12-05
 110351,50118,North 80,A,PROD,142.8,United States,2b4cf2d1-be6c-41ee-94a2-045e49b86d8b,2018-10-27,
 111055,50356,Corner Piece,A,PROD,248.6,Canada,d3c2beaf-1ae9-4ae0-b509-35bd607bd4c5,2022-08-21,2026-03-11
 110998,50337,Sandy Knoll,A,PROD,205.6,Canada,5f2c9826-4f00-41bf-84f8-d5a6130b97c1,2016-10-19,
@@ -1302,8 +1374,11 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110317,50105,Slough Field,A,PROD,62.3,United States,fb85ec2d-0eec-42c6-9874-657b850422c5,2016-01-12,2025-02-23
 111018,50344,Corner Piece,A,PROD,85.0,United States,40754400-ed3e-4c5b-a5e7-5c95bd989b12,2012-10-28,2021-08-29
 111445,50507,River Bottom,A,PROD,244.6,Australia,94919181-7d34-4c7e-bc52-e85a3fa1b320,2021-06-22,
+110066,50022,Sandy Knoll,A,PROD,77.5,Canada,91829909-fc51-4d27-b421-e9ae7167655a,2022-03-17,2022-11-02
+111298,50467,Dryland South,A,PROD,101.5,Australia,7db4112f-c795-474a-8a1c-e3f688f4d95d,2017-08-14,2020-12-01
 110192,50063,Dryland South,A,PROD,,Canada,8f236fa8-8d3f-4687-b0af-977e3fda57cc,2023-05-31,
 111243,50450,Slough Field,A,PROD,206.1,United States,9ee9d6e7-e189-451f-8aa9-31e2e2ebccb7,2022-12-02,2026-02-07
+111685,50593,Gravel Pit Field,I,PROD,202.5,Canada,9e2c8dbc-d2f6-4f7d-95b8-724ef73ed770,2014-12-30,2016-06-01
 110671,50225,Creek Field,A,PROD,99.8,United States,622e5a4a-3562-44f3-84a4-f4844e35286d,2014-12-17,2026-05-04
 110936,50315,South 40,A,PROD,52.9,United States,,2024-09-25,
 110823,50280,Sandy Knoll,A,PROD,166.6,Canada,2327fa6d-7aba-4948-a0e6-9370c7e3dd63,2013-03-31,2026-05-09
@@ -1325,6 +1400,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110555,50184,South 40,A,PROD,169.0,United States,7c59158a-9f9a-49e3-bc27-9275f0fce641,2011-03-01,2023-11-22
 111349,50483,Back 40,A,PROD,205.3,Australia,55fd8a5e-9ebc-4700-ac5e-1704e2d602d5,2011-08-07,2026-05-03
 111610,50555,Flat 120,P,PROD,184.6,United States,374a557b-f185-4ffe-b44e-d3cb33b519a3,2019-10-12,
+111455,50511,Big,A,PROD,51.0,Australia,7d44c1bf-189a-4489-87ef-836f28921fa4,2017-09-06,2021-08-08
 110755,50257,Old Orchard,A,PROD,137.6,United States,a07c3291-9a04-4233-a770-f0df04a1b60e,2017-02-28,
 111111,50375,Pivot 2,A,PROD,233.5,United States,2b7ed0a6-5fb6-46c9-b21b-639cf6f74a36,2024-12-21,2026-04-03
 111060,50356,River Bottom,A,PROD,263.7,Canada,76c31f41-71c1-49b5-92ef-f08ca1fd4fe8,2016-11-11,2020-12-09
@@ -1342,6 +1418,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110306,50102,Sandy Knoll,A,PROD,122.1,United States,8422b8a2-12c8-4b8f-b6fe-689a87ae90d1,2021-06-01,
 110043,50013,Highway Field,A,PROD,160.6,United States,efff1756-6c72-4922-afd9-d33de4ea7a62,2024-02-12,2025-08-21
 111407,50498,Dryland South,A,PROD,196.9,Australia,55f58a41-3d32-413d-bb9d-db0045d23fc4,2016-02-14,2017-11-23
+111541,50535,Trial Block 18 Field,A,TRIAL,14.3,United States,71d12da6-45c3-440d-8125-9319d72e06ab,2011-04-30,2017-04-22
 111300,50468,Rock Pile,A,PROD,144.1,Australia,be9df74f-a9cb-4c02-876f-9e534f6b08a9,2017-04-04,
 110547,50183,Flat 120,A,PROD,243.7,United States,b92d742d-817f-45ba-a2e4-dc79f73aac46,2022-03-15,2025-06-26
 110977,50329,Rock Pile,A,PROD,304.4,United States,16b281fb-75e9-4ebc-9015-d69fe414c843,2011-08-20,2024-06-03
@@ -1365,6 +1442,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110964,50327,East Quarter,A,PROD,285.4,United States,f28805c3-a23f-4cbe-9b54-b3f0ccc4f9ef,2020-10-14,2021-05-06
 110260,50086,Triangle,A,PROD,28.2,Canada,7d62cc69-3efc-45c5-95ef-ad714c390d99,2017-11-27,2022-04-16
 111077,50365,Creek Field,A,PROD,120.1,United States,7fabdf0a-f19c-4e49-80b8-40536502271b,2018-11-21,
+111732,50616,Home Field,A,PROD,150.5,United States,0d48901f-0e36-4c23-bd7b-d7a3aeeeafd7,2014-07-28,2023-08-18
 110981,50329,Fence Line 60,A,PROD,229.6,United States,b1c9d50c-03ba-4561-b0f7-fb24a86f886f,2017-06-14,
 110803,50271,Dryland North,A,PROD,295.3,United States,d97ffca6-175b-4166-b010-ac2fa26da6e0,2018-08-05,2024-10-10
 110256,50083,Pivot 1,A,PROD,,Canada,0f388ce1-fe16-4206-9169-0aaaa4b29fad,2014-05-29,2017-06-19
@@ -1373,9 +1451,11 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111007,50342,Slough Field,A,PROD,27.7,Canada,8346b57c-7b85-47c0-94f2-f9288281cafa,2012-10-20,2025-07-17
 110709,50240,Flat 120,A,PROD,258.2,United States,c6645bd9-6aa7-4409-a6f1-bfa67b2771a1,2015-02-13,2024-06-03
 110816,50276,Back 40,A,PROD,54.9,United States,ba1880fb-fc96-4b5f-850e-08ca034c4d85,2014-11-05,2016-02-14
+110917,50309,Dryland South,A,PROD,81.1,Canada,df733eb1-aea7-4e9c-aea6-9939f54d8d01,2014-11-08,2015-11-12
 111311,50472,Windmill Field,A,PROD,20.0,Australia,b3fe827c-4542-4955-8886-08f313fa9b97,2013-03-06,2014-03-22
 110518,50173,Highway Field,A,PROD,129.7,United States,5fc2e231-83b6-40b0-9db1-c3f1a3c31ce5,2017-02-23,2019-10-11
 110509,50169,Corner Piece,A,PROD,150.7,United States,31cd2f60-7659-4ea9-b386-925df92f8126,2014-10-03,
+110201,50065,Gravel Pit,A,PROD,102.6,United States,a1a8043e-f0e1-4cb0-8d36-50b569ef2a95,2016-08-06,2020-01-19
 111226,50446,Corner Piece,A,PROD,174.5,United States,464ebb2f-348e-42a4-9b22-dde58290b9be,2020-06-30,2026-01-21
 111063,50358,Rock Pile,A,PROD,104.8,United States,,2017-08-07,2017-08-28
 111577,50544,Trial Plot 4,A,TRIAL,33.1,Canada,5a51c208-f14e-4387-8871-f3a21a3fe4c4,2012-05-20,2015-01-21
@@ -1400,9 +1480,11 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110315,50105,Dryland South,A,PROD,241.4,United States,32d103d4-d182-41d7-94f7-8065142724e4,2019-10-11,2021-06-24
 110273,50091,Schoolhouse Field,A,PROD,183.4,United States,c2a13e48-cb22-40bb-82a0-53397c591e62,2019-08-31,2026-04-25
 111092,50369,Old Orchard,A,PROD,55.6,Canada,65055dca-e72a-4541-af18-212d57e41a94,2019-02-17,2024-08-07
+111298,50467,Dryland South,A,PROD,105.2,Australia,7db4112f-c795-474a-8a1c-e3f688f4d95d,2017-08-14,2022-01-25
 110103,50034,Corner Piece,A,PROD,47.7,United States,b5b30604-0845-448c-80ad-6e263c542b4e,2011-10-04,2020-05-30
 111429,50505,Windmill Field,A,PROD,149.0,Australia,a09e708a-6211-4900-a105-8a2a3dea82e4,2022-05-04,
 110574,50192,Highway Field,A,PROD,13.8,United States,bcc0504f-4efa-4954-ad15-f4c5ab148a1a,2015-08-24,2025-10-21
+111145,50422,Old Orchard,A,PROD,263.4,United States,a66bd65a-d4ca-4866-8e60-f8d85068c3fe,2022-04-25,2023-07-12
 110046,50016,West 160,A,PROD,58.3,United States,ebd4a2c2-b529-47ec-8395-2147050981b3,2020-06-06,2021-04-18
 110471,50156,Creek Field,A,PROD,287.1,United States,08258955-df85-4d4e-9f5d-15eb2ef43f01,2024-07-23,2026-01-26
 110637,50214,West 160,A,PROD,195.0,United States,a07ae287-34f6-47ba-a2f0-036369d2a3dc,2016-09-20,2023-12-18
@@ -1420,8 +1502,10 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111252,50453,Creek Field,A,PROD,246.6,United States,41944142-0c14-4f9a-9d43-fce05a41a800,2013-11-24,
 110895,50303,Gravel Pit Field,A,PROD,289.1,United States,c200e538-c78e-4f10-8c5e-599816b204ca,2016-03-12,2025-12-25
 110156,50052,Rock Pile,A,PROD,265.1,Canada,17fd8685-8968-4f8a-b2f1-b607b8d8b6a2,2012-03-15,2020-12-02
+110165,50054,Home Field,A,PROD,253.5,United States,fb9c31b3-af49-4506-8892-c5b347a49b23,2015-12-16,2019-07-08
 110546,50182,Old Orchard,A,PROD,215.0,United States,bba37547-2d80-4ead-86d1-6d61cb3bc191,2016-09-09,2024-06-29
 111723,50613,Back 40,A,PROD,301.0,United States,00000000-0000-0000-0000-000000000000,2023-07-04,
+110902,50305,Dryland South,A,PROD,22.1,United States,514574e2-d29c-437c-b631-322f9b9326c5,2020-03-06,2021-03-22
 110943,50317,Bench Field,A,PROD,40.8,United States,,2018-10-17,2022-09-25
 110304,50100,Back 40,A,PROD,,United States,6e5838ca-85fd-4152-b952-cf6f371783bb,2021-12-14,2025-09-22
 110462,50155,Fence Line 60,A,PROD,162.1,Canada,bde1bd8e-dc77-4e06-aedc-579ed22c1b51,2019-10-07,2021-12-03
@@ -1446,9 +1530,12 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111567,50541,Trial Strip 17,A,TRIAL,133.2,United States,747abed7-db6a-4649-8e3f-e69e8450a5a1,2021-11-23,2024-04-27
 111391,50494,Pivot 2,A,PROD,83.3,Australia,84333202-a828-4309-8b36-c3d69eaca0eb,2020-07-17,2025-11-19
 111173,50430,Corner Piece,A,PROD,184.6,United States,9d163c62-fa5a-46c6-a617-beac9b180fbd,2024-11-08,2025-02-15
+111343,50481,Dryland North,A,PROD,192.4,Australia,d8e5977a-ec3b-43b1-83f4-8e2c35882ccf,2016-10-31,2017-09-21
 111172,50430,Pivot 3,A,PROD,320.0,United States,79992709-2bb3-49fe-a0f7-26df47055e7e,2019-08-20,2020-12-02
 111100,50372,Pivot 2,A,PROD,,United States,4d420eb7-fbce-46bc-83c9-c9180b518147,2024-10-18,2026-03-06
 110796,50270,North 80,A,PROD,145.3,Canada,d00d9511-beef-403b-9d2b-b7458ed029fe,2011-12-11,2022-11-16
+111102,50372,Flat 120,A,PROD,251.2,United States,2893f978-1244-4159-b5f9-7622140e806d,2017-07-09,2021-04-02
+110958,50323,Slough Field,A,PROD,14.8,Canada,d153bb78-934f-4327-8086-40bb28963bfc,2020-09-06,2023-02-07
 110010,50003,Big Field,A,PROD,265.6,United States,ca2ea855-0e4a-4ed3-8be4-dd305d65f0cb,2022-11-22,2024-02-17
 111513,50528,Trial Plot 7,A,TRIAL,283.7,United States,bcff8695-c27d-4d6f-98cf-ef8ad7713bfe,2020-01-27,
 111655,50581,Windmill Field,P,PROD,271.6,United States,0ce59b16-e4ac-4147-b158-dc7612047136,2018-07-16,2020-09-02
@@ -1468,6 +1555,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111307,50470,Long Strip,A,PROD,135.2,Australia,d600dc73-2bbf-4007-b6e4-2fce77fddc8e,2014-02-17,2025-03-24
 110036,50011,Pivot 1,A,PROD,84.8,United States,b2f9dfed-a0f6-473b-a289-7c59336cef7c,2015-12-15,
 110935,50316,Schoolhouse Field,A,PROD,64.2,United States,c05c97a7-861a-4771-817e-3e56b48afe60,2023-07-22,
+111736,50618,East Quarter,A,PROD,29.0,United States,3c2f0a6f-dedf-420d-8501-73f16dc7581e,2012-12-04,2015-08-04
 110162,50053,Old Orchard,A,PROD,292.3,United States,5b9db63c-81cd-453c-b4d7-6b1ba96d7c9c,2012-10-08,2025-02-23
 110178,50059,Windmill Field,A,PROD,83.3,United States,f2b1565f-b89d-4f54-83c6-dcf844a566b4,2017-11-16,2020-03-26
 111323,50474,Big Field,A,PROD,20.3,Australia,91ed4c61-1f94-4c7a-814e-b37e5aff0207,2018-09-19,2021-04-26
@@ -1490,6 +1578,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110321,50106,Slough Field,A,PROD,171.0,United States,4e2a7124-8458-431f-b7f6-cec275f16ff4,2024-10-21,2026-05-28
 111643,50574,Fence Line 60,P,PROD,124.5,United States,69cda732-70b7-4ff2-bd84-e89ad9d8857c,2018-09-15,2019-12-24
 110112,50038,Back 40,A,PROD,313.1,Canada,130b3d26-59f3-40e7-b4fe-009a175d066e,2023-08-16,2023-10-02
+110489,50164,Rock Pile,A,PROD,147.0,United States,a77d6265-141b-4452-b531-4566a3250e52,2016-09-28,2019-02-25
 110837,50284,Long Strip,A,PROD,,United States,925d371f-6c82-436e-9cc9-31159554e6bd,2023-11-19,
 110628,50212,Long Strip,A,PROD,216.2,United States,5e8ec012-ebbe-4ff9-a6db-cf340b39fecd,2014-12-18,2017-12-14
 110681,50228,Bench Field,A,PROD,131.2,United States,5f218780-f668-48e5-b45c-716604534dd4,2019-08-25,2020-10-27
@@ -1501,12 +1590,15 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110673,50226,Big Field,A,PROD,57.8,United States,1aad084b-d2b9-4d90-9748-4fcbcdd40e46,2022-03-12,
 110478,50159,Corner Piece,A,PROD,170.0,United States,19f16346-ac5b-4949-9827-779e7be50d39,2019-07-19,
 110807,50274,Pivot 3,A,PROD,123.6,United States,292a71c0-9d9c-4bce-8d23-11b3a2846dc9,2019-02-02,2021-12-10
+110120,50041,Rock Pile,A,PROD,254.8,United States,00000000-0000-0000-0000-000000000000,2021-04-02,2022-02-16
 111580,50546,Trial Block 33,A,TRIAL,186.8,United States,f15a6aff-e056-4e7b-b766-7c9a6ea99de6,2017-01-31,
+110786,50267,Triangle,A,PROD,53.3,United States,5c97e941-fd4f-40af-b1d2-dd38dace0a7a,2014-10-19,2020-12-05
 111508,50525,North 80,A,PROD,272.8,Australia,15712c00-b6e3-4c18-87fa-075bdf91f34c,2019-10-27,2021-03-30
 110236,50077,Sandy Knoll,A,PROD,129.5,Canada,4e55932c-e361-40c1-a653-a67019b8b5e1,2023-05-20,2026-05-12
 111130,50401,Creek Field,P,PROD,289.9,United States,009ec2ef-a167-40e4-a40e-f3434d6b0000,2017-01-10,2026-01-11
 111040,50351,Home Field,A,PROD,239.4,United States,1760e6dd-e54a-4dff-84c9-04d0839be6d3,2014-05-25,
 110647,50217,Rock Pile,A,PROD,163.8,Canada,7971b856-a1e1-4503-9aa7-5adbcb051db4,2013-04-19,2017-01-27
+111653,50580,Corner Piece,I,PROD,48.6,Canada,75fb0cd5-bf41-4a0a-a0b7-b4c1c74cfab8,2017-07-07,2017-08-07
 111174,50430,Bench Field,A,PROD,87.7,United States,a372aa2c-1c6b-4504-8395-8bfaa8215a69,2011-12-17,2020-10-26
 111046,50352,Pivot 3,A,PROD,316.1,United States,40813780-ebab-42c9-b1e7-bb3545061ce4,2012-07-08,
 111014,50342,North 80,A,PROD,127.8,Canada,f437e44e-71ad-4579-9693-a9839ee55448,2021-04-05,
@@ -1517,6 +1609,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 111345,50480,Old Orchard,A,PROD,99.6,Australia,f13232d6-6fad-46b8-807a-3cf2ca237251,2013-02-06,
 110636,50213,Fence Line 60,A,PROD,74.6,United States,291f7649-608c-4f96-b735-d7e24ad62e06,2016-05-23,2020-06-11
 111326,50475,Pivot 3,A,PROD,67.7,Australia,056200c9-607f-4ea6-89f3-64f5df662877,2013-04-24,2016-12-24
+110529,50176,Big Field,A,PROD,309.9,United States,312c7495-9eae-434c-af79-0be628154731,2017-06-02,2019-07-11
 111718,50611,Flat 120,A,PROD,210.5,United States,cde8a375-5f4f-43b0-a51f-d1ccdc6cdee7,2013-11-06,
 110411,50136,Rock Pile,A,PROD,168.3,Canada,977a736d-8f91-4980-aed7-2e057c1dd3d7,2013-10-30,2016-11-27
 111379,50491,East Quarter,A,PROD,,Australia,56d2266d-4a80-4ba7-a76c-e9bcfb80bc84,2014-01-17,2025-08-02
@@ -1547,9 +1640,11 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110017,50004,North 80,A,PROD,108.2,United States,2fd8f6fa-024a-45cf-872f-79d7be92ccef,2020-07-31,2025-11-07
 110353,50117,Back 40,A,PROD,54.4,United States,786dec13-703d-4b1d-b659-e53b5983ea94,2020-12-26,2023-01-03
 111624,50563,Big Field,P,PROD,,Canada,6a630e86-696f-4932-93a9-cc09501b4032,2016-08-23,
+110111,50038,Slough,A,PROD,103.3,Canada,5245070a-232c-4e3c-bf2a-ae47ce52eda9,2020-10-31,2021-02-06
 111402,50496,Big Field,A,PROD,74.4,Australia,cdd2bf25-f96f-4879-b56d-a0d893bc9978,2016-02-28,2023-03-12
 110584,50196,River Bottom,A,PROD,,United States,9aa22683-8bcc-4f65-97df-69da82888e05,2020-10-07,2021-08-13
 110368,50123,Gravel Pit Field,A,PROD,230.6,United States,3bc70d3a-3cbf-46f4-b076-6829b011e9a4,2012-03-29,
+111614,50558,River Bottom,I,PROD,309.1,Canada,6cc0de69-6263-4555-a494-9c1245c47143,2019-06-10,2020-05-08
 111013,50341,Fence Line 60,A,PROD,254.3,Canada,4d3331e7-63a5-4d3e-a667-5c9faec8797b,2011-07-08,
 110027,50008,Gravel Pit Field,A,PROD,,Canada,84f1604a-52f0-4640-aa05-0bc4db30865d,2019-03-05,2020-03-23
 111614,50558,River Bottom,I,PROD,307.4,Canada,6cc0de69-6263-4555-a494-9c1245c47143,2019-06-10,2020-09-16
@@ -1572,11 +1667,13 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110138,50046,Rock Pile,A,PROD,53.9,United States,9d1f1c76-d90d-40a9-bbee-186940d0b195,2020-08-29,2021-02-14
 111386,50492,North 80,A,PROD,301.2,Australia,7361bc36-61bd-4813-995a-96246893c4e6,2023-03-02,
 111088,50368,Creek Field,A,PROD,84.0,United States,64f7f66a-645b-497f-811e-f9715f067a38,2015-08-10,
+110096,50032,Gravel Pit Field,A,PROD,306.3,United States,20fb133f-2514-4308-b539-bdbeb975d3b9,2020-05-04,2021-08-07
 111339,50478,Pivot 1,A,PROD,91.4,Australia,16ec3c61-6546-474b-b81f-894757c33d4d,2021-09-28,2025-04-15
 111492,50522,East Quarter,A,PROD,135.4,Australia,3570c721-d369-4a12-a251-998496d3ac9a,2018-06-19,
 110161,50053,Flat 120,A,PROD,226.1,United States,9ef267bb-93b1-4ef6-b366-a28510412f8d,2015-08-15,2024-06-06
 111128,50401,East Quarter,P,PROD,68.2,United States,919e3f62-7ac6-403e-a7d6-6a936431f55e,2018-12-19,2026-02-20
 111205,50438,Pivot 3,A,PROD,,United States,80c9cac2-6744-4352-81ce-bd5bd10a9b25,2020-02-15,2026-02-09
+111455,50511,Big Field,A,PROD,54.3,Australia,7d44c1bf-189a-4489-87ef-836f28921fa4,2017-09-06,2023-04-05
 110576,50194,River Bottom,A,PROD,87.5,United States,45ae1e57-8ab5-4645-8ca6-d220b19b9e3f,2019-02-21,2020-09-10
 110830,50282,Creek Field,A,PROD,,United States,84044cf4-6615-4afb-8df0-5ec47343069c,2012-07-13,
 110612,50205,Corner Piece,A,PROD,163.6,United States,6e45c8fb-e08d-4b58-a650-5dcc82748f9e,2024-05-04,
@@ -1594,6 +1691,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110738,50248,Highway Field,A,PROD,57.6,United States,33eafda4-c7d6-4901-b264-da89b63eaf98,2019-05-02,2023-02-20
 111265,50457,Bench Field,A,PROD,32.6,Canada,0bdcb2b2-45a3-4997-9ee2-33a1dc55fd38,2015-07-29,2023-06-17
 110024,50006,Big Field,A,PROD,270.1,Canada,5b32906b-d573-466b-b701-a1d6eb139c3e,2018-04-15,
+111303,50468,Gravel Pit,A,PROD,,Australia,5880002b-0398-4bff-8f39-078191c15ee1,2019-01-28,2019-10-07
 110452,50151,Fence Line 60,A,PROD,269.1,United States,e8be5b56-9cf0-4d6a-b517-8a245d830d81,2017-11-30,2023-02-04
 111448,50510,Long Strip,A,PROD,70.4,Australia,1dbac1ca-e0d8-4fcf-9335-f8d03e06723b,2011-11-08,
 110454,50153,Old Orchard,A,PROD,170.0,United States,09cb0fb5-de00-4821-817b-e124fd960268,2023-08-15,2025-09-30
@@ -1672,6 +1770,7 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110210,50069,Big Field,A,PROD,206.3,United States,709841a3-22a5-4a84-9cf1-c02a5d6f5efc,2013-07-01,
 110778,50263,Pivot 3,A,PROD,275.5,United States,5cb4866c-7c48-4c74-95b2-07535b45fcee,2012-05-11,2014-03-05
 110961,50325,West 160,A,PROD,21.0,Canada,0ae54301-f841-45a0-a5c2-ca3c35a42770,2017-09-28,2020-05-23
+111343,50481,Dryland North,A,PROD,192.3,Australia,d8e5977a-ec3b-43b1-83f4-8e2c35882ccf,2016-10-31,2017-11-27
 111559,50540,Trial Plot 17,A,TRIAL,278.0,Canada,a8c52223-c8ca-4b14-a7a9-37db02bd7dda,2015-01-28,
 111623,50562,South 40,I,PROD,199.7,Canada,09efa260-25b8-42a0-944e-4a6d312bd314,2012-01-15,
 110400,50132,Gravel Pit Field,A,PROD,27.7,United States,3bdb70c1-b16f-40b0-958e-068536842e3e,2023-09-22,2026-01-20
@@ -1716,10 +1815,13 @@ field_id,farm_id,field_nm,stat_cd,field_use_cd,acres,country,entrpr_guid,crt_dt,
 110069,50024,Flat 120,A,PROD,202.9,Canada,0aa87e6a-7550-44ac-ab61-91b0c9c01eff,2022-06-26,
 111629,50565,North 80,P,PROD,90.7,United States,75c9fc08-7095-4234-a3de-60089f8698bf,2011-09-17,2021-02-04
 111555,50539,Trial Plot 27,A,TRIAL,65.5,United States,bff514cf-729d-4433-aba6-138ee8f05a1b,2016-11-21,2022-06-08
+110014,50004,River Bottom,A,PROD,123.8,United States,,2023-02-19,2023-07-28
 111719,50612,Pivot 2,A,PROD,247.1,United States,00000000-0000-0000-0000-000000000000,2011-10-29,2017-08-26
 111699,50604,Back 40,I,PROD,133.7,United States,394b1f24-4a1b-43ce-9966-d135e8bd5c8b,2020-03-17,2021-04-06
+110464,50154,Long Strip,A,PROD,132.4,Canada,793ed182-f410-4a72-94bc-5b742acb8355,2023-10-25,2025-03-18
 111155,50424,Windmill Field,A,PROD,96.6,United States,dccf22f6-6941-41f6-9fda-0214bc4fb239,2015-06-20,2022-09-24
 111706,50607,River Bottom,A,PROD,218.4,United States,40164e86-70ee-4688-8ace-40c61aec0048,2014-07-24,2020-06-25
+110490,50164,Flat 120,A,TRIAL,22.2,United States,ba7091e0-6299-4b37-aa24-220f89a92fe6,2013-06-22,2013-09-07
 111430,50505,Flat 120,A,PROD,41.8,Australia,37fc55a1-029e-4fa6-9647-62b23d44903c,2016-06-24,2019-09-08
 110988,50335,Schoolhouse Field,A,PROD,80.6,Canada,db8648db-5a8f-4f4f-af5b-00b75f2239bb,2018-11-06,
 110856,50290,Pivot 2,A,PROD,111.4,United States,07e9107b-bafc-40dd-8deb-aab75cdc3e29,2011-01-04,
