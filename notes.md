@@ -29,3 +29,5 @@ Legacy-port extract filler that bites. A legacy_extract/ with populated EIDs whe
 Surgical soften of the working-session notes: de-name Australia/Brazil (facts remain in the three system docs — forces assembly of the geographic intersection) and drop the explicit "all the way up the chain" spell-out (rule stays derivable from the cleanup-lag anecdote).
 
 Rubric rebalance (enabler, not difficulty): merge redundant 1/2/49, drop no-op 48, consolidate the 20 per-filter rounds so outcome rounds carry more weight (same failure: 0.82 → ~0.70), and fix the round 14/25 wording + empty agentic_grader_info the async reviewer flagged.
+
+# Experiment Log
