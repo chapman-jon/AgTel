@@ -6,6 +6,7 @@
 - [x] Less explicit prompt
 - [ ] Modify table(s) to type 2
 - [ ] Allow same field w/different farm/field EID's (have SAP and AD context give different takes on how to handle this)
+- [ ] fix: removing status = 'active' filter from ad_active_farmers does not currently impact results
 
 
 # Bookmark
