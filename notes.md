@@ -7,7 +7,7 @@
 - [ ] Modify table(s) to type 2
 - [ ] Allow same field w/different farm/field EID's (have SAP and AD context give different takes on how to handle this)
 - [ ] fix: removing status = 'active' filter from ad_active_farmers does not currently impact results
-- [ ] test (trajectories) with letting agent use python/pip installable packages (don't specify dbt)
+- [x] test (trajectories) with letting agent use python/pip installable packages (don't specify dbt)
 
 
 # Bookmark
@@ -31,3 +31,11 @@ Surgical soften of the working-session notes: de-name Australia/Brazil (facts re
 Rubric rebalance (enabler, not difficulty): merge redundant 1/2/49, drop no-op 48, consolidate the 20 per-filter rounds so outcome rounds carry more weight (same failure: 0.82 → ~0.70), and fix the round 14/25 wording + empty agentic_grader_info the async reviewer flagged.
 
 # Experiment Log
+## 2026-07-22
+### 1
+#### Description
+Removed instructions to use dbt and instead said agent can use python and any pip installable package
+#### Outcome
+Agents were succeeding with dbt instructions, and still succeeded with python/pip instructions
+
+
