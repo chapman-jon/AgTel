@@ -8,23 +8,27 @@
 
 ## About these extracts
 
-To support analysis work in AgDigital, we pull periodic flat-file extracts of farmer, farm, and field data from the three systems of record: **BST**, **SAP**, and **AD** (AgDigital's port of legacy data). Each system contributes three tables, giving nine CSV files in total. The extracts are full snapshots (not incremental) taken from each system's reporting layer.
+To support analysis work in AgDigital, we pull periodic flat-file extracts of farmer, farm, and field data from the three systems of record — **BST**, **SAP**, and **AD** (AgDigital's port of legacy data) — along with operational and reference tables that analysts commonly join against. The extracts are full snapshots (not incremental) taken from each system's reporting layer.
 
 Note that each source system has its own history, conventions, and terminology, and the extracts intentionally preserve the source columns as-is rather than renaming them to a common standard. This page documents what each column is; for business definitions and rules of interpretation, refer to the documentation and notes maintained by the respective system teams.
 
-The nine files:
+The files:
 
 | System | File | Entity |
 |---|---|---|
 | BST | `bst_growers.csv` | Farmers (BST calls them "growers") |
 | BST | `bst_farms.csv` | Farms |
 | BST | `bst_fields.csv` | Fields |
+| BST | `bst_application_history.csv` | Product applications |
 | SAP | `ZAGT_PARTNER.csv` | Farmers (SAP models them as business partners) |
 | SAP | `ZAGT_FARM.csv` | Farms |
 | SAP | `ZAGT_PLOT.csv` | Fields (SAP calls them "plots") |
 | AD | `ad_farmers.csv` | Farmers |
 | AD | `ad_farms.csv` | Farms |
 | AD | `ad_fields.csv` | Fields |
+| Reference | `consultant_roster.csv` | Consultants |
+| Reference | `product_catalog.csv` | Products |
+| Reference | `weather_stations.csv` | Weather stations |
 
 ---
 
@@ -73,6 +77,18 @@ BST came to AgTel through acquisition and is the primary system used by consulta
 | `entrpr_guid` | text (GUID) | yes | Enterprise ID of the field. | `8f4c2a1e-7d3b-4e9a-b6f0-2c5d8e91a374` |
 | `crt_dt` | date | no | Date the record was created in BST. | `2015-05-02` |
 | `upd_dt` | date | yes | Date the record was last updated. | `2026-01-27` |
+
+### `bst_application_history.csv`
+
+| Column | Type | Nullable | Description | Example |
+|---|---|---|---|---|
+| `appl_id` | integer | no | BST native primary key for the application record. | `701241` |
+| `field_id` | integer | no | BST field the product was applied to. References `bst_fields.field_id`. | `111600` |
+| `prod_cd` | text | no | Product applied. References `product_catalog.prod_cd`. | `AGT-1176` |
+| `appl_dt` | date | no | Date of the application. | `2024-01-01` |
+| `rate` | numeric | no | Application rate, in the product's rate unit of measure (see `product_catalog.rate_uom`). | `16.2` |
+| `applied_by` | text | no | Consultant who recorded the application. References `consultant_roster.consultant_id`. | `C2526` |
+| `method` | text | no | Application method: `ground`, `aerial`, or `fertigation`. | `ground` |
 
 ---
 
@@ -171,8 +187,49 @@ AD is AgDigital's port of data from a legacy system, restructured into a modern 
 
 ---
 
+## Reference extracts
+
+Reference tables maintained centrally rather than in any of the three systems of record, included in the same extract drop for convenience.
+
+### `consultant_roster.csv`
+
+| Column | Type | Nullable | Description | Example |
+|---|---|---|---|---|
+| `consultant_id` | text | no | Consultant identifier. | `C2401` |
+| `consultant_nm` | text | no | Consultant name. | `Whitney Muller` |
+| `region` | text | no | State or province where the consultant is based. | `Saskatchewan` |
+| `country` | text | no | Country, stored as full name. | `Canada` |
+| `hire_dt` | date | no | Date the consultant was hired. | `2015-02-10` |
+| `role` | text | no | Role: `Consultant`, `Sr Consultant`, or `Area Lead`. | `Consultant` |
+
+### `product_catalog.csv`
+
+| Column | Type | Nullable | Description | Example |
+|---|---|---|---|---|
+| `prod_cd` | text | no | AgTel product code. | `AGT-1004` |
+| `prod_nm` | text | no | Product name. | `Vantiva 4L` |
+| `category` | text | no | Product category (e.g. `herbicide`, `fungicide`, `fertilizer`). | `herbicide` |
+| `rate_uom` | text | no | Unit of measure for application rates of this product. | `qt/ac` |
+| `restricted_use` | text | no | `Y` if the product is a restricted-use product, `N` otherwise. | `N` |
+| `active` | text | no | `Y` if the product is currently offered. | `Y` |
+
+### `weather_stations.csv`
+
+| Column | Type | Nullable | Description | Example |
+|---|---|---|---|---|
+| `station_id` | text | no | Weather station identifier. | `WX-5005` |
+| `station_nm` | text | no | Station name. | `Iowa East` |
+| `state_prov` | text | no | State or province where the station is located. | `Iowa` |
+| `country` | text | no | Country, stored as full name. | `United States` |
+| `lat` | numeric | no | Latitude, decimal degrees. | `40.6884` |
+| `lon` | numeric | no | Longitude, decimal degrees. | `-90.7101` |
+| `install_dt` | date | no | Date the station was installed. | `2020-12-09` |
+| `vendor_feed` | text | no | Vendor data feed the station reports through. | `AgriMesh` |
+
+---
+
 ## General notes
 
-- **Enterprise IDs.** Every table carries the Enterprise ID for its entity, under system-specific column names (`entrpr_guid` in BST, `ZZEID` in SAP, `enterprise_id` in AD). Enterprise ID assignment is an ongoing central initiative and these columns are nullable in all systems; see the Enterprise IDs overview page for background.
+- **Enterprise IDs.** Each farmer, farm, and field master-data table carries the Enterprise ID for its entity, under system-specific column names (`entrpr_guid` in BST, `ZZEID` in SAP, `enterprise_id` in AD). Enterprise ID assignment is an ongoing central initiative and these columns are nullable in all systems; see the Enterprise IDs overview page for background.
 - **Status and code columns.** This page documents structure only. For the code vocabularies, what the codes mean, and how each system team uses them, refer to that system team's documentation and notes. Extracts are as-is snapshots of the source tables; occasional legacy or residual code values that predate the current documentation do turn up in older systems.
 - **Units and formats are not harmonized.** For example, BST stores area in acres while SAP and AD use hectares, and each system stores country in a different format. Consumers are responsible for any conversions or mappings their use case requires.

@@ -4,7 +4,7 @@ Then we need to bulid a parity table that represents a Venn diagram, showing the
 with analogous types of fields in BST and SAP (one circle for each source).
 Each row in the table should indicate which section of the Venn Diagram it represents and the count for how many fields are in that section.
 This table will actually feed into a Venn diagram dashboard for leadership. They will use this to visually evaluate parity across the 3 systems.
-Exports of the data (farms, farmers, and fields) from all 3 systems are on my machine for you to use as source data.
+Exports of data from all 3 systems are on my machine for you to use as source data.
 Parity of fields should be determined using enterprise ID's.
 A field from system A is in parity with a field from system B when the fields' enterprise IDs match, and the corresonding
 farm and farmer in each system also have matching enterprise ID's.
