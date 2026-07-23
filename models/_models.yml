@@ -6,8 +6,12 @@ models:
   # unchanged except the enterprise ID, which is conformed to a single
   # representation — case-folded to lowercase (GUIDs are case-insensitive; SAP
   # stores uppercase, BST/AD lowercase) and with the all-zeros placeholder GUID
-  # normalized to null (it means "unassigned"). Enterprise-ID uniqueness is tested
-  # here, on the conformed value, rather than on the raw seed.
+  # normalized to null (it means "unassigned"). Enterprise-ID uniqueness is
+  # tested on the conformed value, rather than on the raw seed — on the clean
+  # model itself where its grain is already one row per entity, otherwise on the
+  # downstream model that restores that grain (bst_fields is a type 2 table, so
+  # its EID uniqueness is tested on bst_current_fields; SAP re-keys plots, so
+  # plot EID uniqueness is tested on sap_non_null_plots).
   # ---------------------------------------------------------------------------
   - name: ad_clean_farmers
     description: >
@@ -68,12 +72,44 @@ models:
     description: >
       bst_fields with the enterprise ID conformed (lowercased; all-zeros
       placeholder GUID normalized to null). All other columns pass through.
+      bst_fields is a type 2 table — when a field's record is updated, the
+      prior version is kept as another row with the same field_id — so this
+      model stays 1:1 with the seed and carries every version. The
+      (field_id, upd_dt) uniqueness test guarantees the latest-version
+      selection in bst_current_fields is deterministic.
+    data_tests:
+      - unique_combination:
+          columns: [field_id, upd_dt]
     columns:
+      - name: entrpr_guid
+        description: >
+          Conformed enterprise ID of the field; null when unassigned. Not
+          unique at this grain — prior versions of a field carry its EID too —
+          uniqueness holds only on current rows, tested in bst_current_fields.
+        data_tests:
+          - is_lowercase
+
+  - name: bst_current_fields
+    description: >
+      The current version of each BST field. bst_fields is a type 2 table —
+      when a field's record is updated, the prior version is kept as another
+      row with the same field_id — so this model keeps only the latest version
+      per field: the row with the greatest upd_dt (a null upd_dt means the
+      record was never updated, so it can only be current when it is the
+      field's only row). One row per field, restoring the grain the rest of
+      the pipeline expects. Enterprise-ID uniqueness is tested here, on
+      current rows, rather than on bst_clean_fields, where historical
+      versions repeat it.
+    columns:
+      - name: field_id
+        description: BST native primary key for the field; one row per field.
+        data_tests:
+          - unique
+          - not_null
       - name: entrpr_guid
         description: Conformed enterprise ID of the field; null when unassigned.
         data_tests:
           - unique
-          - is_lowercase
 
   - name: sap_clean_partners
     description: >
@@ -230,9 +266,10 @@ models:
 
   - name: bst_active_fields
     description: >
-      BST fields filtered to stat_cd = 'A' (active), field_use_cd = 'PROD'
-      (production fields, excluding trial plots), in the United States and
-      Canada (excludes BST-only Australia).
+      Current BST fields (latest version per field, from bst_current_fields)
+      filtered to stat_cd = 'A' (active), field_use_cd = 'PROD' (production
+      fields, excluding trial plots), in the United States and Canada
+      (excludes BST-only Australia).
     columns:
       - name: field_id
         description: BST native primary key for the field.

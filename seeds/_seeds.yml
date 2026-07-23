@@ -275,7 +275,11 @@ seeds:
   - name: bst_fields
     description: >
       Fields from BST, AgTel's primary consultant-facing system. Full snapshot;
-      legacy source columns preserved as-is. See context/source_data_dictionary.md.
+      legacy source columns preserved as-is. Type 2 table: when a field's
+      record is updated, the prior version is kept as another row with the
+      same field_id, so a field can have multiple rows; the current version is
+      the one with the greatest upd_dt (selected in bst_current_fields).
+      See context/source_data_dictionary.md.
     config:
       column_types:
         field_id: integer
@@ -290,9 +294,11 @@ seeds:
         upd_dt: date
     columns:
       - name: field_id
-        description: BST native primary key for the field.
+        description: >
+          BST native primary key for the field. Not unique here — the table is
+          type 2, so a field has one row per version; uniqueness is restored
+          and tested in bst_current_fields.
         data_tests:
-          - unique
           - not_null
       - name: farm_id
         description: BST farm that the field belongs to. References bst_farms.farm_id.
