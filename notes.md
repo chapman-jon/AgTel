@@ -4,11 +4,12 @@
 - [ ] Fields with same field EID but different farm/farmer EID in SAP
 - [x] Missing section Venn Diagram (no fields in that section)
 - [x] Less explicit prompt
-- [ ] Modify table(s) to type 2
+- [x] Modify table(s) to type 2
 - [ ] Allow same field w/different farm/field EID's (have SAP and AD context give different takes on how to handle this)
 - [ ] fix: removing status = 'active' filter from ad_active_farmers does not currently impact results
 - [x] test (trajectories) with letting agent use python/pip installable packages (don't specify dbt)
 - [ ] less explicit about csv's (e.g. how many) so that agent has to figure that out
+- [ ] Make context less organized (more files outside of folders, maybe move some out of folders so not perfectly organized)
 
 
 # Bookmark
