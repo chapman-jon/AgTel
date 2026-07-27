@@ -17,7 +17,7 @@ ad-frm-000143,ad-fmr-000077,Whitaker South Homestead,active,false,USA,8c73677e-d
 ad-frm-000092,ad-fmr-000051,Castellano Lower Ground,active,false,USA,6a94962a-b8a0-4054-901f-9da3d4fd3cd1,2025-06-12T07:50:51Z,
 ad-frm-000332,ad-fmr-000176,Oberlin New Ranch,active,false,USA,1ed42184-6115-4f4f-8c94-54efcc05e40f,2025-04-23T23:19:29Z,
 ad-frm-000063,ad-fmr-000036,Bergstrom Lake Farm,active,false,CAN,60261de3-fdf5-43f6-85eb-feb9c4b624d9,2025-03-03T08:47:56Z,
-ad-frm-000442,ad-fmr-000269,Whitaker Hilltop Farm,inactive,false,CAN,00198bea-1b8a-42ef-aade-f937ef6ef0cd,2024-11-13T18:10:47Z,2025-02-03T22:09:11Z
+ad-frm-000442,ad-fmr-000269,Whitaker Hilltop Farm,active,false,CAN,00198bea-1b8a-42ef-aade-f937ef6ef0cd,2024-11-13T18:10:47Z,2026-01-31T15:36:18Z
 ad-frm-000305,ad-fmr-000161,Prescott Old Quarter,active,false,USA,316ccf49-3c24-446d-996b-f9a772c0bef2,2024-10-07T17:03:56Z,2026-06-17T02:52:39Z
 ad-frm-000448,ad-fmr-000275,Baxter Creek Place,inactive,false,USA,5d0b2b96-f647-49c3-8f37-c553c6e2c15e,2025-09-25T13:14:26Z,2026-05-06T05:52:45Z
 ad-frm-000275,ad-fmr-000147,Novak South Section,active,false,USA,9e2f7973-d99c-4e7d-a460-07868e080c64,2025-09-25T03:38:43Z,2025-11-23T05:40:29Z
@@ -112,6 +112,7 @@ ad-frm-000352,ad-fmr-000187,Ziegler Home Homestead,active,false,USA,f637d2b2-138
 ad-frm-000244,ad-fmr-000131,Winters Home Farm,active,false,CAN,028ed2e0-7c41-4ba8-9b23-1a8eb7435c0a,2025-01-16T09:28:33Z,
 ad-frm-000461,ad-fmr-000288,Okafor North Farm,archived,false,CAN,87ff1257-62ce-4113-82ec-fa729fbc53c2,2025-09-23T09:31:55Z,
 ad-frm-000200,ad-fmr-000106,Girard Prairie Ranch,active,false,CAN,e67ea894-1e2b-454e-9bbb-5af1fbfe1683,2026-01-12T15:09:42Z,2026-01-24T05:50:03Z
+ad-frm-001209,ad-fmr-000415,Iverson North Ground,active,false,USA,f99b1db2-b768-420b-92de-f2c900d85389,2025-03-03T11:51:00Z,
 ad-frm-000322,ad-fmr-000171,Steiner Prairie Farm,active,false,USA,f84ed549-7a28-4706-b589-4a822a10c5c4,2025-04-21T20:15:34Z,
 ad-frm-000069,ad-fmr-000038,Whitaker North Homestead,active,false,USA,868f9527-b7d5-4b9b-9380-b5d36548ecd6,2024-10-08T12:25:14Z,
 ad-frm-000178,ad-fmr-000095,Lindqvist Lake Place,active,false,CAN,4f153991-79d5-4c50-8161-bc31d70672cc,2025-09-23T21:50:40Z,2026-05-22T02:52:09Z
@@ -152,6 +153,7 @@ ad-frm-000388,ad-fmr-000215,Baxter South Section,active,false,CAN,46ef5925-0153-
 ad-frm-000012,ad-fmr-000008,Hummel Upper Homestead,active,false,USA,2deea673-d201-47ec-9c1a-6df5df81687b,2024-10-07T19:27:02Z,
 ad-frm-000346,ad-fmr-000184,Reyes Upper Place,active,false,USA,3bfc90b4-80a6-4d3b-8cdc-a888402eb9a0,2025-09-25T05:41:38Z,2026-02-09T17:06:02Z
 ad-frm-000098,ad-fmr-000054,Eastman Lake Ground,active,false,USA,6fb5a0c5-47bd-40e4-b189-c155144777ff,2026-04-22T23:30:12Z,2026-06-09T23:07:12Z
+ad-frm-001207,ad-fmr-000413,Vandermeer Lower Ground,active,false,USA,3299c9fa-068f-41f4-8ceb-bf57a1a2ea69,2025-01-14T01:51:00Z,
 ad-frm-000187,ad-fmr-000099,Baxter East Farm,active,false,CAN,9a39cef3-71a3-4dff-8b54-3acb91270537,2026-01-12T17:58:09Z,2026-04-06T06:45:48Z
 ad-frm-000243,ad-fmr-000130,Prescott Lower Place,active,false,USA,f33f3a48-7850-4717-bf45-f7422b20576f,2025-06-10T13:24:20Z,2025-08-05T09:02:13Z
 ad-frm-000376,ad-fmr-000203,Thompson Lake Farm,active,false,USA,856d2149-d4ad-4143-beed-145ccffbc5e1,2025-03-04T15:18:12Z,
@@ -407,6 +409,7 @@ ad-frm-000396,ad-fmr-000223,Bergstrom Lower Section,active,false,CAN,289476c7-94
 ad-frm-000287,ad-fmr-000153,Novak Ridge Ranch,active,false,CAN,1d5544d2-1e34-4275-a321-1514fa9cdc62,2025-04-23T07:50:13Z,2026-02-03T18:05:06Z
 ad-frm-000124,ad-fmr-000067,Ferreira Lower Ranch,active,false,USA,87effa49-7ae2-4284-ac1a-6acc5cd89416,2026-01-13T20:03:17Z,2026-05-12T16:58:42Z
 ad-frm-000390,ad-fmr-000217,Xiong Lower Ground,active,false,USA,ae3f6113-d62b-477b-8a43-b4ebd3e78ba7,2025-03-06T12:05:56Z,2026-01-20T15:17:42Z
+ad-frm-001208,ad-fmr-000414,Lockhart Upper Ground,active,false,USA,1b787e0a-79d8-41e1-9f52-5e23d6cb94d6,2025-08-05T17:17:00Z,
 ad-frm-000196,ad-fmr-000103,Callahan Valley Ground,active,false,USA,5db0accf-9580-4b28-aead-d397f3dafae9,2024-10-07T11:51:50Z,
 ad-frm-000003,ad-fmr-000003,Bergstrom Ridge Ranch,active,false,USA,f9b9c304-52d9-4a1a-9feb-2d166ea3271c,2025-06-12T06:19:26Z,
 ad-frm-000016,ad-fmr-000010,Iverson Old Ranch,active,false,USA,40e89240-0dad-4ea7-9e2b-4b2a8a494360,2024-11-14T15:26:32Z,2025-05-10T04:42:33Z
@@ -487,7 +490,7 @@ ad-frm-000024,ad-fmr-000014,Delacroix East Place,active,false,CAN,2b29c009-064b-
 ad-frm-000284,ad-fmr-000151,Bergstrom Hilltop Ground,active,false,USA,b0463c5b-da94-46a0-b9eb-564dafb08c7c,2024-11-14T10:44:09Z,
 ad-frm-000384,ad-fmr-000211,Prescott New Ground,active,false,CAN,8c13dcaf-1231-48d8-8a01-379d00508114,2025-06-10T15:27:47Z,2025-12-16T12:28:23Z
 ad-frm-000043,ad-fmr-000026,Hartley New Farm,active,false,USA,e0f5f719-bf46-4a87-8ac8-cf161e59a536,2025-03-06T20:13:24Z,
-ad-frm-000445,ad-fmr-000272,Duval Prairie Section,inactive,false,USA,2434e957-7b84-4fa1-baaa-fc0c9e6c4909,2025-01-16T20:16:26Z,2025-11-17T08:38:58Z
+ad-frm-000445,ad-fmr-000272,Duval Prairie Section,active,false,USA,2434e957-7b84-4fa1-baaa-fc0c9e6c4909,2025-01-16T20:16:26Z,2025-12-07T23:12:19Z
 ad-frm-000238,ad-fmr-000128,Hummel New Homestead,active,false,USA,d957fed9-e8ae-46f4-a20f-b816f1613844,2025-08-06T07:15:23Z,
 ad-frm-000441,ad-fmr-000268,Reyes Hilltop Quarter,inactive,false,USA,45e6c191-3e25-49d7-9fb7-a0a65da5e7f4,2025-03-06T20:02:13Z,2025-07-12T18:01:39Z
 ad-frm-000017,ad-fmr-000011,Kowalski Prairie Place,active,false,USA,4456a691-003d-4268-aa03-d5471e8acb81,2025-08-06T04:28:16Z,

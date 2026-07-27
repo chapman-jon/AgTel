@@ -1,4 +1,5 @@
 field_id,farm_id,field_name,status,is_test,area_ha,enterprise_id,created_at,updated_at
+ad-fld-001207,ad-frm-001208,Highway Field,active,false,80.0,0281146a-30ea-4127-9f33-bb87a8aea64d,2025-08-05T21:17:00Z,
 ad-fld-001194,ad-frm-000489,Sandy Knoll,active,false,103.8,00000000-0000-0000-0000-000000000000,2026-04-23T10:01:40Z,2026-05-01T13:56:03Z
 ad-fld-000247,ad-frm-000104,South 40,active,false,112.8,2117bf93-fcf8-4cd4-a487-2c8932de125b,2025-11-12T06:37:43Z,2025-12-26T19:53:24Z
 ad-fld-000375,ad-frm-000158,Flat 120,active,false,15.8,18c82fe7-5273-4d17-a6f5-6a835a08b4c1,2026-04-20T14:49:20Z,
@@ -43,7 +44,7 @@ ad-fld-001047,ad-frm-000411,South 40,active,true,39.1,499e5c1d-2243-4242-b1b1-f1
 ad-fld-000060,ad-frm-000023,Dryland North,active,false,50.8,e76127cd-b71b-47f8-b0bd-3e69ca27b7a0,2024-11-13T18:54:45Z,2025-12-16T23:11:46Z
 ad-fld-000289,ad-frm-000121,Pivot 1,active,false,40.2,3b25ae3c-da51-44a9-bdfa-c48de118cc8d,2026-01-14T22:46:12Z,
 ad-fld-000508,ad-frm-000221,Flat 120,active,false,69.4,2f1fb449-ce8c-46cc-a332-00d62446dc57,2026-04-21T08:53:58Z,2026-06-18T23:09:18Z
-ad-fld-001110,ad-frm-000442,Fence Line 60,inactive,false,,0f34cb0c-8068-4e30-919f-b91afac44e40,2024-11-14T08:13:19Z,
+ad-fld-001110,ad-frm-000442,Fence Line 60,active,false,,0f34cb0c-8068-4e30-919f-b91afac44e40,2024-11-14T08:13:19Z,2025-08-30T13:48:28Z
 ad-fld-001041,ad-frm-000409,Big Field,active,false,120.7,01ba97fd-094a-42d4-93ec-749825ea7c08,2025-01-14T20:51:01Z,2025-12-27T16:27:28Z
 ad-fld-000425,ad-frm-000182,South 40,active,false,37.3,35a158b8-35bf-4f91-a146-c3a9d7a1a3c2,2026-03-02T09:09:29Z,
 ad-fld-000864,ad-frm-000353,Highway Field,active,false,22.4,09949027-b4f3-43e3-a065-99b22cab777a,2024-10-07T11:31:29Z,2024-12-26T12:14:29Z
@@ -76,7 +77,7 @@ ad-fld-000798,ad-frm-000333,Corner Piece,active,false,6.2,5e97ad83-407c-4fe3-8cb
 ad-fld-000571,ad-frm-000244,Creek Field,active,false,29.3,150d5ba3-6a96-4e4a-b876-0e37db525868,2025-03-05T08:09:26Z,2026-03-22T11:51:16Z
 ad-fld-001024,ad-frm-000404,West 160,active,false,32.2,373bbbab-fdf6-4004-a65f-c089e26d6db2,2025-03-06T17:01:04Z,2025-10-02T01:10:29Z
 ad-fld-000262,ad-frm-000111,Fence Line 60,active,false,12.0,1c9ff8e8-3a17-4e4b-84eb-873d819b4159,2026-03-04T11:37:22Z,
-ad-fld-001129,ad-frm-000452,Back 40,inactive,false,,2709d070-77c8-40a8-86f8-2b48c55a9db2,2025-01-16T19:31:45Z,
+ad-fld-001129,ad-frm-000452,Back 40,active,false,,2709d070-77c8-40a8-86f8-2b48c55a9db2,2025-01-16T19:31:45Z,2025-07-19T22:03:10Z
 ad-fld-000647,ad-frm-000279,West 160,active,false,82.3,4da08bbd-254c-459a-9358-785fde177379,2025-03-06T03:13:33Z,2025-12-25T14:19:51Z
 ad-fld-001175,ad-frm-000478,Slough Field,active,false,62.8,72facbc2-c8f8-498f-af2d-82242826d85d,2025-09-25T08:07:58Z,2025-12-22T09:22:22Z
 ad-fld-000945,ad-frm-000379,Big Field,active,false,37.4,41a2ebe6-c62c-4382-97f0-81b8ee0e349d,2025-06-11T08:10:48Z,2026-01-12T00:15:00Z
@@ -408,7 +409,7 @@ ad-fld-001172,ad-frm-000475,Pivot 3,inactive,false,,38b3d89f-be4a-4d56-9539-baf0
 ad-fld-000650,ad-frm-000278,Dryland North,active,false,35.8,8d75b3f9-334f-4996-a3d0-15665294e14e,2025-04-24T17:30:01Z,2025-07-16T16:34:54Z
 ad-fld-001097,ad-frm-000435,Corner Piece,inactive,true,,788a87ec-24be-4e9b-a97c-2c0b43f8cda7,2024-11-12T08:13:58Z,2025-07-01T03:14:17Z
 ad-fld-001062,ad-frm-000418,Windmill Field,active,true,52.3,28227465-0684-4a5e-a379-e2ceccbf090b,2025-09-23T07:42:12Z,
-ad-fld-001138,ad-frm-000458,West 160,inactive,false,16.6,8c7b9e1d-eaee-4533-a8c5-f9524dff9a0a,2025-11-13T15:27:11Z,2025-12-20T21:18:22Z
+ad-fld-001138,ad-frm-000458,West 160,active,false,16.6,8c7b9e1d-eaee-4533-a8c5-f9524dff9a0a,2025-11-13T15:27:11Z,2026-04-03T04:35:42Z
 ad-fld-000259,ad-frm-000108,Sandy Knoll,active,false,27.8,49b9bdc6-8fd7-4c3b-981d-5c8ce269b22c,2025-11-13T07:30:45Z,
 ad-fld-000038,ad-frm-000016,West 160,active,false,23.6,ebd4a2c2-b529-47ec-8395-2147050981b3,2025-01-13T17:02:45Z,
 ad-fld-000103,ad-frm-000040,Big Field,active,false,94.7,7ede7653-d1a8-4446-9bdd-0a56c49e392e,2026-04-23T16:26:27Z,2026-06-11T19:48:34Z
@@ -454,6 +455,7 @@ ad-fld-000168,ad-frm-000070,Pivot 3,active,false,35.6,293da255-ace2-41fc-936d-a5
 ad-fld-000198,ad-frm-000084,Long Strip,active,false,93.9,99bbfa4a-82b0-45e2-bfd4-7f9186ce3485,2025-08-06T21:30:22Z,2026-04-29T15:51:21Z
 ad-fld-001002,ad-frm-000397,Long Strip,active,false,38.6,10fc8ea8-2b7a-4cd5-b714-c95a0b7cbc12,2025-06-12T09:40:19Z,2026-01-11T18:28:18Z
 ad-fld-000476,ad-frm-000205,Dryland South,active,false,52.1,0dd86a7d-e84e-4dbd-ae8a-d34af06d18a3,2025-04-24T17:31:04Z,2026-06-20T03:51:21Z
+ad-fld-001206,ad-frm-001207,Schoolhouse Field,active,false,47.5,723546f9-675f-4f82-8cfb-2b59142c5216,2025-01-14T12:51:00Z,
 ad-fld-000451,ad-frm-000193,Schoolhouse Field,active,false,5.0,21f1a6f6-1d5e-4b00-a19a-21fe7d53e3f8,2025-01-15T08:46:14Z,
 ad-fld-000705,ad-frm-000300,Pivot 2,active,false,43.3,9292d706-57d4-42d1-b3ad-5f0a141a8e2e,2025-03-05T05:59:59Z,2026-06-07T14:41:16Z
 ad-fld-000443,ad-frm-000190,West 160,active,false,88.1,f0715780-6415-4caa-a39e-84b1b102f544,2025-04-24T09:19:44Z,2026-03-29T06:38:58Z
@@ -555,7 +557,7 @@ ad-fld-001089,ad-frm-000432,North 80,active,true,62.3,db5c57f7-3fdc-4c51-b358-63
 ad-fld-000439,ad-frm-000189,East Quarter,active,false,18.2,3a349731-8543-466b-9817-05bc144f9e7c,2025-08-06T12:10:39Z,
 ad-fld-001043,ad-frm-000409,South 40,active,false,77.0,53eec319-f972-4bf7-8b86-fe87c6b80280,2025-01-16T14:10:24Z,
 ad-fld-000392,ad-frm-000166,Bench Field,active,false,88.0,d8f0a551-ec9f-4935-bd8b-2c93beba1f22,2025-04-23T17:09:28Z,2025-08-06T03:30:16Z
-ad-fld-001115,ad-frm-000445,River Bottom,inactive,false,122.6,5998df38-48d6-4021-b2dd-c74266e8e5b7,2025-03-06T12:45:40Z,2026-05-22T03:01:35Z
+ad-fld-001115,ad-frm-000445,River Bottom,active,false,122.6,5998df38-48d6-4021-b2dd-c74266e8e5b7,2025-03-06T12:45:40Z,2025-07-20T08:29:46Z
 ad-fld-000117,ad-frm-000047,Pivot 3,active,false,,8551654c-af58-4dfd-b41b-3826c5b4c96f,2026-01-13T20:41:18Z,
 ad-fld-000348,ad-frm-000147,Flat 120,active,false,98.3,3c87dcca-cf43-494e-aa2c-b114ed37de53,2025-01-15T13:32:37Z,
 ad-fld-000681,ad-frm-000291,East Quarter,active,false,24.3,590157e4-67af-44d4-8b68-8a9dba15afc3,2025-03-06T18:18:37Z,2025-04-04T04:46:39Z
@@ -569,7 +571,7 @@ ad-fld-000866,ad-frm-000355,North 80,active,false,79.3,a75fef36-40fa-48b0-87c5-f
 ad-fld-000354,ad-frm-000149,Highway Field,active,false,120.7,700a3c00-ad24-40e1-a722-53e103436657,2026-04-23T08:11:44Z,
 ad-fld-000214,ad-frm-000091,Creek Field,active,false,63.6,5093d9f6-45f9-4126-8f39-5ce50cc1f23f,2026-04-24T10:02:20Z,
 ad-fld-000114,ad-frm-000046,Sandy Knoll,active,false,101.5,,2025-09-24T10:57:51Z,2025-10-28T09:26:01Z
-ad-fld-001150,ad-frm-000465,Dryland South,inactive,false,57.6,65ab9eac-2c94-439a-b6e1-a91ea553a478,2024-11-14T13:07:18Z,
+ad-fld-001150,ad-frm-000465,Dryland South,active,false,57.6,65ab9eac-2c94-439a-b6e1-a91ea553a478,2024-11-14T13:07:18Z,2025-07-26T08:28:33Z
 ad-fld-000326,ad-frm-000138,East Quarter,active,false,86.1,ced26f93-f939-4515-b833-c977d025e970,2025-01-13T07:07:14Z,
 ad-fld-000506,ad-frm-000217,Pivot 1,active,false,126.6,c6e5d562-8d9e-4153-872d-87a1a39b31b7,2025-06-12T16:58:58Z,2026-02-18T05:27:12Z
 ad-fld-000190,ad-frm-000080,Highway Field,active,false,126.6,b2836843-f06c-47ba-8a87-ee796400ed9d,2025-04-24T09:19:33Z,
@@ -578,7 +580,7 @@ ad-fld-000051,ad-frm-000021,Dryland North,active,false,109.1,67cd4ced-6dec-4aa6-
 ad-fld-000158,ad-frm-000067,Highway Field,active,false,,ff0118e7-bff4-44e5-a50d-bba5325b9ebe,2025-11-13T00:13:27Z,2026-06-28T23:11:31Z
 ad-fld-001111,ad-frm-000443,Pivot 2,inactive,false,126.1,0d1a669a-50e3-4ace-9d79-88292a19e190,2025-09-25T00:16:41Z,2026-04-20T02:57:20Z
 ad-fld-000349,ad-frm-000147,Creek Field,active,false,10.1,c9dac3f0-2745-42cb-b7b9-7e0ec95ed5bf,2025-01-14T18:10:37Z,
-ad-fld-001109,ad-frm-000442,Triangle,inactive,false,95.4,da6289a0-057f-4ded-b1d6-110bf2e38b50,2024-11-14T11:38:47Z,
+ad-fld-001109,ad-frm-000442,Triangle,active,false,95.4,da6289a0-057f-4ded-b1d6-110bf2e38b50,2024-11-14T11:38:47Z,2025-06-13T12:31:11Z
 ad-fld-000765,ad-frm-000321,Fence Line 60,active,false,117.7,82ffa5c2-ee92-4892-adcd-b04e6301f157,2025-09-22T12:59:41Z,
 ad-fld-000654,ad-frm-000281,Fence Line 60,active,false,101.6,846829f6-6d74-411f-a8d4-67cc472c4459,2026-04-21T22:59:19Z,2026-06-06T20:38:20Z
 ad-fld-000064,ad-frm-000027,Creek Field,active,false,72.0,1942eb87-b15b-406c-9ae8-147a65fcf9e9,2025-08-06T13:17:54Z,
@@ -727,7 +729,7 @@ ad-fld-000632,ad-frm-000271,Dryland North,active,false,,d97ffca6-175b-4166-b010-
 ad-fld-001154,ad-frm-000468,North 80,inactive,false,102.8,df887493-d891-40b4-b723-4afe5ac1a874,2025-09-23T02:04:46Z,2026-05-08T23:38:39Z
 ad-fld-001200,ad-frm-000491,Home Field,active,false,61.6,0d48901f-0e36-4c23-bd7b-d7a3aeeeafd7,2026-04-22T10:42:01Z,2026-06-25T17:04:11Z
 ad-fld-000533,ad-frm-000228,Dryland North,active,false,128.1,4977c6f4-d9e9-4b10-8203-757835db0765,2025-01-15T22:20:12Z,
-ad-fld-001132,ad-frm-000455,River Bottom,inactive,false,28.0,58f82b54-6e38-46e7-a49c-80d21329401b,2025-01-15T19:07:17Z,
+ad-fld-001132,ad-frm-000455,River Bottom,active,false,28.0,58f82b54-6e38-46e7-a49c-80d21329401b,2025-01-15T19:07:17Z,2025-10-01T20:55:45Z
 ad-fld-001003,ad-frm-000397,Creek Field,active,false,99.8,41944142-0c14-4f9a-9d43-fce05a41a800,2025-06-12T18:17:41Z,
 ad-fld-000547,ad-frm-000233,South 40,active,false,67.6,c303ea7b-32c9-425f-994d-ae7491cdbb36,2026-04-23T10:53:01Z,2026-05-14T01:14:40Z
 ad-fld-000384,ad-frm-000160,Old Orchard,active,false,74.1,,2025-09-24T19:57:19Z,2026-01-20T10:48:10Z
@@ -857,9 +859,10 @@ ad-fld-000842,ad-frm-000348,Sandy Knoll,active,false,80.4,a16897a3-64aa-443a-8ee
 ad-fld-000854,ad-frm-000350,East Quarter,active,false,63.1,110c7b4d-e8c3-4f57-88ae-1b8d9a445366,2024-10-07T20:28:50Z,2025-11-29T21:47:46Z
 ad-fld-001142,ad-frm-000461,Flat 120,archived,false,10.7,8f89ba93-8f67-4b44-bf01-977d08d022f9,2025-09-24T01:34:55Z,
 ad-fld-000144,ad-frm-000059,Pivot 1,active,false,76.5,8707ae9f-5683-4a2f-a807-0508fcad3d9d,2025-06-12T09:59:36Z,
+ad-fld-001208,ad-frm-001208,Bench Field,active,false,100.4,8c31d3ae-6e17-4058-9ec4-59c3c6deba98,2025-08-05T20:17:00Z,
 ad-fld-000028,ad-frm-000011,Pivot 1,active,false,34.3,b2f9dfed-a0f6-473b-a289-7c59336cef7c,2026-04-22T18:06:11Z,
 ad-fld-000825,ad-frm-000340,River Bottom,active,false,84.9,fe708174-5e7d-4c3b-917c-ee38ff5b8174,2026-03-04T09:00:57Z,2026-03-13T12:24:42Z
-ad-fld-001114,ad-frm-000445,Corner Piece,inactive,false,126.6,ba35cd02-482c-4bf3-b704-d62cf8b3e083,2025-03-06T06:39:10Z,
+ad-fld-001114,ad-frm-000445,Corner Piece,active,false,126.6,ba35cd02-482c-4bf3-b704-d62cf8b3e083,2025-03-06T06:39:10Z,2026-02-12T13:43:51Z
 ad-fld-001051,ad-frm-000412,Dryland North,archived,true,106.5,62bb94e6-66b7-43fc-a08e-c0f1047a422b,2025-01-15T02:59:35Z,
 ad-fld-000601,ad-frm-000259,Long Strip,active,false,70.6,4986b16f-0991-48e7-abb9-1dd4a84e4ca4,2025-08-07T08:10:48Z,
 ad-fld-000597,ad-frm-000257,North 80,active,false,78.5,d996a163-2ff5-4137-8329-66b355f73584,2025-03-04T14:23:33Z,2025-06-22T04:09:18Z
@@ -878,7 +881,7 @@ ad-fld-000271,ad-frm-000114,Windmill Field,active,false,12.2,bfb637dd-db1c-428c-
 ad-fld-000161,ad-frm-000065,Gravel Pit Field,active,false,41.5,a1a8043e-f0e1-4cb0-8d36-50b569ef2a95,2025-11-13T07:37:26Z,
 ad-fld-000222,ad-frm-000092,Highway Field,active,false,,,2025-08-07T08:54:56Z,2025-10-10T19:24:03Z
 ad-fld-000838,ad-frm-000345,North 80,active,false,33.7,617dd1d0-6d01-42dd-a701-14b2d750b6be,2024-11-13T08:46:22Z,
-ad-fld-001108,ad-frm-000442,Creek Field,inactive,false,119.7,b7308152-c643-446a-a90b-eac055843144,2024-11-13T23:46:47Z,2024-11-21T13:11:47Z
+ad-fld-001108,ad-frm-000442,Creek Field,active,false,119.7,b7308152-c643-446a-a90b-eac055843144,2024-11-13T23:46:47Z,2026-04-07T18:45:46Z
 ad-fld-000949,ad-frm-000381,Pivot 3,active,false,129.5,79992709-2bb3-49fe-a0f7-26df47055e7e,2025-11-11T17:45:00Z,
 ad-fld-001140,ad-frm-000460,Back 40,inactive,false,,35c5211f-76c6-48d5-8a05-595c74eb1e9d,2025-06-11T10:05:56Z,2025-06-21T08:14:07Z
 ad-fld-000023,ad-frm-000009,West 160,active,false,,803a1484-7851-4a3c-a910-0d7c9641fdd9,2025-11-13T10:25:55Z,
@@ -913,6 +916,7 @@ ad-fld-001037,ad-frm-000407,Home Field,active,false,37.8,5459ee6d-81e6-4054-a703
 ad-fld-000352,ad-frm-000150,Gravel Pit Field,active,false,98.0,8ffa6986-e3bf-4044-828c-3da5f87a26f4,2026-04-23T18:21:12Z,2026-06-09T08:24:57Z
 ad-fld-000174,ad-frm-000072,Highway Field,active,false,4.3,1d3cae76-eea0-49dd-baa7-4774f094748b,2025-03-04T12:04:28Z,2025-05-23T13:30:59Z
 ad-fld-000544,ad-frm-000234,Fence Line 60,active,false,71.1,b2be96f7-2ee1-4b45-9359-f01c3748cbd3,2026-04-23T00:06:59Z,
+ad-fld-001209,ad-frm-001209,Pivot 2,active,false,45.1,07e9107b-bafc-40dd-8deb-aab75cdc3e29,2025-03-03T23:51:00Z,
 ad-fld-000282,ad-frm-000117,Corner Piece,active,false,12.2,de0d5d15-d8c8-4622-9a93-f3bbfbdba699,2025-11-12T18:28:33Z,2026-03-27T00:52:10Z
 ad-fld-000295,ad-frm-000125,Slough Field,active,false,73.9,d34651c5-8e44-4bf9-af5b-9ca6eb7e0f10,2026-04-22T09:37:48Z,2026-06-20T08:13:50Z
 ad-fld-000145,ad-frm-000059,Windmill Field,active,false,33.7,f2b1565f-b89d-4f54-83c6-dcf844a566b4,2025-06-11T16:31:36Z,2025-10-11T17:26:15Z
@@ -989,6 +993,7 @@ ad-fld-000249,ad-frm-000104,North 80,active,false,119.2,dc4001cb-e1dc-48d7-abe8-
 ad-fld-000761,ad-frm-000318,Gravel Pit Field,active,false,40.7,1743cd93-7120-47d6-9220-236f2a4d47fe,2025-01-16T15:19:18Z,2025-06-30T12:50:45Z
 ad-fld-001023,ad-frm-000404,Long Strip,active,false,77.9,fb13f51d-43f4-454a-8b4e-2154f9493348,2025-03-06T13:25:42Z,2025-08-14T10:50:28Z
 ad-fld-000911,ad-frm-000368,Schoolhouse Field,active,false,33.0,3fa56575-95c8-4489-b506-48d15ba79178,2026-04-21T11:51:02Z,
+ad-fld-001205,ad-frm-001207,Old Orchard,active,false,54.1,2f25be79-275c-4618-8f41-7381c0916a2b,2025-01-14T17:51:00Z,
 ad-fld-000362,ad-frm-000151,East Quarter,active,false,105.5,9edd14d3-057f-4604-8ca3-9d528de4110f,2026-03-04T14:32:49Z,2026-03-17T07:11:31Z
 ad-fld-000333,ad-frm-000141,Fence Line 60,active,false,91.2,334e0a99-37d0-439f-bf82-98dffaf7767c,2026-03-03T07:17:44Z,
 ad-fld-001141,ad-frm-000461,Back 40,archived,false,75.4,65579a61-f83b-49db-bf1a-7d08198e8224,2025-09-23T17:13:55Z,
@@ -1011,7 +1016,7 @@ ad-fld-001091,ad-frm-000433,River Bottom,inactive,true,19.3,96ba1cba-80f5-417e-9
 ad-fld-001171,ad-frm-000474,Triangle,inactive,false,32.3,f20715fe-2abd-4798-88bf-06b926ede01a,2025-09-25T11:04:32Z,2026-02-21T06:19:45Z
 ad-fld-000175,ad-frm-000072,Corner Piece,active,false,,7a48cf42-b4f4-4b6e-84db-b5bf20118301,2024-11-14T12:06:37Z,2025-03-17T06:04:02Z
 ad-fld-000387,ad-frm-000163,Rock Pile,active,false,105.3,b0c60bab-25f9-4e3f-8049-8e581096d733,2026-04-22T13:14:33Z,
-ad-fld-001113,ad-frm-000445,North 80,inactive,false,10.9,e03ca23a-60e9-4fe7-b6ef-e93409a3781a,2025-08-05T08:32:53Z,
+ad-fld-001113,ad-frm-000445,North 80,active,false,10.9,e03ca23a-60e9-4fe7-b6ef-e93409a3781a,2025-08-05T08:32:53Z,2026-03-16T12:58:21Z
 ad-fld-001058,ad-frm-000415,Pivot 1,active,true,,636bc911-f01e-471a-901d-6733552107a1,2026-04-24T12:29:27Z,2026-06-27T15:26:30Z
 ad-fld-000605,ad-frm-000261,Dryland North,active,false,62.8,9ec2d484-921b-4a5c-bce0-5c40e6e7b445,2026-04-22T19:05:33Z,2026-06-21T07:17:39Z
 ad-fld-001106,ad-frm-000440,Triangle,inactive,false,91.7,d4d56c76-e530-4324-96e5-c65444688b27,2025-04-24T10:40:42Z,2026-02-13T11:29:42Z
@@ -1143,9 +1148,10 @@ ad-fld-000255,ad-frm-000106,Slough Field,active,false,69.2,4e2a7124-8458-431f-b7
 ad-fld-000831,ad-frm-000342,Windmill Field,active,false,5.9,,2025-08-07T06:44:14Z,2026-02-19T12:00:17Z
 ad-fld-000543,ad-frm-000233,Old Orchard,active,false,35.3,b8941307-a278-4f5f-b055-a3624ec2386a,2026-04-23T11:43:01Z,
 ad-fld-000940,ad-frm-000377,Back 40,active,false,126.7,c5e8dc52-943c-4419-86cf-a745f983a118,2025-06-11T16:24:11Z,
-ad-fld-001128,ad-frm-000452,North 80,inactive,false,48.6,aa6176d7-3d7a-44fe-9241-ae38dcb6ecd3,2025-01-14T17:59:03Z,2025-12-21T03:37:41Z
+ad-fld-001128,ad-frm-000452,North 80,active,false,48.6,aa6176d7-3d7a-44fe-9241-ae38dcb6ecd3,2025-01-14T17:59:03Z,2025-12-06T08:28:55Z
 ad-fld-001164,ad-frm-000472,Slough Field,inactive,false,64.7,adb8cd04-cb65-41cc-a544-f62335315a0c,2025-01-15T07:02:03Z,
 ad-fld-000578,ad-frm-000248,Slough Field,active,false,52.1,fd35c554-f685-440c-a17e-34d09e638cd9,2026-04-22T18:10:18Z,2026-04-28T11:55:32Z
+ad-fld-001210,ad-frm-001209,Dryland North,active,false,101.5,578c492b-6cf4-4e42-9760-ba4aa8771233,2025-03-03T17:51:00Z,
 ad-fld-000285,ad-frm-000120,Corner Piece,active,false,24.4,3f80f418-2eeb-4968-92c1-3c47d0778dc6,2026-03-05T10:43:49Z,
 ad-fld-000613,ad-frm-000265,Old Orchard,active,false,,ac6dfeb0-2997-4949-9a98-ee95766bec35,2025-04-23T23:39:05Z,2026-03-30T02:44:41Z
 ad-fld-001030,ad-frm-000405,South 40,active,false,120.7,32c83655-e717-4119-8a35-6457cf525655,2025-08-06T19:17:47Z,

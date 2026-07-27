@@ -6,6 +6,7 @@ grower_id,grower_nm,stat_cd,country,state_prov,entrpr_guid,crt_dt,upd_dt
 20142,Dietrich Ag Enterprises,A,United States,Iowa,f516710f-f608-4ab7-9c24-e1d714884619,2019-11-15,
 20232,Boudreau Farms,A,United States,Wisconsin,710cc68e-7dd9-4024-a881-86af9399c7fd,2019-03-19,2021-11-29
 20091,Tollefson Family Farms Inc,A,Canada,Saskatchewan,524323a1-6ae9-48b0-ad67-76fd2c54e72e,2011-11-24,2018-09-11
+20483,Iverson Land & Cattle,I,Canada,Alberta,7e7ceea3-aeef-4d09-b74b-297977a5c8d0,2017-02-03,2025-11-17
 20344,Jablonski N. & Sons,I,United States,Ohio,2ec8a4f2-0d30-4f9c-9cd2-c4feccd9fd62,2019-07-24,2022-06-03
 20157,Bergstrom Grain Co,A,United States,Kansas,c4c8b3bd-12fe-4c5d-b5f0-04951d23b11b,2021-07-07,2022-11-07
 20110,Rasmussen Land & Cattle,A,Canada,Manitoba,b0f28c26-5019-4171-8763-a9eccb19149b,2019-09-09,2023-09-25
@@ -87,6 +88,7 @@ grower_id,grower_nm,stat_cd,country,state_prov,entrpr_guid,crt_dt,upd_dt
 20183,Pemberton Ag Enterprises,A,United States,Wisconsin,8be0eb42-e6c0-4343-9b5b-e86c268db1a2,2019-07-01,2025-03-19
 20283,Boudreau Family Farms Inc,A,Australia,Victoria,83a930fe-de43-42dc-95b1-3e0beca40670,2010-05-11,2017-09-05
 20372,Vandermeer N. Farms,I,Canada,Ontario,264bccfd-e4bd-4c88-8794-6c4f35b63782,2012-02-08,2015-01-08
+20482,Crenshaw Agri Partners,I,United States,Wisconsin,e4ef25bd-5361-4876-9185-81f998dc1a4a,2018-09-19,2025-11-17
 20173,Duval Family Farms Inc,A,Canada,Manitoba,176b24d7-0c27-456e-98ae-02f05339be1e,2022-06-16,
 20380,Steiner A. Farms LLC,A,Canada,Ontario,bf16adc7-cf90-4442-8fb9-afcd24e680f0,2014-04-01,2016-07-27
 20384,Yoder F. Land & Cattle,A,United States,South Dakota,5f4c65d1-4715-462a-8d83-11df549edd7c,2019-04-04,2024-04-29

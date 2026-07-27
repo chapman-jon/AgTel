@@ -93,6 +93,7 @@ farm_id,grower_id,farm_nm,stat_cd,country,state_prov,entrpr_guid,crt_dt,upd_dt
 50495,20291,Dietrich Lower Ranch,A,Australia,Western Australia,a4ec514f-bb92-4e5c-b981-4e9df2dad21b,2010-06-03,
 50125,20068,Yoder Home Ranch,A,Canada,Saskatchewan,dccfa886-b8a0-43d7-9436-35093c7880f0,2010-09-06,2023-03-01
 50552,20335,Jablonski Hilltop Ground,P,United States,Kansas,965d0cbb-d519-47e1-aaf4-601472540e99,2015-01-26,2019-09-25
+55211,20482,Crenshaw Valley Section,A,United States,Wisconsin,fce44885-7b42-4f56-a062-8448cada90d8,2020-03-21,2022-11-18
 50010,20007,Tollefson Hilltop Section,A,Canada,Alberta,af99a9e3-82f0-42d1-8542-f8313c9a663b,2023-04-02,2026-01-24
 50336,20179,Rasmussen Hilltop Quarter,A,Canada,Manitoba,4b9b83cb-c630-4f49-ab66-77e834e8ae0b,2022-08-31,2025-10-15
 50598,20381,Delacroix Creek Ground,A,United States,North Dakota,c4450280-4c63-476b-82f9-15b0faf26f83,2019-05-21,2021-11-29
@@ -115,7 +116,7 @@ farm_id,grower_id,farm_nm,stat_cd,country,state_prov,entrpr_guid,crt_dt,upd_dt
 50138,20075,Brenner Lake Ranch,A,Canada,Ontario,bc09c9ec-3443-457b-87d5-e8b82667dc20,2013-02-21,
 50610,20393,Boudreau Upper Section,A,United States,Missouri,b8b75d4f-37e9-45a7-9e81-33d1941071c3,2018-08-21,2024-07-25
 50039,20024,Merriweather River Section,A,United States,Illinois,779ec36f-5b3c-4c05-aa20-29c0ec0de3c4,2019-03-27,2025-08-05
-50587,20370,Lockhart South Place,I,United States,Ohio,0bafde97-ef29-42a8-82cb-50a244ea996b,2012-07-02,2025-08-25
+50587,20370,Lockhart South Place,A,United States,Ohio,0bafde97-ef29-42a8-82cb-50a244ea996b,2012-07-02,2025-09-07
 50346,20183,Pemberton East Section,A,United States,Wisconsin,af5a657e-ec90-4914-89fd-2711d39db4e5,2013-12-04,
 50380,20204,Oberlin Hilltop Ranch,A,United States,Illinois,5ad07c3e-0f78-4911-942f-9d44b3219c22,2022-04-21,2023-10-19
 50575,20358,Yoder Lower Homestead,I,United States,North Dakota,0b6a2be4-8280-4631-81e8-f75a2ca4419f,2021-10-30,2025-03-21
@@ -222,6 +223,7 @@ farm_id,grower_id,farm_nm,stat_cd,country,state_prov,entrpr_guid,crt_dt,upd_dt
 50604,20387,Drummond North Farm,A,United States,South Dakota,ecb5cb97-5a4e-4591-bd08-c20bbd144747,2020-02-17,2026-04-04
 50194,20102,McAllister North Section,A,United States,Missouri,70dd21b1-5410-4ab5-9862-4da1d6f28d2d,2014-01-01,2015-07-11
 50122,20066,Steiner West Farm,A,United States,Kansas,620aa956-d416-45fd-833d-9b1699ca5a94,2019-05-22,2024-09-24
+55212,20483,Iverson New Ground,A,Canada,Alberta,45a62a83-2059-42db-acc5-1cd56334b5b3,2018-09-08,2024-04-17
 50334,20178,Hartley Lower Place,A,Canada,Alberta,f61b8977-6930-40ab-89ad-4be8c289cee9,2019-12-24,2021-11-10
 50185,20098,Eastman Prairie Ground,A,United States,Indiana,f82f3a40-183a-4703-8087-c4d291a8dea7,2013-11-01,2025-09-23
 50324,20172,Whitaker Upper Place,A,Canada,Saskatchewan,9618d435-78f8-4e0c-8224-cd065c029548,2018-05-21,
@@ -502,10 +504,10 @@ farm_id,grower_id,farm_nm,stat_cd,country,state_prov,entrpr_guid,crt_dt,upd_dt
 50595,20378,Winters Home Farm,A,Canada,Ontario,b3ef967f-23eb-419a-a6d1-b0954a01630d,2013-04-18,2017-05-24
 50505,20297,Xiong Valley Section,A,Australia,Queensland,44e5a005-2f02-474d-a8f9-ed04e94922c1,2011-05-14,2024-05-03
 50456,20262,Bergstrom South Ground,A,United States,Nebraska,e7907e54-7f5d-4eed-a8a8-e9418a14eef1,2016-07-19,
-50588,20371,Falkner Old Ranch,I,United States,North Dakota,3fa3e056-7a60-4888-8477-49245dea54f7,2019-04-19,
+50588,20371,Falkner Old Ranch,A,United States,North Dakota,3fa3e056-7a60-4888-8477-49245dea54f7,2019-04-19,2026-03-23
 50272,20145,Callahan Creek Farm,A,United States,Iowa,2448a314-6b40-40d7-a607-c1142a290a3b,2018-01-10,2026-04-03
 50368,20196,McAllister Home Homestead,A,United States,Ohio,1c37d269-fd72-4dc4-8ff2-d274b72dad7b,2022-10-18,2023-05-28
-50561,20344,Jablonski Lower Section,I,United States,Ohio,0e28032c-137f-4612-b7dc-7029a8246040,2013-02-22,2014-11-24
+50561,20344,Jablonski Lower Section,A,United States,Ohio,0e28032c-137f-4612-b7dc-7029a8246040,2013-02-22,2025-06-21
 50046,20028,Delacroix Upper Ranch,A,United States,Illinois,3f2b796e-a6d0-4759-87b3-e4a0895af50d,2021-06-08,2021-08-11
 55210,20481,Hartley North Farm,A,United States,Iowa,77b3c6d8-8e10-49a4-9f2b-3f4a1c9d20e6,2014-03-19,2024-08-14
 50221,20118,Ivanov South Ground,A,United States,South Dakota,3222e3a2-f824-45fb-a049-4bddfee14d0e,2012-11-13,2023-08-29

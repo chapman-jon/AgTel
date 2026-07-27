@@ -24,7 +24,7 @@ ad-fmr-000032,Winters Family Farms Inc,active,false,USA,7ccd317b-dff5-486d-89c2-
 ad-fmr-000094,Quandt Family Farms Inc,active,false,USA,9ae87ac5-49c1-405f-8f06-9d2c6c507bed,2026-04-20T14:19:29Z,
 ad-fmr-000257,Kerrigan D. Grain Co,inactive,true,CAN,5c8f0777-3c0d-4a38-90ec-8dc65205d3eb,2025-11-11T18:46:53Z,2026-03-26T11:06:09Z
 ad-fmr-000291,Underhill D. Acres Ltd,archived,false,USA,7d0d0296-ee4e-44de-a4b2-9560352fc597,2024-11-13T15:06:51Z,2024-12-19T14:23:33Z
-ad-fmr-000279,Ivanov H. Grain Co,inactive,false,USA,a0e577c6-239e-44be-a72f-3dc7c0d1aa5b,2025-01-13T17:49:51Z,2026-01-23T17:52:59Z
+ad-fmr-000279,Ivanov H. Grain Co,active,false,USA,a0e577c6-239e-44be-a72f-3dc7c0d1aa5b,2025-01-13T17:49:51Z,2025-06-07T08:42:16Z
 ad-fmr-000161,Prescott Farms,active,false,USA,510eb8b1-390c-4d08-affd-b65efa954191,2024-10-05T09:40:10Z,
 ad-fmr-000264,Ivanov S. Farms LLC,archived,false,USA,dcfe64a8-4fef-4ac2-9ab4-187bd29758ef,2025-04-21T16:38:19Z,2025-07-19T05:18:43Z
 ad-fmr-000101,Vandermeer Family Farms Inc,active,false,USA,349c0c04-6e6d-4ca4-8610-f0cd23bb7cf7,2025-11-11T08:03:58Z,2025-12-30T12:27:17Z
@@ -57,7 +57,7 @@ ad-fmr-000071,Eastman Agri Partners,active,false,CAN,42abb0f4-ca6c-451c-9e3f-41f
 ad-fmr-000187,Ziegler & Sons,active,false,USA,fba4ecb6-28a7-479f-b46b-c2ed61f7340f,2025-01-16T19:05:30Z,2026-02-17T21:04:45Z
 ad-fmr-000233,Prescott Farming Co,active,false,USA,35257305-c071-4dc4-b0a6-57f856e6c97b,2024-11-11T09:23:28Z,2025-02-25T01:53:50Z
 ad-fmr-000244,Merriweather S. Acres Ltd,active,true,USA,5826295b-8ff0-4622-8834-e575859ed39c,2025-08-06T15:13:30Z,2026-02-24T12:11:52Z
-ad-fmr-000285,Callahan H. Grain Co,inactive,false,CAN,1c240eac-d1ae-425a-a054-e27f3198b490,2025-11-11T10:59:32Z,2025-12-13T00:45:11Z
+ad-fmr-000285,Callahan H. Grain Co,active,false,CAN,1c240eac-d1ae-425a-a054-e27f3198b490,2025-11-11T10:59:32Z,2025-12-06T07:04:10Z
 ad-fmr-000063,Hummel Land & Cattle,active,false,CAN,591338a1-71a1-47de-bd8c-08fa8d8e308a,2026-04-22T14:07:10Z,2026-05-20T03:53:59Z
 ad-fmr-000205,Steiner & Sons,active,false,CAN,01320d68-a241-4de6-ae09-0941f6897a3c,2024-10-08T09:42:00Z,2026-05-08T01:09:18Z
 ad-fmr-000048,Rasmussen Grain Co,active,false,CAN,fe0ad40d-814c-4b3f-b9c6-6026c27ad3fd,2025-06-12T16:50:11Z,
@@ -73,7 +73,7 @@ ad-fmr-000043,Iverson Farming Co,active,false,USA,e33517c5-1b3f-493a-be78-0b5f1a
 ad-fmr-000182,Hartley Farms LLC,active,false,CAN,be1282c8-1b69-44f6-96a4-1823dcf2fd0c,2025-06-09T08:03:09Z,2026-06-14T21:42:25Z
 ad-fmr-000309,Vandermeer N. Ag Enterprises,active,false,USA,96984013-2fe5-4d5c-988b-9355449a490a,2026-03-04T16:58:38Z,
 ad-fmr-000188,Okafor Agri Partners,active,false,USA,c147af93-1f08-4409-a28f-d8a42137c2d3,2024-10-06T10:59:44Z,2025-12-09T04:02:54Z
-ad-fmr-000292,Eastman F. Grain Co,inactive,false,CAN,7dacdef3-0160-4a1e-a1ae-7e537f977e7d,2024-11-13T11:21:18Z,
+ad-fmr-000292,Eastman F. Grain Co,active,false,CAN,7dacdef3-0160-4a1e-a1ae-7e537f977e7d,2024-11-13T11:21:18Z,2025-08-03T04:47:14Z
 ad-fmr-000224,Callahan Grain Co,active,false,USA,70ccf9df-b757-45af-93a1-8de8aeab756b,2025-06-11T11:10:49Z,2026-04-17T01:05:57Z
 ad-fmr-000175,Boudreau Acres Ltd,active,false,USA,930ab477-b245-4feb-b700-dfeddcf3b892,2025-09-22T14:29:20Z,
 ad-fmr-000040,Yancey Agri Partners,active,false,USA,a7adb883-f29d-4dd3-8c05-1cb0abe337aa,2025-08-07T11:51:49Z,
@@ -96,7 +96,7 @@ ad-fmr-000099,Baxter Grain Co,active,false,CAN,f5aa2132-defc-4d69-ae3e-2f0a5db81
 ad-fmr-000229,Callahan Agri Partners,active,false,USA,9441c623-b23e-4d33-957d-6c9275ed99a8,2025-01-16T07:23:25Z,2025-12-24T08:47:44Z
 ad-fmr-000319,Dietrich S. Family Farms Inc,active,false,USA,71ef3852-0d77-410f-9ec5-eac4719c18e7,2025-04-22T07:24:32Z,
 ad-fmr-000001,Iverson Agri Partners,active,false,USA,938af5ba-8697-4eec-a26f-7f5376f39fed,2026-04-22T18:31:42Z,2026-05-28T11:37:35Z
-ad-fmr-000282,Lindqvist A. Family Farms Inc,inactive,false,USA,ddb2e485-09a1-4872-9b21-246602d4df2d,2025-01-15T11:35:13Z,
+ad-fmr-000282,Lindqvist A. Family Farms Inc,active,false,USA,ddb2e485-09a1-4872-9b21-246602d4df2d,2025-01-15T11:35:13Z,2025-10-25T08:11:34Z
 ad-fmr-000195,Boudreau Grain Co,active,false,USA,c692983b-42aa-4de8-a44e-ea5d8b39beb2,2025-08-07T11:33:04Z,2026-06-23T01:04:08Z
 ad-fmr-000196,Ivanov Farming Co,active,false,CAN,73bf2885-49f6-4c59-bafd-bbe279c29e2c,2026-01-15T14:11:13Z,2026-01-24T01:04:17Z
 ad-fmr-000133,Pemberton Farming Co,active,false,USA,3d35748a-572e-4749-a6e9-007fca225b90,2026-03-04T18:54:22Z,
@@ -214,6 +214,7 @@ ad-fmr-000238,Albrecht B. Agri Partners,active,true,USA,6d73146c-07bf-49dd-9b89-
 ad-fmr-000145,Callahan Farms,active,false,USA,fe04407a-6408-4838-ac6d-4f306d00a8fb,2025-08-06T12:04:27Z,2025-09-01T23:23:00Z
 ad-fmr-000007,Tollefson Farms LLC,active,false,CAN,205c90e3-d1fb-41be-b905-47992a5857a7,2026-01-13T07:50:29Z,2026-02-02T00:07:57Z
 ad-fmr-000059,Duval Grain Co,active,false,USA,2eefded9-c39e-4207-9c32-9f32920aade4,2024-10-07T16:21:10Z,
+ad-fmr-000415,Iverson & Sons,inactive,false,USA,43a9008f-7af0-4ced-b494-3d63ab5d6a3f,2025-03-03T08:51:00Z,2025-11-21T03:04:57Z
 ad-fmr-000246,Brenner P. Farms LLC,active,true,CAN,d3a5e5a5-7db6-4910-9ae9-d93ce35efe35,2025-09-25T12:27:07Z,
 ad-fmr-000311,Drummond K. Land & Cattle,active,false,USA,e3614b19-6eed-4257-82e2-0c5ebdcc6857,2025-09-25T19:00:56Z,2026-05-09T05:55:10Z
 ad-fmr-000054,Eastman & Sons,active,false,USA,411745e0-c244-4970-874b-2fad3ac7a011,2026-04-22T15:00:12Z,2026-06-26T00:46:27Z
@@ -278,6 +279,7 @@ ad-fmr-000080,Delacroix Acres Ltd,active,false,USA,4f44fa5c-70f1-4221-bdd2-50bf0
 ad-fmr-000104,Okafor Farms LLC,active,false,USA,8b108641-34ee-40cb-b44d-1e050abe2606,2025-11-11T08:36:01Z,2026-02-21T15:56:34Z
 ad-fmr-000107,Callahan Acres Ltd,active,false,CAN,edcfc535-0f32-47e6-89ca-05769aa5d2e1,2024-10-06T10:31:13Z,
 ad-fmr-000047,Quandt Grain Co,active,false,CAN,2a6c187a-6912-4d82-ae7e-3162e5620534,2025-04-22T12:50:21Z,2025-10-25T23:54:15Z
+ad-fmr-000413,Vandermeer Farms,inactive,false,USA,d1829889-5bfa-4d37-a2b8-e4b8e6c3540e,2025-01-13T13:51:00Z,2026-03-01T10:10:07Z
 ad-fmr-000036,Bergstrom Farms LLC,active,false,CAN,aab05f8e-6f64-4e9e-be47-ac553f40e47d,2025-01-16T18:46:47Z,
 ad-fmr-000057,Reyes Agri Partners,active,false,USA,dae73d00-8776-464d-86ef-5b23f05ff867,2025-09-24T19:05:30Z,
 ad-fmr-000015,Bergstrom Land & Cattle,active,false,USA,9ce63bd4-65d9-49cf-9550-c097e24aa2a2,2025-03-03T12:31:11Z,2025-08-10T14:04:20Z
@@ -309,6 +311,7 @@ ad-fmr-000184,Reyes Family Farms Inc,active,false,USA,4bc5fb35-6f35-40ee-bd85-6d
 ad-fmr-000106,Girard Ag Enterprises,active,false,CAN,6b0ef6c4-85c2-4b33-8ad1-9c555756f388,2025-08-06T10:03:31Z,
 ad-fmr-000212,Steiner Land & Cattle,active,false,USA,e6c9ad49-86ea-42cd-943d-9d220c53b43b,2025-03-04T17:51:48Z,2026-06-01T10:35:07Z
 ad-fmr-000012,Yancey Farms LLC,active,false,USA,a7574bc4-ef15-459d-a82a-aaeeedfa2257,2025-01-13T20:13:13Z,
+ad-fmr-000414,Lockhart Ag Enterprises,inactive,false,USA,98fe07b8-cf30-4408-898d-e51fcb4f1714,2025-08-05T13:17:00Z,2026-03-03T06:36:52Z
 ad-fmr-000049,Marsh Grain Co,active,false,CAN,4610435a-5eba-48f2-980a-537de07f808c,2024-10-06T17:00:33Z,2024-11-24T17:18:24Z
 ad-fmr-000171,Steiner Ag Enterprises,active,false,USA,9362bf6e-b46b-4cf9-9061-b1bcdbaa0925,2025-03-06T08:25:36Z,2025-05-14T19:53:32Z
 ad-fmr-000210,Dietrich Farms,active,false,USA,f07477d8-1550-449f-81e6-baf7e28758e8,2025-04-22T08:15:05Z,

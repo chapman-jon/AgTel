@@ -1,44 +1,47 @@
 station_id,station_nm,state_prov,country,lat,lon,install_dt,vendor_feed
-WX-5005,Iowa East,Iowa,United States,40.6884,-90.7101,2020-12-09,AgriMesh
-WX-5011,Iowa North,Iowa,United States,41.3978,-95.0395,2025-06-15,AgriMesh
-WX-5021,Iowa West,Iowa,United States,42.4035,-93.2736,2024-11-10,ClimaPoint
-WX-5030,Illinois West,Illinois,United States,39.0912,-90.9287,2023-11-07,AgriMesh
-WX-5034,Illinois South,Illinois,United States,40.7774,-88.717,2019-12-28,AgriMesh
-WX-5040,Illinois Central,Illinois,United States,41.1125,-87.723,2022-09-10,ClimaPoint
-WX-5045,Nebraska West,Nebraska,United States,41.5685,-96.464,2024-06-23,AgriMesh
-WX-5052,Nebraska West,Nebraska,United States,40.622,-100.8562,2021-12-19,ClimaPoint
-WX-5055,Minnesota South,Minnesota,United States,45.1369,-93.1934,2024-01-23,AgriMesh
-WX-5060,Minnesota East,Minnesota,United States,46.7169,-93.8627,2021-05-16,AgriMesh
-WX-5064,Indiana West,Indiana,United States,40.9724,-85.2616,2025-08-14,ClimaPoint
-WX-5073,Indiana North,Indiana,United States,41.4306,-86.2899,2024-06-17,ClimaPoint
-WX-5080,Indiana Central,Indiana,United States,40.117,-87.9734,2022-10-17,AgriMesh
-WX-5091,Kansas North,Kansas,United States,39.1316,-100.8397,2022-04-30,AgriMesh
-WX-5098,Kansas South,Kansas,United States,37.291,-99.5738,2020-09-26,ClimaPoint
-WX-5103,Ohio Central,Ohio,United States,40.7511,-83.4155,2023-10-08,AgriMesh
-WX-5107,Ohio West,Ohio,United States,40.7584,-83.0442,2019-08-28,AgriMesh
-WX-5111,Ohio East,Ohio,United States,38.5793,-80.9857,2019-01-11,AgriMesh
-WX-5114,Missouri East,Missouri,United States,37.9423,-92.321,2020-07-07,AgriMesh
-WX-5124,Missouri East,Missouri,United States,36.9927,-95.2193,2021-07-21,AgriMesh
-WX-5128,Missouri East,Missouri,United States,36.423,-91.8442,2025-10-18,AgriMesh
-WX-5137,Missouri West,Missouri,United States,36.3689,-91.5806,2022-10-06,AgriMesh
-WX-5143,South Dakota North,South Dakota,United States,42.9165,-97.5373,2024-11-07,AgriMesh
-WX-5148,South Dakota South,South Dakota,United States,44.6721,-98.0702,2025-08-19,AgriMesh
-WX-5153,North Dakota East,North Dakota,United States,47.8667,-98.0379,2022-05-23,AgriMesh
-WX-5161,North Dakota South,North Dakota,United States,46.4641,-98.5195,2025-08-04,ClimaPoint
-WX-5167,North Dakota South,North Dakota,United States,46.5714,-101.2333,2023-03-17,AgriMesh
-WX-5170,Wisconsin South,Wisconsin,United States,44.416,-87.725,2024-01-12,AgriMesh
-WX-5176,Wisconsin Central,Wisconsin,United States,46.7697,-87.2309,2023-03-30,AgriMesh
-WX-5187,Wisconsin South,Wisconsin,United States,43.2319,-91.5716,2021-11-28,AgriMesh
-WX-5195,Saskatchewan Central,Saskatchewan,Canada,51.3172,-104.3523,2023-12-26,AgriMesh
-WX-5202,Saskatchewan Central,Saskatchewan,Canada,52.6352,-109.2306,2022-06-18,AgriMesh
-WX-5212,Alberta South,Alberta,Canada,53.4481,-112.0058,2025-01-03,ClimaPoint
-WX-5223,Alberta North,Alberta,Canada,52.7534,-115.7328,2022-11-24,AgriMesh
-WX-5233,Alberta North,Alberta,Canada,49.3047,-116.1973,2025-09-25,AgriMesh
-WX-5238,Alberta South,Alberta,Canada,51.5631,-112.5887,2024-12-16,AgriMesh
-WX-5246,Manitoba East,Manitoba,Canada,51.8887,-95.592,2022-03-04,ClimaPoint
-WX-5257,Manitoba South,Manitoba,Canada,53.1438,-96.5255,2024-05-03,AgriMesh
-WX-5266,Manitoba West,Manitoba,Canada,51.1054,-99.0896,2019-12-26,AgriMesh
-WX-5277,Ontario West,Ontario,Canada,44.6052,-89.0359,2020-06-08,AgriMesh
-WX-5285,Ontario North,Ontario,Canada,42.4932,-87.2651,2023-01-13,AgriMesh
-WX-5289,Ontario West,Ontario,Canada,44.4441,-83.4324,2022-10-12,AgriMesh
-WX-5294,Ontario East,Ontario,Canada,44.2249,-90.058,2022-10-28,AgriMesh
+WX-5003,Iowa South,Iowa,United States,42.0737,-92.9717,2019-10-20,ClimaPoint
+WX-5008,Iowa West,Iowa,United States,43.2682,-94.3785,2022-11-16,ClimaPoint
+WX-5011,Iowa Central,Iowa,United States,42.1197,-96.0824,2021-09-19,AgriMesh
+WX-5019,Iowa East,Iowa,United States,41.4751,-94.0795,2021-12-11,AgriMesh
+WX-5029,Illinois Central,Illinois,United States,41.6857,-90.6733,2021-04-25,ClimaPoint
+WX-5037,Illinois Central,Illinois,United States,41.9505,-91.0922,2024-08-29,ClimaPoint
+WX-5045,Illinois West,Illinois,United States,37.9646,-88.7795,2019-05-10,ClimaPoint
+WX-5050,Nebraska West,Nebraska,United States,40.6565,-101.4781,2021-08-07,AgriMesh
+WX-5056,Nebraska West,Nebraska,United States,42.0146,-95.9086,2023-09-23,ClimaPoint
+WX-5067,Nebraska North,Nebraska,United States,42.2017,-97.0888,2022-06-20,AgriMesh
+WX-5077,Nebraska West,Nebraska,United States,40.6308,-101.0112,2019-06-28,AgriMesh
+WX-5083,Minnesota South,Minnesota,United States,47.2461,-90.7001,2022-12-05,AgriMesh
+WX-5094,Minnesota North,Minnesota,United States,48.5969,-90.4617,2021-02-22,AgriMesh
+WX-5104,Minnesota Central,Minnesota,United States,48.0589,-90.4665,2020-03-05,AgriMesh
+WX-5113,Minnesota South,Minnesota,United States,46.1641,-93.2631,2021-12-19,ClimaPoint
+WX-5116,Indiana South,Indiana,United States,39.0019,-86.281,2024-01-23,AgriMesh
+WX-5121,Indiana East,Indiana,United States,40.1348,-86.5914,2021-05-16,AgriMesh
+WX-5125,Kansas West,Kansas,United States,39.3448,-95.7385,2025-08-14,ClimaPoint
+WX-5134,Kansas North,Kansas,United States,39.6944,-98.0523,2024-06-17,ClimaPoint
+WX-5141,Kansas Central,Kansas,United States,38.6919,-101.8402,2022-10-17,AgriMesh
+WX-5152,Ohio North,Ohio,United States,40.9991,-84.1815,2022-04-30,AgriMesh
+WX-5159,Ohio South,Ohio,United States,38.8411,-83.4431,2020-09-26,ClimaPoint
+WX-5164,Missouri Central,Missouri,United States,39.0132,-93.5573,2023-10-08,AgriMesh
+WX-5168,Missouri West,Missouri,United States,39.0226,-92.9828,2019-08-28,AgriMesh
+WX-5172,Missouri East,Missouri,United States,36.2026,-89.7969,2019-01-11,AgriMesh
+WX-5175,South Dakota East,South Dakota,United States,43.9817,-100.1012,2020-07-07,AgriMesh
+WX-5185,South Dakota East,South Dakota,United States,43.2696,-103.4453,2021-07-21,AgriMesh
+WX-5189,South Dakota East,South Dakota,United States,42.8422,-99.551,2025-10-18,AgriMesh
+WX-5198,South Dakota West,South Dakota,United States,42.8016,-99.2469,2022-10-06,AgriMesh
+WX-5204,North Dakota North,North Dakota,United States,46.1877,-97.6097,2024-11-07,AgriMesh
+WX-5209,North Dakota South,North Dakota,United States,47.7837,-98.1284,2025-08-19,AgriMesh
+WX-5214,Wisconsin East,Wisconsin,United States,45.4189,-88.1424,2022-05-23,AgriMesh
+WX-5222,Wisconsin South,Wisconsin,United States,43.4086,-88.5251,2025-08-04,ClimaPoint
+WX-5228,Wisconsin South,Wisconsin,United States,43.5623,-90.6813,2023-03-17,AgriMesh
+WX-5231,Saskatchewan South,Saskatchewan,Canada,51.1116,-102.55,2024-01-12,AgriMesh
+WX-5237,Saskatchewan Central,Saskatchewan,Canada,53.8485,-101.8345,2023-03-30,AgriMesh
+WX-5248,Saskatchewan South,Saskatchewan,Canada,49.7347,-108.1209,2021-11-28,AgriMesh
+WX-5256,Alberta Central,Alberta,Canada,51.7806,-113.3617,2023-12-26,AgriMesh
+WX-5263,Alberta Central,Alberta,Canada,53.3622,-119.111,2022-06-18,AgriMesh
+WX-5273,Manitoba South,Manitoba,Canada,52.3361,-96.4562,2025-01-03,ClimaPoint
+WX-5284,Manitoba North,Manitoba,Canada,51.815,-98.7902,2022-11-24,AgriMesh
+WX-5294,Manitoba North,Manitoba,Canada,49.2286,-99.0811,2025-09-25,AgriMesh
+WX-5299,Manitoba South,Manitoba,Canada,50.9223,-96.8212,2024-12-16,AgriMesh
+WX-5307,Ontario East,Ontario,Canada,46.5652,-75.7646,2022-03-04,ClimaPoint
+WX-5318,Ontario South,Ontario,Canada,48.4617,-78.776,2024-05-03,AgriMesh
+WX-5327,Ontario West,Ontario,Canada,45.3814,-87.047,2019-12-26,AgriMesh
