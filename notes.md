@@ -14,8 +14,7 @@
 
 # Bookmark
 
-updated bst_fields so that it is type 2
-need to update dbt models and regenerate context/result zips then test
+updated data so that neglecting any rule impacts final results
 
 # Frequent Prompts
 ## For Coding Agent Assistant
