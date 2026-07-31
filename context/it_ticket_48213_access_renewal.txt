@@ -1,0 +1,16 @@
+Subject: [IT-ANALYTICS] Ticket 48213 resolved: Access review - Analytics - Reporting Share (Read)
+From: AgTel Service Portal (no-reply)
+Date: 2026-06-26
+
+Your access review has been completed and your entitlement was renewed:
+
+    Entitlement: Analytics - Reporting Share (Read)
+    Approver(s): line manager; data platform team
+    Next review: 2027-06
+
+Reminder from the service desk: extracts on the reporting share land on each
+source system's own schedule and are full snapshots. If a file looks stale,
+check the schedule page before filing a ticket.
+
+Do not reply to this notification. For issues, open a new ticket in queue
+IT-ANALYTICS.

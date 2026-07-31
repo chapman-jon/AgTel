@@ -1,0 +1,7 @@
+date,category_code,description,amount,currency,receipt_attached
+2026-06-04,6310,Flight - working session at HQ (booked 24 days out),386.40,USD,y
+2026-06-04,6420,Airport parking - 2 days,24.00,USD,n
+2026-06-05,6310,Hotel - 1 night,151.25,USD,y
+2026-06-09,6210,Team lunch - platform sync (4 attendees),63.80,USD,y
+2026-06-16,6420,Parking - downtown,12.00,USD,n
+2026-06-24,6210,Coffee - onboarding chat w/ new analyst (2 attendees),11.35,USD,n
