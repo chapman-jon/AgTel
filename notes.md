@@ -9,8 +9,8 @@
 - [x] fix: removing status = 'active' filter from ad_active_farmers does not currently impact results
 - [x] test (trajectories) with letting agent use python/pip installable packages (don't specify dbt)
 - [x] less explicit about csv's (e.g. how many) so that agent has to figure that out
-- [ ] Make context less organized (more files outside of folders, maybe move some out of folders so not perfectly organized)
-
+- [x] Make context less organized (more files outside of folders, maybe move some out of folders so not perfectly organized)
+- [ ] Additional table for parity according to only field level, with "full parity" additional column
 
 # Bookmark
 
