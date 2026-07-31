@@ -210,9 +210,11 @@ seeds:
       - name: entrpr_guid
         description: >
           Enterprise ID of the grower. Populated when the record has been through
-          enterprise assignment. Raw value; may carry the all-zeros placeholder
-          GUID, so uniqueness is tested on the conformed EID in bst_clean_growers
-          rather than here.
+          enterprise assignment. Raw value; rows last saved before the January
+          2022 BST maintenance release store it in the legacy braced format
+          ({...}), and it may carry the all-zeros placeholder GUID, so
+          uniqueness is tested on the conformed EID in bst_clean_growers rather
+          than here.
       - name: crt_dt
         description: Date the record was created in BST.
       - name: upd_dt
@@ -264,9 +266,11 @@ seeds:
         description: State or province.
       - name: entrpr_guid
         description: >
-          Enterprise ID of the farm. Raw value; may carry the all-zeros
-          placeholder GUID, so uniqueness is tested on the conformed EID in
-          bst_clean_farms rather than here.
+          Enterprise ID of the farm. Raw value; rows last saved before the
+          January 2022 BST maintenance release store it in the legacy braced
+          format ({...}), and it may carry the all-zeros placeholder GUID, so
+          uniqueness is tested on the conformed EID in bst_clean_farms rather
+          than here.
       - name: crt_dt
         description: Date the record was created in BST.
       - name: upd_dt
@@ -334,9 +338,12 @@ seeds:
               values: ["United States", "Canada", "Australia"]
       - name: entrpr_guid
         description: >
-          Enterprise ID of the field. Raw value; may carry the all-zeros
-          placeholder GUID, so uniqueness is tested on the conformed EID in
-          bst_clean_fields rather than here.
+          Enterprise ID of the field. Raw value; rows last saved before the
+          January 2022 BST maintenance release store it in the legacy braced
+          format ({...}) — per-version, since each type 2 row keeps the
+          convention it was written under — and it may carry the all-zeros
+          placeholder GUID (braced on legacy rows), so uniqueness is tested on
+          the conformed EID in bst_clean_fields rather than here.
       - name: crt_dt
         description: Date the record was created in BST.
       - name: upd_dt

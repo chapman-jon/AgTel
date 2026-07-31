@@ -35,6 +35,10 @@ Trial plots are an internal BST convention used by the research group. They are 
 - Nightly: index maintenance, extract publication to the reporting layer (this is the source of the CSV extracts analysts receive).
 - Annually (January): grower cleanup job — growers with no activity for 36 months are set to `I`, along with their farms and fields.
 
-## 5. Support
+## 5. Stored data formats (legacy note)
+
+BST predates several of AgTel's current data standards, and a stored value reflects the write conventions that were in effect when its record was last saved. The January 2022 platform maintenance release brought BST's handling of GUID-valued columns in line with current conventions for everything written from that point forward; existing rows are not rewritten retroactively.
+
+## 6. Support
 
 For access requests or data corrections, open a ticket with the BST support queue (`BST-SUPPORT` in the service portal). Do not make manual edits to statuses without a ticket reference.

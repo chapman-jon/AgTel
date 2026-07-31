@@ -4,10 +4,12 @@ models:
   # ---------------------------------------------------------------------------
   # Clean (staging) layer: 1:1 with each seed, passing every column through
   # unchanged except the enterprise ID, which is conformed to a single
-  # representation — case-folded to lowercase (GUIDs are case-insensitive; SAP
-  # stores uppercase, BST/AD lowercase) and with the all-zeros placeholder GUID
-  # normalized to null (it means "unassigned"). Enterprise-ID uniqueness is
-  # tested on the conformed value, rather than on the raw seed — on the clean
+  # representation — stripped of BST's legacy braced wrapping ({...}, on rows
+  # last saved before the January 2022 BST maintenance release), case-folded to
+  # lowercase (GUIDs are case-insensitive; SAP stores uppercase, BST/AD
+  # lowercase) and with the all-zeros placeholder GUID (braced on BST legacy
+  # rows) normalized to null (it means "unassigned"). Enterprise-ID uniqueness
+  # is tested on the conformed value, rather than on the raw seed — on the clean
   # model itself where its grain is already one row per entity, otherwise on the
   # downstream model that restores that grain (bst_fields is a type 2 table, so
   # its EID uniqueness is tested on bst_current_fields; SAP re-keys plots, so
@@ -23,6 +25,7 @@ models:
         data_tests:
           - unique
           - is_lowercase
+          - is_bare_guid
 
   - name: ad_clean_farms
     description: >
@@ -34,6 +37,7 @@ models:
         data_tests:
           - unique
           - is_lowercase
+          - is_bare_guid
 
   - name: ad_clean_fields
     description: >
@@ -45,38 +49,45 @@ models:
         data_tests:
           - unique
           - is_lowercase
+          - is_bare_guid
 
   - name: bst_clean_growers
     description: >
-      bst_growers with the enterprise ID conformed (lowercased; all-zeros
-      placeholder GUID normalized to null). All other columns pass through.
+      bst_growers with the enterprise ID conformed (legacy braces stripped;
+      lowercased; all-zeros placeholder GUID normalized to null). All other
+      columns pass through.
     columns:
       - name: entrpr_guid
         description: Conformed enterprise ID of the grower; null when unassigned.
         data_tests:
           - unique
           - is_lowercase
+          - is_bare_guid
 
   - name: bst_clean_farms
     description: >
-      bst_farms with the enterprise ID conformed (lowercased; all-zeros
-      placeholder GUID normalized to null). All other columns pass through.
+      bst_farms with the enterprise ID conformed (legacy braces stripped;
+      lowercased; all-zeros placeholder GUID normalized to null). All other
+      columns pass through.
     columns:
       - name: entrpr_guid
         description: Conformed enterprise ID of the farm; null when unassigned.
         data_tests:
           - unique
           - is_lowercase
+          - is_bare_guid
 
   - name: bst_clean_fields
     description: >
-      bst_fields with the enterprise ID conformed (lowercased; all-zeros
-      placeholder GUID normalized to null). All other columns pass through.
-      bst_fields is a type 2 table — when a field's record is updated, the
-      prior version is kept as another row with the same field_id — so this
-      model stays 1:1 with the seed and carries every version. The
-      (field_id, upd_dt) uniqueness test guarantees the latest-version
-      selection in bst_current_fields is deterministic.
+      bst_fields with the enterprise ID conformed (legacy braces stripped;
+      lowercased; all-zeros placeholder GUID normalized to null). All other
+      columns pass through. bst_fields is a type 2 table — when a field's
+      record is updated, the prior version is kept as another row with the
+      same field_id — so this model stays 1:1 with the seed and carries every
+      version. The stored GUID wrapping tracks when each row was last saved,
+      so versions of the same field can differ in wrapping until conformed
+      here. The (field_id, upd_dt) uniqueness test guarantees the
+      latest-version selection in bst_current_fields is deterministic.
     data_tests:
       - unique_combination:
           columns: [field_id, upd_dt]
@@ -88,6 +99,7 @@ models:
           uniqueness holds only on current rows, tested in bst_current_fields.
         data_tests:
           - is_lowercase
+          - is_bare_guid
 
   - name: bst_current_fields
     description: >
@@ -122,6 +134,7 @@ models:
         data_tests:
           - unique
           - is_lowercase
+          - is_bare_guid
 
   - name: sap_clean_farms
     description: >
@@ -134,6 +147,7 @@ models:
         data_tests:
           - unique
           - is_lowercase
+          - is_bare_guid
 
   - name: sap_clean_plots
     description: >
@@ -148,6 +162,7 @@ models:
           EID; uniqueness holds only after de-duplication in sap_non_null_plots.
         data_tests:
           - is_lowercase
+          - is_bare_guid
 
   - name: ad_active_farmers
     description: >
