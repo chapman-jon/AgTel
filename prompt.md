@@ -19,4 +19,11 @@ Once you have built and run the pipeline and the parity table is in your local D
 Additionally, leadership wants a single metric that tracks "Overall Field Parity".
 For this, you can again use dbt + DuckDB (same dbt project), but it will just be a table with a single cell containing the measurement value. The value should be the count for the center of the Venn diagram, divided by the counts for all sections. Again export this table to a csv for me to review.
 
+Additionally, leadership wants to see how the full hierarchy aspect of our definition impacts parity.
+For this, create another venn diagram style table but determine parity only using the field EID's.
+Then, add an additional column that shows how many in each section also have the farm level in parity,
+and another column that shows how many have both the farm and farmer in parity. For the single source sections,
+you can leave the values for these columns NULL
+since the hierarchy comparison doesn't really apply in that case. Again export the table to a csv for review.
+
 This concludes the instructions, please complete the project as described.
